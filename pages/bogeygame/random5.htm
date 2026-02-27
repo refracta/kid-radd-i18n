@@ -1,0 +1,25 @@
+<html>
+<head><meta http-equiv="X-UA-Compatible" content="IE=9"><link rel="stylesheet" type="text/css" href="../../assets/bogeygame/radd.css"><script type="text/javascript" src="../../assets/jquery-1.7.1.min.js"></script><script type="text/javascript" src="../../assets/radd.js"></script><link rel="SHORTCUT ICON" href="../../assets/radd.ico"/><meta name="viewport" content="width = 550px">
+<SCRIPT LANGUAGE="JavaScript1.1">
+    
+ 
+    function go_to(url) {
+      window.location=url;
+    }
+
+   
+    function rand_link() {
+    var a;
+      a = 1+Math.round(Math.random()*3);   
+      if (a<2) go_to("shootme7.htm");
+      if (a==2) go_to("shootme9.htm");
+      if (a>2) go_to("random4.htm");
+    }
+
+    // End of code -->
+</script>
+</head>
+<body bgcolor="#000033">
+<META HTTP-EQUIV="refresh" CONTENT="1; URL=javascript:rand_link()">
+</body>
+</html>
