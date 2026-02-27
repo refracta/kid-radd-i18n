@@ -23,7 +23,42 @@ $(document).ready(function() {
 	if(shouldUsePrescaled())
 		showPrescaled();
 	overrideSwapOut();
+	loadI18nEnhancements();
 });
+
+function loadI18nEnhancements() {
+	if(!window.jQuery) {
+		return;
+	}
+	if(window.KidRaddI18n && typeof window.KidRaddI18n.init === 'function') {
+		window.KidRaddI18n.init();
+		return;
+	}
+	var root = resolveProjectRootFromRaddScript();
+	$.getScript(root + 'web/i18n.js')
+		.done(function() {
+			if(window.KidRaddI18n && typeof window.KidRaddI18n.init === 'function') {
+				window.KidRaddI18n.init();
+			}
+		})
+		.fail(function() {
+			// Optional enhancement; continue silently if i18n script is unavailable.
+		});
+}
+
+function resolveProjectRootFromRaddScript() {
+	var scripts = document.getElementsByTagName('script');
+	for(var i = scripts.length - 1; i >= 0; i--) {
+		var src = scripts[i].getAttribute('src') || '';
+		src = stripQuery(src);
+		var marker = 'assets/radd.js';
+		var idx = src.indexOf(marker);
+		if(idx >= 0) {
+			return src.substring(0, idx);
+		}
+	}
+	return '../';
+}
 
 // Should we use the prescaled images?
 // Only if we're Webkit, and we don't support image-rendering: pixelated.

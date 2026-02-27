@@ -1,0 +1,11 @@
+{
+  "default": "en",
+  "supported": [
+    "en",
+    "ko"
+  ],
+  "labels": {
+    "en": "English",
+    "ko": "한국어"
+  }
+}
