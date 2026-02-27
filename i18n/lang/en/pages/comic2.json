@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic2.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"PUPPET MASTER\"",
+    "panel.p1.narration.1": "Radd is a hero sprite, also known as a player character.",
+    "panel.p1.bubble.center": "Say what?",
+    "panel.p2.narration.1": "All of Radd's actions are controlled by the player, the person playing Kid Radd.",
+    "panel.p2.narration.1.html": "All of Radd's actions are controlled by the <i>player,</i> the person playing Kid Radd.",
+    "panel.p2.bubble.center": "Oh.",
+    "panel.p3.narration.1": "Radd cannot do anything on his own; his every move is commanded by the player.",
+    "panel.p3.bubble.center": "That sucks.",
+    "panel.p4.narration.1": "In short, he's the player's little - -",
+    "panel.p4.bubble.center": "Don't say it.",
+    "panel.p4.bubble.center.html": "<b>Don't</b> say it."
+  }
+}

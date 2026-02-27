@@ -7,5 +7,40 @@
   "labels": {
     "en": "English",
     "ko": "한국어"
+  },
+  "fontProfiles": {
+    "default": {
+      "title": "VAGRundschriftD, Arial, sans-serif"
+    },
+    "en": {
+      "title": "VAGRundschriftD, Arial, sans-serif"
+    },
+    "ko": {
+      "cssUrl": "i18n/fonts/tmoney.css",
+      "title": "TMoneyDungunbaram"
+    }
+  },
+  "uiTextProfiles": {
+    "default": {
+      "zoom": "zoom",
+      "list": "list",
+      "tipArrowNav": "Tip: Use the Left/Right arrow keys to navigate.",
+      "languageLabel": "Language",
+      "langButton": "lang"
+    },
+    "en": {
+      "zoom": "zoom",
+      "list": "list",
+      "tipArrowNav": "Tip: Use the Left/Right arrow keys to navigate.",
+      "languageLabel": "Language",
+      "langButton": "lang"
+    },
+    "ko": {
+      "zoom": "확대",
+      "list": "목록",
+      "tipArrowNav": "팁: 좌우 화살표 키로 이동할 수 있습니다.",
+      "languageLabel": "언어",
+      "langButton": "언어"
+    }
   }
 }

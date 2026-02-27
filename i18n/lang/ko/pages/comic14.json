@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic14.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"우리 둘만\"",
+    "panel.p1.narration.1": "플레이어의 실력이 늘수록 래드도 자신감을 얻습니다.",
+    "panel.p1.bubble.center": "이거나 먹어라!",
+    "panel.p2.narration.1": "래드는 이제 게임 자체를 즐기게 되었고, 플레이어를 존중하기까지 합니다.",
+    "panel.p3.narration.1": "이제 래드와 플레이어는 일종의 파트너 관계가 됩니다.",
+    "panel.p3.bubble.left": "어... 그래도 난 여자가 좋거든, 알겠지?",
+    "panel.p4.narration.1": "...물론 더 어른스러운 쪽은 플레이어지만요.",
+    "panel.p4.bubble.left": "진짜라니까! 우린 그냥 친구야!"
+  }
+}

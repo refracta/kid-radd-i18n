@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic15.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"전부 ...를 위해서였어\"",
+    "panel.p1.bubble.center": "좋았어! 설마 이게...?",
+    "panel.p2.bubble.center": "맞아! 최종 스테이지야!",
+    "panel.p3.narration.1": "축하합니다, 래드. 여정이 거의 끝나 갑니다.",
+    "panel.p3.bubble.center": "좋아! 이제 키스 세례 받을 시간도 얼마 안 남았어!",
+    "panel.p4.narration.1": "시나, 진심으로 위로의 말씀을 전합니다.",
+    "panel.p4.bubble.center": "참 웃기시네."
+  }
+}

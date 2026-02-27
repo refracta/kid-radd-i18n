@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic25.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"흐름을 타\"",
+    "panel.p1.narration.1": "그날보그와의 싸움에서 래드의 상황은 좋아 보이지 않습니다.",
+    "panel.p4.bubble.left": "와, 난 그렇게는 생각도 못 해봤네.",
+    "panel.p4.bubble.left.html": "와, 난 그렇게는 생각도 못 해봤네.",
+    "panel.p4.bubble.right": "생각 좀 해야지. 그러니까 고마워해.",
+    "panel.p5.bubble.left": "*콜록, 콜록.* 고마워...",
+    "panel.p5.bubble.left.html": "*콜록, 콜록.* 고마워...",
+    "panel.p5.bubble.right": "야, 별말을."
+  }
+}

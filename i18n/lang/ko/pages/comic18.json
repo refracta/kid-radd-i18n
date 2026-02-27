@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic18.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"안 된다고 하지 마\"",
+    "panel.p1.bubble.left": "그럼 넌 친형인 날 진짜 죽이겠다는 거야?",
+    "panel.p1.bubble.right": "아마. 하지만 먼저 널 어둠의 편으로 끌어들여야지.",
+    "panel.p2.bubble.left": "음, 그래...",
+    "panel.p2.bubble.right": "나와 함께해라. 그러면 우린 내 다국적 기업을 악으로 지배하게 된다! 음하하하!",
+    "panel.p3.bubble.left": "또 구리네.",
+    "panel.p3.bubble.right": "회계 처리를 하고 싶은 충동이 든다...",
+    "panel.p3.bubble.right.html": "<i>회계 처리를 하고 싶은 충동이 든다...</i>",
+    "panel.p4.bubble.left": "...회계 처리를 하고 싶은 충동이 들어.",
+    "panel.p4.bubble.left.html": "<i>...회계 처리를 하고 싶은 충동이 들어.</i>",
+    "panel.p4.bubble.right": "항상 잘 통하지."
+  }
+}

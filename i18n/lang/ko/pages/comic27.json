@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic27.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"넌 내게 폭탄을 떨어뜨렸어\"",
+    "panel.p2.narration.1": "(이쯤에서 엔딩 시퀀스가 시작됩니다...)",
+    "panel.p1.bubble.left": "해냈다! 내가 이겼어!",
+    "panel.p1.bubble.right": "이런 자식...",
+    "panel.p2.bubble.left": "이 날을 얼마나 꿈꿔 왔는데! 키스해 줘, 베이비!",
+    "panel.p2.bubble.right": "어... 우리 서로 잘 모르잖아...",
+    "panel.p3.bubble.left": "야, 난 널 위해 천 번은 죽었다고!",
+    "panel.p3.bubble.right": "네가 선택권이나 있었던 것처럼 말하네, 하아. 좋아, 5초만 기다려.",
+    "panel.p4.bubble.left": "5초? 5초 뒤에 뭐가 있는데?",
+    "panel.p4.bubble.right": "보면 알아...",
+    "panel.p5.bubble.left": "야!",
+    "panel.p5.bubble.left.html": "<b>야!</b>",
+    "panel.p5.bubble.right": "*휴!*"
+  }
+}

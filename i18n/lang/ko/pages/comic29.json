@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic29.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"지금까지 인생은 꽤 괜찮았어\"",
+    "panel.p1.narration.1": "이제 플레이어는 게임을 완전히 숙달했습니다.",
+    "panel.p2.narration.1": "래드는 이제 목숨을 거의 잃지 않으며, 언제나 게임을 승리로 끝냅니다.",
+    "panel.p3.narration.1": "말할 것도 없이, 래드는 인생 최고의 시간을 보내고 있습니다.",
+    "panel.p4.narration.1": "하지만 플레이어가 래드에게 질리게 되면, 래드에게는 무슨 일이 일어날까요?",
+    "panel.p4.bubble.center": "그럴 리가 있냐. 쯧.",
+    "panel.p2.bubble.left": "안녕, 또 네 엉덩이 걷어차러 왔어! 아 맞다, 넌 엉덩이가 없지.",
+    "panel.p2.bubble.left.html": "안녕, 또 네 엉덩이 걷어차러 왔어! 아 맞다, 넌 엉덩이가 없지.",
+    "panel.p2.bubble.right": "크윽...",
+    "panel.p3.bubble.left": "제발?",
+    "panel.p3.bubble.right": "싫어."
+  }
+}

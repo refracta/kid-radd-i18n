@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic13.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"아픈데도 좋아\"",
+    "panel.p1.bubble.left": "이런, 이 녀석 위험해 보이는데.",
+    "panel.p2.bubble.left": "말도 안 돼!!!",
+    "panel.p2.bubble.left.html": "<i>말도 안 돼!!!</i>",
+    "panel.p3.bubble.center": "뭐야? 날아오는 칼에 찔려도 안 죽는다고? 다른 공격이랑 똑같이 글자 하나만 깎이네.",
+    "panel.p4.bubble.center": "말도 안 되지만 사과든 도끼든 모든 공격이 똑같이 아프잖아!",
+    "panel.p5.narration.1": "그리고...",
+    "panel.p5.bubble.left": "덤벼 봐!"
+  }
+}

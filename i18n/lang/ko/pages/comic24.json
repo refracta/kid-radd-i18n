@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic24.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"도와줘\"",
+    "panel.p2.bubble.center": "시나, 여기서 좀 도와줄래?",
+    "panel.p3.bubble.center": "제발 좀? 제에에발?",
+    "panel.p4.bubble.center": "알아? 어떤 남자들은 널 이상적인 여자친구라고 생각할 거야.",
+    "panel.p1.bubble.left": "작별 인사해라, 파란 녀석.",
+    "panel.p1.bubble.right": "으악.",
+    "panel.p2.bubble.left": "도망쳐도 소용없어...",
+    "panel.p2.bubble.right": "내 일이 아니야. 난 철저한 NPC라고.",
+    "panel.p3.bubble.right": "꼬마야, 난 엄청 제한적인 스프라이트야. 아예 못 움직여. 그러니까 그냥 여기 있어야 해.",
+    "panel.p4.bubble.right": "그날, 저 녀석 대가를 치르게 해."
+  }
+}

@@ -35,7 +35,7 @@ function loadI18nEnhancements() {
 		return;
 	}
 	var root = resolveProjectRootFromRaddScript();
-	$.getScript(root + 'web/i18n.js')
+	$.getScript(root + 'i18n/web/i18n.js')
 		.done(function() {
 			if(window.KidRaddI18n && typeof window.KidRaddI18n.init === 'function') {
 				window.KidRaddI18n.init();

@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic22.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"변화, 변화\"",
+    "panel.p1.bubble.center": "임무 완료!",
+    "panel.p2.bubble.center": "그래서, \"여자친구\"님? 우리 둘이서 한번?...",
+    "panel.p3.bubble.center": "야, 멋진 놈은 원래 좀 나쁜 법이지.",
+    "panel.p4.bubble.center": "웩!",
+    "panel.p1.bubble.left": "아야...",
+    "panel.p1.bubble.right": "그렇지.",
+    "panel.p2.bubble.left": "내 콩팥이...",
+    "panel.p2.bubble.right": "음, 그 전투 너무 쉬웠던 거 아니야?",
+    "panel.p3.bubble.left": "변신... 해야 해...",
+    "panel.p3.bubble.right": "내 말은, 어쩌면 저게 보스의...",
+    "panel.p4.bubble.left": "자, 그날리 나가신다!",
+    "panel.p4.bubble.right": "...최종 형태."
+  }
+}

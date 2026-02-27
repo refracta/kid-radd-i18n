@@ -1,0 +1,61 @@
+<html>
+<head><base href="../../pages/"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=9"><link rel="stylesheet" type="text/css" href="../assets/radd.css"><script type="text/javascript" src="../assets/jquery-1.7.1.min.js"></script><script type="text/javascript" src="../assets/radd.js"></script><link rel="SHORTCUT ICON" href="../assets/radd.ico"/><meta name="viewport" content="width = 550px">
+<title>Kid Radd &copy;2004 by Dan Miller</title>
+<STYLE>
+<!--
+A:link {text-decoration: none; color: #0000ff}
+A:visited {text-decoration: none; color: #0000ff}
+A:hover {text-decoration: none; color: #ff9966}
+-->
+</STYLE>
+</head>
+<body bgcolor="#000000" text="#000033" link="#0000ff"
+vlink="#0000ff" alink="#00ffff" background="../assets/void.gif" bgproperties="fixed">
+<center><br><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="0066ff" height="3"><A HREF="http://www.monkeys.com/spammers-are-leeches/"></A></td><td bgcolor="0066ff" height="3"></td><td bgcolor="0066ff" height="3"></td><td bgcolor="0066ff" height="3"></td><td height="3"></td><td height="3"></td></tr>
+<tr><td bgcolor=0066ff width="3"></td><td height="12" bgcolor=ffffff>
+<font color=ffffff></font></td><td bgcolor=ffffff><font color=ffffff></font></td><td bgcolor=0066ff width="3"></td><td width="4">
+</td><td width="4"></td></tr><tr><td bgcolor=0066ff width="3"></td><td bgcolor=ffffff><font color=ffffff>.</td><td bgcolor=ffffff width="660">
+
+<center>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<font face="arial" size="4"><b>Kid Radd 호환성 수정 내역</b></font>
+<font face="arial" size="2">
+<br><br>
+Dan Miller가 2002년에 Kid Radd를 처음 만들었을 때의 인터넷은 지금보다 훨씬 단순하고 느렸습니다. 당시 대부분의 사용자는 전화 접속(dial-up)으로 웹에 접속했습니다.
+원본 웹코믹들이 대개 완성된 큰 이미지를 한 장씩 제공하던 것과 달리, Dan은 작은 GIF들을 HTML로 배치/확대해 패널을 브라우저에서 직접 조립하는 꽤 <a href='making1.htm'>영리한 방식</a>을 사용했습니다.
+<br><br>
+하지만 지난 10여 년 동안 기술이 바뀌면서 코믹도 점점 최신 브라우저와 어긋나기 시작했습니다. 어떤 문제는 미묘했고 어떤 문제는 아주 노골적이었습니다.
+최신 Webkit 계열 브라우저에서는 아예 아무것도 보이지 않는 경우도 생겼습니다.
+<br><br>
+그래서 관심 있는 분들을 위해, 이 코믹을 2013년 무렵 브라우저에서도 (대체로) 돌아가게 만들기 위해 적용한 수정 사항을 정리해 둡니다.
+<br><br><b>프레임 기반 뷰어</b> - 당시에는 괜찮은 선택이었겠지만, 최신 Webkit에서는 전혀 동작하지 않았습니다. 프레임 기반 뷰어를 제거하고 각 코믹 HTML 페이지를 직접 보여주도록 바꿨습니다. CSS와 Javascript로 패널을 표시/숨김 처리해 기존 동작을 흉내 냈습니다.
+<br><br><b>음악</b> - 다행히도(관점에 따라) 요즘은 MIDI가 거의 쓰이지 않습니다. 모든 MIDI를 OGG/MP3로 변환하고 HTML5 &lt;audio&gt; 태그로 삽입했습니다. 원작의 미니멀한 철학과는 조금 어긋나지만(OGG 용량이 MIDI의 50배 정도 됩니다), 어쩔 수 없었습니다.
+<br><br><b>이미지 스케일링</b> - 최신 브라우저는 이미지를 확대할 때 보간을 적용해서, 작은 스프라이트가 심하게 <a href='../assets/blurry.png'>흐려지는</a> 문제가 생깁니다. Firefox/IE는 CSS 한 줄로 해결됐고, Chrome(Webkit 계열)은 필요한 크기의 사전 스케일 이미지들을 만들어 스크립트로 원본과 교체하도록 처리했습니다. 2015년 이후 Chrome이 제대로 된 스케일링을 지원해서, 지금은 필요한 경우에만 사전 스케일 이미지를 사용합니다.
+<br><br><b>이미지 사전 로딩</b> - 일부 에피소드는 뒤 패널에서 쓸 이미지를 미리 로드합니다. 예전 방식의 Javascript 프리로드가 현대 브라우저에서는 잘 동작하지 않아, 스크립트 부분은 제거하고 오프스크린에 배치하는 방식으로 바꿨습니다.
+<br><br><b>키보드 내비게이션</b> - 이건 순수한 기능 개선입니다. 좌우 화살표 키로 코믹을 이동할 수 있습니다.
+<br><br><b>줌</b> - 이것도 개선 사항입니다. 이제는 대부분 1024x768 모니터를 쓰지 않으니까요. (물론 브라우저 자체 줌을 써도 됩니다.)
+<br><br><br>
+이 수정들 덕분에 이 코믹이 앞으로 몇 년은 더 읽을 수 있기를 바랍니다. :)
+<br><br>
+ - <a href='mailto:brad@bgreco.net'>Brad Greco</a>
+</font>
+</font>
+</td><td width="10"></td></tr></table>
+<font face="arial" size="2"><a href="index.htm" target="_top"><b>메인으로 돌아가기</b></a></font>
+<br><br>
+</center>
+
+
+</td><td bgcolor=0066ff width="3"></td><td bgcolor=000077><font color=000077>.</font><td bgcolor="000077">...</td></tr>
+<tr><td bgcolor="0066ff" height="3"></td><td bgcolor="0066ff" height="3"></td><td bgcolor="0066ff" height="3"></td><td bgcolor="0066ff" height="3"></td><td bgcolor="000077" height="3"></td><td bgcolor="000077" height="3"></td></tr>
+<tr><td width="2"></td><td>&nbsp;&nbsp;&nbsp;</td><td bgcolor=000077><A HREF="http://home.att.net/~miller.daniel.r/bogeygame/intro.htm"><font color=000077>.</font></a></td><td bgcolor=000077 width="2"></td>
+<td bgcolor=000077><font color=000077>.</font></td><td bgcolor="000077">.</td></tr>
+</table>
+
+
+</center>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic8.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main": "\"패배는 못 참아\"",
+    "panel.p1.narration.1": "물론 래드도 공격만 하는 게 아니라 피해도 입습니다.",
+    "panel.p1.bubble.center": "하아, 그 얘긴 꼭 해야 돼?",
+    "panel.p2.bubble.center": "내 체력 게이지는 이름으로 표시돼. 플레이어가 화면 위에서 볼 수 있지.",
+    "panel.p3.bubble.center": "피해를 입으면 이름 글자가 하나씩 사라지고, 전부 없어지면 목숨 하나를 잃어.",
+    "panel.p4.narration.1": "그리고 래드는 목숨 잃는 게 어떤 건지 아주 잘 압니다.",
+    "panel.p4.bubble.center": "플레이어가 이렇게 못하는데 내가 뭘 어쩌겠어?"
+  }
+}
