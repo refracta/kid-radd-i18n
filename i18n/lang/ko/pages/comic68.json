@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic68.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"슈팅 스타\"",
+    "panel.p1.bubble.left.html": "근데... 여자를 때릴 순 없잖아.",
+    "panel.p1.bubble.right.html": "난 성평등을 믿거든. 그러니까 <i>쏴, 이 겁쟁아!!!</i>",
+    "panel.p2.bubble.left.html": "하아... 알았어, 네가 원한 거다.",
+    "panel.p2.bubble.right.html": "맞아, 내가 원했지.",
+    "panel.p3.bubble.center.html": "여기서 프로이트식 상징 해석은 무시하세요.",
+    "panel.p4.bubble.left.html": "어... 그래도 최소한 아프긴 했지?",
+    "panel.p4.bubble.center.html": "나 지금 사랑에 빠진 것 같아!",
+    "panel.p4.bubble.right.html": "믿어봐, 그건 나보다 네가 더 아팠어."
+  }
+}

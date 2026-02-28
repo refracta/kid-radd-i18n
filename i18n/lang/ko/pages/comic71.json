@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic71.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"무적\"",
+    "panel.p1.bubble.left.html": "그럼 넌 절대 다치지 않는다는 거야?",
+    "panel.p1.bubble.right.html": "네 말대로 난 생명 게이지가 없으니까.",
+    "panel.p2.bubble.center.html": "난 주인공도 적 스프라이트도 아니야. 이야기를 진행시키기 위해 존재하는 NPC지. 나 같은 캐릭터는 원래 피해를 주거나 받도록 설계되지 않아.",
+    "panel.p3.bubble.center.html": "우리가 구출 대상 아가씨든, 한 줄 대사 마을 주민이든, 나 같은 NPC는 남에게 해를 입지 않아. 게임 스토리에 포함되지 않는 한, 우린 죽지 않지.",
+    "panel.p4.bubble.left.html": "그래서 래드, 네가 여자를 때려눕힐 수 없는 거야.",
+    "panel.p4.bubble.center.html": "닥쳐."
+  }
+}

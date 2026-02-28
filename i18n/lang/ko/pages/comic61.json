@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic61.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"딱 적당히\"",
+    "panel.p1.bubble.left.html": "흠...",
+    "panel.p1.bubble.right.html": "네 차례야.",
+    "panel.p2.bubble.left.html": "이건 어떻게 먹는 거야?",
+    "panel.p2.bubble.right.html": "그냥 콕콕 찌른다고 되진 않을걸.",
+    "panel.p3.bubble.left.html": "우와!",
+    "panel.p4.bubble.left.html": "<i><b>죽여주네...</b></i>",
+    "panel.p4.bubble.right.html": "웃기네, 그 반응은 <i>내</i> 음식에서 나올 줄 알았는데."
+  }
+}

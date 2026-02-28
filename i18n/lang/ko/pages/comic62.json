@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic62.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"다시 찾아와\"",
+    "panel.p1.bubble.left.html": "<i><b>끝내준다...</b></i>",
+    "panel.p1.bubble.right.html": "야, <i>저쪽</i> 여자 비트맵 좀 봐라.",
+    "panel.p2.bubble.left.html": "- - * ...어?",
+    "panel.p2.bubble.right.html": "흠, 이쪽으로 오는 것 같은데?",
+    "panel.p3.bubble.left.html": "안녕 래드. 오랜만이네.",
+    "panel.p3.bubble.center.html": "아는 사이야?",
+    "panel.p3.bubble.right.html": "<b>!!!</b>",
+    "panel.p4.bubble.left.html": "<b>너 걸을 수 있었어???</b>",
+    "panel.p4.bubble.center.html": "다리 달렸잖아?",
+    "panel.p4.bubble.right.html": "그러게나..."
+  }
+}

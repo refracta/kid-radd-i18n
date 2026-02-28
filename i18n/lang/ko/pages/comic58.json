@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic58.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"허기진 눈빛\"",
+    "panel.p1.bubble.right.html": "여기 음식은 어떤 맛일지 궁금하네?",
+    "panel.p2.bubble.left.html": "난 파워업 말고는 먹어본 게 없어.",
+    "panel.p2.bubble.right.html": "난 아예 음식 자체를 먹어본 적이 없는데.",
+    "panel.p3.bubble.left.html": "한번 가보자. 우리한테 좋은 경험일 거야.",
+    "panel.p3.bubble.right.html": "좋아.",
+    "panel.p4.bubble.left.html": "이게 대체 뭐야?",
+    "panel.p4.bubble.right.html": "수입 별미라고 하던데..."
+  }
+}

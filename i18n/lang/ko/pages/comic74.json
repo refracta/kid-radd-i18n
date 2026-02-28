@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic74.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"기대감\"",
+    "panel.p1.bubble.left.html": "나도 포기할게. 모더레이터가 그렇게 나쁜 건 아닌 것 같아.",
+    "panel.p1.bubble.right.html": "그걸 인정하다니, 통 크네.",
+    "panel.p2.bubble.left.html": "음, 난 이만 가봐야겠다. 내일 첫 임무라 준비해야 해!",
+    "panel.p3.bubble.left.html": "분명 잘해낼 거야.",
+    "panel.p3.bubble.right.html": "아마도, 하아.",
+    "panel.p4.bubble.left.html": "이번엔 또 왜 그래?",
+    "panel.p4.bubble.right.html": "<i>우린</i> 아직도 백수인 거 기억나지?",
+    "panel.p5.bubble.left.html": "아 맞다. 인생 참 빡세네.",
+    "panel.p5.bubble.right.html": "나 뭐 터뜨리는 일자리라도 없나?"
+  }
+}

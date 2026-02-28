@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic66.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말빨 좋은 놈\"",
+    "panel.p1.bubble.left.html": "모더레이터가 너한테 합류하라고 했다고?",
+    "panel.p1.bubble.right.html": "응, 투어 끝날 때쯤에.",
+    "panel.p2.bubble.left.html": "근데 왜 난 안 물어봤지?...",
+    "panel.p2.bubble.right.html": "너 모더레이터 싫어한다며.",
+    "panel.p3.bubble.left.html": "싫어하지, 당연히. 근데 왜 널 뽑고 날 안 뽑아? 내 능력 보면 내가 훨씬 좋은 스프라이트잖아!",
+    "panel.p3.bubble.right.html": "외교력까지 완벽하고 말이야...",
+    "panel.p4.bubble.left.html": "맞아! 나 사람 다루는 능력 좋아!",
+    "panel.p4.bubble.center.html": "뭐야 이건?...",
+    "panel.p4.bubble.right.html": "응, 너 진짜 아쉬울 거다."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic70.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"뭔가 오해가 있는 것 같은데\"",
+    "panel.p1.bubble.left.html": "말도 안 돼! 네가 그렇게 무적일 리가 없잖아!",
+    "panel.p1.bubble.right.html": "될 수 있고, 실제로 그래.",
+    "panel.p2.bubble.center.html": "넌 플레이어블 캐릭터가 아니잖아! 적 스프라이트도 아니고!",
+    "panel.p3.bubble.left.html": "기술도 능력도 없고! MP도 없고! 생명 게이지조차 없잖아!",
+    "panel.p3.bubble.right.html": "정답.",
+    "panel.p4.bubble.left.html": "아, 이제 알 것 같아.",
+    "panel.p4.bubble.center.html": "뭐?...",
+    "panel.p4.bubble.right.html": "걱정 마, 용사님. 우리가 설명해줄게."
+  }
+}

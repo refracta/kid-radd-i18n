@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic64.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"돈\"",
+    "panel.p1.bubble.left.html": "이렇게 하자. 미안한 마음도 있으니 식사는 내가 살게.",
+    "panel.p1.bubble.right.html": "최고다!",
+    "panel.p2.bubble.left.html": "와, 착하네.",
+    "panel.p2.bubble.right.html": "새로 잡은 일 덕분에 이 정도는 가능해.",
+    "panel.p3.bubble.left.html": "새 일? 어디서?",
+    "panel.p3.bubble.right.html": "나 모더레이터에 막 들어갔어.",
+    "panel.p4.bubble.left.html": "<b>뭐라고???</b>",
+    "panel.p4.bubble.center.html": "축하해.",
+    "panel.p4.bubble.right.html": "고마워."
+  }
+}

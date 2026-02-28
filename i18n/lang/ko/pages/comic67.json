@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic67.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"꺼져\"",
+    "panel.p1.bubble.left.html": "기분 나쁘게 들릴진 몰라도 시나, 넌 낯선 게임에서 5분도 못 버텨.",
+    "panel.p1.bubble.right.html": "천만에, 난 너보다 오래 버틴다.",
+    "panel.p2.bubble.left.html": "웃기시네. 공격 기술도 없는데 넌 그냥 먹잇감이야.",
+    "panel.p2.bubble.right.html": "좋아, 당장 증명해줄게.",
+    "panel.p3.bubble.left.html": "어떻게?",
+    "panel.p3.bubble.right.html": "네가 날 있는 힘껏 때려봐.",
+    "panel.p4.bubble.left.html": "어... 여기서?",
+    "panel.p4.bubble.center.html": "재밌어지겠네.",
+    "panel.p4.bubble.right.html": "지금."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic60.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"제대로 크게\"",
+    "panel.p1.bubble.left.html": "좋아, 이쯤 되면 이걸 먹어보긴 해야겠네.",
+    "panel.p1.bubble.right.html": "난 그냥 한입만...",
+    "panel.p2.bubble.left.html": "어때?",
+    "panel.p2.bubble.right.html": "음...",
+    "panel.p4.bubble.left.html": "그래서?",
+    "panel.p4.bubble.right.html": "소금이 필요해."
+  }
+}
