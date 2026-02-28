@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic216.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"그 미소 다시 보여줘\"",
+    "panel.p1.bubble.center.html": "여러분 안녕하세요. 최근 전개가 좀 무거웠죠, 그래서 이번 주는 또 한 번 스토리를 쉬어갑니다. 앞으로 5일은 그냥 개그랑 독자 서비스만 갑니다.",
+    "panel.p2.bubble.center.html": "예를 들면, 요즘은 완전 뜬금없는 개그가 인기죠. 그 장르 팬들을 위해 래드와 보기가 작은 코너를 준비했습니다. 자, 둘 다 시작!",
+    "panel.p4.bubble.left.html": "방금... 대체... <b>뭐였어?</b>",
+    "panel.p4.bubble.center.html": "나도 몰라, 그게 포인트인 듯.",
+    "panel.p4.bubble.right.html": "스토리 복귀하면 깨워."
+  }
+}

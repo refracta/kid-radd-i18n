@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "page": "pages/comic220.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"분화\"",
+    "panel.p1.bubble.center.html": "마지막 독자 서비스로, 래드와 코바야시의 애니 스타일 대결을 한 번 더 갑니다. 분명... 전형적이겠죠.",
+    "panel.p2.bubble.left.html": "약골아, 넌 내 시간 낭비할 가치도 없다.",
+    "panel.p2.bubble.right.html": "킬바시, 나 앞에선 방심하지 마.",
+    "panel.p4.bubble.left.html": "도와...",
+    "panel.p4.bubble.right.html": "일어나, 래드. 넌 이길 거야.",
+    "panel.p5.bubble.left.html": "근데... 쟤는 나보다 천 배는 강해 보여.",
+    "panel.p5.bubble.right.html": "지금만 그렇지. 빨리, 깨달음 하나 골라!",
+    "panel.p6.bubble.left.html": "뭘 고르라고?",
+    "panel.p6.bubble.right.html": "깨달음. 주인공이 개털린 뒤에 인생의 전환점을 맞고, 어째선지 전투력을 수십억 배 올려주잖아.",
+    "panel.p7.bubble.left.html": "그럼 이 책은?...",
+    "panel.p7.bubble.right.html": "선택지 목록. 수백 개 있으니까 하나 고르고 전투로 복귀해!",
+    "panel.p9.bubble.left.html": "와, 같은 걸 하는 방법이 왜 이렇게 많아. 좋아, 아무거나 하나 뽑자...",
+    "panel.p10.bubble.left.html": "또 맞을 준비 됐냐?",
+    "panel.p10.bubble.right.html": "맘껏 해봐.",
+    "panel.p11.bubble.left.html": "너의 몰락은 확정이다! <b>치즈 위즈의 영</b>을 소환한다!",
+    "panel.p12.bubble.left.html": "왜 널 때릴 수가 없지?",
+    "panel.p12.bubble.right.html": "방부제 때문이지, 당연히.",
+    "panel.p13.bubble.left.html": "이제 내 차례다!<br><b>치즈의 힘을 봐라!<sup>TM</sup></b>",
+    "panel.p15.bubble.center.html": "매년, 누군가 치즈의 힘을 남용해 500개 이상의 우주가 파괴됩니다.<br><br>그러니 치즈를 쓴다면,<br>제발...<br><br>조심하세요.",
+    "panel.p16.bubble.left.html": "내가 좀 과했나 보네.",
+    "panel.p16.bubble.center.html": "괜찮아, 그럴 때 드래곤볼 쓰는 거지.",
+    "panel.p16.bubble.right.html": "드디어 이 미친 한 주도 끝났네! 스토리에서 다시 보자!"
+  }
+}

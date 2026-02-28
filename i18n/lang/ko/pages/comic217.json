@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic217.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"옛날\"",
+    "panel.p1.bubble.center.html": "오늘은 여러분께 특별한 선물을 준비했어요! 70년대까지 거슬러 올라가는 아주 초기 스프라이트 만화를 찾았거든요!",
+    "panel.p2.bubble.right.html": "비트 버디스는 1979년에 데뷔해, 막 꽃피던 비디오게임 산업과 당대 최고 인기 캐릭터들을 잘 활용했습니다.",
+    "panel.p3.bubble.right.html": "비주얼은 소박했지만 개그는 끝내줬고, 지금까지도 이어지는 수많은 트렌드를 만든 작품이죠!",
+    "panel.p4.bubble.center.html": "-",
+    "panel.p4.bubble.right.html": "있잖아, 가끔은 할 말 없어도 이런 만화에 숨은 텍스트를 넣어. 지금처럼."
+  }
+}
