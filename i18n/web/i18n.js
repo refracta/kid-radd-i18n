@@ -717,6 +717,8 @@
 		if(left < 0) {
 			left = 0;
 		}
+		left = Math.round(left);
+		top = Math.round(top);
 
 		$trigger.css({
 			left: left + 'px',
@@ -773,14 +775,32 @@
 			return;
 		}
 
-		var expectedTop = mainRect.top + mainRect.height;
-		var gap = Math.round(tipRect.top - expectedTop);
-		if(gap > 0) {
-			var viewportScale = getViewportScale();
-			var cssOffset = Math.round(gap / viewportScale);
-			$tipCenter.css('top', (-cssOffset) + 'px');
+			var expectedTop = mainRect.top + mainRect.height;
+			var gap = Math.round(tipRect.top - expectedTop);
+			if(gap > 0) {
+				var viewportScale = getViewportScale();
+				var htmlZoomScale = getHtmlZoomScale();
+				var layoutScale = viewportScale * htmlZoomScale;
+				if(!(layoutScale > 0)) {
+					layoutScale = 1;
+				}
+				var cssOffset = Math.round(gap / layoutScale);
+				$tipCenter.css('top', (-cssOffset) + 'px');
+			}
 		}
-	}
+
+		function getHtmlZoomScale() {
+			var root = document.documentElement;
+			if(!root || !window.getComputedStyle) {
+				return 1;
+			}
+			var zoomValue = window.getComputedStyle(root).zoom;
+			var zoom = parseFloat(zoomValue);
+			if(zoom > 0 && isFinite(zoom)) {
+				return zoom;
+			}
+			return 1;
+		}
 
 	function getViewportScale() {
 		var body = document.body;
@@ -813,7 +833,11 @@
 		if($visiblePanel.length) {
 			var $visibleZoom = $visiblePanel.find('a').filter(isZoomLink).first();
 			if($visibleZoom.length) {
-				var $visibleList = $visiblePanel.find('a').filter(isListLink).first();
+				var $visibleMenuRow = findMenuRowForZoomLink($visibleZoom);
+				var $visibleList = findListLinkFromMenuRow($visibleMenuRow);
+				if(!$visibleList.length) {
+					$visibleList = $visiblePanel.find('a').filter(isListLink).first();
+				}
 				return {
 					zoom: $visibleZoom,
 					list: $visibleList,
@@ -822,9 +846,10 @@
 			}
 		}
 		var $zoom = $('a').filter(isZoomLink).first();
+		var $menuRow = findMenuRowForZoomLink($zoom);
 		return {
 			zoom: $zoom,
-			list: $('a').filter(isListLink).first(),
+			list: findListLinkFromMenuRow($menuRow),
 			hideTrigger: shouldHideTriggerByMenuRow($zoom)
 		};
 	}
@@ -833,15 +858,47 @@
 		if(!$zoomLink || !$zoomLink.length) {
 			return false;
 		}
-		var $menuRow = $zoomLink.parents('tr').filter(function() {
-			return $(this).children('td').length >= 3;
-		}).first();
+		var $menuRow = findMenuRowForZoomLink($zoomLink);
 		if(!$menuRow.length) {
 			return false;
 		}
 		var $cells = $menuRow.children('td');
 		var middleText = $.trim(($cells.eq(1).text() || '').replace(/\s+/g, ' '));
-		return middleText.length > 0;
+		if(!middleText.length) {
+			return false;
+		}
+		var normalized = middleText.toLowerCase();
+		return normalized === 'lang' || normalized === 'language' || normalized === '언어';
+	}
+
+	function findMenuRowForZoomLink($zoomLink) {
+		if(!$zoomLink || !$zoomLink.length) {
+			return $();
+		}
+		return $zoomLink.parents('tr').filter(function() {
+			var $row = $(this);
+			var $cells = $row.children('td');
+			if($cells.length < 3) {
+				return false;
+			}
+			return $cells.eq(0).find('a').filter(isZoomLink).length > 0;
+		}).first();
+	}
+
+	function findListLinkFromMenuRow($menuRow) {
+		if(!$menuRow || !$menuRow.length) {
+			return $();
+		}
+		var $cells = $menuRow.children('td');
+		if($cells.length < 3) {
+			return $();
+		}
+		var $rightCell = $cells.eq($cells.length - 1);
+		var $preferred = $rightCell.find('a').filter(isListLink).first();
+		if($preferred.length) {
+			return $preferred;
+		}
+		return $rightCell.find('a').first();
 	}
 
 	function isZoomLink() {
@@ -854,15 +911,31 @@
 		if(href.indexOf('listp.htm') >= 0) {
 			return true;
 		}
-		if(href.charAt(0) !== '#') {
-			return false;
-		}
-		var hash = href.substring(1).toLowerCase();
-		if(hash !== 'title') {
-			return false;
-		}
+
 		var text = $.trim($(this).text()).toLowerCase();
-		return text === 'list' || text === '목록';
+		if(text !== 'list' && text !== '목록') {
+			return false;
+		}
+
+		var $link = $(this);
+		var $menuCell = $link.closest('td[background]');
+		if($menuCell.length) {
+			var background = String($menuCell.attr('background') || '').toLowerCase();
+			if(background.indexOf('menu.gif') >= 0) {
+				return true;
+			}
+		}
+
+		var $menuTable = $link.closest('table');
+		if($menuTable.length) {
+			var width = String($menuTable.attr('width') || '').toLowerCase();
+			var height = String($menuTable.attr('height') || '').toLowerCase();
+			if(width === '39' && (height === '' || height === '19')) {
+				return true;
+			}
+		}
+
+		return false;
 	}
 
 	function injectStyle() {
