@@ -93,16 +93,48 @@ function hashchange() {
 }
 
 function keypress(event) {
+	var link;
 	if(event.keyCode == 39)
-		var link = find_link('next');
+		link = find_link('next');
 	else if(event.keyCode == 37)
-		var link = find_link('prev');
+		link = find_link('prev');
 	if(link) {			// simulate a click so the comic's onclick will fire
+		var rawHref = link.get(0).getAttribute('href') || '';
+		if(rawHref && rawHref.charAt(0) === '#') {
+			link.mousedown();
+			link.mouseup();
+			link.triggerHandler('click');
+			navigateLinkHref(link);
+			return;
+		}
 		// Fire a bunch of events since different pages bind to different ones
 		link.mousedown();
 		link.mouseup();
 		link.click();
-		window.location = link.attr('href');
+		navigateLinkHref(link);
+	}
+}
+
+function navigateLinkHref(link) {
+	if(!link || !link.length) {
+		return;
+	}
+	var rawHref = link.get(0).getAttribute('href') || '';
+	if(rawHref && rawHref.charAt(0) === '#') {
+		var fragment = rawHref.substring(1);
+		if(!fragment) {
+			return;
+		}
+		if(window.location.hash !== '#' + fragment) {
+			window.location.hash = fragment;
+		} else if(typeof hashchange === 'function') {
+			hashchange();
+		}
+		return;
+	}
+	var href = link.attr('href');
+	if(href) {
+		window.location = href;
 	}
 }
 

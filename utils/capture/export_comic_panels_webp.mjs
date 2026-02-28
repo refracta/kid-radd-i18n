@@ -27,6 +27,7 @@ function parseArgs(argv) {
     maxPanelCaptureMs: 10000,
     forceLoopEnable: true,
     renderFullWebp: false,
+    titleToP0: true,
     browserLocale: 'ko',
     lossless: true,
     quality: 75,
@@ -88,6 +89,10 @@ function parseArgs(argv) {
       options.forceLoopEnable = false;
     } else if (arg === '--render-full-webp') {
       options.renderFullWebp = true;
+    } else if (arg === '--title-to-p0' || arg === '--title_to_p0') {
+      options.titleToP0 = true;
+    } else if (arg === '--no-title-to-p0') {
+      options.titleToP0 = false;
     } else if (arg === '--browser-locale' && next) {
       options.browserLocale = next;
       i += 1;
@@ -133,6 +138,8 @@ function printHelp() {
     `  --force_loop_enable      Always save animated WebP as infinite loop (default)\n` +
     `  --no-force-loop-enable   Disable forced infinite loop (allow one-shot)\n` +
     `  --render-full-webp       Also render stacked full.webp (title,p1..pn)\n` +
+    `  --title_to_p0            Save title panel as p0.webp (default)\n` +
+    `  --no-title-to-p0         Save title panel as title.webp\n` +
     `  --browser-locale <tag>   Browser locale (default: ko)\n` +
     `  --lossless               Use lossless WebP encoding (default)\n` +
     `  --lossy                  Use lossy WebP encoding\n` +
@@ -1310,6 +1317,7 @@ async function processComic({
   maxPanelCaptureMs,
   forceLoopEnable,
   renderFullWebp,
+  titleToP0,
   browserLocale,
   lossless,
   quality,
@@ -1365,6 +1373,7 @@ async function processComic({
         }
 
         try {
+          const outputPanelName = titleToP0 && panelName === 'title' ? 'p0' : panelName;
           const panelGifUrls = await findGifUrlsInFrame(frame.element);
           const gifTiming = getPanelGifTiming(panelGifUrls);
           const panelFrameDelayMs =
@@ -1378,7 +1387,7 @@ async function processComic({
           const captured = await capturePanelWebp({
             page,
             comicName,
-            panelName,
+            panelName: outputPanelName,
             frameElement: frame.element,
             outputRoot: outputDir,
             frameCount,
@@ -1398,6 +1407,7 @@ async function processComic({
 
           result.panels.push({
             panel: panelName,
+            outputPanel: outputPanelName,
             output: path.relative(process.cwd(), captured.outputFile),
             animated: captured.animated,
             capturedFrames: captured.capturedFrames,
@@ -1511,6 +1521,7 @@ async function main() {
         maxPanelCaptureMs: options.maxPanelCaptureMs,
         forceLoopEnable: options.forceLoopEnable,
         renderFullWebp: options.renderFullWebp,
+        titleToP0: options.titleToP0,
         browserLocale: options.browserLocale,
         lossless: options.lossless,
         quality: options.quality,
