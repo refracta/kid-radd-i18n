@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic188.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"절박함\"",
+    "panel.p1.narration.1.html": "래드에게 시간은 고통스럽게 천천히 흐릅니다.",
+    "panel.p1.bubble.right.html": "더는 못 버티겠어!",
+    "panel.p5.narration.1.html": "사실, 그래.",
+    "panel.p5.bubble.left.html": "그래서 캡틴이 우리한테 청부업자 고용하라는 거야?",
+    "panel.p5.bubble.right.html": "맞아. 돈으로 살 수 있는 최고로."
+  }
+}

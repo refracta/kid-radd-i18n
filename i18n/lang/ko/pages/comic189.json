@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic189.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"값싸고 더러운 일 처리\"",
+    "panel.p1.narration.1.html": "캡틴 QB의 이름 없는 졸개 둘이 최신 임무를 정리합니다.",
+    "panel.p1.bubble.left.html": "QB는 왜 이놈을 직접 처리 못 해?",
+    "panel.p1.bubble.right.html": "멍청아, 불법 행위가 우리랑 연결되면 안 되잖아.",
+    "panel.p2.bubble.left.html": "그럼 청부업자는 어디서 구해?",
+    "panel.p2.bubble.right.html": "구인광고. 뻔하지.",
+    "panel.p3.bubble.left.html": "예산은 어느 정도야?",
+    "panel.p3.bubble.right.html": "QB가 만 달러 줬어. 제대로 하란 뜻이겠지.",
+    "panel.p4.bubble.left.html": "장난해?  <b>감옥에 있는</b> 놈 처리하는 게 뭐가 어렵다고? 싼 놈 구하고 남는 돈 챙기자.",
+    "panel.p4.bubble.right.html": "이제야 말이 통하네.",
+    "panel.p5.bubble.left.html": "여기 하나! \"코바야시 - 할인 닌자.\"",
+    "panel.p5.bubble.right.html": "20달러. 죽이네!"
+  }
+}

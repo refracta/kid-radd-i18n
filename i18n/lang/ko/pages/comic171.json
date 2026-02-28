@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic171.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"답을 위한 질문\"",
+    "panel.p1.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
+    "panel.p2.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
+    "panel.p3.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
+    "panel.p4.bubble.right.html": "젠장, 진작 이렇게 할걸."
+  }
+}

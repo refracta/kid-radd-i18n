@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic186.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"숨막혀\"",
+    "panel.p1.narration.1.html": "이제 줄거리가 조금 진행됐으니, 우리 주인공 쪽을 다시 볼까요?",
+    "panel.p1.bubble.right.html": "와, 이 감방은 탈출 불가라는 말이 딱이네."
+  }
+}

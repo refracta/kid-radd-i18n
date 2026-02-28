@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic174.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"거울 속의 남자\"",
+    "panel.p1.narration.1.html": "같은 날, 조금 뒤.",
+    "panel.p1.bubble.left.html": "부르셨어요, 닥터 앰프?",
+    "panel.p1.bubble.right.html": "그래, 놀라운 발견을 했지!",
+    "panel.p2.bubble.right.html": "알다시피 네가 데려온 퍼즐 스프라이트들은 게임을 떠난 뒤 만성 우울 상태였어.",
+    "panel.p3.bubble.right.html": "얘들을 행복하게 하던 유일한 건 점수 획득이었으니까, 사라지지 않으면서 그 동작을 흉내 낼 방법이 필요했지.",
+    "panel.p4.bubble.left.html": "해결책을 보시라!",
+    "panel.p4.bubble.center.html": "거울?",
+    "panel.p4.bubble.right.html": "좋네, 이제 꼬마들은 면도도 하겠네."
+  }
+}

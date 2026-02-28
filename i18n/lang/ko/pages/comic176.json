@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic176.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"간질 있으면 건너뛰세요\"",
+    "panel.p1.bubble.left.html": "놀라운 건, 얘들이 번쩍일 때 에너지를 만든다는 거야.",
+    "panel.p2.bubble.right.html": "그래서 거울 칸막이를 여러 개 만들었고, 얘들은 내 연구실에 계속 전력을 공급하고 있어.",
+    "panel.p3.bubble.left.html": "근데 아직도 원리를 모르겠어. 거의 뭐, 그... 그...",
+    "panel.p4.bubble.left.html": "플롯 장치?",
+    "panel.p4.bubble.right.html": "정확해!"
+  }
+}

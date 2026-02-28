@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic177.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"원한다고 다 가질 순 없어\"",
+    "panel.p1.bubble.center.html": "퍼즐 스프라이트 문제는 해결돼서 다행이지만...",
+    "panel.p2.bubble.left.html": "RAM 창고에는 아직도 움직이지 못하거나 쓸모없다 취급받는 스프라이트가 엄청 많아. 앰프도 전부 구할 수는 없고.",
+    "panel.p3.bubble.left.html": "그리고 게임을 파괴할 때마다 꼭 불행해하는 스프라이트가 몇 명은 남아. 하아...",
+    "panel.p4.bubble.left.html": "오늘 임무 준비됐어?",
+    "panel.p4.bubble.right.html": "기다려진다."
+  }
+}

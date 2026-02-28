@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic185.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"누군가 지켜보고 있어\"",
+    "panel.p1.bubble.left.html": "좋아, 그 범죄자는 내가 처리하지.",
+    "panel.p1.bubble.right.html": "감사합니다, 캡틴. 후회 안 하실 겁니다.",
+    "panel.p2.bubble.left.html": "(그건 두고 봐야지.) 필요한 준비가 더 있으면, 알다시피 내 보조들을 쓰면 돼.",
+    "panel.p2.bubble.right.html": "고맙네. 잠깐 여기 파일 좀 쓰겠네, 괜찮지?",
+    "panel.p3.bubble.left.html": "아, 내가 대체 무슨 일에 발을 들인 거지? 어쨌든 난 움직여야겠군.",
+    "panel.p4.bubble.right.html": "어, 안녕 시나. 음, 혹시 방금 얘기 들은 건 아니지?",
+    "panel.p5.bubble.left.html": "어어어... 아니요! 당신 친구 말대로, 방음실이잖아요!",
+    "panel.p5.bubble.right.html": "좋아. 휴!"
+  }
+}
