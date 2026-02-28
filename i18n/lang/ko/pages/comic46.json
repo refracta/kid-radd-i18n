@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic46.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"딥 13\"",
+    "panel.p1.bubble.left.html": "바이오닉 코만도랑은 아무 관련 없습니다.",
+    "panel.p1.bubble.right.html": "특정 장난감과 닮아 보여도 전적으로 우연입니다.",
+    "panel.p2.bubble.left.html": "저 미녀들이라면 언제든 날 붙잡아도 좋아.",
+    "panel.p2.bubble.right.html": "완전 인정! 그르르릉!",
+    "panel.p3.bubble.left.html": "참 편리하네.",
+    "panel.p3.bubble.right.html": "그걸 \"Deus ex Machina\"라고 하지.",
+    "panel.p4.bubble.left.html": "\"YOU HAVE NO CHANCE TO SURVIVE MAKE YOUR TIME.\"",
+    "panel.p4.bubble.right.html": "\"HA HA HA HA!\"",
+    "panel.p5.bubble.left.html": "얘들아, 영화 중에 떠드는 건 전혀 안 웃겨.",
+    "panel.p5.bubble.center.html": "안 웃겨?",
+    "panel.p5.bubble.right.html": "\"WHAT YOU SAY!!\""
+  }
+}

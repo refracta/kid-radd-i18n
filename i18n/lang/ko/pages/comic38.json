@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic38.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"처음부터 다시\"",
+    "panel.p1.bubble.left.html": "플레이어가 진짜 영영 떠난 걸까?",
+    "panel.p1.bubble.right.html": "잘 모르겠어.",
+    "panel.p2.bubble.left.html": "그럼 이제 어떻게 돼? 계속 게임을 해야 해?",
+    "panel.p2.bubble.right.html": "흥. 난 별로 그러고 싶진 않다.",
+    "panel.p3.bubble.left.html": "앞으로는 인생이 훨씬 단순해지겠네.",
+    "panel.p4.bubble.right.html": "짜아아안!!!",
+    "panel.p5.bubble.left.html": "말이 너무 빨랐지?",
+    "panel.p5.bubble.center.html": "응.",
+    "panel.p5.bubble.right.html": "나 왔어! 이제 너희 살았어!"
+  }
+}

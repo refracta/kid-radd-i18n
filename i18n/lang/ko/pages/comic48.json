@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic48.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"원래 그런 거야\"",
+    "panel.p1.bubble.right.html": "자 여러분, 이야기는 여기까지.",
+    "panel.p2.bubble.left.html": "그럼 우린 이제 어떻게 돼?",
+    "panel.p2.bubble.right.html": "아, 이제 자유롭게 가도 돼.",
+    "panel.p3.bubble.left.html": "...가서 뭘 하라고?",
+    "panel.p3.bubble.right.html": "늘 하던 거지. 사회의 생산적인 구성원이 되고, 네 운명을 스스로 개척하고, 꿈을 좇고, 뭐 그런 거.",
+    "panel.p4.bubble.left.html": "근데 그걸 어떻게 해?",
+    "panel.p4.bubble.right.html": "보통은 일자리부터 찾는 걸로 시작해.",
+    "panel.p5.bubble.left.html": "갑자기 불길한 예감이 드는데...",
+    "panel.p5.bubble.center.html": "첫 월급 받으면 사라질 거야.",
+    "panel.p5.bubble.right.html": "이 순응주의자, 벌써 의욕이 넘치네!"
+  }
+}

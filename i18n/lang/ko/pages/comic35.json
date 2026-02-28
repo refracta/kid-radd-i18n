@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic35.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"뇌 손상\"",
+    "panel.p1.bubble.left.html": "플레이어가 떠났다는 걸 어떻게 알아?",
+    "panel.p1.bubble.right.html": "엄밀히 말하면 확신은 없어. 하지만 단서들을 보면 우리 운명을 다른 존재가 장악한 게 분명해.",
+    "panel.p2.bubble.right.html": "부팅이 원래처럼 들쑥날쑥한 전원 상승이 아니라 즉시 시작됐고, 처리 속도도 미묘하게 달라. 여기 원래 시스템이 아니야.",
+    "panel.p3.bubble.left.html": "와, 보기들이 이렇게 똑똑한 줄은 몰랐네.",
+    "panel.p3.bubble.right.html": "왜, 우리가 이렇게 생겼다고 멍청할 거라 생각했냐?",
+    "panel.p4.bubble.left.html": "아니, 그냥 네가 아무 생각 없이 구덩이로 걸어 들어가길래 그랬지.",
+    "panel.p4.bubble.right.html": "그렇게 하도록 프로그래밍돼 있다고!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic36.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"반사 행동\"",
+    "panel.p1.bubble.right.html": "우리 보기들은 사실 악하지도, 비우호적인 것도 아니야. 그냥 직선으로 걷기만 하도록 짜인 플랫폼 게임 드론일 뿐이지.",
+    "panel.p2.bubble.right.html": "우리가 주인공을 \"공격\"하는 게 아니야. 플레이어를 귀찮게 하려고 불편한 위치에 배치된 것뿐이지. \"죽음의 접촉\"만 없으면 완전 무해해.",
+    "panel.p3.bubble.left.html": "근데 너희가 멍청한 게 아니라면...<br>왜 그렇게...<br>그게...",
+    "panel.p4.bubble.left.html": "음, 그건 그냥 습관이야.",
+    "panel.p4.bubble.right.html": "재밌거든."
+  }
+}

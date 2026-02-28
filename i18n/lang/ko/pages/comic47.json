@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic47.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"순항 중\"",
+    "panel.p3.bubble.left.html": "자, 질문 있나?",
+    "panel.p3.bubble.right.html": "있지. 우리 왜 놀이기구 카트에 타고 있어? 그건 그냥 영화였잖아.",
+    "panel.p4.bubble.left.html": "아, 쇼 끝에 나오는 쓸데없지만 멋진 워터슬라이드 때문이지.",
+    "panel.p5.bubble.right.html": "<b>우와아아!!!<b></b></b>"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic40.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"시간이 흘러도\"",
+    "panel.p1.bubble.left.html": "근데, 내 플레이어는 어디로 간 거야?",
+    "panel.p1.bubble.right.html": "누가 알겠어? 넌 금방 질렸고, 몇 년이나 방치됐지.",
+    "panel.p2.bubble.left.html": "그런데 우린 왜 여기 있는 거야? 우리가 여기 있다는 건 플레이어가 돌아왔단 뜻 아냐?",
+    "panel.p2.bubble.right.html": "꼭 그런 건 아니야...",
+    "panel.p3.bubble.center.html": "여긴 네 원래 게임 카트리지가 아니야. 이건 \"ROM\"이라고 해. 쉽게 말하면, 누군가 네 게임을 파일로 복사해서 웹에 올린 거지.",
+    "panel.p4.bubble.left.html": "웹이 뭐야?",
+    "panel.p4.bubble.center.html": "이거 꽤 오래된 게임이구나?",
+    "panel.p4.bubble.right.html": "대략 1987년작."
+  }
+}
