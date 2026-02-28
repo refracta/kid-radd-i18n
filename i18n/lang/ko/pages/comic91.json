@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic91.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"디지털 블루스\"",
+    "panel.p1.bubble.left.html": "봐봐, 보기! 내 첫 월급!",
+    "panel.p1.bubble.right.html": "좋네. 얼마야?",
+    "panel.p2.bubble.left.html": "대박이야 - 고작 일주일 했는데 딱 1000달러!",
+    "panel.p2.bubble.right.html": "음...",
+    "panel.p3.bubble.left.html": "꽤 달달하지?",
+    "panel.p3.bubble.right.html": "래드, 그거 이진수잖아. 일공공공은 8달러야.",
+    "panel.p4.bubble.left.html": "<b>뭐라고???</b>",
+    "panel.p4.bubble.right.html": "주당 두 시간 말고 좀 더 일하면 이런 일 없겠지."
+  }
+}

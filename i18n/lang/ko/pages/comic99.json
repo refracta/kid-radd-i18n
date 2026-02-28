@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic99.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"무슨 점수냐\"",
+    "panel.p1.bubble.left.html": "점수 얻고 사라지는 게 저 생명체들한텐 안 아픈 거잖아!",
+    "panel.p1.bubble.right.html": "그럴 수도...",
+    "panel.p2.bubble.left.html": "쟤들은 그냥 화면 위로 다시 순환돼서 또 내려오잖아!",
+    "panel.p2.bubble.right.html": "맞는 말이야.",
+    "panel.p3.bubble.left.html": "사실은 그것도 좋아해! 쟤들 인생 최고로 즐기고 있다고!",
+    "panel.p3.bubble.right.html": "아마 맞아.",
+    "panel.p4.bubble.right.html": "그래서, 구출 도울 거야 말 거야?"
+  }
+}

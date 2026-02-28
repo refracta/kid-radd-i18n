@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic94.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"저장해줘\"",
+    "panel.p1.bubble.left.html": "나중에 봐, 래드.",
+    "panel.p1.bubble.right.html": "나중에 봐, 보기.",
+    "panel.p2.bubble.left.html": "그리고 하루 중 가장 쪽팔린 시간이 왔네. 오늘 밤 몸 누일 데가 없어...",
+    "panel.p3.bubble.left.html": "그래서 모더레이터 본부로 돌아가서 공용 \"세이브\" 파일에 몸을 맡기지.",
+    "panel.p4.bubble.center.html": "아쉽게도 \"재시도\" 옵션은 없다."
+  }
+}

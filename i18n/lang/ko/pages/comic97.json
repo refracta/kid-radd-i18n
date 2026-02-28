@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic97.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"험한 게임\"",
+    "panel.p1.bubble.left.html": "얘들은 진짜 단순하네.",
+    "panel.p1.bubble.center.html": "그러게.",
+    "panel.p1.bubble.right.html": "게임해!<br>색 맞춰!",
+    "panel.p2.bubble.left.html": "얘네 스스로는 못 움직이지?",
+    "panel.p2.bubble.right.html": "응. 그래서 저렇게 쌓이고 있지.",
+    "panel.p3.bubble.right.html": "사용자가 떨어지는 동안 얘들을 움직여. 같은 색 세 개가 닿으면... 서로 소멸해.",
+    "panel.p4.bubble.left.html": "너무 잔인해!",
+    "panel.p4.bubble.center.html": "인간은 비틀린 방식으로 쾌감을 얻지.",
+    "panel.p4.bubble.right.html": "게임해!<br>색 맞춰!"
+  }
+}

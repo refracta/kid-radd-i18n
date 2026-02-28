@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic93.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"먹고살기\"",
+    "panel.p1.bubble.left.html": "너 변태라는 소리 들어본 적 있냐?",
+    "panel.p1.bubble.right.html": "하루 두 번은 기본이고, 밤엔 더 자주 들어.",
+    "panel.p2.bubble.left.html": "진지하게, 돈은 대체 <i>어떻게</i> 버는 건데?",
+    "panel.p2.bubble.right.html": "나 지역 발전소를 돌려.",
+    "panel.p3.bubble.left.html": "헐. 네가 발전소 관리자야?",
+    "panel.p3.bubble.right.html": "아니, 난 발전소를 <i>돌린다</i>고. 내 동족들이랑 같이.",
+    "panel.p4.bubble.center.html": "먹고는 살아야지."
+  }
+}

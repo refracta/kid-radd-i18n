@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic90.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"자유 만세\"",
+    "panel.p1.narration.1.html": "시나는 빠르게 존경받는 모더레이터가 되어 갑니다...",
+    "panel.p1.bubble.left.html": "그 끔찍한 게임에서 구해줘서 고마워요!",
+    "panel.p1.bubble.right.html": "에이, 뭐. 내 일이야.",
+    "panel.p2.narration.1.html": "...본인이 원하든 말든, 스프라이트를 해방시키면서요.",
+    "panel.p2.bubble.left.html": "뭐? 이제 더는 때려잡을 수 없다고?",
+    "panel.p2.bubble.right.html": "(귀여운 주인공 스프라이트들.) 걱정 마, 곧 자유에 익숙해질 거야.",
+    "panel.p3.narration.1.html": "다행히 대부분의 스프라이트는 게임에서 벗어나는 걸 반깁니다."
+  }
+}

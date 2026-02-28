@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic92.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"록산느\"",
+    "panel.p1.bubble.left.html": "게임 밖에서 사는 삶은 진짜 빡세다.",
+    "panel.p1.bubble.right.html": "말도 마.",
+    "panel.p2.bubble.left.html": "넌 먹고살려고 뭐 하고 있어?",
+    "panel.p2.bubble.right.html": "대부분 매춘. 화끈하게 뜯어먹는 중.",
+    "panel.p3.bubble.right.html": "그거 <b>농담</b>이거든! 아이 참."
+  }
+}
