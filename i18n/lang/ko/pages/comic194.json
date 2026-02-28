@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic194.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"살인 기계\"",
+    "panel.p1.bubble.center.html": "에헤헤...",
+    "panel.p2.bubble.center.html": "이런...",
+    "panel.p4.bubble.center.html": "걱정해야 맞는데, 근데..."
+  }
+}

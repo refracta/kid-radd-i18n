@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic209.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"캡틴, 내가 캡틴이야\"",
+    "panel.p1.bubble.left.html": "어디로 가는 거야?",
+    "panel.p1.bubble.right.html": "조종실. 따라와!",
+    "panel.p2.bubble.left.html": "그래서... 너 모더레이터한테서 이 함선 훔친 거야?",
+    "panel.p2.bubble.right.html": "꼭 그렇진 않아. 이 함선은 닥터 앰프가 그들을 위해 만들던 신형 프로토타입이야.",
+    "panel.p3.bubble.left.html": "그럼 그 사람한테서 훔친 거네?",
+    "panel.p3.bubble.right.html": "아니...",
+    "panel.p4.bubble.left.html": "이번 원정대 지휘관은 그 사람이야.",
+    "panel.p4.bubble.center.html": "어이쿠...",
+    "panel.p4.bubble.right.html": "탑승을 환영한다, 선실 소년!"
+  }
+}

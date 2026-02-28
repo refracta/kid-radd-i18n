@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic210.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"자존심 문제\"",
+    "panel.p1.bubble.left.html": "닥터 앰프, 당장 이 서버를 떠나야 해요. 모더레이터가 오고 있어요.",
+    "panel.p1.bubble.right.html": "알겠네.",
+    "panel.p4.bubble.left.html": "하지만 난 주인공 스프라이트고, 주인공은 도망치지 않아!  가만히 서서 <b>아무것도</b> 안 할 순 없다고!",
+    "panel.p4.bubble.right.html": "아, 래드...",
+    "panel.p5.bubble.left.html": "무슨 소리야? 넌 하루 종일 아무것도 안 하잖아. 그거 전문가잖아!",
+    "panel.p5.bubble.center.html": "닥쳐."
+  }
+}

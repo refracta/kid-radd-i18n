@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "page": "pages/comic191.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"시험\"",
+    "panel.p3.bubble.right.html": "흠, 이게 수상하다는 건 천재가 아니어도 알겠다. 저 녀석부터 시험해봐야지."
+  }
+}

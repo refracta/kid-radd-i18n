@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic198.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"십대의 황무지\"",
+    "panel.p1.bubble.right.html": "가라, 데스봇! 으깨버려! 지져버려! 뭐 아무튼!",
+    "panel.p2.bubble.center.html": "음, 보아하니 또 목숨이 위험하군. 이번이 내가 플레이어가 가르쳐준 기술에 의지하는 두 번째 순간이야.",
+    "panel.p3.bubble.center.html": "하지만 옛 스승님, 당신은 날 잘 가르쳤습니다. 지금 증명하죠. 당신이 내게 쏟은 시간은 헛되지 않았다고."
+  }
+}

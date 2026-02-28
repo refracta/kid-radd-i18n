@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic190.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"문 열어\"",
+    "panel.p1.narration.1.html": "이쯤 되면 래드가 감금 스트레스로 맛이 갔다고 해도 약한 표현입니다.",
+    "panel.p1.bubble.right.html": "이 사방 벽이 더는 날 비웃게 두지 않겠다!"
+  }
+}

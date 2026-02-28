@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic200.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"의심의 여지 없음\"",
+    "panel.p1.bubble.left.html": "야, 어디 가?",
+    "panel.p1.bubble.right.html": "집. 풀어줘서 고맙다.",
+    "panel.p2.bubble.left.html": "그럴 리 없지. 난 널 암살하라고 돈 받았고, 임무는 아직 안 끝났다.",
+    "panel.p2.bubble.right.html": "근데 네 장난감 다 부숴버렸잖아. 네가 졌어.",
+    "panel.p3.bubble.right.html": "<center></center>멍청이!  나는 <b>닌자다!</b> 장비는 취미일 뿐, 널 내 손으로 끝장낼 능력은 충분해.",
+    "panel.p4.bubble.left.html": "네 쪽에서 자신감이 좀 부족해 보이는데."
+  }
+}

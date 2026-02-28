@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic212.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아무것도 모르는 반항아\"",
+    "panel.p1.bubble.left.html": "그래서 어디 가는 건데?",
+    "panel.p1.bubble.center.html": "아직 안 정했어.",
+    "panel.p2.bubble.left.html": "생각해보니, 나만이 아니라 왜 우리 모두가 모더레이터를 피해 도망치는 건지 물어봐야겠네?",
+    "panel.p2.bubble.right.html": "꽤 슬픈 이야기야.",
+    "panel.p3.bubble.right.html": "짧은 시간에 너무 많은 게 변했어. 모더레이터는 이제 시민보다 권력 추구를 우선해.",
+    "panel.p4.bubble.left.html": "대충 감은 왔어. 그래서 어떻게 그렇게 된 건데?",
+    "panel.p4.bubble.right.html": "너도 아직 배운 게 별로 없구나, 그렇지?"
+  }
+}

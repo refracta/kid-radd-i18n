@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic195.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"파괴의 도구들\"",
+    "panel.p1.bubble.center.html": "스프레드시트 프로그램에 보스전을 들여왔다고? 제정신이야?",
+    "panel.p2.bubble.right.html": "네가 날 존중하지 않는 게 느껴지는군. 너 같은 전사를 위한 죽음을 준비하느라 애 좀 썼다고. 멋진 기능들을 보시지.",
+    "panel.p3.bubble.right.html": "하나도 아니고 둘도 아니고, 가시 플랫폼 세 개가 오르내리며 널 압살하려 할 거다.",
+    "panel.p4.bubble.center.html": "그리고 저기 그, 음... 깜빡이는 불빛 장치가 있지. 아무 기능도 없어. 뭐, 기계를 폭발시키는 것 말고는. 쏠 수는 있겠지만 난 네가 안 쐈으면 좋겠다.",
+    "panel.p5.bubble.center.html": "<br>잠깐만, 아직 설명 중이야."
+  }
+}

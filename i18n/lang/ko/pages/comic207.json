@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic207.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"다시 함께\"",
+    "panel.p2.bubble.right.html": "젠장. 나 함선 안으로 들어온 거네.",
+    "panel.p3.bubble.left.html": "<b>시나???</b>",
+    "panel.p3.bubble.right.html": "래드! 네가 무사해서 정말 다행이야!",
+    "panel.p4.bubble.left.html": "음, 고맙긴 한데.",
+    "panel.p4.bubble.right.html": "래드, 네가 없는 동안 얼마나 많은 일이 벌어졌는지 몰라. 정말 끔찍했어!",
+    "panel.p5.bubble.left.html": "아, 그만 좀 해.",
+    "panel.p5.bubble.right.html": "헤헤."
+  }
+}

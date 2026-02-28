@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic196.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"질문은 금지\"",
+    "panel.p1.bubble.center.html": "이해가 안 되네. 내가 널 이기길 바라는 거야?",
+    "panel.p2.bubble.right.html": "뭐? 위대한 코바야시, 할인 닌자인 내가 널 파괴할 생각이 없을 리 없잖나! 그런 모욕을 하다니!",
+    "panel.p3.bubble.right.html": "아니, 저 편리한 플랫폼들은 깜빡이는 불빛까지 올라가게 해주는 용도밖에 없잖아. 진짜로 저거 없으면 난 목표물에 닿을 만큼 높이 점프도 못 해.",
+    "panel.p5.bubble.center.html": "됐고. 당장 시작해."
+  }
+}

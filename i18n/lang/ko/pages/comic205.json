@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic205.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"같이 갈래?\"",
+    "panel.p1.bubble.left.html": "넌... 대가를... 치를 거야...",
+    "panel.p1.bubble.right.html": "나중에 보자. 난 여기서 빠져나갈 길부터 찾아야 해.",
+    "panel.p2.bubble.left.html": "음, 여기 데이터포트가 있긴 한데 내가 탈 이동체가 없으면 거의 쓸모없어.",
+    "panel.p3.bubble.right.html": "도망자라는 게 무색하네. 진짜 수송 수단이 필요해.",
+    "panel.p4.bubble.left.html": "저거처럼.",
+    "panel.p5.bubble.center.html": "아니면 다른 걸로."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic201.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"광속\"",
+    "panel.p1.bubble.left.html": "이제 내 임무를 끝내고, 불쌍한 데스봇의 복수를 하겠다.",
+    "panel.p1.bubble.right.html": "맘대로.",
+    "panel.p3.bubble.left.html": "빗나갔네.",
+    "panel.p3.bubble.right.html": "흐흐. 그랬을까?",
+    "panel.p4.bubble.left.html": "응. 심하게.",
+    "panel.p4.bubble.right.html": "<b>젠장!</b>  나름 연습도 했는데!"
+  }
+}

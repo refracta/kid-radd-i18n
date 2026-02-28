@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic211.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"오리지널\"",
+    "panel.p2.bubble.left.html": "하아, 잘 있어 호프타운.",
+    "panel.p2.bubble.center.html": "잘 있어, 안정적인 직장.",
+    "panel.p2.bubble.right.html": "잘 가라, 모더레이터.",
+    "panel.p3.bubble.left.html": "넷스페이스 진입.",
+    "panel.p3.bubble.center.html": "오오...",
+    "panel.p4.bubble.left.html": "이 함선, 밖에서 본 것보다 안이 훨씬 넓은데.",
+    "panel.p4.bubble.right.html": "관찰력이 좋군, 젊은이. 그건 내 독자적 \"공간 압축\" 기술이네.",
+    "panel.p5.bubble.left.html": "그러니까 결국 포켓볼 표절이네.",
+    "panel.p5.bubble.center.html": "닥터 후의 타디스에 더 가깝지.",
+    "panel.p5.bubble.right.html": "뭐, 어쨌든 맞아."
+  }
+}

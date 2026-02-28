@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic197.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"묻지 마, 또\"",
+    "panel.p1.narration.1.html": "전투 시작.",
+    "panel.p2.bubble.right.html": "멍청이! 내 함정은 파괴 불가능 합금으로 보호돼 있다! 네 한심한 공격이 귀여운 \"팅\" 소리와 함께 튕겨 나가는 걸 비웃어주마! 음하하하!",
+    "panel.p3.bubble.center.html": "천재님, 그 파괴 불가 금속인지 뭔지가 있으면 왜 네 멍청한 깜빡이 불빛은 안 감쌌어?",
+    "panel.p5.bubble.center.html": "너 진짜 와일리 콤플렉스 심하다."
+  }
+}

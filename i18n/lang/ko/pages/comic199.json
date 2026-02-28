@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic199.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"새로운 태도\"",
+    "panel.p1.narration.1.html": "그리고 결국...",
+    "panel.p1.bubble.center.html": "작별이다!",
+    "panel.p3.bubble.left.html": "안 돼!!! 내 또 하나의 천재적인 발명품이 또 실패했어! 왜???",
+    "panel.p4.bubble.left.html": "알겠다! 다음엔 깜빡이는 불빛을 <b>두 개</b>로 해야지!",
+    "panel.p4.bubble.right.html": "어...",
+    "panel.p5.bubble.left.html": "그리고 <b>움직이는</b> 플랫폼도!  세 개나!",
+    "panel.p5.bubble.right.html": "그래. 그렇게 해."
+  }
+}
