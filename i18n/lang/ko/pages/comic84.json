@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic84.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"수다 머리들\"",
+    "panel.p1.bubble.center.html": "침착해, 쿨하게 가...",
+    "panel.p2.bubble.center.html": "멍청한 헛소리는 무시하고...",
+    "panel.p3.bubble.center.html": "으아! 더는 못 참겠어!",
+    "panel.p4.bubble.center.html": "앗. 포커페이스를 잊었네."
+  }
+}

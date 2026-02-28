@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic81.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"거절당함\"",
+    "panel.p1.bubble.center.html": "분위기 이상해지는데.",
+    "panel.p2.bubble.center.html": "어? 그게 무슨 뜻이야?",
+    "panel.p3.bubble.center.html": "무슨 일이지? 끝난 거야?",
+    "panel.p5.bubble.left.html": "인간은 참 알 수 없는 방식으로 움직이는군.",
+    "panel.p5.bubble.right.html": "뭐-? 어, 안녕 래드."
+  }
+}

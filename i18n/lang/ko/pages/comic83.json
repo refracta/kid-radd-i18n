@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic83.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말은 하긴 하는데\"",
+    "panel.p1.bubble.center.html": "이번 인간들은 좀 더 명확하겠지.",
+    "panel.p2.bubble.center.html": "여기엔 말이 없어. 진짜로.",
+    "panel.p3.bubble.center.html": "여기엔 말이 없어. 진짜로.",
+    "panel.p4.bubble.center.html": "차라리 날 쏴줘. 제발."
+  }
+}

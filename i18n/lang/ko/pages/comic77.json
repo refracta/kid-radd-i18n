@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic77.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"마법\"",
+    "panel.p1.bubble.center.html": "야 래드, 잠깐!",
+    "panel.p1.bubble.right.html": "잠깐만 돌아와 봐.",
+    "panel.p2.bubble.left.html": "왜?",
+    "panel.p2.bubble.right.html": "조금만 더 말해봐. 그 일은 어떻게 돌아가?",
+    "panel.p3.bubble.left.html": "음, 인간이 날 호출하면 - 어? 지금 호출 온다! 개꿀!",
+    "panel.p3.bubble.right.html": "삐-이-이-입!",
+    "panel.p5.bubble.left.html": "인정하자, 방금 꽤 멋졌어.",
+    "panel.p5.bubble.right.html": "B+."
+  }
+}

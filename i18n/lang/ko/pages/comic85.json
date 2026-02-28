@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic85.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"바보들의 게임\"",
+    "panel.p1.bubble.left.html": "센 걸로 줘.",
+    "panel.p1.bubble.right.html": "알겠어.",
+    "panel.p2.bubble.left.html": "힘든 하루였어?",
+    "panel.p2.bubble.right.html": "힘든 한 주였지.",
+    "panel.p3.bubble.right.html": "인간들은 횡설수설하고, 유치하고, 때론 그냥 멍청해. 인간에 대한 환상이 전부 산산이 깨졌어.",
+    "panel.p4.bubble.left.html": "난 예전엔 그들이 우릴 만든 데 우주적인 이유라도 있을 줄 알았어. 근데 걔들한텐 우리는 그냥...",
+    "panel.p4.bubble.right.html": "게임?",
+    "panel.p5.bubble.left.html": "그래...",
+    "panel.p5.bubble.right.html": "당연한 소릴!"
+  }
+}

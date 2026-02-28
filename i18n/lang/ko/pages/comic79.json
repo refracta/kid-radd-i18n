@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic79.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네 방에서\"",
+    "panel.p1.bubble.center.html": "\"Coolistdude?\" 여기에 내 플레이어가 있는 건가?",
+    "panel.p2.bubble.center.html": "그리고 저건 또 다른 플레이어겠지! 와!",
+    "panel.p3.bubble.center.html": "믿기지가 않아! 진짜 전능한 인간들의 대화를 직접 듣고 있다니!",
+    "panel.p4.bubble.center.html": "근데 전지전능한 존재치곤 철자가 좀 엉망이네."
+  }
+}

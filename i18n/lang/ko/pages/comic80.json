@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic80.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"계속 말해봐\"",
+    "panel.p1.bubble.center.html": "사용자들은 이상하고 암호 같은 코드로 소통한다.",
+    "panel.p2.bubble.center.html": "무슨 말을 하는 건지 도통 모르겠어.",
+    "panel.p3.bubble.center.html": "혹시 사용자들의 언어는 평범한 스프라이트가 이해할 수 없는 영역인가?",
+    "panel.p4.bubble.center.html": "아니면 그냥 아닐 수도 있고."
+  }
+}
