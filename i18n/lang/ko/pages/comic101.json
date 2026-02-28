@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic101.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"기댈 곳\"",
+    "panel.p1.narration.1.html": "래드는 보기의 새 아파트를 찾아갑니다.",
+    "panel.p1.bubble.left.html": "말도 안 돼! 네 집은 네가 구해!",
+    "panel.p2.bubble.left.html": "야, 같이 돈 모아서 근사한 집 구하기로 했잖아!",
+    "panel.p2.bubble.right.html": "네가 주당 8달러 이상 벌 줄 알았을 때 얘기지.",
+    "panel.p3.bubble.left.html": "그래, 월세 반반은 못 내겠지 - 그래도 난 갈 데가 없어! 나 좀 재워줘! <b>제발!</b>",
+    "panel.p3.bubble.right.html": "아, 알았어...",
+    "panel.p4.bubble.left.html": "고마워, 정말 고마워! 내 방은 어디야?",
+    "panel.p4.bubble.right.html": "이쪽으로 - -",
+    "panel.p5.bubble.center.html": "야!",
+    "panel.p5.bubble.right.html": "빗자루 창고가 8달러 값은 하겠더라."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic104.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"정말 행복해\"",
+    "panel.p1.bubble.left.html": "아, 제발 좀. 인정머리 있게 굴어.",
+    "panel.p1.bubble.center.html": "하아.",
+    "panel.p1.bubble.right.html": "어...",
+    "panel.p2.bubble.left.html": "얘네 돌보기 엄청 쉬워! 자기 색이랑 맞는 물건 옆에 놓아두면 대충 행복해해. (물론 원래 게임 때만큼은 아니지만...)",
+    "panel.p3.bubble.left.html": "그냥 책장에 몇 마리 올려두면 안 돼?",
+    "panel.p3.bubble.center.html": "몇 마리?",
+    "panel.p3.bubble.right.html": "대체 얼마나 많은 애들을 떠넘기려는 건데?",
+    "panel.p4.bubble.left.html": "한... 256마리쯤.",
+    "panel.p4.bubble.center.html": "위대한 유저의 혼령이시여!",
+    "panel.p4.bubble.right.html": "새끼를 아주 크게 낳았네."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic103.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"넌 내 베프야\"",
+    "panel.p1.bubble.left.html": "여기 진짜 좋다, 너희 집.",
+    "panel.p1.bubble.center.html": "<b>내</b> 집이야.",
+    "panel.p2.bubble.left.html": "맞다! 집들이 선물이 필요하겠네.",
+    "panel.p2.bubble.center.html": "어머, 고마워.",
+    "panel.p2.bubble.right.html": "흠?",
+    "panel.p3.bubble.left.html": "이 귀여운 퍼즐 스프라이트 중 하나 입양해보는 거 어때?",
+    "panel.p3.bubble.right.html": "어...",
+    "panel.p4.bubble.left.html": "난 애완동물 키우는 타입은 아닌데.",
+    "panel.p4.bubble.right.html": "그리고 난 펫 필요 없어, 보기가 있잖아.",
+    "panel.p5.bubble.left.html": "나 한 번만 더 \"펫\"이라 부르면 네 \"방\"을 빨래바구니로 옮긴다.",
+    "panel.p5.bubble.right.html": "그래, 펫은 더 필요 없겠다."
+  }
+}

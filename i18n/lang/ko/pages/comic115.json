@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic115.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"동명 타이틀 앨범\"",
+    "panel.p1.narration.1.html": "그래서 닥터 앰프는 퍼즐 스프라이트들을 연구하고 돌봐주기로 합니다.",
+    "panel.p1.bubble.left.html": "정말 감사합니다.",
+    "panel.p1.bubble.center.html": "문제없어.",
+    "panel.p1.bubble.right.html": "짤랑짤랑!",
+    "panel.p2.bubble.left.html": "제가 도울 일이라도 있으면 -",
+    "panel.p2.bubble.center.html": "걱정 마, 내가 연락할게.",
+    "panel.p2.bubble.right.html": "<b>이제 그만 좀 해!</b>",
+    "panel.p3.bubble.left.html": "래드! 여기서 뭐 하는 거야?",
+    "panel.p3.bubble.right.html": "이건 <b>내</b> 코믹이야, 시나! 스포트라이트 독식 좀 그만해!",
+    "panel.p4.bubble.left.html": "봐, 제목에 <b>내</b> 이름 있잖아.",
+    "panel.p4.bubble.right.html": "이건 너무하잖아..."
+  }
+}

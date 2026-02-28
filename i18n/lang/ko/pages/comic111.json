@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic111.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"B-52\"",
+    "panel.p1.bubble.left.html": "여긴 왜 이렇게 어두워?",
+    "panel.p1.bubble.right.html": "죽을 준비해!",
+    "panel.p2.bubble.left.html": "불 좀 켜도 돼?",
+    "panel.p2.bubble.right.html": "야! 그러지 -",
+    "panel.p4.bubble.left.html": "귀엽네!",
+    "panel.p4.bubble.right.html": "죽음의 기계를 껴안는 행동은 삼가 주세요."
+  }
+}

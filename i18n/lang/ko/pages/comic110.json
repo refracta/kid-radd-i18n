@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic110.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"살인 본능\"",
+    "panel.p1.bubble.left.html": "그럼 들어가도 돼?",
+    "panel.p1.bubble.right.html": "다시 묻지. 예약은 했나?",
+    "panel.p2.bubble.left.html": "어, 아니.",
+    "panel.p2.bubble.right.html": "그렇다면 내게 남은 선택지는 하나뿐...",
+    "panel.p3.bubble.center.html": "<b>널 파괴하는 것뿐이다!!!</b>",
+    "panel.p4.bubble.left.html": "제 실수였네요. 예약했어요.",
+    "panel.p4.bubble.right.html": "수작 부리지 마."
+  }
+}

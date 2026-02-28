@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic112.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"침 한 방\"",
+    "panel.p1.bubble.left.html": "들어봐, 나랑 싸우는 건...",
+    "panel.p1.bubble.right.html": "말은 그만! 파멸의 시간이다!",
+    "panel.p2.bubble.center.html": "<b>허니비 스팅!</b>",
+    "panel.p3.bubble.left.html": "???",
+    "panel.p4.bubble.left.html": "또 실패네... 내 침은 또 안 먹히네. 하아.",
+    "panel.p4.bubble.right.html": "어... 코멘트는 사양할게..."
+  }
+}

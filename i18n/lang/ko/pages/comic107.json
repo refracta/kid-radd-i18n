@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic107.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"의심의 여지 없음\"",
+    "panel.p1.bubble.left.html": "아, 헛수고였네. 걔네가 퍼즐 스프라이트는 안 받겠대.",
+    "panel.p2.bubble.left.html": "결국 불쌍한 애들을 다른 쓸모없다는 스프라이트들이랑 같이 창고에 둬야겠네. 하아...",
+    "panel.p3.bubble.left.html": "도와달라고 부탁할 사람이 한 명 더 있긴 한데...",
+    "panel.p5.narration.1.html": "다행히 시나는 고용주의 채용 기준을 의심하지 않습니다.",
+    "panel.p5.bubble.left.html": "제가 안 한다고요?"
+  }
+}
