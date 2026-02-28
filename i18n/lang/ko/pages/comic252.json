@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic252.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"앗, 또 해버렸네\"",
+    "panel.p1.bubble.right.html": "진정해 얘들아, 여전히 내 쇼야. 너희는 안 다칠 거야.",
+    "panel.p2.bubble.center.html": "봐, 바로 앞이 입구고 난 혼자 들어갈게. 행운 빌어줘.",
+    "panel.p3.bubble.left.html": "휴, 그 우발적 텔레포트 한 번으로 우리 다 끝장난 줄 알았어!",
+    "panel.p3.bubble.center.html": "나도. 정말 다행이다...",
+    "panel.p3.bubble.right.html": "안심해, 그런 일은 다시 없을 테니까."
+  }
+}

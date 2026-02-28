@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic249.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"걱정 마\"",
+    "panel.p1.bubble.left.html": "나도 모르겠다, 시나...",
+    "panel.p1.bubble.center.html": "정말 이걸 끝까지 할 거야?",
+    "panel.p1.bubble.right.html": "진짜 이거밖에 방법이 없어.",
+    "panel.p2.bubble.left.html": "모더레이터를 막을 방법이 조금이라도 있다면, 예언자만이 알아.  모두를 위해서라도 우린 <b>반드시</b> 알아내야 해.",
+    "panel.p3.bubble.left.html": "그럼 결정됐네. 앰프한테 예언자한테 데려다달라고 할게.",
+    "panel.p3.bubble.right.html": "괜찮아, 이미 말해뒀어. 이제 거의 도착해.",
+    "panel.p4.bubble.left.html": "<b>뭐라고?</b>",
+    "panel.p4.bubble.center.html": "적어도 단체 결정인 척은 할 수 있었잖아.",
+    "panel.p4.bubble.right.html": "했지 - 소급해서."
+  }
+}

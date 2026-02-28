@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic264.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"대중문화 레퍼런스\"",
+    "panel.p1.bubble.left.html": "모더레이터 순양함 세 척이 추격 중이야 - 사격 시작한다!",
+    "panel.p1.bubble.right.html": "선택의 여지 없다, 모두 포탑으로!",
+    "panel.p2.bubble.left.html": "아, 난 폭력 싫은데... 해야겠네...",
+    "panel.p3.bubble.center.html": "좋아, 모더레이터 쓰레기들아, 록앤롤 타임이다!",
+    "panel.p4.bubble.right.html": "음, 난 뭐가 손에 안 닿아. 그리고 대부분 조작부는, 그... 손이 필요하거든.",
+    "panel.p5.bubble.left.html": "아아아악!",
+    "panel.p5.bubble.right.html": "아냐, 앰프가 설계할 때 보기들을 염두에 둔 건 아니지."
+  }
+}

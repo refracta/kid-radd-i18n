@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic246.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"벽\"",
+    "panel.p1.bubble.left.html": "보기, 우리 이제 뭘 해야 할지 알 것 같아.",
+    "panel.p1.bubble.right.html": "잠깐만 시나, 나 바빠. 자, 래드!",
+    "panel.p3.bubble.left.html": "내가 <b>말했</b>잖아, 머리로 벽 못 깬다고!  이제 돈 내!",
+    "panel.p3.bubble.right.html": "아 젠장...",
+    "panel.p4.bubble.left.html": "너희 진짜 이 함선에서 좀 내려야겠다.",
+    "panel.p4.bubble.center.html": "다음엔 전력관 못 깬다에 건다!",
+    "panel.p4.bubble.right.html": "좋아, 받아!"
+  }
+}

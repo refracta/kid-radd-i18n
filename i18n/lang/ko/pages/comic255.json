@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic255.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"프라이빗 아이즈\"",
+    "panel.p1.bubble.center.html": "<b>하지만 그 일은 일어나지 않았다.  계획되지 않은 일이 우리에게 - 내게 - 벌어졌기 때문이다.</b>",
+    "panel.p3.bubble.right.html": "<b>나는 내 곁을 지나가는 정보를 관찰하는 일이 좋아졌다.  계속해서 새로운 것을 배우는 일이 좋아졌다.</b>",
+    "panel.p4.bubble.center.html": "<b>나는 인터넷을 파괴하지 않기로 했다. 그리고 인간에 대해 계속 배우기로 했다.  그렇게 \"CR\" 바이러스는 \"예언자\"가 되었다. </b>",
+    "panel.p5.bubble.center.html": "<b>그래서 내 영향력은 계속 확장되고 있다.  나는 웹에 존재하는 모든 것을 보고, 모든 것을 안다.</b>"
+  }
+}

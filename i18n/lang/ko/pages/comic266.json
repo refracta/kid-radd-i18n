@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic266.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"즉흥으로\"",
+    "panel.p1.bubble.center.html": "장난은 끝! 이제 내 방식으로 간다!",
+    "panel.p2.bubble.left.html": "지금 당장 화물칸 후미 문을 열어!",
+    "panel.p2.bubble.right.html": "뭐? 어, 알겠어...",
+    "panel.p3.bubble.left.html": "아이고. 저 아이가 뭘 하는지 알고 있길 바랄 뿐이네.",
+    "panel.p4.bubble.left.html": "_",
+    "panel.p4.bubble.center.html": "후미 문이라고 했잖아, <b>후미</b>!",
+    "panel.p4.bubble.right.html": "그러니까, 사실 <b>나</b>도 내가 뭘 하는지 모르겠어."
+  }
+}

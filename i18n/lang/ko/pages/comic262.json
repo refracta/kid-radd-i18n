@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic262.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이제 'eye' 제목도 다 떨어졌네\"",
+    "panel.p1.bubble.center.html": "<b>그러니 이제 가라 - 게임에서 게임으로 여행하며 새 동료를 찾고, 싸움에서 승리해라.  행운을 빈다.</b>",
+    "panel.p3.bubble.left.html": "아 제발, 여기서 끝이면 안 되지.",
+    "panel.p3.bubble.center.html": "나 완전 인기남 될 수 있었는데...",
+    "panel.p3.bubble.right.html": "앞으로 나아갈 만큼은 배웠길 바라자.",
+    "panel.p5.bubble.left.html": "이제 어떡해?",
+    "panel.p5.bubble.right.html": "드디어 너희를 되찾았어! 당장 가야 해!",
+    "panel.p6.bubble.left.html": "왜 이렇게 급해?",
+    "panel.p6.bubble.center.html": "모더레이터가 예언자 기지를 공격 중이야!",
+    "panel.p6.bubble.right.html": "<b>뭐라고???</b>",
+    "panel.p7.bubble.left.html": "\"뭐라고?\"",
+    "panel.p7.bubble.center.html": "인간 표현이야. 채팅방에서 배웠어.",
+    "panel.p7.bubble.right.html": "얘긴 나중에. 당장 여기서 빠져나가야 해!"
+  }
+}

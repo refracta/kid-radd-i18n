@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic243.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"달리는 중\"",
+    "panel.p1.bubble.right.html": "보기랑 어울리는 건 지루해. 앰프가 뭐 하는지 보러 가야지.",
+    "panel.p4.bubble.right.html": "기관실? 생각해보니 나도 여긴 처음이네...",
+    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr><td><center><table border=\"0\" cellspacing=\"2\" cellpadding=\"2\">\n<!-- left bubble // -->\n<tbody><tr><td bgcolor=\"ffffff\"><font size=\"2\" face=\"arial\"><center><b>세상에 비트 신이시여!</b></center></font></td>\n<!-- middle bubble // -->\n<td><font size=\"1\" face=\"arial\"><center></center></font></td>\n<!-- right bubble // -->\n<td width=\"10\"><font size=\"2\" face=\"arial\"><center></center></font></td></tr>\n<!-- bubble \"stems\" // -->\n<tr><td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"><b>\\</b></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"black\"></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"></font></center></font></td></tr>\n</tbody></table></center></td></tr>\n<!-- imsert images on this line // -->\n<tr><td width=\"98\" align=\"right\"><img width=\"63\" height=\"96\" src=\"../assets/raddwow2.gif\"></td></tr>\n<!-- insert ground \"tiles\" on this line // -->\n</tbody></table>"
+  }
+}

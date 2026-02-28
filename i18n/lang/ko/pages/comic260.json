@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic260.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"진실의 눈\"",
+    "panel.p1.bubble.center.html": "<b>웹의 \"사이버월드\"는 네가 보이는 그대로가 아니다.  네겐 여기에 규칙이 있다고 느껴지지.</b>",
+    "panel.p2.bubble.center.html": "<b>네겐 물리 법칙이 있는 것처럼 보인다 - 단단한 물체와 보편적 상호작용 법칙이 존재한다고.  하지만 아니다.</b>",
+    "panel.p3.bubble.left.html": "못 알아듣겠어. 모호함 101은 그만하고 구체적으로 말해.",
+    "panel.p3.bubble.right.html": "<b>좋다.  중력은 존재하지 않는다.</b>",
+    "panel.p4.bubble.left.html": "말도 안 돼! 내가 구덩이에 떨어진 게 몇 번인데 그게 아니라고?",
+    "panel.p4.bubble.right.html": "<b>하지만 사실이다.  너를 아래로 끌어당기는 중력은 없다. 너는 스스로 아래로 떨어진다.</b>",
+    "panel.p5.bubble.center.html": "<b>스프라이트의 물리는 전적으로 개인적이다.  너는 \"중력\"이라는 외부 요인 때문에 떨어지는 게 아니라, 네 프로그래밍에 떨어짐이 포함돼 있기 때문에 떨어진다.</b>",
+    "panel.p7.bubble.left.html": "하지만... 규칙이 진짜가 아니라면...",
+    "panel.p7.bubble.right.html": "<b>그렇다면 무엇이든 가능하다.</b>"
+  }
+}

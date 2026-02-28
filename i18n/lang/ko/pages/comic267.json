@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic267.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"나를 데려가\"",
+    "panel.p1.bubble.right.html": "그래, 또 새로운 도박을 해보는 거지. 늘 그렇듯. 흥.",
+    "panel.p2.bubble.center.html": "제발 저놈들을 맞출 수 있길, 그리고 완충한 메가 래드 한 방이면 끝낼 수 있길 바라자.",
+    "panel.p4.bubble.center.html": "와... 먹혔네. 한 놈 남았다..."
+  }
+}

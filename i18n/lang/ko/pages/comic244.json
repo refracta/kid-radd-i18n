@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic244.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"손 단단히 잡아\"",
+    "panel.p2.bubble.left.html": "함선 동력을 퍼즐 스프라이트로 돌린다고???",
+    "panel.p2.bubble.right.html": "물론이지. 걔들은 우리에게 영원히 충분한 무료 동력이고, 본인들도 좋아하거든."
+  }
+}

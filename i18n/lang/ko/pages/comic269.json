@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic269.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"성찰\"",
+    "panel.p1.bubble.left.html": "하아. 우리 아니면 저쪽이었단 건 알지만...",
+    "panel.p2.bubble.left.html": "래드, 무슨 일이야?",
+    "panel.p2.bubble.right.html": "아무것도 아니야, 진짜. 그냥 생각 좀 했어.",
+    "panel.p3.bubble.right.html": "난 꽤 단순한 존재야. 내게 주어진 능력은 둘뿐이지. 이동과 사격. 그게 전부고, 그 능력은 한 가지 목적을 가리켜:",
+    "panel.p4.bubble.center.html": "나도 다른 게임 캐릭터 대부분처럼, 오직 살상을 위해 설계됐어. 그리고 오늘도 예전 수백만 번처럼 적과 맞서 쏴버렸지.",
+    "panel.p5.bubble.right.html": "하지만 차이가 있어. 처음으로, 이건 게임의 일부가 아니었어. 오늘 전까지 난 누구도 진짜로 죽여본 적이 없었거든."
+  }
+}

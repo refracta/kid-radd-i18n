@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic263.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"뒤통수\"",
+    "panel.p1.bubble.left.html": "미친놈들이야!",
+    "panel.p2.bubble.left.html": "왜? 왜 저러는 거야?",
+    "panel.p2.bubble.right.html": "아마 크리스털이 다른 누군가가 기적 같은 목표를 이루는 걸 감당 못 해서겠지.",
+    "panel.p3.bubble.left.html": "가버리네...",
+    "panel.p3.bubble.right.html": "와...",
+    "panel.p4.bubble.left.html": "모더레이터는 이제 진짜 가차 없군...",
+    "panel.p4.bubble.right.html": "그나마 다행인 건, 예언자 상대하느라 바빠서 <b>우리</b>를 공격할 틈이 없었다는 점이지.",
+    "panel.p5.bubble.left.html": "사실 우리를 제거하라고 증원팀을 불렀을 가능성이 높아.",
+    "panel.p5.bubble.right.html": "왜 그런 건 꼭 말할 타이밍을 늦추는 거야?"
+  }
+}

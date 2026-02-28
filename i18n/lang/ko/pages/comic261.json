@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic261.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"내 눈은 거짓말 못 해\"",
+    "panel.p1.bubble.center.html": "<b>모더레이터는 겉보기엔 강력한 전사들로 군대를 만들었다.  공격력, 방어력 같은 수치가 높은 개체들을 골랐지.</b>",
+    "panel.p2.bubble.center.html": "<b>하지만 그 군대는 무력만 있으면 모든 걸 정복할 수 있다는 \"현실\" 세계의 잘못된 가정 위에 세워졌다.  그게 그들의 약점이다.</b>",
+    "panel.p3.bubble.left.html": "<b>너희도 군대를 만들어라 - 하지만 모더레이터보다 더 현명하게 챔피언을 고른다면, 그들의 군대만큼 클 필요는 없다.</b>",
+    "panel.p4.bubble.left.html": "어떻게 하지?",
+    "panel.p4.bubble.right.html": "<b>비범한 개체를 찾아라.  공격에 강하거나 \"규칙\"을 깨는 특별한 재능을 찾아라.</b>",
+    "panel.p5.bubble.left.html": "또 모호한 얘기로 돌아왔네.",
+    "panel.p5.bubble.right.html": "<b>내가 다 말해버리면, 그게 무슨 모험이겠나?</b>"
+  }
+}

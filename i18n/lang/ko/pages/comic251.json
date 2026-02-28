@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic251.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"작별 인사\"",
+    "panel.p1.bubble.left.html": "네가 저... 물체 안으로 걸어 들어간다는 게 믿기질 않네. 살아 있는 것처럼 보여.",
+    "panel.p1.bubble.center.html": "오래 안 걸릴 거야. 이제 갈 준비 됐어요, 닥터 앰프.",
+    "panel.p2.bubble.left.html": "그럼, 곧 보자 얘들아.",
+    "panel.p2.bubble.center.html": "정말 조심해.",
+    "panel.p2.bubble.right.html": "응... 제발.",
+    "panel.p4.bubble.right.html": "뭐야 -? 오. 닥터 앰프가 또 실수했나 보네? 참, 거의 웃기기까지 하다.",
+    "panel.p5.bubble.right.html": "하아, 이거 끝이 좋을 리가..."
+  }
+}

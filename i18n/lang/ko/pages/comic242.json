@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic242.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"햇살 위를 걷다\"",
+    "panel.p1.bubble.left.html": "보기? 여기 있어?",
+    "panel.p1.bubble.right.html": "응, 들어와.",
+    "panel.p2.bubble.left.html": "아, 음... 그래.",
+    "panel.p2.bubble.right.html": "왜?",
+    "panel.p3.bubble.left.html": "너, 음... 괜찮은 거 맞아?",
+    "panel.p3.bubble.right.html": "이게 내 휴식 방식이야, 알겠어? 너도 해봐.",
+    "panel.p4.bubble.left.html": "사양할게. 난 적 스프라이트 취미는 별로야.",
+    "panel.p4.bubble.right.html": "네 손해지. 듣자니 시나는 좋아하던데.",
+    "panel.p5.bubble.left.html": "야, 이거 <b>좀</b> 재밌는데.",
+    "panel.p5.bubble.right.html": "넌 진짜 잘 흔들리네?"
+  }
+}

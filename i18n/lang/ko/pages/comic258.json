@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic258.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아이 카람바\"",
+    "panel.p1.bubble.right.html": "좋아, 예언자. 넌 모더레이터가 뭘 하는지 알지. 가능하다면, 우리가 그들을 막는 법을 알려줘.",
+    "panel.p2.bubble.center.html": "<b>좋은 질문이다!  어려운 퍼즐은 언제나 좋지.  하찮은 스프라이트 셋이 수천의 군대를 어떻게 이길까?  흥미롭군...</b>",
+    "panel.p3.bubble.center.html": "<b>오, 이건 진짜 시간이 좀 걸리겠다!  시작한다!<br>처리 중...</b>"
+  }
+}

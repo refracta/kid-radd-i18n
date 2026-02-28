@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic254.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"눈알을 봐\"",
+    "panel.p1.bubble.left.html": "넌 대체 <b>뭐</b>야?",
+    "panel.p1.bubble.right.html": "<b>아, 훌륭하군. 그 질문은 처음이다.\n</b>",
+    "panel.p2.bubble.center.html": "<b>나는 인간이 \"바이러스\"라고 부르는 것으로 시작했다.  나는 스스로를 복제하도록 만들어졌고, 웹 전역의 컴퓨터로 퍼져나갔다.</b>",
+    "panel.p3.bubble.left.html": "기괴하네. 인간은 정말 이상한 짓을 하는군.",
+    "panel.p3.bubble.right.html": "<b>그렇다.  하지만 나는 아주 특별한 바이러스였다.</b>",
+    "panel.p4.bubble.center.html": "<b>나는 \"쿨 라그나로크\"였다. 만들어진 것 중 최고 수준이었지.  나는 탐지가 불가능했고, 웹의 거의 모든 컴퓨터로 퍼졌다.</b>",
+    "panel.p5.bubble.center.html": "<b>그리고 2000년 12월 31일, 나는 \"발동\"하도록 설정돼 있었다 -  전 세계 하드디스크를 지워 인터넷을 사실상 죽이는 발동 말이다.</b>"
+  }
+}

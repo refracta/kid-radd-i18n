@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "page": "pages/comic257.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아이 아이 아이즈\"",
+    "panel.p1.bubble.left.html": "우린 이걸 제대로 말아먹었네.",
+    "panel.p1.bubble.center.html": "내 질문을 낭비하려던 건 아니었어.",
+    "panel.p1.bubble.right.html": "내가 <b>뭐든지</b> 물어볼 수 있었는데, 그 멍청한 눈알 정체를 물었잖아!",
+    "panel.p2.bubble.left.html": "이제 나만 남았어. 내가 질문해야 해.",
+    "panel.p2.bubble.center.html": "래드, 크리스털한테 뭐라고 했는지 물어봐!",
+    "panel.p2.bubble.right.html": "여자 꼬시는 비밀을 물어볼 수 있었는데!",
+    "panel.p3.bubble.center.html": "안 돼. 크리스털 계획을 알아도 충분치 않을 수 있어. 뭘 하는지는 알겠지만 막는 방법은 모를 수도 있잖아.",
+    "panel.p4.bubble.left.html": "우린 모더레이터를 이기는 방법을 물어야 해.",
+    "panel.p4.bubble.center.html": "네 말이 맞아, 래드. 좋은 생각이야.",
+    "panel.p4.bubble.right.html": "난 \"세련됨\"이나 \"섬세함\" 같은 거 물어볼 수도 있었는데...",
+    "panel.p5.bubble.left.html": "그럼 이제 답이 <b>있기만</b> 바라야 해.",
+    "panel.p5.bubble.center.html": "그래, 정말로.",
+    "panel.p5.bubble.right.html": "내가 궁극의 여자 자석이 될 수도 있었단 말이야! 으아아!"
+  }
+}

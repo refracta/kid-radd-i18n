@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic241.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"손에 남는 시간\"",
+    "panel.p1.bubble.left.html": "아무것도 할 수 없다는 게 너무 우울해... 다들 어떻게 버티고 있으려나?",
+    "panel.p2.bubble.left.html": "일도 없고 할 것도 없어. 나 미쳐버릴 것 같아!",
+    "panel.p3.bubble.right.html": "일도 없고 할 것도 없어. 최고다!",
+    "panel.p4.bubble.left.html": "일도 없고 할 것도 없어. 그러니까 대량살상무기나 만들까.",
+    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr><td><center><table border=\"0\" cellspacing=\"2\" cellpadding=\"2\" width=\"160\">\n<!-- left bubble // -->\n<tbody><tr><td bgcolor=\"ffffff\"><font size=\"2\" face=\"arial\"><center>라라라... 라라리이이 라라...<br><i>히히.</i></center></font></td>\n<!-- middle bubble // -->\n<td><font size=\"1\" face=\"arial\"><center></center></font></td>\n<!-- right bubble // -->\n<td width=\"10\"><font size=\"2\" face=\"arial\"><center></center></font></td></tr>\n<!-- bubble \"stems\" // -->\n<tr><td><font size=\"2\" face=\"tahoma\"><center><font color=\"black\">/</font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"black\"></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"></font></center></font></td></tr>\n</tbody></table></center></td></tr>\n<!-- imsert images on this line // -->\n<tr><td><center><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><img width=\"63\" height=\"96\" src=\"../assets/juliefglad2.gif\"></td><td></td><td width=\"64\"></td></tr></tbody></table></center></td></tr>\n<!-- insert ground \"tiles\" on this line // -->\n<tr><td height=\"12\"></td></tr>\n</tbody></table>"
+  }
+}

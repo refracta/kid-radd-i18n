@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic256.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이 눈들\"",
+    "panel.p1.bubble.left.html": "우리가 널 찾아와서 저주받는 건 아니겠지?",
+    "panel.p1.bubble.right.html": "<b>정확히는 아니다, 작은 존재여.</b>",
+    "panel.p2.bubble.center.html": "<b>나를 찾아왔다 죽은 자들이 있긴 했지만, 언제나 스스로의 선택 때문이었다.  나는 그저 질문자에게 목표를 이루는 방법을 알려줄 뿐이다.</b>",
+    "panel.p4.bubble.left.html": "<b>그리고 이제 마지막 질문의 시간이다.</b>",
+    "panel.p4.bubble.right.html": "마지막 질문?",
+    "panel.p5.bubble.center.html": "<b>방문자당 질문 하나다.  알고 있을 줄 알았다.</b>"
+  }
+}

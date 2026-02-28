@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic265.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"페일세이프\"",
+    "panel.p1.bubble.center.html": "이거 안 먹혀! 우리 완전 학살당하고 있어!",
+    "panel.p2.bubble.left.html": "당연하지. 저쪽은 고도로 훈련됐고 우린 완전 초보야. 패배는 예정된 거였어.",
+    "panel.p3.bubble.center.html": "앰프, 이런 때 쓰는 비밀무기 같은 거 없어요?",
+    "panel.p4.bubble.left.html": "없지. 하지만 다음엔 반드시 만들겠네. 우리가 살아남는다면 말이지.",
+    "panel.p4.bubble.right.html": "당연히."
+  }
+}

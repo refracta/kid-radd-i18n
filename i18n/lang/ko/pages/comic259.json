@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic259.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"내가 말했다\"",
+    "panel.p1.bubble.center.html": "<b>완료.</b>",
+    "panel.p2.bubble.left.html": "<b>가능하긴 하다.  하지만 어렵다.  먼저 사이버월드의 본질을 설명해야 한다.</b>",
+    "panel.p2.bubble.right.html": "그게 뭔데?...",
+    "panel.p3.bubble.center.html": "<b>우리 세계의 진짜 본질은, 우리 세계엔 진짜 본질이 없다는 것이다.</b>",
+    "panel.p4.bubble.left.html": "좋네. 수수께끼를 수수께끼로 받으려고 온 거면 농담책이나 보지.",
+    "panel.p4.bubble.right.html": "<b>흥, 내 재미를 망치는군.</b>"
+  }
+}

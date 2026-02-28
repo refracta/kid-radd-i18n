@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic248.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"바보의 기회\"",
+    "panel.p1.bubble.left.html": "미안 시나, 난 예언자랑 대화할 생각 없어.",
+    "panel.p1.bubble.center.html": "유감스럽지만 저도 동의해요.",
+    "panel.p1.bubble.right.html": "근데 너희는 그럴 수 없지.",
+    "panel.p2.bubble.left.html": "<b>나는</b> 할 거야.  내 아이디어니까 내가 위험을 감수해.  이건 해야 해.",
+    "panel.p3.bubble.left.html": "하지만 시나...",
+    "panel.p3.bubble.center.html": "목숨을 던지지 마!",
+    "panel.p3.bubble.right.html": "아, 안 그래! 정말로.",
+    "panel.p4.bubble.left.html": "나 무적 NPC인 거 잊었어? 억지스러운 원숭이손식 사고로 날 죽일 방법은 없어! 난 멀쩡할 거야!",
+    "panel.p5.bubble.center.html": "<b>...아마도.</b>"
+  }
+}
