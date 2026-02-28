@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic19.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"BREAKAWAY\"",
+    "panel.p1.bubble.left.html": "...Where is the looseleaf paper?",
+    "panel.p1.bubble.center.html": "Heheh.",
+    "panel.p1.bubble.right.html": "What have you done to Radd???",
+    "panel.p2.bubble.left.html": "Must... collate...",
+    "panel.p2.bubble.center.html": "He's under my power now, as a mere office flunkie.",
+    "panel.p2.bubble.right.html": "You <i>fiend!</i>  Fight it, Radd!",
+    "panel.p3.bubble.left.html": "Need... toner...",
+    "panel.p3.bubble.center.html": "Don't waste your time, he's beyond help.",
+    "panel.p3.bubble.right.html": "Break free, Radd! Pound the buttons or something!",
+    "panel.p4.bubble.left.html": "I'M BACK! YESSS!!!",
+    "panel.p4.bubble.center.html": "\"Pound the buttons?\" What the hell does that mean?",
+    "panel.p4.bubble.right.html": "I dunno, really..."
+  }
+}

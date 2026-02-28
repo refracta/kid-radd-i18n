@@ -5,10 +5,10 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"사랑할 준비\"",
-    "panel.p1.bubble.center": "그래, 플레이어가 나한테 별별 위험한 일을 다 시키긴 해.",
-    "panel.p2.bubble.center": "그래도 내 여자친구 시나를 구하면 다 보상받는 거지.",
-    "panel.p3.bubble.center": "헤헤, 엄청 고마워하겠지. 뽀뽀 세례 받으러 간다!",
-    "panel.p4.bubble.center": "흠, 근데 시나가 어떻게 생겼더라?..."
+    "title.main.html": "\"사랑할 준비\"",
+    "panel.p1.bubble.center.html": "그래, 플레이어가 나한테 별별 위험한 일을 다 시키긴 해.",
+    "panel.p2.bubble.center.html": "그래도 내 여자친구 시나를 구하면 다 보상받는 거지.",
+    "panel.p3.bubble.center.html": "헤헤, 엄청 고마워하겠지. 뽀뽀 세례 받으러 간다!",
+    "panel.p4.bubble.center.html": "흠, 근데 시나가 어떻게 생겼더라?..."
   }
 }

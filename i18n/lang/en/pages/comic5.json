@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic5.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"SWEET EMOTION\"",
+    "panel.p1.narration.1.html": "You may be wondering why Radd goes through all of this.",
+    "panel.p1.bubble.center.html": "You aren't alone.",
+    "panel.p2.narration.1.html": "It is Radd's duty to strive for the game's ultimate goal:",
+    "panel.p2.bubble.center.html": "Which is?...",
+    "panel.p3.narration.1.html": "To rescue his \"babe-ular\" girlfriend, Sheena.",
+    "panel.p3.bubble.center.html": "<b>Dude!</b>",
+    "panel.p4.narration.1.html": "Good luck, Radd.",
+    "panel.p4.bubble.center.html": "I didn't know I had a girlfriend! Awesome!"
+  }
+}

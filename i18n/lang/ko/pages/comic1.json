@@ -5,13 +5,13 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"컬러 미 래드\"",
-    "panel.p1.narration.1": "클래식 비디오 게임 Kid Radd의 세계에 오신 것을 환영합니다.",
-    "panel.p2.narration.1": "게임의 주인공, 래드를 소개합니다.",
-    "panel.p2.bubble.center": "안녕.",
-    "panel.p3.narration.1": "이 연재는 영웅적이고 멋진 사나이 래드의 활약을 따라갑니다.",
-    "panel.p3.bubble.center": "멋진데.",
-    "panel.p4.narration.1": "물론 여기서 말하는 \"멋짐\"은 1980년대 중반 기준입니다.",
-    "panel.p4.bubble.center": "에어 기타! 우!"
+    "title.main.html": "\"컬러 미 래드\"",
+    "panel.p1.narration.1.html": "클래식 비디오 게임 Kid Radd의 세계에 오신 것을 환영합니다.",
+    "panel.p2.narration.1.html": "게임의 주인공, 래드를 소개합니다.",
+    "panel.p2.bubble.center.html": "안녕.",
+    "panel.p3.narration.1.html": "이 연재는 영웅적이고 멋진 사나이 래드의 활약을 따라갑니다.",
+    "panel.p3.bubble.center.html": "멋진데.",
+    "panel.p4.narration.1.html": "물론 여기서 말하는 \"멋짐\"은 1980년대 중반 기준입니다.",
+    "panel.p4.bubble.center.html": "에어 기타! 우!"
   }
 }

@@ -5,11 +5,11 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"대체 나한테 뭘 원하는 거야\"",
-    "panel.p1.narration.1": "래드는 게임이 바뀌어도 계속 나아갑니다...",
-    "panel.p1.bubble.center": "지난 몇 주 동안 천 번은 죽은 것 같지만, 게임은 거의 다 봤어.",
-    "panel.p2.bubble.center": "플레이어가 엄청 늘어서 곧 게임을 깨겠네. 그러면 나도 좀 휴가 같은 거 받으려나.",
-    "panel.p3.bubble.center": "좋았어! 다음엔 뭐가 나오려나?",
-    "panel.p4.bubble.center": "이건 그냥 너무하잖아..."
+    "title.main.html": "\"대체 나한테 뭘 원하는 거야\"",
+    "panel.p1.narration.1.html": "래드는 게임이 바뀌어도 계속 나아갑니다...",
+    "panel.p1.bubble.center.html": "지난 몇 주 동안 천 번은 죽은 것 같지만, 게임은 거의 다 봤어.",
+    "panel.p2.bubble.center.html": "플레이어가 엄청 늘어서 곧 게임을 깨겠네. 그러면 나도 좀 휴가 같은 거 받으려나.",
+    "panel.p3.bubble.center.html": "좋았어! 다음엔 뭐가 나오려나?",
+    "panel.p4.bubble.center.html": "이건 그냥 너무하잖아..."
   }
 }

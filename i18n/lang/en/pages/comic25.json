@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic25.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"ROLL WITH IT\"",
+    "panel.p1.narration.1.html": "Things don't look good for Radd in his fight against the Gnarlborg.",
+    "panel.p2.bubble.center.html": "Stupid player keeps getting me killed! And just when I'm so close to Sheena!",
+    "panel.p3.bubble.center.html": "Quit whining! At least you got multiple lives. I only have to lose once, and the game ends.",
+    "panel.p4.bubble.left.html": "Wow, I never thought of it that way.",
+    "panel.p4.bubble.right.html": "Well, you should, so be grateful.",
+    "panel.p5.bubble.left.html": "*Cough, cough.* Thank you...",
+    "panel.p5.bubble.right.html": "Hey, no problem."
+  }
+}

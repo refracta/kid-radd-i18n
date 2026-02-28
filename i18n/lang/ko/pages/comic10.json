@@ -5,13 +5,13 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"전원 좀 켜줘\"",
-    "panel.p1.narration.1": "그렇게 플레이어는 또 한 판을 지고 게임을 끝내며 콘솔 전원을 꺼 버립니다.",
-    "panel.p1.bubble.center": "게임 오버",
-    "panel.p2.bubble.center": "전원이 꺼질 때마다 난 이런 이상한 빈 공간에 오게 돼.",
-    "panel.p3.bubble.center": "이 끝없는 공허는 뭐지? 저세상 같은 건가? 삭제된 데이터가 오는 곳인가?",
-    "panel.p4.bubble.center": "여기 있는 동안에도 시간이 흐르긴 하는 걸까? 난 지금 기술적으로 살아 있는 걸까, 아니면 의식이라도 있는 걸까? 그것도 아니라면, 난 왜 이 공간을 느끼고 있는 거지?",
-    "panel.p5.narration.1": "조심하세요, 래드. 점점 심오해지고 있습니다.",
-    "panel.p5.bubble.center": "그러니까... 이거 완전 구려! 안 멋져! 전혀 짜릿하지도 않고! 뭐, 그런 거야..."
+    "title.main.html": "\"전원 좀 켜줘\"",
+    "panel.p1.narration.1.html": "그렇게 플레이어는 또 한 판을 지고 게임을 끝내며 콘솔 전원을 꺼 버립니다.",
+    "panel.p1.bubble.center.html": "GAME OVER",
+    "panel.p2.bubble.center.html": "전원이 꺼질 때마다 난 이런 이상한 빈 공간에 오게 돼.",
+    "panel.p3.bubble.center.html": "이 끝없는 공허는 뭐지? 저세상 같은 건가? 삭제된 데이터가 오는 곳인가?",
+    "panel.p4.bubble.center.html": "여기 있는 동안에도 시간이 흐르긴 하는 걸까? 난 지금 기술적으로 살아 있는 걸까, 아니면 의식이라도 있는 걸까? 그것도 아니라면, 난 왜 이 공간을 느끼고 있는 거지?",
+    "panel.p5.narration.1.html": "조심하세요, 래드. 점점 심오해지고 있습니다.",
+    "panel.p5.bubble.center.html": "그러니까... 이거 완전 구려! 안 멋져! 전혀 짜릿하지도 않고! 뭐, 그런 거야..."
   }
 }

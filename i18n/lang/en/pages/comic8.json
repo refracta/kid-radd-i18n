@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic8.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"CAN'T STAND LOSING\"",
+    "panel.p1.narration.1.html": "Of course, Radd can take damage as well as give it.",
+    "panel.p1.bubble.center.html": "Sigh, do we hafta talk about that?",
+    "panel.p2.bubble.center.html": "My lifemeter is represented by my name, which the player sees at the top of the screen.",
+    "panel.p3.bubble.center.html": "When I take damage, I lose letters until they're gone, and then I lose a life.",
+    "panel.p4.narration.1.html": "And trust us, Radd knows plenty about losing lives.",
+    "panel.p4.bubble.center.html": "Can I help it if my player really sucks?"
+  }
+}

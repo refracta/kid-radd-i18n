@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic10.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"STOP ME UP\"",
+    "panel.p1.narration.1.html": "And so, having lost another game, the player quits and shuts off his game system.",
+    "panel.p1.bubble.center.html": "GAME OVER",
+    "panel.p2.bubble.center.html": "Everytime the system's off, I find myself in this strange empty place.",
+    "panel.p3.bubble.center.html": "What is this endless void? Is it the great beyond? Is it where deleted data goes?",
+    "panel.p4.bubble.center.html": "Is time passing while I'm here? Am I still technically alive, or even conscious right now? If not, then why do I sense this place at all?",
+    "panel.p5.narration.1.html": "Careful Radd, you're starting to sound deep.",
+    "panel.p5.bubble.center.html": "I mean... This is bogus! Uncool! Non-gnarly! Or something..."
+  }
+}

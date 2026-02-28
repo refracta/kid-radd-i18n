@@ -5,13 +5,13 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"다시 혼자\"",
-    "panel.p1.narration.1": "마침내 게임을 클리어한 플레이어는 다시 시스템 전원을 끕니다.",
-    "panel.p1.bubble.center": "플레이해 주셔서 감사합니다",
-    "panel.p2.bubble.center": "뭐야? 또 공허로 돌아온 거야?",
-    "panel.p3.bubble.center": "이겨도 결국 쉬는 시간은 생기네. 아무래도 승리한다고 게임에서 벗어날 수 있는 건 아닌가 봐.",
-    "panel.p4.bubble.center": "이상하긴 한데... 난 늘 이 게임이 나를 시험하는 거라고 생각했어. 이기면 끝날 줄 알았거든. 뭐, 더 높은 차원의 존재로 올라가거나 그런 줄 알았지.",
-    "panel.p5.narration.1": "미안해요, 래드. 그런 행운은 없군요. 하지만 위로로, 그날을 더 두들겨 팰 기회는 주어집니다.",
-    "panel.p5.bubble.center": "그거면 버틸 만하네."
+    "title.main.html": "\"다시 혼자\"",
+    "panel.p1.narration.1.html": "마침내 게임을 클리어한 플레이어는 다시 시스템 전원을 끕니다.",
+    "panel.p1.bubble.center.html": "THANKS FOR PLAYING",
+    "panel.p2.bubble.center.html": "뭐야? 또 공허로 돌아온 거야?",
+    "panel.p3.bubble.center.html": "이겨도 결국 쉬는 시간은 생기네. 아무래도 승리한다고 게임에서 벗어날 수 있는 건 아닌가 봐.",
+    "panel.p4.bubble.center.html": "이상하긴 한데... 난 늘 이 게임이 나를 시험하는 거라고 생각했어. 이기면 끝날 줄 알았거든. 뭐, 더 높은 차원의 존재로 올라가거나 그런 줄 알았지.",
+    "panel.p5.narration.1.html": "미안해요, 래드. 그런 행운은 없군요. 하지만 위로로, 그날을 더 두들겨 팰 기회는 주어집니다.",
+    "panel.p5.bubble.center.html": "그거면 버틸 만하네."
   }
 }

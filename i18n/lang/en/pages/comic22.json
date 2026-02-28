@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic22.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"CH-CH-CHANGES\"",
+    "panel.p1.bubble.left.html": "Ow...",
+    "panel.p1.bubble.center.html": "Mission accomplished!",
+    "panel.p1.bubble.right.html": "Indeed.",
+    "panel.p2.bubble.left.html": "My kidney...",
+    "panel.p2.bubble.center.html": "So, \"girlfriend,\" what say you and me?...",
+    "panel.p2.bubble.right.html": "Um, don't you think that battle was awfully easy?",
+    "panel.p3.bubble.left.html": "Must... transform...",
+    "panel.p3.bubble.center.html": "Hey, when you're rad, you're bad.",
+    "panel.p3.bubble.right.html": "I mean, maybe that wasn't the boss's...",
+    "panel.p4.bubble.left.html": "Heeeeere's Gnarly!",
+    "panel.p4.bubble.center.html": "Wak!",
+    "panel.p4.bubble.right.html": "...final form."
+  }
+}

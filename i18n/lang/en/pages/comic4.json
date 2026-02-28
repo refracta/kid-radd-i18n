@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic4.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"KING OF PAIN\"",
+    "panel.p1.narration.1.html": "The player fears nothing as he steers Radd through the perils of his game.",
+    "panel.p2.narration.1.html": "After all, it's Radd who has to suffer, not the player.",
+    "panel.p3.narration.1.html": "The player feels all the excitement of the adventure, while Radd feels all the pain.",
+    "panel.p4.narration.1.html": "Pretty sweet deal, huh?",
+    "panel.p4.bubble.center.html": "Not for me!"
+  }
+}

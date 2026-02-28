@@ -5,11 +5,11 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"데자뷰\"",
-    "panel.p1.narration.1": "래드의 여정은 계속됩니다.",
-    "panel.p1.bubble.center": "하아...",
-    "panel.p2.bubble.center": "야, 플레이어, 멍청한 실수 좀 그만해! 시나가 기다리잖아.",
-    "panel.p3.bubble.center": "아니, 그쪽 말고! 그건 이미 해봤잖아!",
-    "panel.p4.bubble.center": "하... 이거 게임 엄청 길어지겠는데..."
+    "title.main.html": "\"데자뷰\"",
+    "panel.p1.narration.1.html": "래드의 여정은 계속됩니다.",
+    "panel.p1.bubble.center.html": "하아...",
+    "panel.p2.bubble.center.html": "야, 플레이어, 멍청한 실수 좀 그만해! 시나가 기다리잖아.",
+    "panel.p3.bubble.center.html": "아니, 그쪽 말고! 그건 이미 해봤잖아!",
+    "panel.p4.bubble.center.html": "하... 이거 게임 엄청 길어지겠는데..."
   }
 }

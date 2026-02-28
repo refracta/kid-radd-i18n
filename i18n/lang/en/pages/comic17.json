@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic17.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"TAKING CARE OF BUSINESS\"",
+    "panel.p1.bubble.left.html": "Where's Sheena?",
+    "panel.p1.bubble.right.html": "The damsel in distress? She's standing over in the corner of the room.",
+    "panel.p2.bubble.center.html": "Oh <b>wow!</b>  She is indeed a vision in minimal pixelage.",
+    "panel.p3.bubble.left.html": "Um, I thought you'd be tied up or something.",
+    "panel.p3.bubble.right.html": "You wish. You know it's my job to stand here and get rescued, just like it's your job to be controlled by the player.",
+    "panel.p4.bubble.center.html": "Just like it's my job to kill you. ...Repeatedly.",
+    "panel.p5.bubble.left.html": "I hate my job.",
+    "panel.p5.bubble.right.html": "I love my job."
+  }
+}

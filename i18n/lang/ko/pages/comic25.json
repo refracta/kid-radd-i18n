@@ -5,13 +5,13 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"흐름을 타\"",
-    "panel.p1.narration.1": "그날보그와의 싸움에서 래드의 상황은 좋아 보이지 않습니다.",
-    "panel.p4.bubble.left": "와, 난 그렇게는 생각도 못 해봤네.",
+    "title.main.html": "\"흐름을 타\"",
+    "panel.p1.narration.1.html": "그날보그와의 싸움에서 래드의 상황은 좋아 보이지 않습니다.",
+    "panel.p2.bubble.center.html": "멍청한 플레이어가 자꾸 날 죽이잖아! 시나를 거의 구할 뻔했는데!",
+    "panel.p3.bubble.center.html": "징징대지 마! 넌 목숨이 여러 개라도 있지. 난 한 번만 져도 게임 끝이야.",
     "panel.p4.bubble.left.html": "와, 난 그렇게는 생각도 못 해봤네.",
-    "panel.p4.bubble.right": "생각 좀 해야지. 그러니까 고마워해.",
-    "panel.p5.bubble.left": "*콜록, 콜록.* 고마워...",
+    "panel.p4.bubble.right.html": "생각 좀 해야지. 그러니까 고마워해.",
     "panel.p5.bubble.left.html": "*콜록, 콜록.* 고마워...",
-    "panel.p5.bubble.right": "야, 별말을."
+    "panel.p5.bubble.right.html": "야, 별말을."
   }
 }

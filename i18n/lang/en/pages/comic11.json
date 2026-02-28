@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic11.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"WHAT DO YOU WANT FROM ME\"",
+    "panel.p1.narration.1.html": "Radd continues in game after game...",
+    "panel.p1.bubble.center.html": "I must've died a thousand deaths in the last few weeks, but I've seen most of the game.",
+    "panel.p2.bubble.center.html": "The player's getting a lot better, and soon he'll beat the game. Maybe then I'll get a vacation or something.",
+    "panel.p3.bubble.center.html": "Righteous! Wonder what comes next?",
+    "panel.p4.bubble.center.html": "This is just wrong..."
+  }
+}

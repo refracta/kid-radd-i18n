@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic6.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"READY FOR LOVE\"",
+    "panel.p1.bubble.center.html": "Okay, so the player's making me do all sorts of dangerous stuff.",
+    "panel.p2.bubble.center.html": "But man, it'll be worth it when I rescue my girlfriend, Sheena.",
+    "panel.p3.bubble.center.html": "Heh heh, I'll bet she'll be super grateful. Muchas smoochas, here I come!",
+    "panel.p4.bubble.center.html": "Hm, I wonder what she looks like?..."
+  }
+}

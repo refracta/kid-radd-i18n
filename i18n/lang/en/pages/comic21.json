@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic21.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"SHOWDOWN\"",
+    "panel.p1.narration.1.html": "The game's final showdown has begun: Radd and Gnarl engage in a battle to the death.",
+    "panel.p3.narration.1.html": "Well, if this weren't an 8-bit game, it might look like that.",
+    "panel.p3.bubble.left.html": "Shaddup! I'm winning here!",
+    "panel.p3.bubble.right.html": "Ack..."
+  }
+}

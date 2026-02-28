@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic16.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"HE AIN'T HEAVY...\"",
+    "panel.p1.bubble.left.html": "I've finally reached the lair of my nemesis, the evil Gnarl.",
+    "panel.p2.bubble.left.html": "Actually, I don't know much about the guy. I wonder -",
+    "panel.p2.bubble.right.html": "Radd... I am your...",
+    "panel.p3.bubble.right.html": "...brother.  I'm your evil <i>older brother.</i>",
+    "panel.p4.bubble.left.html": "Dude, that is <b>so</b> lame.",
+    "panel.p4.bubble.right.html": "What? I didn't write this!"
+  }
+}

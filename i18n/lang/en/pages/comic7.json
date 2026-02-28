@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic7.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"ME WISE MAGIC\"",
+    "panel.p1.narration.1.html": "Be amazed as Radd demonstrates his special powers.",
+    "panel.p1.bubble.center.html": "Yessir, I rock!",
+    "panel.p2.bubble.center.html": "Like most kids, I can throw Radd Beams to zap my uncool enemies.",
+    "panel.p3.bubble.center.html": "However, when the player holds down the attack button, I charge up my famous Mega Radd.",
+    "panel.p4.bubble.center.html": "If the user holds it down for ten seconds, I can reach a max attack of 255!",
+    "panel.p5.narration.1.html": "So... why 255?",
+    "panel.p5.bubble.center.html": "Hey, do I have to explain everything?"
+  }
+}

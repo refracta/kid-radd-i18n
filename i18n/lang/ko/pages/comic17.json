@@ -5,15 +5,14 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"업무 처리 중\"",
-    "panel.p1.bubble.left": "시나는 어디 있어?",
-    "panel.p1.bubble.right": "구출 대상 아가씨라면? 저기 방 구석에 서 있잖아.",
-    "panel.p2.bubble.center": "오, 와! 적은 픽셀로도 진짜 끝내주게 보이는데.",
-    "panel.p2.bubble.center.html": "오, <b>와!</b> 적은 픽셀로도 진짜 끝내주게 보이는데.",
-    "panel.p3.bubble.left": "음, 난 네가 묶여 있을 줄 알았는데.",
-    "panel.p3.bubble.right": "꿈 깨. 내가 여기 서서 구출당하는 게 내 일이듯, 네 일은 플레이어한테 조종당하는 거잖아.",
-    "panel.p4.bubble.center": "그게 바로 널 죽이는 내 일이니까. ...반복해서.",
-    "panel.p5.bubble.left": "난 이 일이 싫어.",
-    "panel.p5.bubble.right": "난 이 일이 좋아."
+    "title.main.html": "\"업무 처리 중\"",
+    "panel.p1.bubble.left.html": "시나는 어디 있어?",
+    "panel.p1.bubble.right.html": "구출 대상 아가씨라면? 저기 방 구석에 서 있잖아.",
+    "panel.p2.bubble.center.html": "오, <b>와!</b> 로우 픽셀로도 진짜 끝내주게 보이는데.",
+    "panel.p3.bubble.left.html": "음, 난 네가 묶여 있을 줄 알았는데.",
+    "panel.p3.bubble.right.html": "꿈 깨. 내가 여기 서서 구출당하는 게 내 일이듯, 네 일은 플레이어한테 조종당하는 거잖아.",
+    "panel.p4.bubble.center.html": "그게 바로 널 죽이는 내 일이니까. ...반복해서.",
+    "panel.p5.bubble.left.html": "난 이 일이 싫어.",
+    "panel.p5.bubble.right.html": "난 이 일이 좋아."
   }
 }

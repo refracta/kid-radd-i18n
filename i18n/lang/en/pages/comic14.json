@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic14.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"JUST THE TWO OF US\"",
+    "panel.p1.narration.1.html": "As the player becomes skilled, Radd becomes more confident.",
+    "panel.p1.bubble.center.html": "Eat this!",
+    "panel.p2.narration.1.html": "Radd finds himself enjoying the games now, even respecting the player.",
+    "panel.p3.narration.1.html": "So now Radd and the player form a sort of partnership.",
+    "panel.p3.bubble.left.html": "Uh... but I still like chicks, okay?",
+    "panel.p4.narration.1.html": "...The player being the more mature partner, of course.",
+    "panel.p4.bubble.left.html": "I mean it! We're just friends!"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic23.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"JANIE'S GOT A GUN\"",
+    "panel.p1.narration.1.html": "Radd's evil brother Gnarl has just transformed into his ultimate mode: the Gnarlborg 2000. (...Yeah, I know, just go with it.)",
+    "panel.p2.bubble.left.html": "And now, dear brother, you shall learn true pain...",
+    "panel.p2.bubble.right.html": "Uh huh. *snicker*",
+    "panel.p3.bubble.left.html": "What? Dare you not take my threat seriously?",
+    "panel.p3.bubble.right.html": "I do! Pbbt!",
+    "panel.p4.bubble.left.html": "What?  <b>WHAT???</b>",
+    "panel.p4.bubble.right.html": "Nothing, I mean it's just - - you realize that you don't exist below the waist, right? You're half a man.",
+    "panel.p5.bubble.left.html": "Ooh, you're gonna pay for that!",
+    "panel.p5.bubble.right.html": "Hmph, well at least you got one big gun..."
+  }
+}

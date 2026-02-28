@@ -5,11 +5,11 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"고통의 왕\"",
-    "panel.p1.narration.1": "플레이어는 래드를 게임 속 위험으로 몰아넣으면서도 아무것도 두려워하지 않습니다.",
-    "panel.p2.narration.1": "결국 고통받는 건 플레이어가 아니라 래드이기 때문입니다.",
-    "panel.p3.narration.1": "플레이어는 모험의 짜릿함을 느끼고, 래드는 고통을 느낍니다.",
-    "panel.p4.narration.1": "꽤 남는 장사 아닌가요?",
-    "panel.p4.bubble.center": "난 아니거든!"
+    "title.main.html": "\"고통의 왕\"",
+    "panel.p1.narration.1.html": "플레이어는 래드를 게임 속 위험으로 몰아넣으면서도 아무것도 두려워하지 않습니다.",
+    "panel.p2.narration.1.html": "결국 고통받는 건 플레이어가 아니라 래드이기 때문입니다.",
+    "panel.p3.narration.1.html": "플레이어는 모험의 짜릿함을 느끼고, 래드는 고통을 느낍니다.",
+    "panel.p4.narration.1.html": "꽤 남는 장사 아닌가요?",
+    "panel.p4.bubble.center.html": "난 아니거든!"
   }
 }

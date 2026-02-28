@@ -5,13 +5,13 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"COLOR ME RADD\"",
-    "panel.p1.narration.1": "Welcome to the world of the classic video game Kid Radd.",
-    "panel.p2.narration.1": "Meet Radd, the hero of the game.",
-    "panel.p2.bubble.center": "Hey.",
-    "panel.p3.narration.1": "This strip will follow the exploits of Radd, heroic dude and all-around cool guy.",
-    "panel.p3.bubble.center": "Awesome.",
-    "panel.p4.narration.1": "Of course by \"cool,\" we mean by mid-1980's standards.",
-    "panel.p4.bubble.center": "Air guitar! Woo!"
+    "title.main.html": "\"COLOR ME RADD\"",
+    "panel.p1.narration.1.html": "Welcome to the world of the classic video game Kid Radd.",
+    "panel.p2.narration.1.html": "Meet Radd, the hero of the game.",
+    "panel.p2.bubble.center.html": "Hey.",
+    "panel.p3.narration.1.html": "This strip will follow the exploits of Radd, heroic dude and all-around cool guy.",
+    "panel.p3.bubble.center.html": "Awesome.",
+    "panel.p4.narration.1.html": "Of course by \"cool,\" we mean by mid-1980's standards.",
+    "panel.p4.bubble.center.html": "Air guitar! Woo!"
   }
 }

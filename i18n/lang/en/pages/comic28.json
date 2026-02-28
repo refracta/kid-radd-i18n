@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic28.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"ALONE AGAIN\"",
+    "panel.p1.narration.1.html": "The game finally won, the player again shuts down his system.",
+    "panel.p1.bubble.center.html": "THANKS FOR PLAYING",
+    "panel.p2.bubble.center.html": "What? I'm back in the void again?",
+    "panel.p3.bubble.center.html": "So I still get down time, even when I win. I guess winning doesn't let me escape the game.",
+    "panel.p4.bubble.center.html": "It's strange but... I always thought the game was a test for me. I assumed when I won it'd be over; maybe I'd pass to a higher plane of existence or something.",
+    "panel.p5.narration.1.html": "Sorry Radd, no such luck. But as a consolation, you will get to beat up Gnarl some more.",
+    "panel.p5.bubble.center.html": "I can live with that."
+  }
+}

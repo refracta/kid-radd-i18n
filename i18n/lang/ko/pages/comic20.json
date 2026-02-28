@@ -5,12 +5,12 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"가자\"",
-    "panel.p1.bubble.left": "이젠 정신 공격은 안 통한다!",
-    "panel.p1.bubble.right": "원하는 대로.",
-    "panel.p3.bubble.left": "우린 실력이 비슷한 것 같군.",
-    "panel.p3.bubble.right": "사실 그건 내 최약체 공격이었어.",
-    "panel.p4.bubble.left": "아, 젠장...",
-    "panel.p4.bubble.right": "이제 \"중간\" 맛이다."
+    "title.main.html": "\"가자\"",
+    "panel.p1.bubble.left.html": "이젠 정신 공격은 안 통한다!",
+    "panel.p1.bubble.right.html": "원하는 대로.",
+    "panel.p3.bubble.left.html": "우린 실력이 비슷한 것 같군.",
+    "panel.p3.bubble.right.html": "사실 그건 내 최약체 공격이었어.",
+    "panel.p4.bubble.left.html": "아, 젠장...",
+    "panel.p4.bubble.right.html": "이제 \"중간\" 맛이다."
   }
 }

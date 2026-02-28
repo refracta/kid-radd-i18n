@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic31.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"DON'T GIVE UP\"",
+    "panel.p1.narration.1.html": "Though the player always wins now, Radd finds himself troubled.",
+    "panel.p1.bubble.center.html": "THANKS FOR PLAYING",
+    "panel.p2.bubble.center.html": "It's tough to sense time in the void, but I'd swear I'm spending longer here.",
+    "panel.p3.bubble.center.html": "Sigh, should I even care if there's more down time? The game's pointless anyway.",
+    "panel.p4.bubble.center.html": "It's not like playing good or bad changes anything. The game is always the same, and Sheena'll never really be my girlfriend.",
+    "panel.p5.bubble.center.html": "But even knowing that... the game's better than the void. It sure gets lonely here..."
+  }
+}

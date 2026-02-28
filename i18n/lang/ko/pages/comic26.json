@@ -5,9 +5,10 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"최후의 카운트다운\"",
-    "panel.p1.narration.1": "다행히도 플레이어가 감을 되찾습니다.",
-    "panel.p3.bubble.left": "내가?....",
-    "panel.p3.bubble.right": "그가?..."
+    "title.main.html": "\"최후의 카운트다운\"",
+    "panel.p1.narration.1.html": "다행히도 플레이어가 감을 되찾습니다.",
+    "panel.p1.bubble.center.html": "그래, 그거야! 피하면서 차지해!",
+    "panel.p3.bubble.left.html": "내가?....",
+    "panel.p3.bubble.right.html": "그가?..."
   }
 }

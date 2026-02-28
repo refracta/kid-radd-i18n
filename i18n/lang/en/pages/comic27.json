@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic27.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"YOU DROPPED A BOMB ON ME\"",
+    "panel.p1.bubble.left.html": "I did it! I won!",
+    "panel.p1.bubble.right.html": "Sonuva...",
+    "panel.p2.narration.1.html": "(Cue ending sequence...)",
+    "panel.p2.bubble.left.html": "I've dreamed of this day for so long! Kiss me, baby!",
+    "panel.p2.bubble.right.html": "Uh, I hardly know you...",
+    "panel.p3.bubble.left.html": "C'mon, I've died a thousand deaths for you!",
+    "panel.p3.bubble.right.html": "As if you had a choice, sigh. Alright, just wait five seconds.",
+    "panel.p4.bubble.left.html": "Five seconds? What's in five seconds?",
+    "panel.p4.bubble.right.html": "You'll see...",
+    "panel.p5.bubble.left.html": "<b>Hey!</b>",
+    "panel.p5.bubble.right.html": "*Whew!*"
+  }
+}

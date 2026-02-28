@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic30.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"WICKED GAME\"",
+    "panel.p2.narration.1.html": "The player wins yet again...",
+    "panel.p2.bubble.left.html": "C'mon, don't I deserve a kiss?",
+    "panel.p2.bubble.right.html": "Sigh, Radd...",
+    "panel.p3.bubble.left.html": "Well, why not?",
+    "panel.p3.bubble.right.html": "Radd, this is a pre-programmed scene of the game. We can't change it.",
+    "panel.p4.bubble.left.html": "We can't?",
+    "panel.p4.bubble.right.html": "If I didn't kiss you the first time, I won't kiss you the second, third, or thirty-third time.",
+    "panel.p5.bubble.left.html": "<b>NOOOOO!!!</b>",
+    "panel.p5.bubble.right.html": "Life ain't fair, huh?"
+  }
+}

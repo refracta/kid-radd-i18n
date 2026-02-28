@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic24.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"HELP\"",
+    "panel.p1.bubble.left.html": "Say goodbye, blue boy.",
+    "panel.p1.bubble.right.html": "Yikes.",
+    "panel.p2.bubble.left.html": "No use running...",
+    "panel.p2.bubble.center.html": "Sheena, give me a little help here?",
+    "panel.p2.bubble.right.html": "Not my job.I'm strictly a non-player character.",
+    "panel.p3.bubble.center.html": "C'mon please? Pleeeease?",
+    "panel.p3.bubble.right.html": "Look kid, I'm a very limited sprite. I can't move at all, so I just hafta stay put.",
+    "panel.p4.bubble.center.html": "You know, some guys would consider you an ideal girlfriend.",
+    "panel.p4.bubble.right.html": "Gnarl, make him pay."
+  }
+}

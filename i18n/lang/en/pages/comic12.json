@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic12.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"MOVING IN STEREO\"",
+    "panel.p1.narration.1.html": "Radd has found a Rocketboard.",
+    "panel.p1.bubble.center.html": "All right!",
+    "panel.p2.narration.1.html": "This device allows Radd to cross large gaps.",
+    "panel.p2.bubble.center.html": "Tubular!",
+    "panel.p3.narration.1.html": "It has a fuel supply of ten seconds.",
+    "panel.p3.bubble.center.html": "Say <i>what?</i>",
+    "panel.p4.narration.1.html": "After which it self-destructs.",
+    "panel.p5.narration.1.html": "The makers of Rocketboard probably have a million lawsuits pending.",
+    "panel.p5.bubble.center.html": "A million and one."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic20.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"LET'S GO\"",
+    "panel.p1.bubble.left.html": "No more mind games!.",
+    "panel.p1.bubble.right.html": "As you wish.",
+    "panel.p3.bubble.left.html": "It seems we're evenly matched.",
+    "panel.p3.bubble.right.html": "Actually, that was my weakest attack.",
+    "panel.p4.bubble.left.html": "Oh, crap...",
+    "panel.p4.bubble.right.html": "Here comes a \"medium.\""
+  }
+}

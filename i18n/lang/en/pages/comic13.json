@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic13.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"HURTS SO GOOD\"",
+    "panel.p1.bubble.left.html": "Oh man, this guy looks dangerous.",
+    "panel.p2.bubble.left.html": "<i>Bogus!!!</i>",
+    "panel.p3.bubble.center.html": "What the? - Getting stabbed by a flying knife isn't fatal? It took away one letter, just like everything else does.",
+    "panel.p4.bubble.center.html": "It's ridiculous but every attack, from apples to axes, hurts me equally!",
+    "panel.p5.narration.1.html": "And so...",
+    "panel.p5.bubble.left.html": "Bring it on!"
+  }
+}

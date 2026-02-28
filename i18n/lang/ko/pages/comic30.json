@@ -5,16 +5,15 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main": "\"지독한 게임\"",
-    "panel.p2.narration.1": "플레이어는 또다시 승리합니다...",
-    "panel.p2.bubble.left": "자, 나 키스 한 번쯤 받을 자격 있지 않냐?",
-    "panel.p2.bubble.right": "하아, 래드...",
-    "panel.p3.bubble.left": "왜 안 되는데?",
-    "panel.p3.bubble.right": "래드, 이건 게임에 정해진 연출 장면이야. 바꿀 수 없어.",
-    "panel.p4.bubble.left": "우린 못 바꿔?",
-    "panel.p4.bubble.right": "처음에 안 키스했으면, 두 번째도 세 번째도 서른세 번째도 안 해.",
-    "panel.p5.bubble.left": "안 돼에에에!!!",
+    "title.main.html": "\"지독한 게임\"",
+    "panel.p2.narration.1.html": "플레이어는 또다시 승리합니다...",
+    "panel.p2.bubble.left.html": "자, 나 키스 한 번쯤 받을 자격 있지 않냐?",
+    "panel.p2.bubble.right.html": "하아, 래드...",
+    "panel.p3.bubble.left.html": "왜 안 되는데?",
+    "panel.p3.bubble.right.html": "래드, 이건 게임에 정해진 연출 장면이야. 바꿀 수 없어.",
+    "panel.p4.bubble.left.html": "우린 못 바꿔?",
+    "panel.p4.bubble.right.html": "처음에 안 키스했으면, 두 번째도 세 번째도 서른세 번째도 안 해.",
     "panel.p5.bubble.left.html": "<b>안 돼에에에!!!</b>",
-    "panel.p5.bubble.right": "인생 원래 불공평하지, 응?"
+    "panel.p5.bubble.right.html": "인생 원래 불공평하지, 응?"
   }
 }

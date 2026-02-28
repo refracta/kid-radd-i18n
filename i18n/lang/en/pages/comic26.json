@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic26.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"THE FINAL COUNTDOWN\"",
+    "panel.p1.narration.1.html": "Fortunately for Radd, the player catches his stride.",
+    "panel.p1.bubble.center.html": "That's it! Charge up while you dodge!",
+    "panel.p3.bubble.left.html": "Did I?....",
+    "panel.p3.bubble.right.html": "Did he?..."
+  }
+}

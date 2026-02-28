@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic9.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"DEJA VU\"",
+    "panel.p1.narration.1.html": "Radd's journey continues.",
+    "panel.p1.bubble.center.html": "Sigh...",
+    "panel.p2.bubble.center.html": "C'mon player, stop making so many dumb mistakes! Sheena's waiting.",
+    "panel.p3.bubble.center.html": "No, not this way! You tried this already!",
+    "panel.p4.bubble.center.html": "Man, it's gonna be a long game..."
+  }
+}

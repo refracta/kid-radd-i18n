@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic29.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"LIFE'S BEEN GOOD TO ME SO FAR\"",
+    "panel.p1.narration.1.html": "The player has now mastered the game.",
+    "panel.p2.narration.1.html": "Radd now rarely loses lives, and always wins the game.",
+    "panel.p2.bubble.left.html": "Hi, I'm back again to kick your butt! Oops, that's right, you don't have one.",
+    "panel.p2.bubble.right.html": "Rrgh...",
+    "panel.p3.narration.1.html": "Needless to say, Radd is having the time of his life.",
+    "panel.p3.bubble.left.html": "Please?",
+    "panel.p3.bubble.right.html": "No.",
+    "panel.p4.narration.1.html": "But what will happen to Radd when the player gets bored with him?",
+    "panel.p4.bubble.center.html": "Like that could happen. Sheesh."
+  }
+}

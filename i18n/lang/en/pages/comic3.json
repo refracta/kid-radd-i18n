@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic3.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"APPETITE FOR DESTRUCTION\"",
+    "panel.p1.narration.1.html": "Radd is under complete control of the player.",
+    "panel.p1.bubble.center.html": "You already told them that.",
+    "panel.p2.narration.1.html": "For example, if the player wants Radd to fight deadly enemies, he has to obey.",
+    "panel.p2.bubble.center.html": "They get it already.",
+    "panel.p3.narration.1.html": "Or, if the player decides to run Radd into a bottomless pit...",
+    "panel.p3.bubble.center.html": "I watched a lot of Roadrunner cartoons as a kid.",
+    "panel.p4.narration.1.html": "...Radd will follow this suicidal command.",
+    "panel.p4.bubble.center.html": "<b>STOP GIVING HIM IDEAS!</b>"
+  }
+}

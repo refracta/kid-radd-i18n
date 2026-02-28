@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic15.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"I DID IT ALL FOR THE...\"",
+    "panel.p1.bubble.center.html": "All right! Could this be...?",
+    "panel.p2.bubble.center.html": "Yes! The final level!",
+    "panel.p3.narration.1.html": "Congratulations Radd. Your journey is nearly over.",
+    "panel.p3.bubble.center.html": "Yeah! Almost time for muchas smoochas!",
+    "panel.p4.narration.1.html": "Sheena, our deepest sympathy goes out to you.",
+    "panel.p4.bubble.center.html": "Very funny."
+  }
+}

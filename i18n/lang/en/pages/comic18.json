@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic18.htm",
+    "language": "en",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"DON'T TELL ME NO\"",
+    "panel.p1.bubble.left.html": "So you'd really kill me, your own brother?",
+    "panel.p1.bubble.right.html": "Maybe. But first, I hafta try to turn you to the dark side.",
+    "panel.p2.bubble.left.html": "Um, okay...",
+    "panel.p2.bubble.right.html": "Join me, and we will rule my multinational corporation with evil! Mwa ha ha!",
+    "panel.p3.bubble.left.html": "Again, lame.",
+    "panel.p3.bubble.right.html": "<i>You have the urge to do some accounting...</i>",
+    "panel.p4.bubble.left.html": "<i>...I have the urge to do some accounting.</i>",
+    "panel.p4.bubble.right.html": "Works every time."
+  }
+}
