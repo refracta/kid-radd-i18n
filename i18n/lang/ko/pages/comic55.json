@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic55.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"점프\"",
+    "panel.p1.bubble.left.html": "야, 나 이제 여기 있기 싫어.",
+    "panel.p2.bubble.left.html": "근데... 막혀 있잖아!",
+    "panel.p3.bubble.left.html": "<b>여기서 어떻게 나가냐고???</b>",
+    "panel.p4.bubble.center.html": "야, 그냥<br>점프해서 나가.",
+    "panel.p5.bubble.left.html": "이 \"3-D\" 같은 건 도무지 적응이 안 돼.",
+    "panel.p5.bubble.right.html": "말도 마."
+  }
+}

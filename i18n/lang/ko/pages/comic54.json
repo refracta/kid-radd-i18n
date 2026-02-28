@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic54.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"선을 긋다\"",
+    "panel.p1.narration.1.html": "맞아요, 보기는 아직도 적 스프라이트 보호구역에 있습니다.",
+    "panel.p3.bubble.left.html": "잠깐만...",
+    "panel.p4.bubble.left.html": "이건... <b>지루하잖아!</b>"
+  }
+}

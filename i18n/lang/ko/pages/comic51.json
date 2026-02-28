@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic51.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"무리와 함께\"",
+    "panel.p1.narration.1.html": "보기는 적 스프라이트 보호구역에서 형제들과 합류합니다.",
+    "panel.p4.bubble.left.html": "이게 인생이지!"
+  }
+}
