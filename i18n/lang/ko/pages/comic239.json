@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic239.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"탈출\"",
+    "panel.p1.bubble.left.html": "이놈 들고 다니기 진짜 귀찮다.",
+    "panel.p1.bubble.right.html": "잠깐만, 거의 메인 통로로 돌아왔어.",
+    "panel.p2.bubble.center.html": "뭐야--?",
+    "panel.p3.bubble.right.html": "멍청이들! 위대한 코바야시가 네 탈출 포드를 탈취해 다음 승부를 기약한다!",
+    "panel.p4.bubble.left.html": "우리 탈출 포드도 있었어?",
+    "panel.p4.bubble.right.html": "없는데."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic225.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"수색\"",
+    "panel.p1.bubble.left.html": "근데 왜 이렇게 늦게까지 깨어 있어?",
+    "panel.p1.bubble.center.html": "줄이 사라졌어.",
+    "panel.p2.bubble.left.html": "함선이 크잖아. 걔 그냥 어딘가 헤매고 있겠지.",
+    "panel.p2.bubble.center.html": "음, 근데 이런 쪽지를 발견했거든...",
+    "panel.p3.bubble.center.html": "<b>벌 소녀를 산 채로 되찾고 싶다면 래드를 데리고 즉시 화물칸으로 와라.</b>",
+    "panel.p4.bubble.left.html": "아.",
+    "panel.p4.bubble.center.html": "이걸 누가 썼을까?",
+    "panel.p4.bubble.right.html": "그리고 누가 감히 날 \"얼간이\"라고 부른 거지?"
+  }
+}

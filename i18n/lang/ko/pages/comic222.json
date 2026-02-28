@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic222.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"래드의 도\"",
+    "panel.p1.bubble.left.html": "와, 기억보다 더 한심한데.",
+    "panel.p1.bubble.right.html": "보기, 어떻게 그런 말을 해?",
+    "panel.p2.bubble.right.html": "저 얼간이 좀 봐!  우린 거의 모든 걸 잃어서 비참한데, <i>쟤</i>한텐 여기가 신분 상승이잖아!",
+    "panel.p4.bubble.left.html": "...갑자기 내가 좀 속물처럼 느껴지네.",
+    "panel.p4.bubble.right.html": "우리가 보통은 <i>걔</i> 우선순위를 바로잡아주던 쪽이었는데."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic238.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"영웅을 기다리며\"",
+    "panel.p1.bubble.left.html": "와, 저놈 완전히 기절시켰네.",
+    "panel.p1.bubble.right.html": "이상하네. 대부분 스프라이트는 기절 안 하고 바로 죽는데.",
+    "panel.p2.bubble.left.html": "그럼 저놈 가둬둘까?",
+    "panel.p2.bubble.right.html": "아냐, 내 표는 우주 밖으로 던져버리기.",
+    "panel.p3.bubble.left.html": "그건 선역이 할 행동은 아닌데.",
+    "panel.p3.bubble.right.html": "그래, 고전적인 주인공 죄책감 카드 꺼내는구나. 젠장, 그거 항상 통하더라.",
+    "panel.p4.bubble.left.html": "근데 말야, 저놈은 무슨 타입 스프라이트지? 넌 만지고도 안 다치더라.",
+    "panel.p4.bubble.right.html": "그래서 일반 적 타입은 아니야. 근데 모르겠어, 주인공 타입도 아닌 것 같고.",
+    "panel.p5.bubble.left.html": "지금은 우리 중 누구도 영웅이라 부르긴 어렵지.",
+    "panel.p5.bubble.center.html": "너나 그렇지.",
+    "panel.p5.bubble.right.html": "내겐 네가 충분히 영웅이야."
+  }
+}

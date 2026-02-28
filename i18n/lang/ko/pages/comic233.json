@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic233.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"대치\"",
+    "panel.p1.bubble.right.html": "그래서 미스 방탄, 네가 NPC였구나? 래드, 걔 뒤에 숨지 말고 남자답게 나와서 붙어.",
+    "panel.p2.bubble.left.html": "네가 네 쪽 여자 뒤에 숨는 걸 그만두면 나도 내 여자 뒤에 숨는 거 그만둘게, 친구.",
+    "panel.p2.bubble.right.html": "말빨 좋네. 그 주둥이값으로 애부터 쏴버릴까.",
+    "panel.p3.bubble.right.html": "하지만 네 조건은 받아주지. 난 너하고만 싸우고 싶거든. 그러니 그 멍청한 애는 데려가고, 나랑 싸워!",
+    "panel.p4.bubble.left.html": "래드, 안 돼!",
+    "panel.p4.bubble.right.html": "난 괜찮을 거야, 얘들아.",
+    "panel.p5.bubble.center.html": "아마도."
+  }
+}

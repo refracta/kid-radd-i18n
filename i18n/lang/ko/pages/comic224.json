@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic224.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말장난은 여전히 악이다\"",
+    "panel.p1.bubble.left.html": "이제 다 이해됐어! 그래서 밤마다 날 옷장에 넣었구나!",
+    "panel.p1.bubble.right.html": "무슨 소린지 모르겠는데.",
+    "panel.p2.bubble.left.html": "네 더러운 비밀을 나한테 들키기 싫었던 거지.",
+    "panel.p2.bubble.right.html": "비밀? 모든 보기들은 다 화분에서 자.",
+    "panel.p3.bubble.center.html": "하하!  나 이거 <b>다</b> 말하고 다닐 거야!",
+    "panel.p4.bubble.left.html": "맞혀봐요, 앰프! 보기가 자기가 화분 중독인 걸 숨기려고 날 옷장에 가뒀대!",
+    "panel.p5.bubble.left.html": "이럴 때일수록 표정 하나뿐인 게 다행이야.",
+    "panel.p5.bubble.center.html": "하지만 난 이제 완전 커밍아웃이야!",
+    "panel.p5.bubble.right.html": "완전히."
+  }
+}

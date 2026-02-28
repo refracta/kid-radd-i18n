@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic237.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"시간 끌기\"",
+    "panel.p1.bubble.left.html": "저놈 한눈판다! 뭐라도 해! 근데 뭘?",
+    "panel.p1.bubble.center.html": "넌 래드를 해칠 수 없어.",
+    "panel.p1.bubble.right.html": "그래. 그럴 리가.",
+    "panel.p2.bubble.left.html": "오, 여기서 보이는 풍경이 나쁘지 않은데...",
+    "panel.p2.bubble.center.html": "난 비키지 않을 거야!",
+    "panel.p2.bubble.right.html": "난 너무 빨라서 못 막아.",
+    "panel.p3.bubble.left.html": "바보 래드! 계획을 생각해! 뭐든! 음...",
+    "panel.p3.bubble.right.html": "멍청한 NPC, 넌 날 못 막아!",
+    "panel.p4.bubble.left.html": "직접적으론 그렇지.",
+    "panel.p5.bubble.left.html": "내 영웅!",
+    "panel.p5.bubble.center.html": "시나, 또 고마워!",
+    "panel.p5.bubble.right.html": "저건 완전히 새로운 종류의 <b>문제</b>였어."
+  }
+}

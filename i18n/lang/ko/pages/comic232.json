@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic232.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이중 잣대\"",
+    "panel.p1.bubble.left.html": "이게 뭐야? 저 둘이 너무 가까워!",
+    "panel.p2.bubble.left.html": "거기 멈춰! 안 그러면 - 안 그러면 애부터 쏜다!",
+    "panel.p2.bubble.right.html": "꺅!",
+    "panel.p3.narration.1.html": "저열!",
+    "panel.p3.bubble.left.html": "이 악당 같으니!  여자애를 방패로 쓰다니?  그건 진짜 <b>저열</b>해!",
+    "panel.p4.bubble.left.html": "뭐라고?"
+  }
+}

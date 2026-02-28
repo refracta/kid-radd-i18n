@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic223.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말장난은 악이다\"",
+    "panel.p1.narration.1.html": "래드는 생애 첫 침대에서의 밤을 즐깁니다.",
+    "panel.p1.bubble.right.html": "이거 좋다, 와! 근데 너무 신나서 잠이 안 와.",
+    "panel.p2.bubble.center.html": "좋아! 보기를 괴롭히러 가서, 이제 걔 옷장에 안 자도 된다고 염장 질러야지.",
+    "panel.p3.bubble.left.html": "야, 보기맨! 어디 있냐?",
+    "panel.p3.bubble.right.html": "뭐야?... 지금 새벽 3신데...",
+    "panel.p4.bubble.left.html": "와. 넌 흙통에서 자냐?",
+    "panel.p4.bubble.right.html": "화분이야, 멍청아. 난 식물이거든.",
+    "panel.p5.bubble.left.html": "헤헤. 너 완전 포트헤드네.",
+    "panel.p5.bubble.right.html": "아주 웃기네, 비비스. 이제 돌아가서 자."
+  }
+}

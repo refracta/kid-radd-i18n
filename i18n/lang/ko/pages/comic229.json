@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic229.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"또 빗나감\"",
+    "panel.p1.bubble.left.html": "여보세요? 누구 있습니까?",
+    "panel.p2.bubble.left.html": "오, 성공했네! 너희 왔구나!",
+    "panel.p2.bubble.right.html": "시나! 래드! 조심해, 저놈 총 들었어!",
+    "panel.p3.bubble.left.html": "흥. 맞네, 저놈이야.",
+    "panel.p3.bubble.right.html": "저기요? 이성적으로 얘기할 수 있을까요? 우리한테 원하는 게 뭐죠?",
+    "panel.p4.bubble.left.html": "내가 원하는 건 딱 하나, 임무 완수하고 마지막 남은 자존심을 되찾는 것! 그러려면 래드를 흔적도 없이 날려버려야 해!",
+    "panel.p5.bubble.left.html": "그리고... <b>안녕이다, 부리토들!</b>",
+    "panel.p6.bubble.left.html": "한심하네. 블랙잭 중이어도 저놈은 날 못 맞춰.",
+    "panel.p7.bubble.left.html": "있잖아, 지난번처럼 끝내는 건 어때...",
+    "panel.p7.bubble.center.html": "아, <b>절대</b> 안 돼!",
+    "panel.p7.bubble.right.html": "_"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic228.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"전략은 비극을 막는다\"",
+    "panel.p1.bubble.left.html": "래드, 나도 같이 가게 해줘. 사실 대화는 내가 하는 게 나아. 난 안 죽으니까.",
+    "panel.p2.bubble.left.html": "시나, 저 녀석이랑 협상은 안 통할 것 같은데.",
+    "panel.p2.bubble.right.html": "협상 안 해. 협상하는 척만 할 거야. 내가 말 거는 동안 넌 기습하면 돼.",
+    "panel.p3.bubble.left.html": "걔가 그걸 속아줄까?",
+    "panel.p3.bubble.right.html": "아마도. 걘 내가 NPC라는 걸 몰라서 내가 먼저 다가가면 조준이 나한테 쏠릴 거야.",
+    "panel.p4.bubble.left.html": "시나, 저놈 조준이 워낙 구려서 오히려 내가 타깃일 때가 더 안전해!",
+    "panel.p4.bubble.right.html": "그으래. 내가 앞장선다, 친구."
+  }
+}
