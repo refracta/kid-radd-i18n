@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic144.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"빈 연료로 달리기\"",
+    "panel.p2.bubble.left.html": "봤어? 플레이어 목숨이 이제 하나 남았어.",
+    "panel.p2.bubble.right.html": "잘됐네. 빨리 끝났으면 좋겠다.",
+    "panel.p3.bubble.left.html": "뭐야- ?",
+    "panel.p3.bubble.right.html": "아, 젠장! 플레이어가 우릴 찾았어!",
+    "panel.p4.bubble.left.html": "여기서 나가야 해!",
+    "panel.p4.bubble.center.html": "꼬마야, 출구는 베니 뒤쪽 하나뿐이야.",
+    "panel.p5.bubble.left.html": "<b>우리 죽는다!!!</b>",
+    "panel.p5.bubble.center.html": "뭐, 당연하지."
+  }
+}

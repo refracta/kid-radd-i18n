@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic131.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"멋진 세상\"",
+    "panel.p1.bubble.left.html": "그럼 너희도 바깥세상에 대해 알고 있어?",
+    "panel.p1.bubble.center.html": "네, 물론이죠.",
+    "panel.p1.bubble.right.html": "아주 잘.",
+    "panel.p2.bubble.left.html": "우리 게임에선 다른 세계가 있다는 것도 몰랐거든.",
+    "panel.p2.bubble.center.html": "사실 우리도 그랬어.",
+    "panel.p2.bubble.right.html": "처음엔.",
+    "panel.p3.bubble.left.html": "근데 어떻게?...",
+    "panel.p3.bubble.center.html": "네가 첫 방문객은 아니거든.",
+    "panel.p3.bubble.right.html": "먼저 온 사람이 있었어.",
+    "panel.p4.bubble.left.html": "이름은 엘프맨. 지옥에 온 걸 환영한다.",
+    "panel.p4.bubble.center.html": "...",
+    "panel.p4.bubble.right.html": "개그감이 아주 뛰어나지!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic129.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"더 세게 두드려\"",
+    "panel.p1.bubble.left.html": "좋아, 게임! 네 코드도 챙겼으니 이제 날 들여보내!",
+    "panel.p2.bubble.right.html": "음, 제발?...<br>알베르토?<br>열려라 참깨?<br>월트가 보냈다?",
+    "panel.p3.bubble.right.html": "아주 좋네. 그래도 난 포기 안 해. 여기까지 왔는데 그냥 <b>도망</b>칠 순 없지."
+  }
+}

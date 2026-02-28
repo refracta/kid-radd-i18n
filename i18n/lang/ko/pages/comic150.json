@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic150.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"축하해\"",
+    "panel.p1.bubble.left.html": "여기 갇혀서 안됐네, 꼬마.",
+    "panel.p1.bubble.right.html": "내 탓이긴 하지.",
+    "panel.p2.bubble.left.html": "아, 우리를 여기로 밀어 넣은 그 자식만 잡히면...",
+    "panel.p2.bubble.right.html": "크르릉, 나도 같은 마음이야.",
+    "panel.p3.bubble.left.html": "저 소리 뭐지?",
+    "panel.p3.bubble.center.html": "삐빕!<br>삐빕!",
+    "panel.p3.bubble.right.html": "아, 호출 왔네. 인간이 채팅방 아바타를 원해서 -",
+    "panel.p4.bubble.center.html": "- 나를 여기서 빔아웃시키려는 거야!",
+    "panel.p5.bubble.left.html": "좋은 시절이 왔구나, 축제다아!",
+    "panel.p5.bubble.center.html": "그 꼬마는 진짜 어이없는 행운이 문제도 만들고 해결도 하네.",
+    "panel.p5.bubble.right.html": "Deus ex machina."
+  }
+}

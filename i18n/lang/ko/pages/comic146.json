@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic146.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"도움이 온다\"",
+    "panel.p1.bubble.left.html": "뭐 하는 거야??? 쏘든지 뭐라도 해!",
+    "panel.p2.bubble.right.html": "이 난장판에서 제일 최악인 건, 이렇게 평범한 플레이어한테 죽어간다는 사실이야.",
+    "panel.p3.bubble.left.html": "이 녀석 실력 별로야. 내 옛 플레이어였다면 어떻게 했을지 난 정확히 알아.",
+    "panel.p5.bubble.left.html": "대충 그런 식이지."
+  }
+}

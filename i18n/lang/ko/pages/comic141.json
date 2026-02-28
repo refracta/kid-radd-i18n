@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic141.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"내 인생\"",
+    "panel.p1.bubble.right.html": "진짜, 진짜, 진짜 최악이야! 플레이어가 게임 끝까지 날 추격할 거라고!",
+    "panel.p2.bubble.left.html": "휴, 또 보스다! 이번엔 얘가 끝내주겠지.",
+    "panel.p3.bubble.left.html": "<b>좋았어!</b> 보스가 플레이어를 죽였어! 드디어 끝났어!",
+    "panel.p5.bubble.right.html": "<b>젠장!!!</b>"
+  }
+}

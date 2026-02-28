@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic151.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"맥의 귀환\"",
+    "panel.p1.bubble.left.html": "잘 있어, 엘프맨. 널 데려갈 수 있으면 좋았을 텐데.",
+    "panel.p1.bubble.center.html": "난 괜찮아. 여기 병아리들이 날 필요로 하거든.",
+    "panel.p1.bubble.right.html": "웃기고 있네.",
+    "panel.p3.bubble.center.html": "채팅 끝나면 기본 위치로 빔 이동될 거야. 그 기본 위치를 보기 아파트로 설정해놨지.",
+    "panel.p4.bubble.center.html": "좋았어! 여길 이렇게 반가워하게 될 줄은 몰랐다!",
+    "panel.p5.narration.1.html": "2분 후...",
+    "panel.p5.bubble.center.html": "꺼내줘!  <b>꺼내달라고!!!</b>"
+  }
+}

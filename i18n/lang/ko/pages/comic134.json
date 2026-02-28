@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic134.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"겁먹고 도망\"",
+    "panel.p1.bubble.left.html": "게임 사인!",
+    "panel.p1.bubble.center.html": "젠장. 이동해야 해.",
+    "panel.p1.bubble.right.html": "뭐?",
+    "panel.p2.bubble.left.html": "플레이어가 게임을 시작했어. 숨어야 해.",
+    "panel.p2.bubble.right.html": "아, 귀찮아. 난 안 뛰어.",
+    "panel.p3.bubble.left.html": "너 자살하려는 거야, 아님 미친 거야?!",
+    "panel.p3.bubble.right.html": "그냥 게임이잖아. 플레이어가 날 날려도 게임 끝나면 다시 살아나.",
+    "panel.p4.bubble.left.html": "어디 가는 거야?",
+    "panel.p4.bubble.right.html": "너 같은 괴짜랑 멀어지려고. 난 살 거야.",
+    "panel.p5.bubble.left.html": "얘 원래 이렇게 피해망상 심해?",
+    "panel.p5.bubble.right.html": "내 스테이지로 가야 해. 나중에."
+  }
+}

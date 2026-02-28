@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic139.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"마음이 딴 데로\"",
+    "panel.p1.bubble.left.html": "좋아, 이제 끝인가 보네.",
+    "panel.p2.bubble.left.html": "마지막 \"게임 오버\"를 앞두고 친구들을 떠올려본다. 뭐, 친구 한 명. 사실 지인에 가깝지. 젠장, 나 아는 사람이 이리 없나?",
+    "panel.p3.bubble.left.html": "아 맞다, 시나가 있지. 사랑하고 싶었던 여자... 아니, 최소한 2루까진 가고 싶었던 여자. 걔는 언제든 내 픽셀을 소거해도 돼. 크르르!",
+    "panel.p5.bubble.left.html": "어... 잠깐 생각의 흐름을 잃었네."
+  }
+}

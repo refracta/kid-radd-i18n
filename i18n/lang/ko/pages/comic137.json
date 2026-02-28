@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic137.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"버니맨이 온다\"",
+    "panel.p3.bubble.right.html": "어, 베니?",
+    "panel.p4.bubble.right.html": "<b>말도 안 돼!!!</b>"
+  }
+}

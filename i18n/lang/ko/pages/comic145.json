@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic145.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"작은 검은 달걀\"",
+    "panel.p1.bubble.left.html": "싸워! 그게 우리 유일한 기회야!",
+    "panel.p1.bubble.center.html": "<i>으으...</i>",
+    "panel.p2.bubble.right.html": "<b>아야!</b> 젠장, 왜 뭐든 나한텐 똑같이 아픈 거야? 미사일이나 기관총에 죽을 수도 있었는데, 고작 <b>달걀</b>에 죽게 생겼다고???",
+    "panel.p3.bubble.right.html": "말이 안 되잖아! 아니, 달걀이 어떻게 사람을 죽이냐고? 살모넬라라도 걸리라는 거야 뭐야? 진짜 최악이야!!!",
+    "panel.p4.bubble.left.html": "꼬마야, 네가 멍하니 서 있는 동안에도 시간은 흐른다는 건 알지? 너 혼잣말하는 사이에 플레이어가 달걀을 더 던지고 있어.",
+    "panel.p5.bubble.center.html": "<b>젠장!</b>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic126.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"느린 여정\"",
+    "panel.p1.narration.1.html": "그래서 래드는 새 게임을 찾아 데이터 수송을 탑니다.",
+    "panel.p2.bubble.left.html": "아, 대중교통 진짜 싫어. 주인공 스프라이트는 다 사람 많은 거 싫어한다고.",
+    "panel.p3.bubble.left.html": "누가 실수로 한 번만 툭 쳐도 --",
+    "panel.p4.bubble.right.html": "\"어이쿠!\" ...미안해, 친구.",
+    "panel.p5.bubble.left.html": "난 대중교통이 <b>정말</b> 싫어.",
+    "panel.p5.bubble.right.html": "조심해, 이거 엄청 덜컹거려. 흐흐."
+  }
+}
