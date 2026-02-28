@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic162.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네 눈 속에서\"",
+    "panel.p1.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">가, 날 그냥 편히 쉬게 둬.</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">세상에, 넌 진짜 울보다.</font>",
+    "panel.p2.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">보기?  너도 여기 있어?</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">응. 왜 그게 놀라워?</font>",
+    "panel.p3.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">아니, 난 죽었잖아...</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">뭐?  죽긴 왜 죽어. 안 죽었어.</font>",
+    "panel.p4.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">그럼 왜 너희가 안 보이지?</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">눈 감고 있으니까 그렇지, 멍청아.</font>",
+    "panel.p5.bubble.left.html": "아. 참 신기하게도 그렇네.",
+    "panel.p5.bubble.center.html": "네 친구들은 다 이렇게 멍청해?",
+    "panel.p5.bubble.right.html": "상상도 못 할걸..."
+  }
+}

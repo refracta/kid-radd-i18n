@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic165.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"쿵푸 파이팅\"",
+    "panel.p4.bubble.left.html": "와.",
+    "panel.p4.bubble.right.html": "잠깐만. 네 말은 그 용의자를 날아차기로 제압했다는 걸 우리가 믿으란 거야?"
+  }
+}

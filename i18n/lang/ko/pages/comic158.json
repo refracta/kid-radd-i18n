@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic158.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"끝의 시작\"",
+    "panel.p1.bubble.right.html": "도<b>와</b>줄 사람... 찾아야 해 - - 하ㅈ만 누굴?,?",
+    "panel.p2.bubble.center.html": "모<b>더</b>레이터한테... 가볼까?  근데 <i>시간 안에</i> 닿을 수가 없을 것 같아...",
+    "panel.p3.bubble.right.html": "나 점점 느려j<b>ㅕ</b>... 겨우 움직여,,",
+    "panel.p4.bubble.left.html": "생<b>각</b>도... 안 돼..!.",
+    "panel.p4.bubble.right.html": "아, 여기 있었군요. 미스터 \"Bogey.\""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic160.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"끝\"",
+    "panel.p1.bubble.center.html": "난... 분해되고 있어...",
+    "panel.p2.bubble.center.html": "이젠 내 몸이 존재하지 않는 것 같아...<br>...정신도 사라지고...",
+    "panel.p3.bubble.center.html": "...아무것도...<br>...남지...",
+    "panel.p4.bubble.center.html": "...여기가...<br>...지옥인가..."
+  }
+}

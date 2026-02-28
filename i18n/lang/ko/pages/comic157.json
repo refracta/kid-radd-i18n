@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic157.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"붕괴\"",
+    "panel.p1.bubble.right.html": "나한테 무<b>슨</b> 일이... 나 이s상해...",
+    "panel.p2.bubble.center.html": "몸이 <i>찢</i>어지는 것 같<b>아</b>! 누가... 도와jㅝ!",
+    "panel.p3.bubble.left.html": "어떤 패배자가 불량 코드를 집어삼킨 모양이네.",
+    "panel.p3.bubble.right.html": "불쌍한 놈. 뭐라도 해줄까?",
+    "panel.p4.bubble.left.html": "아냐. 이제 아무도 못 도와."
+  }
+}

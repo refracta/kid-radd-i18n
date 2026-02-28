@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic156.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"독\"",
+    "panel.p1.bubble.right.html": "Playland 2, 간다! 좋았어!",
+    "panel.p2.bubble.right.html": "와, 빨리 가고 싶다! 어차피 갈 거 지금 코드 흡수해도 되겠네.",
+    "panel.p4.bubble.right.html": "뭔<b>가</b>... 이<i>상</i>해."
+  }
+}

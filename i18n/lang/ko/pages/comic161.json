@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic161.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"길 잃은 영혼\"",
+    "panel.p2.bubble.center.html": "래드...",
+    "panel.p3.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">시나?</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">래드, 내 말 들려?</font>",
+    "panel.p4.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">여긴 어디야?</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">넌 모더레이터와 함께 있어.</font>",
+    "panel.p5.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">젠장, 역시 난 지옥에 있구나.</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">......</font>"
+  }
+}

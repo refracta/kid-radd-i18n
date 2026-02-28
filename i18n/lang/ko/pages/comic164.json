@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic164.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"잡을 수 있으면 잡아봐\"",
+    "panel.p1.bubble.left.html": "나 여기 어떻게 온 거야?",
+    "panel.p1.bubble.center.html": "네 작은 초록 친구가 널 살렸어.",
+    "panel.p2.bubble.left.html": "보기?",
+    "panel.p2.bubble.right.html": "그래, 내 판단에 반해서 말이지.",
+    "panel.p5.bubble.left.html": "그 자식은 잡았어?",
+    "panel.p5.bubble.center.html": "너 말하는 거야, 멍청아!",
+    "panel.p5.bubble.right.html": "제발, 그냥 계속하세요."
+  }
+}
