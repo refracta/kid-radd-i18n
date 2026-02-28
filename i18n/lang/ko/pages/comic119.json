@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic119.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"사무라이\"",
+    "panel.p1.bubble.center.html": "우리 게임이 파괴된 뒤로 Kid Radd에서는 박진감 넘치는 액션 장면이 부족했죠. 하지만 지금 바로 보충할 수 있습니다.",
+    "panel.p2.bubble.center.html": "순수하게 서비스용 폭력을 제공하기 위해, 지금부터 래드와 보기가 쿠로사와 스타일 검술 대결을 펼치겠습니다. 즐겨주세요!",
+    "panel.p4.bubble.left.html": "-",
+    "panel.p4.bubble.right.html": "다음엔 훈련부터 좀 시키자."
+  }
+}

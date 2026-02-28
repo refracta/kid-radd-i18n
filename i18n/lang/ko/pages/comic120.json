@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic120.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"1989처럼 파티하라\"",
+    "panel.p1.narration.1.html": "포스 월 주간 피날레!",
+    "panel.p1.bubble.center.html": "<font size=\"2\" face=\"arial\">이번 주의 마지막을 장식할 래드 댄스 파티를 선언합니다! 음악을 <b>시작</b>하려면 'next'를 클릭하세요! </font><font size=\"1\" face=\"arial\"> (직장이라 소리 내면 곤란하면... 뭐, 어쩔 수 없고요.)</font>",
+    "panel.p2.narration.1.html": "빨간 버튼을 클릭하면 춤을 춥니다!<br>'next'를 클릭하면 종료.",
+    "panel.p3.narration.1.html": "빨간 버튼을 클릭하면 춤을 춥니다!<br>'next'를 클릭하면 종료.",
+    "panel.p4.narration.1.html": "빨간 버튼을 클릭하면 춤을 춥니다!<br>'next'를 클릭하면 종료.",
+    "panel.p5.narration.1.html": "빨간 버튼을 클릭하면 춤을 춥니다!<br>'next'를 클릭하면 종료.",
+    "panel.p6.bubble.left.html": "와, 파티가 진짜 짧네.",
+    "panel.p6.bubble.right.html": "독자가 존 애슈크로프트인가 보지."
+  }
+}
