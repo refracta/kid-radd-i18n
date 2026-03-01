@@ -1380,6 +1380,57 @@
 		return $(this).find('img').length === 0;
 	}
 
+	function getTitleMainTarget() {
+		return $('a[name="title"]').find('font.rundschrift, font[face*="VAG Rundschrift"]').filter(function() {
+			var $el = $(this);
+			var face = ($el.attr('face') || '').toLowerCase();
+			return $el.hasClass('rundschrift') || face.indexOf('vag rundschrift') >= 0;
+		}).first();
+	}
+
+	function getTitleExtraTargets() {
+		var $title = $('a[name="title"]');
+		if(!$title.length) {
+			return $();
+		}
+		var titleMainNode = getTitleMainTarget().get(0) || null;
+		var targets = [];
+
+		$title.find('font').each(function() {
+			var node = this;
+			var $node = $(node);
+			var text = $.trim(($node.text() || '').replace(/\u00a0/g, ' '));
+			if(!text.length) {
+				return;
+			}
+			if(!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
+				return;
+			}
+			if(titleMainNode && (node === titleMainNode || $.contains(titleMainNode, node))) {
+				return;
+			}
+			var $parentFont = $node.parent().closest('font');
+			if($parentFont.length) {
+				var parentText = $.trim(($parentFont.text() || '').replace(/\u00a0/g, ' '));
+				if(parentText.length) {
+					return;
+				}
+			}
+			if($node.closest('a[href]').length > 0) {
+				return;
+			}
+			if($node.find('a[href]').length > 0) {
+				return;
+			}
+			if($node.closest('#' + CONTROL_ID).length > 0) {
+				return;
+			}
+			targets.push(node);
+		});
+
+		return $(targets);
+	}
+
 	function captureOriginalPageStrings() {
 		state.originalStrings = {};
 		var page = getCurrentPageName();
@@ -1389,8 +1440,16 @@
 	}
 
 	function captureComicPageOriginalStrings() {
-		state.originalStrings['title.main'] = readTextIfExists($('a[name="title"]').find('font.rundschrift').first());
-		state.originalStrings['title.main.html'] = readHtmlIfExists($('a[name="title"]').find('font.rundschrift').first());
+		var $titleMainTarget = getTitleMainTarget();
+		state.originalStrings['title.main'] = readTextIfExists($titleMainTarget);
+		state.originalStrings['title.main.html'] = readHtmlIfExists($titleMainTarget);
+		var $titleExtraTargets = getTitleExtraTargets();
+		for(var titleExtraIndex = 0; titleExtraIndex < $titleExtraTargets.length; titleExtraIndex++) {
+			var titleExtraKey = 'title.extra.' + (titleExtraIndex + 1);
+			var $titleExtraTarget = $titleExtraTargets.eq(titleExtraIndex);
+			state.originalStrings[titleExtraKey] = readTextIfExists($titleExtraTarget);
+			state.originalStrings[titleExtraKey + '.html'] = readHtmlIfExists($titleExtraTarget);
+		}
 
 		var panels = getComicPanelNames();
 		for(var i = 0; i < panels.length; i++) {
@@ -1424,13 +1483,15 @@
 
 	function applyComicPageStrings(strings) {
 		var normalizedStrings = normalizeComicStringsToHtmlOnly(strings);
+		var $titleMainTarget = getTitleMainTarget();
 		setTextOrHtmlWithFallback(
-			$('a[name="title"]').find('font.rundschrift').first(),
+			$titleMainTarget,
 			null,
 			state.originalStrings['title.main'],
 			normalizedStrings['title.main.html'],
 			state.originalStrings['title.main.html']
 		);
+		applyTitleExtraStrings(normalizedStrings);
 
 		var panels = getComicPanelNames();
 		for(var i = 0; i < panels.length; i++) {
@@ -1844,6 +1905,21 @@
 				state.originalStrings[extraKey],
 				normalizedStrings[extraKey + '.html'],
 				state.originalStrings[extraKey + '.html']
+			);
+		}
+	}
+
+	function applyTitleExtraStrings(normalizedStrings) {
+		var $titleExtraTargets = getTitleExtraTargets();
+		for(var titleExtraIndex = 0; titleExtraIndex < $titleExtraTargets.length; titleExtraIndex++) {
+			var titleExtraKey = 'title.extra.' + (titleExtraIndex + 1);
+			var $target = $titleExtraTargets.eq(titleExtraIndex);
+			setTextOrHtmlWithFallback(
+				$target,
+				null,
+				state.originalStrings[titleExtraKey],
+				normalizedStrings[titleExtraKey + '.html'],
+				state.originalStrings[titleExtraKey + '.html']
 			);
 		}
 	}

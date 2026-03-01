@@ -301,6 +301,56 @@ async function extractComicStrings(page, comicPath) {
       return MARKUP_RE.test(html);
     }
 
+    function getTitleMainTarget() {
+      const title = document.querySelector('a[name="title"]');
+      if (!title) {
+        return null;
+      }
+      return (
+        title.querySelector('font.rundschrift') ||
+        title.querySelector('font[face*="VAG Rundschrift D"]') ||
+        title.querySelector('font[face*="VAG Rundschrift"]')
+      );
+    }
+
+    function getTitleExtraTargets() {
+      const title = document.querySelector('a[name="title"]');
+      if (!title) {
+        return [];
+      }
+
+      const titleMainTarget = getTitleMainTarget();
+      const allFonts = Array.from(title.querySelectorAll('font'));
+      const targets = [];
+      for (const node of allFonts) {
+        const text = normalizeText((node.textContent || '').replace(/\u00a0/g, ' '));
+        if (!text.length) {
+          continue;
+        }
+        if (!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
+          continue;
+        }
+        if (titleMainTarget && containsOrSame(titleMainTarget, node)) {
+          continue;
+        }
+        const parentFont = node.parentElement ? node.parentElement.closest('font') : null;
+        if (parentFont) {
+          const parentText = normalizeText((parentFont.textContent || '').replace(/\u00a0/g, ' '));
+          if (parentText.length > 0) {
+            continue;
+          }
+        }
+        if (node.closest('a[href]')) {
+          continue;
+        }
+        if (node.querySelector('a[href]')) {
+          continue;
+        }
+        targets.push(node);
+      }
+      return targets;
+    }
+
     function getComicPanelNames() {
       const names = [];
       const anchors = document.querySelectorAll('a[name]');
@@ -587,12 +637,18 @@ async function extractComicStrings(page, comicPath) {
     }
 
     const strings = {};
-    const titleTarget =
-      document.querySelector('a[name="title"] font.rundschrift') ||
-      document.querySelector('a[name="title"] font[face*="VAG Rundschrift D"]');
+    const titleTarget = getTitleMainTarget();
     const titleHtml = extractHtmlValue(titleTarget);
     if (titleHtml) {
       strings['title.main.html'] = titleHtml;
+    }
+    const titleExtraTargets = getTitleExtraTargets();
+    for (let titleExtraIndex = 0; titleExtraIndex < titleExtraTargets.length; titleExtraIndex += 1) {
+      const titleExtraHtml = extractHtmlValue(titleExtraTargets[titleExtraIndex]);
+      if (!titleExtraHtml) {
+        continue;
+      }
+      strings[`title.extra.${titleExtraIndex + 1}.html`] = titleExtraHtml;
     }
 
     const panels = getComicPanelNames();
