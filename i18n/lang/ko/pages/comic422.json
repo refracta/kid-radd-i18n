@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic422.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"선행 공개\"",
+    "panel.p1.bubble.center.html": "예술적 허용이라는 마법의 힘으로, <b>미래!</b>의 프로그램을 보여드리겠습니다!",
+    "panel.p2.bubble.center.html": "<b>그때 그<br>2000년대<br>쇼</b>",
+    "panel.p3.bubble.left.html": "우린 <b>N'SYNC</b> 듣고 내 <b>Playstation 3!</b> 하고 있어! 이것보다 더 좋을 순 없지!",
+    "panel.p3.bubble.right.html": "맞아!",
+    "panel.p4.bubble.left.html": "야 래드, 네 <b>CD</b> 컬렉션 끝내준다, <b>알겠냐!</b>",
+    "panel.p4.bubble.right.html": "그래, 나 완전 현대인 맞지 뭐? 하하!",
+    "panel.p5.bubble.left.html": "얘들아, <b>쇼핑몰</b> 갈래? 그러니까, <b>차</b> 타고?",
+    "panel.p5.bubble.right.html": "아, 고마운데 나 <b>로스앤젤레스!</b> 여행 짐 싸야 해서.",
+    "panel.p6.bubble.left.html": "로스앤젤레스? 그게 어떻게 이 시대 향수 포인트야?",
+    "panel.p6.bubble.right.html": "있잖아, 아직 한국이 거길 핵으로 날려버리기 전이잖아."
+  }
+}

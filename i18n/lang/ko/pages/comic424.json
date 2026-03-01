@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic424.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아주 래드다운 크리스마스\"",
+    "panel.p1.narration.1.html": "래드 일행의 연말 축제를 함께 즐겨봅시다!",
+    "panel.p2.bubble.left.html": "후! 우리 파티하는 법 제대로 알지, 안 그래?",
+    "panel.p2.bubble.right.html": "우리 돌아왔어! 트리도 가져왔고!",
+    "panel.p3.bubble.left.html": "그게 <b>다야?</b> 이 멍청한 픽셀머리야, 트리 하나도 제대로 못 구해 오냐?",
+    "panel.p3.bubble.right.html": "하지만...",
+    "panel.p5.bubble.left.html": "걱정 마, 보기. 이걸 봐!",
+    "panel.p6.bubble.left.html": "아름다워! 근데 어떻게?...",
+    "panel.p6.bubble.right.html": "이걸로!"
+  }
+}
