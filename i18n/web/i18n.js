@@ -1780,13 +1780,12 @@
 		var $chatTargets = getPanelChatTargets(panelName);
 		var narrationNode = $narrationTarget.get(0) || null;
 		var bubbleNode = $bubbleTable.get(0) || null;
-		var bubblePrimaryRow = null;
-		if($bubbleTable.length) {
-			var $primaryRow = $bubbleTable.children('tbody').children('tr').first();
-			if(!$primaryRow.length) {
-				$primaryRow = $bubbleTable.find('tr').first();
+		var bubbleTextNodes = [];
+		for(var slotIndex = 0; slotIndex < BUBBLE_SLOTS.length; slotIndex++) {
+			var bubbleTargetNode = getBubbleTarget(panelName, BUBBLE_SLOTS[slotIndex]).get(0);
+			if(bubbleTargetNode) {
+				bubbleTextNodes.push(bubbleTargetNode);
 			}
-			bubblePrimaryRow = $primaryRow.get(0) || null;
 		}
 		var chatNodes = $chatTargets.get();
 		var targets = [];
@@ -1804,10 +1803,13 @@
 			if(narrationNode && (node === narrationNode || $.contains(narrationNode, node))) {
 				return;
 			}
-			if(bubblePrimaryRow && (node === bubblePrimaryRow || $.contains(bubblePrimaryRow, node))) {
-				return;
+			for(var bubbleIndex = 0; bubbleIndex < bubbleTextNodes.length; bubbleIndex++) {
+				var bubbleTextNode = bubbleTextNodes[bubbleIndex];
+				if(node === bubbleTextNode || $.contains(bubbleTextNode, node)) {
+					return;
+				}
 			}
-			if(bubbleNode && (node === bubbleNode || $.contains(bubbleNode, node)) && !bubblePrimaryRow) {
+			if(bubbleNode && bubbleTextNodes.length === 0 && (node === bubbleNode || $.contains(bubbleNode, node))) {
 				return;
 			}
 			for(var i = 0; i < chatNodes.length; i++) {
@@ -1815,7 +1817,11 @@
 					return;
 				}
 			}
-			if($node.closest('a').length > 0) {
+			// Exclude clickable links only; panel anchors like <a name="pX"> wrap valid text.
+			if($node.closest('a[href]').length > 0) {
+				return;
+			}
+			if($node.find('a[href]').length > 0) {
 				return;
 			}
 			if($node.closest('#' + CONTROL_ID).length > 0) {

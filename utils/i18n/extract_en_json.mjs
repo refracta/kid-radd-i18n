@@ -249,7 +249,7 @@ async function extractComicStrings(page, comicPath) {
   await page.goto(comicPath, { waitUntil: 'domcontentloaded' });
   return page.evaluate(() => {
     const BUBBLE_SLOTS = ['left', 'center', 'right'];
-    const MARKUP_RE = /<\s*(?:b|i|u|em|strong|span|sup|sub|small|big|br)\b/i;
+    const MARKUP_RE = /<\s*\/?\s*[a-z][^>]*>/i;
 
     function normalizeText(value) {
       return String(value || '')
@@ -321,12 +321,80 @@ async function extractComicStrings(page, comicPath) {
       return document.querySelector(`a[name="${panelName}"]`);
     }
 
+    function containsOrSame(parent, child) {
+      if (!parent || !child) {
+        return false;
+      }
+      return parent === child || parent.contains(child);
+    }
+
     function getNarrationTarget(panelName) {
       const panel = getPanel(panelName);
       if (!panel) {
         return null;
       }
-      return panel.querySelector('td[bgcolor="ffff99"] b');
+
+      const yellowNarration = panel.querySelector('td[bgcolor="ffff99"] b');
+      if (yellowNarration) {
+        return yellowNarration;
+      }
+
+      const bubbleTable = findBubbleTable(panel);
+      if (!bubbleTable) {
+        return null;
+      }
+
+      const bubbleRow = bubbleTable.closest('tr');
+      if (!bubbleRow) {
+        return null;
+      }
+
+      let legacyRow = bubbleRow.previousElementSibling;
+      while (legacyRow) {
+        if (normalizeText(legacyRow.textContent || '').length > 0) {
+          break;
+        }
+        legacyRow = legacyRow.previousElementSibling;
+      }
+      if (!legacyRow) {
+        return null;
+      }
+
+      const legacyFonts = Array.from(legacyRow.querySelectorAll('font')).filter(
+        (font) => normalizeText(font.textContent || '').length > 0,
+      );
+      if (legacyFonts.length === 1) {
+        return legacyFonts[0];
+      }
+      if (legacyFonts.length > 1) {
+        const sharedCenter = legacyFonts[0].closest('center');
+        if (sharedCenter) {
+          const allInSharedCenter = legacyFonts.every((font) => containsOrSame(sharedCenter, font));
+          if (allInSharedCenter) {
+            return sharedCenter;
+          }
+        }
+      }
+
+      const legacyBold = Array.from(legacyRow.querySelectorAll('b')).find(
+        (node) => normalizeText(node.textContent || '').length > 0,
+      );
+      if (legacyBold) {
+        return legacyBold;
+      }
+
+      const legacyCenter = Array.from(legacyRow.querySelectorAll('center')).find(
+        (node) => normalizeText(node.textContent || '').length > 0,
+      );
+      if (legacyCenter) {
+        return legacyCenter;
+      }
+
+      return (
+        Array.from(legacyRow.querySelectorAll('font')).find(
+          (node) => normalizeText(node.textContent || '').length > 0,
+        ) || null
+      );
     }
 
     function bubbleSlotToIndex(slotName) {
@@ -344,23 +412,22 @@ async function extractComicStrings(page, comicPath) {
       if (!table) {
         return false;
       }
+      if (table.querySelector('a')) {
+        return false;
+      }
       const firstRow = table.querySelector(':scope > tbody > tr') || table.querySelector('tr');
       if (!firstRow) {
         return false;
       }
-      const cells = firstRow.querySelectorAll(':scope > td');
+      const cells = Array.from(firstRow.querySelectorAll(':scope > td'));
       if (cells.length !== 3) {
         return false;
       }
-      const middleCell = cells[1];
-      if (!middleCell) {
+      const centerCellCount = cells.filter((cell) => cell.querySelector('center')).length;
+      if (centerCellCount < 2) {
         return false;
       }
-      const bgcolor = middleCell.getAttribute('bgcolor');
-      if (typeof bgcolor !== 'string') {
-        return false;
-      }
-      return Boolean(middleCell.querySelector('center'));
+      return Boolean(table.querySelector('font[face*="arial"], font[face*="tahoma"]'));
     }
 
     function findBubbleTable(panel) {
@@ -426,6 +493,99 @@ async function extractComicStrings(page, comicPath) {
       return resolveBubbleTextTarget(cell);
     }
 
+    function getPanelChatTargets(panelName) {
+      const panel = getPanel(panelName);
+      if (!panel) {
+        return [];
+      }
+
+      const bubbleTable = findBubbleTable(panel);
+      if (!bubbleTable) {
+        return [];
+      }
+
+      const bubbleRow = bubbleTable.closest('tr');
+      if (!bubbleRow) {
+        return [];
+      }
+
+      const targets = [];
+      let row = bubbleRow.nextElementSibling;
+      while (row) {
+        const fonts = Array.from(row.querySelectorAll('font')).filter((font) => {
+          const text = normalizeText(font.textContent || '');
+          return text.length > 0 && text.includes(':');
+        });
+        targets.push(...fonts);
+        row = row.nextElementSibling;
+      }
+      return targets;
+    }
+
+    function getPanelExtraTargets(panelName) {
+      const panel = getPanel(panelName);
+      if (!panel) {
+        return [];
+      }
+
+      const narrationTarget = getNarrationTarget(panelName);
+      const bubbleTable = findBubbleTable(panel);
+      const chatTargets = getPanelChatTargets(panelName);
+      const chatSet = new Set(chatTargets);
+      const bubbleTextTargets = BUBBLE_SLOTS
+        .map((slot) => getBubbleTarget(panelName, slot))
+        .filter(Boolean);
+
+      const allFonts = Array.from(panel.querySelectorAll('font'));
+      const targets = [];
+      for (const node of allFonts) {
+        const rawText = (node.textContent || '').replace(/\u00a0/g, ' ');
+        const text = normalizeText(rawText);
+        if (!text.length) {
+          continue;
+        }
+        if (!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
+          continue;
+        }
+        if (narrationTarget && containsOrSame(narrationTarget, node)) {
+          continue;
+        }
+        let inBubbleText = false;
+        for (const bubbleNode of bubbleTextTargets) {
+          if (containsOrSame(bubbleNode, node)) {
+            inBubbleText = true;
+            break;
+          }
+        }
+        if (inBubbleText) {
+          continue;
+        }
+        if (!bubbleTextTargets.length && bubbleTable && containsOrSame(bubbleTable, node)) {
+          continue;
+        }
+
+        let inChat = false;
+        for (const chatNode of chatSet) {
+          if (containsOrSame(chatNode, node)) {
+            inChat = true;
+            break;
+          }
+        }
+        if (inChat) {
+          continue;
+        }
+        // Exclude clickable links only; panel anchors like <a name="pX"> wrap valid text.
+        if (node.closest('a[href]')) {
+          continue;
+        }
+        if (node.querySelector('a[href]')) {
+          continue;
+        }
+        targets.push(node);
+      }
+      return targets;
+    }
+
     const strings = {};
     const titleTarget =
       document.querySelector('a[name="title"] font.rundschrift') ||
@@ -452,6 +612,26 @@ async function extractComicStrings(page, comicPath) {
         }
         const bubbleKey = `panel.${panelName}.bubble.${slot}.html`;
         strings[bubbleKey] = bubbleHtml;
+      }
+
+      const chatTargets = getPanelChatTargets(panelName);
+      for (let chatIndex = 0; chatIndex < chatTargets.length; chatIndex += 1) {
+        const chatHtml = extractHtmlValue(chatTargets[chatIndex]);
+        if (!chatHtml) {
+          continue;
+        }
+        const chatKey = `panel.${panelName}.chat.${chatIndex + 1}.html`;
+        strings[chatKey] = chatHtml;
+      }
+
+      const extraTargets = getPanelExtraTargets(panelName);
+      for (let extraIndex = 0; extraIndex < extraTargets.length; extraIndex += 1) {
+        const extraHtml = extractHtmlValue(extraTargets[extraIndex]);
+        if (!extraHtml) {
+          continue;
+        }
+        const extraKey = `panel.${panelName}.extra.${extraIndex + 1}.html`;
+        strings[extraKey] = extraHtml;
       }
     }
 
