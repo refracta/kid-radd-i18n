@@ -862,13 +862,21 @@
 		if(!$menuRow.length) {
 			return false;
 		}
-		var $cells = $menuRow.children('td');
-		var middleText = $.trim(($cells.eq(1).text() || '').replace(/\s+/g, ' '));
-		if(!middleText.length) {
+		return hasMenuRowMiddleText($menuRow);
+	}
+
+	function hasMenuRowMiddleText($menuRow) {
+		if(!$menuRow || !$menuRow.length) {
 			return false;
 		}
-		var normalized = middleText.toLowerCase();
-		return normalized === 'lang' || normalized === 'language' || normalized === '언어';
+		var $cells = $menuRow.children('td');
+		if($cells.length < 2) {
+			return false;
+		}
+		var middleText = String($cells.eq(1).text() || '')
+			.replace(/\u00a0/g, ' ')
+			.replace(/\s+/g, ' ');
+		return $.trim(middleText).length > 0;
 	}
 
 	function findMenuRowForZoomLink($zoomLink) {
