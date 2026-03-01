@@ -1,0 +1,163 @@
+name: render-comics-release
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      comic_concurrency:
+        description: "Comic concurrency per shard"
+        required: false
+        default: "8"
+      keep_last_releases:
+        description: "How many rolling releases to keep"
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-comics-release-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  COMIC_CONCURRENCY: ${{ github.event.inputs.comic_concurrency || '8' }}
+  KEEP_LAST_RELEASES: ${{ github.event.inputs.keep_last_releases || '3' }}
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [en, ko]
+        shard:
+          - { id: s1, start: 1, end: 20 }
+          - { id: s2, start: 21, end: 40 }
+          - { id: s3, start: 41, end: 60 }
+          - { id: s4, start: 61, end: 80 }
+          - { id: s5, start: 81, end: 100 }
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm ci
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          node node_modules/playwright-core/cli.js install --with-deps chromium
+
+      - name: Render shard
+        shell: bash
+        run: |
+          set -euo pipefail
+          out_dir="exports/panels-webp-${{ matrix.language }}-comic${{ matrix.shard.start }}-${{ matrix.shard.end }}"
+          export PLAYWRIGHT_CHROMIUM_PATH="$(node -e "const {chromium}=require('playwright-core'); console.log(chromium.executablePath())")"
+          extra_args=()
+          if grep -q -- '--comic-concurrency' utils/capture/export_comic_panels_webp.mjs; then
+            extra_args+=(--comic-concurrency "${COMIC_CONCURRENCY}")
+          fi
+          node utils/capture/export_comic_panels_webp.mjs \
+            --start "${{ matrix.shard.start }}" \
+            --end "${{ matrix.shard.end }}" \
+            --browser-locale "${{ matrix.language }}" \
+            "${extra_args[@]}" \
+            --output-dir "${out_dir}"
+
+          if [[ -f "${out_dir}/manifest.json" ]]; then
+            mv "${out_dir}/manifest.json" "${out_dir}/manifest-comic${{ matrix.shard.start }}-${{ matrix.shard.end }}.json"
+          fi
+
+          mkdir -p "artifact/${{ matrix.language }}"
+          cp -a "${out_dir}/." "artifact/${{ matrix.language }}/"
+
+      - name: Upload render artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-${{ matrix.language }}-${{ matrix.shard.id }}
+          path: artifact/${{ matrix.language }}
+          retention-days: 7
+
+  package:
+    runs-on: ubuntu-latest
+    needs: render
+    steps:
+      - name: Download all render artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: render-*
+          path: collected
+          merge-multiple: true
+
+      - name: Build release bundles
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -d collected/en
+          test -d collected/ko
+          mkdir -p dist
+
+          tar -czf dist/kid-radd-panels-webp-en-1-100.tar.gz -C collected en
+          tar -czf dist/kid-radd-panels-webp-ko-1-100.tar.gz -C collected ko
+          tar -czf dist/kid-radd-panels-webp-en-ko-1-100.tar.gz -C collected en ko
+
+          sha256sum dist/*.tar.gz | tee dist/SHA256SUMS.txt
+
+      - name: Upload package artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-packages
+          path: dist/*
+          retention-days: 14
+
+  release:
+    if: ${{ github.ref == format('refs/heads/{0}', github.event.repository.default_branch) }}
+    runs-on: ubuntu-latest
+    needs: package
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download package artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: render-packages
+          path: dist
+
+      - name: Create rolling release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          bash scripts/release.sh upload \
+            -r "${{ github.repository }}" \
+            -n "kid-radd-panels-webp" \
+            -T "kid-radd panels webp comics 1-100 (${GITHUB_SHA::7})" \
+            -b "${{ github.sha }}" \
+            -p dist/kid-radd-panels-webp-en-1-100.tar.gz \
+            -p dist/kid-radd-panels-webp-ko-1-100.tar.gz \
+            -p dist/kid-radd-panels-webp-en-ko-1-100.tar.gz \
+            -p dist/SHA256SUMS.txt
+
+      - name: Keep last rolling releases
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          bash scripts/release.sh delete \
+            -r "${{ github.repository }}" \
+            -n "kid-radd-panels-webp" \
+            -l "${KEEP_LAST_RELEASES}"
