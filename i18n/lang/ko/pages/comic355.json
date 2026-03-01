@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic355.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"작은 활력 충전\"",
+    "panel.p1.bubble.left.html": "내 개인 공간이 침해당하고 있어...",
+    "panel.p1.bubble.center.html": "우린 특이한 능력을 가진 스프라이트가 필요해. 너도 나처럼 충전할 수 있어?",
+    "panel.p1.bubble.right.html": "뭘 한다고?",
+    "panel.p2.bubble.left.html": "그거 있잖아, 충전해서 메가 래드 쏘는 거.",
+    "panel.p2.bubble.right.html": "아, 메가 래드? 맞는 파워업 먹으면 한동안은 그거 던질 수 있어.",
+    "panel.p3.bubble.left.html": "근데... 그 외엔 어떻게 공격해?",
+    "panel.p3.bubble.right.html": "간단해. 잘 봐!",
+    "panel.p5.bubble.left.html": "나 좀 봐! 내가 <i>보기를 만지고 있어!</i>",
+    "panel.p5.bubble.center.html": "모욕감이 밀려오네.",
+    "panel.p5.bubble.right.html": "나도 같은 기분이야."
+  }
+}

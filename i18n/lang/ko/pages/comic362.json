@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic362.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말 안 해줬잖아\"",
+    "panel.p1.bubble.left.html": "이런. 모더레이터가 드디어 우릴 눈치챈 것 같아. 회피 기동 들어간다.",
+    "panel.p1.bubble.right.html": "오, 맙소사...",
+    "panel.p2.bubble.left.html": "내가 래드 &amp; 시나와 계속 통신할게. 줄이, 함선 조종 맡아.",
+    "panel.p2.bubble.center.html": "알겠어요, 아빠.",
+    "panel.p3.bubble.left.html": "보기! 포탑으로 반격해!",
+    "panel.p3.bubble.center.html": "나한텐...<br>없어...<br><b>팔이...<br>없다고!</b>",
+    "panel.p4.bubble.left.html": "그래, 하필 지금 와서 그런 걸 말해 주시는군.",
+    "panel.p4.bubble.right.html": "제정신이야???"
+  }
+}

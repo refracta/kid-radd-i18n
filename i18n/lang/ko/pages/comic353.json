@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic353.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"두 번째 판\"",
+    "panel.p1.bubble.left.html": "좋아, 이쯤 하면 됐어. 이렇게 축 처져 있는 건 내 성미에 안 맞아.",
+    "panel.p2.bubble.center.html": "나만 여기 갇혀 있고 래드는 저 안에서 신나게 논다고 해서, 내가 이렇게 질투할 일은 아니지.",
+    "panel.p3.bubble.center.html": "반면에 꼭 그런 것도 아닐 수 있지. 나한테 픽셀이 다 털릴 만큼 무서운 게임일지도.",
+    "panel.p4.bubble.left.html": "끝내주네.",
+    "panel.p4.bubble.right.html": "아, <b>망했다...</b>"
+  }
+}

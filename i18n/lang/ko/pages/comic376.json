@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic376.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이제 잘 봐\"",
+    "panel.p1.bubble.left.html": "좋아, 네 방식대로 해. 자기가 뭘 하는진 알고 있겠지.",
+    "panel.p1.bubble.right.html": "가만히 앉아서 쇼나 봐!",
+    "panel.p2.bubble.center.html": "<b>프리티 아마겟돈!</b>",
+    "panel.p4.bubble.left.html": "우와...",
+    "panel.p4.bubble.right.html": "천만에.",
+    "panel.p5.bubble.left.html": "고작 \"POW\" 블록 효과 하나 쓰는데 시퀀스가 엄청 길네.",
+    "panel.p5.bubble.right.html": "어머, 누군가의 여린 자존심에 상처라도 냈나?..."
+  }
+}

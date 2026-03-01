@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic372.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"더 나은 내 반쪽\"",
+    "panel.p1.bubble.left.html": "여기, 하이스코어 맨 위에 내려줘.",
+    "panel.p1.bubble.right.html": "어, 왜?",
+    "panel.p2.bubble.left.html": "그럼... 내가 네 능력을 쓸 수 있다는 거지?",
+    "panel.p2.bubble.right.html": "응, 적어도 내 강화 폼은 가능해. 넌 할 수 있어, 언니.",
+    "panel.p3.bubble.center.html": "<b>마법 메이드 로보 시나!</b>",
+    "panel.p4.bubble.left.html": "야...",
+    "panel.p4.bubble.center.html": "와, 이건 \"Made in Japan\"이라고 대놓고 외치네.",
+    "panel.p4.bubble.right.html": "반했다!..."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic375.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"힘 숨기기\"",
+    "panel.p1.bubble.left.html": "쉽진 않겠지만, 우리 둘이 계속 퍼부으면 결국 이길 수 있을 것 같아.",
+    "panel.p1.bubble.right.html": "...아니면 지금 당장 끝내버릴 수도 있고.",
+    "panel.p2.bubble.left.html": "난 자살은 안 믿거든.",
+    "panel.p2.bubble.right.html": "아주 웃기네. 지금 당장 <b>이길</b> 수 있다는 뜻이야, 말꼬리 잡지 마.",
+    "panel.p3.bubble.left.html": "좋아, 넘어가 주지. 어떻게?",
+    "panel.p3.bubble.right.html": "기본 공격은 이제 충분히 익숙해졌으니까, 궁극의 힘을 써볼 생각이야.",
+    "panel.p4.bubble.left.html": "<b>...</b>",
+    "panel.p4.bubble.right.html": "뭐?... <b>뭐라고???</b>",
+    "panel.p5.bubble.left.html": "네가 나보다 더 강해질 것 같은 불길한 예감이 드는데...",
+    "panel.p5.bubble.right.html": "그게 뭐가 문제인데?"
+  }
+}

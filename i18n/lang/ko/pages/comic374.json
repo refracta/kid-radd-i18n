@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic374.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"손도 못 대\"",
+    "panel.p1.narration.1.html": "하이스코어 꼭대기에서 래드와 시나는 픽셀 적들을 다시 쏟아붓듯 공격합니다.",
+    "panel.p1.bubble.left.html": "이거나 <b>먹어라,</b> 찌질이들아!",
+    "panel.p2.bubble.left.html": "<i>분홍색</i> 메가 래드? 그게 네 공격이야? 다른 특수 능력은 없어?",
+    "panel.p2.bubble.right.html": "음...",
+    "panel.p3.bubble.left.html": "그 쫙 붙는 복장에 몸을 욱여넣는 능력 말고는 말이지, 헤헤...",
+    "panel.p5.bubble.left.html": "야, 봐! 능력 하나 더!",
+    "panel.p5.bubble.right.html": "개그 담당은 능력으로 안 쳐!"
+  }
+}

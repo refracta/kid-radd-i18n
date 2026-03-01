@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic367.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"멀리 돌아가는 귀환길\"",
+    "panel.p1.bubble.left.html": "하차 지점으로 돌아가는 중이야!",
+    "panel.p1.bubble.right.html": "\"안 돼, 내가 너무 멀어서 너희를 밖으로 빔 전송할 수 없어.\"",
+    "panel.p2.bubble.left.html": "하지만...",
+    "panel.p2.bubble.right.html": "\"아무튼 그 지점도 이제 없어졌을 가능성이 커. 몇 초 안 남았어.\"",
+    "panel.p3.bubble.left.html": "그럼 어떡해?",
+    "panel.p3.bubble.right.html": "\"게임이 구멍투성이야! 구멍 하나 찾아서 그대로 날아 나와!\"",
+    "panel.p4.bubble.left.html": "쉬운 법이 한 번도 없네, 그치?",
+    "panel.p4.bubble.right.html": "아, 진짜..."
+  }
+}

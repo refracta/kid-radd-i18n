@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic390.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"판도라의 상자\"",
+    "panel.p1.bubble.left.html": "그래서, 또 쓸데없는 야간 경비의 지루한 밤이군.",
+    "panel.p1.bubble.right.html": "맞아."
+  }
+}

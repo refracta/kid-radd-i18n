@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic354.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이제 내 얘기\"",
+    "panel.p1.bubble.left.html": "\"시나, 응답해? 통신 시스템 작동하니?\"",
+    "panel.p1.bubble.right.html": "어? 아, 네 닥터 앰프. 그냥 좀 놀랐을 뿐이에요.",
+    "panel.p2.bubble.left.html": "우리 게임의 속편에 착지했어요. 우리랑 똑같이 생긴 애들을 상대하니... 기분이 이상하네요.",
+    "panel.p2.bubble.right.html": "당신들은 이 게임 <i>밖</i>에서 온 손님들이에요?",
+    "panel.p3.bubble.left.html": "야, 스타일 쩌는데!",
+    "panel.p3.bubble.right.html": "맘에 들어? 최신 헤어 테크놀로지, 이름하여 \"멀릿\"이지.",
+    "panel.p4.bubble.left.html": "이건 좀 오래 걸리겠네, 여기서 얘기할 게 엄청 많아.",
+    "panel.p4.bubble.right.html": "다른 여자애가 <i>존재</i>한다는 것조차 몰랐어!",
+    "panel.p5.bubble.left.html": "제가... 다시 연락드릴게요, 닥터 앰프.",
+    "panel.p5.bubble.right.html": "언니!"
+  }
+}

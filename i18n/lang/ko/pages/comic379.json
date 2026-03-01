@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic379.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"더 가까이 보기\"",
+    "panel.p1.bubble.left.html": "결국 또 도망치는 거네...",
+    "panel.p1.bubble.right.html": "그래야 해.",
+    "panel.p2.bubble.left.html": "그래도 리셋을 구할 수 있어! 시나가 뭘 할 수 있는지 다들 봤잖아!",
+    "panel.p2.bubble.right.html": "사실, 지금은 그 공격을 다시 못 쓸 것 같은 느낌이 들어.",
+    "panel.p3.bubble.left.html": "아무튼 내가 정밀 점검하기 전까지는 그 새 능력 사용을 자제하는 게 좋겠어.",
+    "panel.p3.bubble.right.html": "오! 내가 도와도 돼?",
+    "panel.p4.bubble.left.html": "내 말은 코드 분석을 말한 거야.",
+    "panel.p4.bubble.right.html": "그래. 그 말일 줄 알았어."
+  }
+}

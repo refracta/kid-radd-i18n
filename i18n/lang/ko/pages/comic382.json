@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic382.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"뒷정리\"",
+    "panel.p1.bubble.right.html": "물론 범인이 누군지는 짐작하고 있지. 내 지배를 지키려면 존재하는 모든 래드 스프라이트를 없애야겠다고 판단했다. 그래서 모든 KR 게임을 말살하라고 명령했어.",
+    "panel.p2.bubble.center.html": "그런데도 내 초기 의심은 계속 확신으로 바뀌고 있어. 내가 경계해야 할 건 래드 전반이 아니야 - 바로 <b>그놈,</b> 그 특정 래드야...",
+    "panel.p3.bubble.right.html": "내가 경계해야 할 대상은 그놈이지, 다른 게임들이 아니야. 물론 그렇다고 파괴를 멈추진 않겠지만. 난 <b>모든</b> 가능성에 대비하니까.",
+    "panel.p4.bubble.left.html": "졸개! 래드가 리셋 구역에서 목격됐다고 미스터 \"그날\"에게 전해... 그러면 수색 범위가 좁혀지겠지.",
+    "panel.p4.bubble.right.html": "예, 마담...",
+    "panel.p5.bubble.left.html": "아, 그리고 그 경련도 꼭 진료받아. 쾌유를 빌지!",
+    "panel.p5.bubble.right.html": "그렇게 하겠습니다..."
+  }
+}

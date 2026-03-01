@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic366.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"재회\"",
+    "panel.p1.bubble.left.html": "나 완전 바보 된 기분이야...",
+    "panel.p1.bubble.right.html": "\"계속해! 정확한 커맨드 조합이 필요해!\"",
+    "panel.p2.bubble.left.html": "플레이어가 무슨 커맨드를 넣어야 하는데?",
+    "panel.p2.bubble.right.html": "\"음, 오른쪽, 위, 오른쪽, A, 아래, 아래, 스타트. ...아마도.\"",
+    "panel.p3.bubble.left.html": "적어도 내가 뭘 하려는 건진 알고 싶다...",
+    "panel.p3.bubble.right.html": "\"무한 로켓보드 모드를 호출하는 거야.\"",
+    "panel.p4.bubble.left.html": "내 아가! 보고 싶었어...",
+    "panel.p4.bubble.center.html": "\"됐어?\"",
+    "panel.p4.bubble.right.html": "묘하게 감동적인데."
+  }
+}

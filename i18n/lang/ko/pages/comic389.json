@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic389.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"문지기\"",
+    "panel.p1.bubble.left.html": "좋아, 튀자.",
+    "panel.p1.bubble.right.html": "멈춰!",
+    "panel.p2.bubble.left.html": "또 뭐야?",
+    "panel.p2.bubble.right.html": "그 문만 열리는 열쇠를 네가 우연히 갖고 있다고?",
+    "panel.p3.bubble.center.html": "\"아니, 난 그냥 열쇠가 있어, 끝. 열쇠 하나당 문 하나 열고 사라져. 내 옛 게임이랑 똑같아.\"",
+    "panel.p4.bubble.left.html": "오, 편리하네. 잠깐만... 그걸 <b>팔았</b>다고???",
+    "panel.p4.bubble.right.html": "당연히 팔았지. 왜 그렇게 잘 팔렸는지 궁금하지?"
+  }
+}

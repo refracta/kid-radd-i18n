@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic368.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"입버릇 모음\"",
+    "panel.p1.bubble.left.html": "뭐, 다들 그러잖아. \"타이밍이 전부다.\"",
+    "panel.p1.bubble.right.html": "당연하지.",
+    "panel.p2.bubble.left.html": "\"지금만 한 때는 없지.\"",
+    "panel.p2.bubble.right.html": "그리고... <b>지금!</b>",
+    "panel.p3.bubble.center.html": "\"정말 간신히 살았네.\"",
+    "panel.p4.bubble.left.html": "\"모험 없인 얻는 것도 없어.\"",
+    "panel.p4.bubble.right.html": "끝내준다! 해냈어!",
+    "panel.p5.bubble.left.html": "\"불구덩이에서 빠져나와 또 불구덩이로 들어왔네.\"",
+    "panel.p5.bubble.right.html": "오늘은 클리셰 폭탄이네, 그치?"
+  }
+}

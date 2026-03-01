@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic371.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"또 다른 반쪽\"",
+    "panel.p1.bubble.left.html": "내 분신? 그럴 리가...",
+    "panel.p1.bubble.right.html": "걱정 마 언니, 내가 있잖아...",
+    "panel.p2.bubble.left.html": "근데 어떻게?",
+    "panel.p2.bubble.right.html": "게임에서 산산조각 난 건 나만이 아니야. 너도 꽤 심하게 다쳤어.",
+    "panel.p3.bubble.left.html": "내가? 근데 난 글리치도 안 났는데...",
+    "panel.p3.bubble.right.html": "아직은. 겉으론 티가 덜 났지만, 핵심 코드 몇 줄이 손상돼서 결국 널 죽였을 거야.",
+    "panel.p4.bubble.left.html": "\"죽였을 거야?\" 그럼... 지금은 괜찮다는 거야?",
+    "panel.p4.bubble.right.html": "응. 네가 잃어버린 코드 줄들이 내 쪽 대응 코드를 끌어당겼고, 그래서 네가 나한테서 필요한 만큼 흡수한 거야.",
+    "panel.p5.bubble.left.html": "그럼... 그 말은...",
+    "panel.p5.bubble.right.html": "이제 난 네 일부야. ...영원히."
+  }
+}

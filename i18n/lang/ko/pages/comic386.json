@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic386.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"다시 살아나기\"",
+    "panel.p1.bubble.right.html": "젠장, 마지막 보스한테 무슨 일이 있었는지 방금 알겠네. 완전 나무토막처럼 굳었어.",
+    "panel.p2.bubble.right.html": "이게 \"상태 이상\" 같은 건가? 뭐, 확인하는 방법은 하나지.",
+    "panel.p3.bubble.right.html": "<b>아이템: 힐 포션!</b>",
+    "panel.p4.bubble.left.html": "뭐야?... 어, 안녕. 음, 네 이름 이티 비티 맞지?",
+    "panel.p4.bubble.right.html": "맞아.",
+    "panel.p5.bubble.left.html": "이 각도에서 보니까 너 진짜 흉하다.",
+    "panel.p5.bubble.right.html": "그럼 일어나서 봐, 멍청아."
+  }
+}

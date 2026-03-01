@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic373.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"내가 한 거야?\"",
+    "panel.p1.bubble.left.html": "방금 그건... 대체 뭐였어?",
+    "panel.p1.bubble.right.html": "재활용 변신 시퀀스. 업계 표준이지.",
+    "panel.p2.bubble.left.html": "아, 젠장. 지금 거울은 <b>절대</b> 보기 싫어.",
+    "panel.p2.bubble.right.html": "야, 스판덱스 안 입은 걸 다행으로 여겨. 배트맨처럼.",
+    "panel.p3.bubble.center.html": "좋아, 집중하자. 이 우스꽝스러운 꼴에 신경 쓸 시간 없어, 지금은 사람들을 구하는 일에 집중해야 해. 다들 나만 믿고 있어.",
+    "panel.p4.bubble.left.html": "실은 다들 침이나 한 바가지씩 흘리느라 바빠.",
+    "panel.p4.bubble.right.html": "이 녀석들 구하고 나면 내가 직접 죽여버릴 거야."
+  }
+}

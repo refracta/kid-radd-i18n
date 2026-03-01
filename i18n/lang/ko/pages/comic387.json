@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic387.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"따라잡기\"",
+    "panel.p1.bubble.left.html": "고맙다. 내가 얼어 있는 동안 크리스털이 날 파괴하진 못했나 보네. 얼마나 지난 거지?",
+    "panel.p1.bubble.right.html": "두어 달.",
+    "panel.p2.bubble.left.html": "<b>두어 달 - </b> 와. 묻기가 무섭네.",
+    "panel.p2.bubble.right.html": "지금쯤이면 크리스털이 모더레이터를 써서 알려진 스프라이트 거주지 거의 전부를 정복했어.",
+    "panel.p3.bubble.left.html": "그럼 늦었네. 그녀는 이미 현존 최강 스프라이트야...",
+    "panel.p3.bubble.right.html": "근데 본인 말은 아니더라. 크리스털이 래드 걱정하는 걸 엿들었거든. 그게 뭔데?",
+    "panel.p4.bubble.left.html": "아직 래드를 못 잡았어? 그럼 희망 있어! 걔, 이제 진짜 무적의 신급 괴물 됐냐?",
+    "panel.p4.bubble.right.html": "어, 평소보다 더하진 않은 것 같아...",
+    "panel.p5.bubble.left.html": "환상적이야! I.B., 우린 래드를 찾아서 세계 구하는 걸 도와야 해!",
+    "panel.p5.bubble.right.html": "\"우린?\" 괜히 포션을 썼나."
+  }
+}
