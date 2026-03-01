@@ -9,7 +9,7 @@ on:
       comic_concurrency:
         description: "Comic concurrency per shard"
         required: false
-        default: "24"
+        default: "8"
       keep_last_releases:
         description: "How many rolling releases to keep"
         required: false
@@ -23,7 +23,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  COMIC_CONCURRENCY: ${{ github.event.inputs.comic_concurrency || '24' }}
+  COMIC_CONCURRENCY: ${{ github.event.inputs.comic_concurrency || '8' }}
   KEEP_LAST_RELEASES: ${{ github.event.inputs.keep_last_releases || '3' }}
 
 jobs:
