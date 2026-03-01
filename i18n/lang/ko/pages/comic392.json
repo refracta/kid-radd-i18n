@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic392.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이 느낌, 막을 수 없어\"",
+    "panel.p1.bubble.left.html": "이렇게 애쓰는데 진전은 거의 없어. 크리스털에 맞설 동맹을 충분히 모을 수 있을 것 같지도 않고. 우리가 뭘 잘못하고 있는 거지?",
+    "panel.p4.bubble.left.html": "<b>으아아악!!!</b>",
+    "panel.p4.bubble.center.html": "누나?",
+    "panel.p4.bubble.right.html": "무슨 상황인진 모르겠지만, 난 이거 마음에 든다!"
+  }
+}

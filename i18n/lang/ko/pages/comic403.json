@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic403.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"굴복\"",
+    "panel.p1.bubble.center.html": "...왜냐면 난 플레이어 캐릭터, 즉 \"영웅\"이니까. 내 프로그래밍은 너와 다르지만, 나도 그걸 따르고 싶은 충동을 느껴 왔어.",
+    "panel.p2.bubble.center.html": "난 인간 플레이어가 조종하는 빈 껍데기, 꼭두각시로 설계됐어. 게임 안에선 인간이 컨트롤러를 안 건드리면, 난 하루 종일 한자리에 서서 스스로 아무것도 못 했지.",
+    "panel.p4.bubble.right.html": "하지만 너와 달리, 난 그때 이후로 변했어. 내 욕망을 스스로 만들어 냈지. 난 프로그래밍의 노예가 아니야. 내 목표는 <i>진짜로</i> 내 것이야. 이해하겠어?",
+    "panel.p5.bubble.left.html": "아니, 래드. 그리고 난 이해하고 <i>싶지도</i> 않아. 내겐 이 싸움이 전부니까.",
+    "panel.p6.bubble.center.html": "지금 이 순간이 내 최고의 행복이야, 난 절대 그걸 다른 어떤 것과도 바꾸지 않겠다!"
+  }
+}

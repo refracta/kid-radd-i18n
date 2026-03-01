@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic394.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"충돌 코스\"",
+    "panel.p2.bubble.left.html": "아니. 하지만...",
+    "panel.p2.bubble.right.html": "와. 게임 엄청 많네.",
+    "panel.p3.bubble.center.html": "그래, 인간들이 여기서 엄청 다운로드하더라. 꽤 인기 많은 곳 같아.",
+    "panel.p3.bubble.right.html": "그럴 수도 있지만, 무인이라고 한 건 틀렸어.",
+    "panel.p4.bubble.left.html": "응?",
+    "panel.p4.bubble.center.html": "우리 쪽으로 미친 속도로 돌진하는 저 배를 <i>누군가가</i> 몰고 있잖아.",
+    "panel.p4.bubble.right.html": "갸아악!!!"
+  }
+}

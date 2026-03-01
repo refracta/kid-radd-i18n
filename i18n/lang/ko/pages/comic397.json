@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic397.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"폭풍우\"",
+    "panel.p1.bubble.left.html": "배 하나 얻자고 크리스털을 이용했다고? 제정신이냐!",
+    "panel.p1.bubble.right.html": "뭐, 자원이 좀 바닥났거든.",
+    "panel.p2.bubble.left.html": "근데 대체 왜 그렇게까지 필사적으로 우릴 찾으려 한 거야?",
+    "panel.p2.bubble.right.html": "에이, 래드. 답은 너도 알잖아...",
+    "panel.p3.bubble.center.html": "난 우리 둘의 행복을 확보하기 위해 왔다.",
+    "panel.p4.bubble.center.html": "감정 표현이 너무 노골적이네. 말 안 해도 알겠거든.",
+    "panel.p5.bubble.left.html": "얘들아, 나랑 그날은 둘이서 얘기 좀 해야겠어.",
+    "panel.p5.bubble.right.html": "으악. 방금 여기 기온 떨어졌냐?..."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic400.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"운명?\"",
+    "panel.p1.bubble.left.html": "자, 그날. 네가 원하던 걸 얻게 됐네.",
+    "panel.p1.bubble.right.html": "고마워 래드. 이게 네게도 나만큼 큰 의미이길 바란다.",
+    "panel.p2.bubble.left.html": "딱히. 하지만 곧 네가 왜 그런지 이해하길 바라.",
+    "panel.p2.bubble.right.html": "뭘 이해하라는 거지?",
+    "panel.p3.bubble.center.html": "우리 둘은 서로 싸우도록 만들어졌어. 그 목적을 따르지 않으면 진짜 행복해질 수 없어.",
+    "panel.p4.bubble.left.html": "그날, 네가 틀린 게 바로 그 부분이야.",
+    "panel.p4.bubble.right.html": "그럴지도. 하지만 확인할 방법은 하나뿐이다!"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic406.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"불맛을 느껴라\"",
+    "panel.p1.bubble.left.html": "으아아악... 저게 <b>뭐였어?</b>",
+    "panel.p1.bubble.right.html": "고통 999포인트. 이제 한 대만 더 맞으면 끝.",
+    "panel.p2.bubble.left.html": "근데, 어떻게... 아니, <b>왜</b> 그런 짓을 한 거야?",
+    "panel.p2.bubble.right.html": "네가 날 절대 못 이긴다는 걸 보여 주려고. 게다가 난 아직 전부도 안 꺼냈어, 이것 좀 봐:",
+    "panel.p3.bubble.left.html": "이제 <b>날아다닐</b> 수도 있어?",
+    "panel.p3.bubble.right.html": "응. 근데 널 상대로 공중전 할 필요도 없어. 난 너보다 급이 훨씬 위야.",
+    "panel.p4.bubble.left.html": "그래도 잊지 마. <b>난</b> 그날보그로 변신할 수 있다고!",
+    "panel.p6.bubble.left.html": "음, 나도 할 수는...",
+    "panel.p6.bubble.right.html": "그게 도움이 되긴 해?"
+  }
+}

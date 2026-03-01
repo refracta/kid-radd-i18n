@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic395.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"정면충돌\"",
+    "panel.p1.bubble.left.html": "우리 기다리고 있던 것 같네...",
+    "panel.p1.bubble.center.html": "사격하나?",
+    "panel.p1.bubble.right.html": "아니, 근데...",
+    "panel.p2.bubble.left.html": "대체 저게 뭐 하는 거야?",
+    "panel.p2.bubble.center.html": "회피 기동!",
+    "panel.p2.bubble.right.html": "늦었어!",
+    "panel.p3.bubble.left.html": "어, 이건... 예상 밖인데.",
+    "panel.p3.bubble.center.html": "우리 선체에 박혀 버렸어?",
+    "panel.p3.bubble.right.html": "젠장. 지금 당장 탑승 침투할 거야! 준비해!",
+    "panel.p4.bubble.left.html": "얘들아 안녕! 뭐 해?",
+    "panel.p5.bubble.left.html": "그냥 내 멍청한 형이네. 맥 빠지게.",
+    "panel.p5.bubble.right.html": "치사한 것들. 요즘은 멋진 등장도 아무도 안 알아줘..."
+  }
+}
