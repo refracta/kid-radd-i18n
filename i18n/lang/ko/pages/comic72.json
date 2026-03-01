@@ -7,7 +7,7 @@
   "strings": {
     "title.main.html": "\"못 믿겠어\"",
     "panel.p1.bubble.center.html": "그래서 난 어떤 게임에 보내도 완벽한 사절 역할을 해. 어차피 다치지 않으니까.",
-    "panel.p2.bubble.left.html": "자격은 알겠는데, 그래도 왜 굳이 모더레이터에서 일하고 싶은 건데?",
+    "panel.p2.bubble.left.html": "자격은 알겠는데, 그래도 <i>왜</i> 굳이 모더레이터에서 일하고 싶은 건데?",
     "panel.p2.bubble.right.html": "무슨 뜻이야?",
     "panel.p3.bubble.left.html": "우리 허락도 없이 우릴 게임에서 뜯어냈고, 그 과정에서 게임을 박살냈잖아!",
     "panel.p3.bubble.right.html": "어, 래드...",
