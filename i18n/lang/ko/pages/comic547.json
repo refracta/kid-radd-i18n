@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "page": "pages/comic547.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"또 하나의 빌어먹을 매트릭스 패러디\"",
+    "panel.p1.bubble.center.html": "이게 마지막 기회다. 이걸 넘기면 되돌아갈 수 없어.",
+    "panel.p2.bubble.center.html": "네가 <b>파란 알약</b>을 먹으면 이야기는 끝나고, 침대에서 깨어나 네가 믿고 싶은 건 무엇이든 믿게 된다.",
+    "panel.p3.bubble.center.html": "네가 <b>빨간 알약</b>을 먹으면, 이상한 나라에 남게 되고 내가 토끼굴이 얼마나 깊은지 보여주지...",
+    "panel.p4.bubble.center.html": "아니면 <b>보라 알약</b>으로 속쓰림을 완화해도 되고, <b>주황 알약</b>으로 콜레스테롤을 낮춰도 되지.",
+    "panel.p5.bubble.center.html": "그리고 탈모 진행을 늦춰줄 <b>초록 알약</b>도 있고. 물론 <b>노란 알약</b>도 있는데... 음, 그건 좀 개인적인 얘기고.",
+    "panel.p6.bubble.left.html": "어, 그럼 이 중 하나만 먹으면 되는 거야?",
+    "panel.p6.bubble.right.html": "아니지 래드, 먼저 <b>의사와 상담해서</b> 너한테 맞는지 확인해야지.",
+    "panel.p7.bubble.left.html": "와, 이건 진짜 내가 기대한 전개가 아닌데.",
+    "panel.p7.bubble.right.html": "어떻게 생각하든 네 자유지만, 이걸로 밥벌이는 되거든.",
+    "panel.p8.bubble.left.html": "독자들은 아마 멋진 회전 샷 같은 걸 기대했을 텐데.",
+    "panel.p8.bubble.right.html": "오, 문제없지. 바로 준비해줄게.",
+    "panel.p9.bubble.center.html": "자, 시리얼바나 받아!",
+    "panel.p10.bubble.left.html": "TV 광고가 공식적으로 불릿 타임을 죽여버렸네.",
+    "panel.p10.bubble.right.html": "에이, 터미네이터 2 이후엔 모프 효과도 똑같이 죽었어. 그냥 받아들여."
+  }
+}

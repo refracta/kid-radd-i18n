@@ -1,0 +1,25 @@
+{
+  "_meta": {
+    "page": "pages/comic546.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"후각의 감수성\"",
+    "panel.p1.bubble.left.html": "자 여러분, 이 이야기를 마지막 구간으로 몰아가기 전에 잠깐 우회해서 <b>포스 월 주간!</b>을 한 번 더 진행하기로 했습니다.",
+    "panel.p1.bubble.right.html": "어... 와?",
+    "panel.p2.bubble.left.html": "시작은 내가 가볍게 철학 한 스푼 깔아보지. 수없이 많은 채팅방에서 주워 담은 인간 지식이다.",
+    "panel.p2.bubble.right.html": "좋아, 한번 깨우쳐 봐.",
+    "panel.p4.bubble.left.html": "심오하지?",
+    "panel.p4.bubble.right.html": "확실히 깊어 보이긴 하는데, 코가 뭐야?",
+    "panel.p5.bubble.left.html": "코가 뭐냐고? 에이, 그거 있잖아, 네 얼굴 한가운데 있는... 어, 내 얼굴 한가운데 있는... 어...",
+    "panel.p5.bubble.right.html": "너도 모르지?",
+    "panel.p6.bubble.left.html": "방금 깨달았는데, 이 만화 캐릭터들 코가 다 없잖아! 이거 꽤 기묘한데...",
+    "panel.p6.bubble.right.html": "좋아, 그럼 코가 뭔지는 넘어가자. 속담이 <i>무슨 뜻인지</i>나 말해.",
+    "panel.p7.bubble.left.html": "아 맞다. 뜻은 아마, \"친구 코는 네가 골라줄 수 없다.\" 정도일걸.",
+    "panel.p7.bubble.right.html": "아, 그렇군. 뭐, 그건 확실히 맞는 말이네.",
+    "panel.p8.bubble.left.html": "그래도 그게 중요하다면, 내 코는 네가 직접 골라도 되고 파도 돼, 친구야.",
+    "panel.p8.bubble.center.html": "고맙군, 래드. 정말 영광이야.",
+    "panel.p8.bubble.right.html": "너희 대체 왜 이 모양이야???"
+  }
+}
