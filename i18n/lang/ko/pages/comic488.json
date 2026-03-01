@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic488.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"정말 미안\"",
+    "panel.p1.bubble.left.html": "하아, 여기까지 왔는데... 좋아 엘리엇, 우리 여기서 텔레포트해줘.",
+    "panel.p1.bubble.right.html": "잠깐, 래드.",
+    "panel.p2.bubble.left.html": "그 주문 전투 중엔 못 쓰는 거 아니야?",
+    "panel.p2.bubble.right.html": "못 써? 뭐, 큰일은 아니지.",
+    "panel.p3.bubble.center.html": "엘리엇, 그 \"Meditate\" 기술 써서 이 싸움 끝내줘, 알았지?",
+    "panel.p4.bubble.left.html": "걔 그 기술 없을걸. 캐릭터를 잘못 데려왔어.",
+    "panel.p4.bubble.center.html": "<b>뭐라고?</b> 왜 그걸 우리한테 말 안 했어?",
+    "panel.p4.bubble.right.html": "멍청이들."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic474.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"변명은 됐고\"",
+    "panel.p1.bubble.left.html": "복수는 내 것이다!<br><i>브와하하하!</i>",
+    "panel.p1.bubble.right.html": "어휴...",
+    "panel.p2.bubble.left.html": "아, 이제 좀 속이 시원하네.",
+    "panel.p2.bubble.center.html": "너 폭력을 정말 즐기는구나? 너무 흔해서 더 끔찍한 성향이지.",
+    "panel.p3.bubble.left.html": "뭐- 잠깐만! 네가 그런 말을 할 자격이 어딨어? 아까 그 토끼한테도 너 전혀 자비 없었잖아!",
+    "panel.p3.bubble.right.html": "맞아. 그 점은 네 말이 완전히 맞다.",
+    "panel.p4.bubble.center.html": "그래서?...",
+    "panel.p4.bubble.right.html": "그래서 뭐?",
+    "panel.p5.bubble.left.html": "여기서 네가 해명해야 하는 파트라고!",
+    "panel.p5.bubble.center.html": "미안, 그럴 기분 아냐.",
+    "panel.p5.bubble.right.html": "<b>진짜로</b> 이 녀석 뭔가 문제 있다..."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic470.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"통제 불능\"",
+    "panel.p1.bubble.left.html": "저것들이 계속 증식하면 이 전투 <i>영원히</i> 걸리겠어!",
+    "panel.p1.bubble.center.html": "그래도 EXP는 엄청 벌겠네.",
+    "panel.p1.bubble.right.html": "잘 보고 배워, 얘들아.",
+    "panel.p2.bubble.left.html": "내가 가장 좋아하는 힘을 보여주지.  <b>마인드 컨트롤.</b>",
+    "panel.p2.bubble.right.html": "응? 그거 혼란 계열 주문 같은 거야?",
+    "panel.p3.bubble.center.html": "비슷해.  아이러니하게도 내가 조종하는 건 상대의 정신이 아니라 그 <i>몸</i>이거든.",
+    "panel.p4.bubble.left.html": "잠깐만... 그게 지난주 내가 튀튀 입고 깬 이유야?",
+    "panel.p4.bubble.center.html": "아니 래드, 그건 네가 순전히 혼자 한 짓이야.",
+    "panel.p4.bubble.right.html": "웩."
+  }
+}

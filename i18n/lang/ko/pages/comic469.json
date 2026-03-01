@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic469.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"원점\"",
+    "panel.p1.bubble.left.html": "번쩍거리는 것과 달리, 이건 표준 턴제 시스템으로 보인다.",
+    "panel.p1.bubble.right.html": "그러면 완벽한 샷을 차지할 시간은 항상 있다는 뜻!",
+    "panel.p2.bubble.left.html": "래드, 저 녀석들한테는 그렇게 풀파워까지 갈 필요 없을 것 같아.",
+    "panel.p2.bubble.right.html": "하지만 재밌잖아!",
+    "panel.p3.bubble.left.html": "어, 얘들아, 저걸로는 부족할지도.",
+    "panel.p3.bubble.center.html": "뭐야-?",
+    "panel.p3.bubble.right.html": "교활하군.",
+    "panel.p4.bubble.left.html": "우리 곤란해진 거지?",
+    "panel.p4.bubble.center.html": "그래 래드, 곤란해.",
+    "panel.p4.bubble.right.html": "난 생각이 좀 다른데, 헤헤..."
+  }
+}

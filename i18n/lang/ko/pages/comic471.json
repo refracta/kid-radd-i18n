@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic471.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"잔혹한 주인\"",
+    "panel.p1.bubble.left.html": "GI, 네가 조종 안 하는 쪽을 내가 공격하면 되겠네?",
+    "panel.p1.bubble.right.html": "논리적인 판단이다.",
+    "panel.p2.bubble.left.html": "난 내 차례에 끝도 없는 파워업 하나 던져줄게.",
+    "panel.p2.bubble.right.html": "매우 현명하군.",
+    "panel.p3.bubble.center.html": "그리고 난 더는 쓸모없는 내 노예를 해고하겠다.",
+    "panel.p4.bubble.left.html": "방금 그거 너무 냉혹했다, 친구.",
+    "panel.p4.bubble.center.html": "미안. 다음엔 널 위해 살려둘게.",
+    "panel.p4.bubble.right.html": "스컬보이, 너한텐 <i>진짜로</i> 뭔가 문제가 있어."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic475.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"천천히, 확실하게\"",
+    "panel.p1.bubble.left.html": "거기 안은 아직도 잘 돌아가?",
+    "panel.p1.bubble.right.html": "\"네, 앰프 박사님. 대체로는요...\"",
+    "panel.p2.bubble.left.html": "\"대체로?\"",
+    "panel.p2.bubble.right.html": "\"음, 좀 걸릴 겁니다. 우린 꽤 무적에 가깝지만, 끝에 도달하려면 여전히 이것저것 절차를 다 거쳐야 해서 몇 시간은 더 필요해요.\"",
+    "panel.p3.bubble.left.html": "명심해라, 이건 우리 세계를 구할 가능성이 걸린 일이니 성공이 중요하다. 필요한 만큼 시간을 써도 된다.",
+    "panel.p3.bubble.right.html": "\"그 말을 너무 크게 하진 마세요...\"",
+    "panel.p4.bubble.left.html": "...안 그러면 저 두 바보를 무대에서 영영 못 내리게 될 테니.",
+    "panel.p4.bubble.right.html": "\"영웅 스프라이트, 험한 삶.<br>NPC, 한량의 삶...\""
+  }
+}

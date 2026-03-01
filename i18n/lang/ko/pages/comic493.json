@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic493.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"위로상\"",
+    "panel.p1.bubble.left.html": "우리 어디야?",
+    "panel.p1.bubble.right.html": "게임이 멈춘 거야?",
+    "panel.p2.bubble.left.html": "어...",
+    "panel.p2.bubble.right.html": "뭐야-?",
+    "panel.p3.bubble.center.html": "\"네가 여기 있다면, 아마 치트를 썼다는 뜻이겠지. 못됐네, 못됐어!\"",
+    "panel.p4.bubble.center.html": "\"그 사악한 게임 위저드 시스템 중 하나를 쓴 거지?  <b>사악해!</b>\""
+  }
+}

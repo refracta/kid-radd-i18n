@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic465.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"흑마법 여인\"",
+    "panel.p1.bubble.left.html": "움직이는 게 좋겠어.",
+    "panel.p1.bubble.right.html": "\"좋은 아침이구나, 얘야! 이제 푹 쉬었니?\"",
+    "panel.p2.bubble.left.html": "어, 지금 오후고 우린... \"얘야\"가 아닌데.",
+    "panel.p2.bubble.right.html": "\"당연히 아니지! 내 못된 손자는 집에 얼굴도 안 비친단다!\"",
+    "panel.p3.bubble.left.html": "아무튼, 그 말은 근처에 영웅들이 없다는 뜻이겠네.",
+    "panel.p3.bubble.right.html": "\"맞아, 절대 없지. 그런데 말인데, 뭐 좀 먹을래?\"",
+    "panel.p4.bubble.left.html": "그래, 뭐 그러자.",
+    "panel.p4.bubble.right.html": "좋지!  <b>\"PIZZA를 먹고 얼른 자러 가렴!\"</b>",
+    "panel.p5.bubble.left.html": "뭐- 우리가 대체 어떻게 다시 여기로 온 거야???",
+    "panel.p5.bubble.center.html": "저건 강력한 마법이군.",
+    "panel.p5.bubble.right.html": "나 PIZZA 먹는 줄 알았는데..."
+  }
+}

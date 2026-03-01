@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic482.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말하지 마\"",
+    "panel.p1.bubble.left.html": "나 이 게임 진짜 마음에 든다!",
+    "panel.p1.bubble.center.html": "그래, 나도 동감.",
+    "panel.p1.bubble.right.html": "왠지 몰라도 온몸이 소름 끼쳐.",
+    "panel.p2.bubble.left.html": "그 부정적인 기운은 버려, 친구! 그건 전쟁 기계에 연료만 보태는 거야!",
+    "panel.p2.bubble.right.html": "그게 무슨 뜻인지 너도 모르고 나도 몰라.",
+    "panel.p3.bubble.left.html": "아무튼, 거의 끝난 것 같아. 이 \"Land of the Lost Underground\"라는 곳도 막다른길이네.",
+    "panel.p3.bubble.right.html": "저 사람한테 아는 게 있는지 물어봐.",
+    "panel.p4.bubble.left.html": "저 사람, 말수가 거의 없네.",
+    "panel.p4.bubble.right.html": "이봐 친구, 일어나. 우린 지금 \"모든 사람에게 말 걸기\" 루트 진행 중이거든, 네 협조가 있어야 편해.",
+    "panel.p6.bubble.left.html": "왠지 쟤 건드리는 건 안 좋을 것 같은데.",
+    "panel.p6.bubble.right.html": "봐, 내가 \"A\" 버튼 누른 척할 테니까, 떠오르는 대로 뭐라도 말해봐."
+  }
+}

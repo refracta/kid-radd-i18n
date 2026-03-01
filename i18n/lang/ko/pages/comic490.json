@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic490.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"주의, 베이비\"",
+    "panel.p1.bubble.left.html": "난 이 녀석이 나처럼 생명 게이지 없는 존재일 줄 알았어. 그런데 아니네.",
+    "panel.p1.bubble.right.html": "어떻게 알아?",
+    "panel.p2.bubble.center.html": "매 턴 HP를 초기화하고 있어. 텍스트 메시지는 안 뜨지만, 분명 그렇게 하고 있는 게 느껴져. 교활하군.",
+    "panel.p3.bubble.center.html": "프로그래머들이 얘를 진짜 무적으로 만든 건 아닌가 봐 - 그냥 게임 영웅들에겐 너무 강하게만 만든 거지.",
+    "panel.p4.bubble.left.html": "그럼 우리가 이길 수 있어?",
+    "panel.p4.bubble.center.html": "한 턴에 9999 대미지를 넣을 수 있다면.",
+    "panel.p4.bubble.right.html": "그 도전 받아주지."
+  }
+}

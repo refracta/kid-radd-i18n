@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic466.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"절대 못 배워\"",
+    "panel.p1.bubble.left.html": "네, 앰프 박사님...",
+    "panel.p2.bubble.left.html": "거의...",
+    "panel.p2.bubble.right.html": "\"좋은 아침이구나, 얘야! 이제 푹 쉬었니?\"",
+    "panel.p3.bubble.left.html": "음...",
+    "panel.p3.bubble.center.html": "PIZZA 먹을래?",
+    "panel.p3.bubble.right.html": "좋지!",
+    "panel.p4.bubble.left.html": "아이고 맙소사, 래드!  <b>그만 \"좋지!\"라고 해!</b>",
+    "panel.p4.bubble.center.html": "PIZZA를 먹기 전까진 못 멈춰!",
+    "panel.p4.bubble.right.html": "저 멍청함... 보는 내가 아프다..."
+  }
+}

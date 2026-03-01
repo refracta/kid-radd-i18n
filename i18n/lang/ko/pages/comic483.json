@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic483.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"그냥 물어봐\"",
+    "panel.p1.bubble.left.html": "봐라 GI, 쿠키 하나 쥐여주면 얌전해진다니까!",
+    "panel.p1.bubble.center.html": "쓸모없게 벙어리인 건 여전하지만.",
+    "panel.p1.bubble.right.html": "그건 아마 얘가 이 게임의 영웅 중 하나란 뜻일 거야.",
+    "panel.p2.narration.1.html": "한참 길게 설명한 뒤입니다...",
+    "panel.p2.bubble.left.html": "그래서... 우리랑 보스 만나러 갈래?",
+    "panel.p2.bubble.right.html": "그건 그렇다는 뜻인가 보네.",
+    "panel.p4.bubble.left.html": "와. 그럼 이것도 그렇다는 뜻인가 보네.",
+    "panel.p4.bubble.center.html": "스으으으으-케이..."
+  }
+}

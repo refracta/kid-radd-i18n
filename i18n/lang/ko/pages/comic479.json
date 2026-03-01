@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic479.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"물러서지 않아\"",
+    "panel.p1.bubble.center.html": "아, 에라 모르겠다. 이 전쟁에서 내 몫이 래드의 1조 분의 1이라도, 난 내가 할 수 있는 건 뭐든 다 할 거야.",
+    "panel.p2.bubble.center.html": "언젠가 내 능력이 필요해질 테고, 그때 난 내 몫을 해낼 거야. 나 덕분에 세상이 구원되면 웹의 여성 스프라이트들이 다 나한테 반하겠지.",
+    "panel.p4.bubble.center.html": "오 그래. 마이너 적 스프라이트의 엄청난 힘을 두려워하라고."
+  }
+}

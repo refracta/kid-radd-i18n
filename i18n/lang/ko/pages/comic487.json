@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic487.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"너에게 하고픈 말\"",
+    "panel.p1.bubble.center.html": "다시 해보자. 우린 플레이어가 아니라, 너랑 대화하고 싶은 스프라이트일 뿐이야.",
+    "panel.p2.bubble.center.html": "그리고... 그래, 또 횡설수설이네. 제발, 저 안에 뇌가 있다는 기미라도 좀 보여줘.",
+    "panel.p3.bubble.center.html": "...저런 짓 말고 다른 것도 할 수 있다는 걸 - 아, 젠장.",
+    "panel.p4.bubble.left.html": "가망 없지?",
+    "panel.p4.bubble.center.html": "가망차 보이진 않네.",
+    "panel.p4.bubble.right.html": "프로그램에 묶인 또 하나의 노예일 뿐이군. 한심해."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic462.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"출전 명단\"",
+    "panel.p1.bubble.left.html": "IB 말고는, 우리 중에선 래드만이 \"Mofo\"에 맞는 것 같아.",
+    "panel.p1.bubble.right.html": "뭐? 시나, 너는 안 가?",
+    "panel.p3.bubble.right.html": "간단히 말해, 너희 둘이 살아남고 전투를 쉽게 이기려면 네 차지 공격과 IB의 무한 치유에 의존해야 해. 다른 누구도 필요 없어.",
+    "panel.p4.bubble.left.html": "그럴지도. 하지만 필요하든 말든, 나도 갈 거야.",
+    "panel.p4.bubble.center.html": "흠?",
+    "panel.p4.bubble.right.html": "그리고 군중은 말했지. \"오오오...\""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic480.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"앰프에게 묻다\"",
+    "panel.p1.bubble.left.html": "앰프 박사님?",
+    "panel.p1.bubble.right.html": "안녕, 시나. 그래, 게임 안 상황은 순조롭게 진행되고 있어.",
+    "panel.p2.bubble.left.html": "다행이네요. 하지만 이번 임무가 너무 거대해서 생각이 들었어요 - 저 사람들이 이걸 해내면 정말로 끝이 가까워요. 마지막 전투가 곧 올 거예요.",
+    "panel.p2.bubble.right.html": "그렇지.",
+    "panel.p3.bubble.center.html": "그리고 우리가 더 이길 가능성이 큰 편에 서 있다 해도... 음, 인생은 예측할 수 없어요.  정말 무슨 일이 생길지 모르죠.  그런데 래드와는 긴장도 되고 불편해서, 저는 피해 왔고 - 아니, 우리 <i>둘 다</i> 피해 왔어요 - 개인적인 이야기를요.",
+    "panel.p4.bubble.center.html": "배에서의 이 미친 생활과 언니와 해결되지 않은 다툼 사이에서, 저는 래드를 어떻게 생각하는지 제대로 말하지 못했어요. 그런데 이제 우리 모두 인생 최대의 전투에 들어갈 거라면, 이번이 마지막 기회일지도 몰라요. 박사님, 제가 어떻게 해야 할까요?",
+    "panel.p6.bubble.center.html": "\"밀어붙여라!\"",
+    "panel.p7.bubble.left.html": "통신기가 켜져 있다는 말을 먼저 했어야 했나 보네.",
+    "panel.p7.bubble.center.html": "엿듣더라도 최소한 조용히는 해줄 수 있잖아!",
+    "panel.p7.bubble.right.html": "\"래드, 이제 넌 큰일 났다...\""
+  }
+}

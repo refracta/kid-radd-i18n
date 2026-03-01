@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic476.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"더 나은 날들\"",
+    "panel.p1.bubble.left.html": "난 일단 나가볼게. 어, 그 둘 감시 재미있게 해.",
+    "panel.p1.bubble.right.html": "물론이지!",
+    "panel.p2.bubble.center.html": "또 후보 선수 신세네, 당연한 수순이지. 그래도 이제 매번 이러진 않아서 그나마 낫다.",
+    "panel.p3.bubble.center.html": "젠장, 어떤 게임에선 나도 제격이긴 해. 적은 많은데 주인공은 약골인 퍼즐 게임 같은 데서.",
+    "panel.p4.bubble.center.html": "하지만 드물지. 대부분 상황에서 난 여전히 제일 쓸모없는 녀석이야. 인정하기 싫지만, 그게 신경 쓰이는 건 사실이야.",
+    "panel.p5.bubble.left.html": "그래도 더 신경 쓰이는 문제가 있지...",
+    "panel.p5.bubble.center.html": "오, 안녕 보기.",
+    "panel.p5.bubble.right.html": "<i>히히!</i>"
+  }
+}

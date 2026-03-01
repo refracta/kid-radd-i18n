@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic467.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"가차 없이\"",
+    "panel.p1.narration.1.html": "15분이 지났습니다...",
+    "panel.p1.bubble.left.html": "피자 없어...",
+    "panel.p1.bubble.right.html": "아이고, 래드. 내가 몇 번을 말해야 돼, 넌 그 망할 피자를 이미 <i>먹었</i>어!",
+    "panel.p2.bubble.left.html": "근데 난 본 적이 없-",
+    "panel.p2.bubble.right.html": "RPG잖아! 대부분 파워업은 그래픽이 없어서 안 보여. 그냥 \"래드가 버거를 먹었다\" 같은 텍스트만 뜨고, 뿅 하고 HP가 최대치가 되는 거야.",
+    "panel.p3.bubble.left.html": "완전 사기네. 맛도 느낌도 없고...",
+    "panel.p3.bubble.right.html": "시간 낭비 중이야. 어떤 시스템 상대하는지 보게, 일단 전투를 유발하자.",
+    "panel.p4.bubble.left.html": "동의해. 그리고 봐, 딱 타이밍 맞춰...",
+    "panel.p4.bubble.right.html": "전투 001: 시작!"
+  }
+}

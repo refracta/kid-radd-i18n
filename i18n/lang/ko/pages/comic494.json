@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic494.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"접수 완료, 배달 완료\"",
+    "panel.p1.bubble.left.html": "그럼 임무는 실패인 건가?...",
+    "panel.p1.bubble.right.html": "\"미안, 시나. 그 보스는 기대만큼 대단한 놈이 아니었어.\"",
+    "panel.p2.bubble.left.html": "엘리엇이 우리를 게임 시작 지점으로 트랜스포트해 줄 테니, 거기서 꺼내줘.",
+    "panel.p2.bubble.right.html": "잠깐, 뭔가 말하려는 것 같아.",
+    "panel.p3.narration.1.html": "번역하면 다음과 같습니다:",
+    "panel.p4.bubble.left.html": "귀엽네, 배고픈가 보다! IB, 쿠키 하나 더 줘!",
+    "panel.p4.bubble.right.html": "직감의 달인다운 판단이구나, 꼬맹이."
+  }
+}
