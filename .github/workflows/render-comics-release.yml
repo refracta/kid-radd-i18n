@@ -9,7 +9,7 @@ on:
       comic_concurrency:
         description: "Comic concurrency per shard"
         required: false
-        default: "8"
+        default: "24"
       keep_last_releases:
         description: "How many rolling releases to keep"
         required: false
@@ -23,7 +23,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  COMIC_CONCURRENCY: ${{ github.event.inputs.comic_concurrency || '8' }}
+  COMIC_CONCURRENCY: ${{ github.event.inputs.comic_concurrency || '24' }}
   KEEP_LAST_RELEASES: ${{ github.event.inputs.keep_last_releases || '3' }}
 
 jobs:
@@ -34,11 +34,16 @@ jobs:
       matrix:
         language: [en, ko]
         shard:
-          - { id: s1, start: 1, end: 20 }
-          - { id: s2, start: 21, end: 40 }
-          - { id: s3, start: 41, end: 60 }
-          - { id: s4, start: 61, end: 80 }
-          - { id: s5, start: 81, end: 100 }
+          - { id: s1, start: 1, end: 60 }
+          - { id: s2, start: 61, end: 120 }
+          - { id: s3, start: 121, end: 180 }
+          - { id: s4, start: 181, end: 240 }
+          - { id: s5, start: 241, end: 300 }
+          - { id: s6, start: 301, end: 360 }
+          - { id: s7, start: 361, end: 420 }
+          - { id: s8, start: 421, end: 480 }
+          - { id: s9, start: 481, end: 540 }
+          - { id: s10, start: 541, end: 601 }
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -105,19 +110,34 @@ jobs:
           set -euo pipefail
           test -d collected/en
           test -d collected/ko
+          mkdir -p flat/en flat/ko
           mkdir -p dist
 
-          tar -czf dist/kid-radd-panels-webp-en-1-100.tar.gz -C collected en
-          tar -czf dist/kid-radd-panels-webp-ko-1-100.tar.gz -C collected ko
-          tar -czf dist/kid-radd-panels-webp-en-ko-1-100.tar.gz -C collected en ko
+          flatten_lang() {
+            local lang="$1"
+            find "collected/${lang}" -type f -name '*.webp' | while IFS= read -r src; do
+              local rel
+              rel="${src#collected/${lang}/}"
+              rel="${rel//\\//}"
+              if [[ "$rel" =~ ^comic([0-9]+)/([^/]+)\.webp$ ]]; then
+                local comic_num panel
+                comic_num="$(printf "%03d" "${BASH_REMATCH[1]}")"
+                panel="${BASH_REMATCH[2]}"
+                cp -f "$src" "flat/${lang}/comic${comic_num}.${panel}.webp"
+              fi
+            done
+          }
 
-          sha256sum dist/*.tar.gz | tee dist/SHA256SUMS.txt
+          flatten_lang en
+          flatten_lang ko
+
+          (cd flat && zip -r ../dist/kid-radd-images-i18n.zip en ko)
 
       - name: Upload package artifact
         uses: actions/upload-artifact@v4
         with:
           name: render-packages
-          path: dist/*
+          path: dist/kid-radd-images-i18n.zip
           retention-days: 14
 
   release:
@@ -142,13 +162,10 @@ jobs:
           set -euo pipefail
           bash scripts/release.sh upload \
             -r "${{ github.repository }}" \
-            -n "kid-radd-panels-webp" \
-            -T "kid-radd panels webp comics 1-100 (${GITHUB_SHA::7})" \
+            -n "kid-radd-images-i18n" \
+            -T "kid-radd images i18n all comics (${GITHUB_SHA::7})" \
             -b "${{ github.sha }}" \
-            -p dist/kid-radd-panels-webp-en-1-100.tar.gz \
-            -p dist/kid-radd-panels-webp-ko-1-100.tar.gz \
-            -p dist/kid-radd-panels-webp-en-ko-1-100.tar.gz \
-            -p dist/SHA256SUMS.txt
+            -p dist/kid-radd-images-i18n.zip
 
       - name: Keep last rolling releases
         shell: bash
@@ -158,5 +175,5 @@ jobs:
           set -euo pipefail
           bash scripts/release.sh delete \
             -r "${{ github.repository }}" \
-            -n "kid-radd-panels-webp" \
+            -n "kid-radd-images-i18n" \
             -l "${KEEP_LAST_RELEASES}"

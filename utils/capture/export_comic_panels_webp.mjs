@@ -6,8 +6,19 @@ import path from 'node:path';
 import os from 'node:os';
 import crypto from 'node:crypto';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { spawnSync } from 'node:child_process';
+import { spawn } from 'node:child_process';
 import { chromium } from 'playwright-core';
+
+function resolveDefaultChromiumPath() {
+  if (process.env.PLAYWRIGHT_CHROMIUM_PATH) {
+    return process.env.PLAYWRIGHT_CHROMIUM_PATH;
+  }
+  try {
+    return chromium.executablePath();
+  } catch {
+    return undefined;
+  }
+}
 
 function parseArgs(argv) {
   const options = {
@@ -32,9 +43,8 @@ function parseArgs(argv) {
     lossless: true,
     quality: 75,
     timeoutMs: 15000,
-    chromiumPath:
-      process.env.PLAYWRIGHT_CHROMIUM_PATH ||
-      path.join(os.homedir(), '.cache/ms-playwright/chromium-1200/chrome-linux64/chrome'),
+    chromiumPath: resolveDefaultChromiumPath(),
+    comicConcurrency: 1,
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -106,6 +116,9 @@ function parseArgs(argv) {
     } else if (arg === '--timeout-ms' && next) {
       options.timeoutMs = Number(next);
       i += 1;
+    } else if (arg === '--comic-concurrency' && next) {
+      options.comicConcurrency = Number(next);
+      i += 1;
     } else if (arg === '--chromium-path' && next) {
       options.chromiumPath = next;
       i += 1;
@@ -145,6 +158,7 @@ function printHelp() {
     `  --lossy                  Use lossy WebP encoding\n` +
     `  --quality <0-100>        Lossy quality (default: 75)\n` +
     `  --timeout-ms <n>         Navigation timeout (default: 15000ms)\n` +
+    `  --comic-concurrency <n>  Number of comics to process in parallel (default: 1)\n` +
     `  --chromium-path <path>   Chromium executable path\n` +
     `  --help                   Show this help\n`);
 }
@@ -584,7 +598,50 @@ function extractGifInfo(filePath) {
   };
 }
 
-function getPanelGifTiming(gifUrls) {
+function resolveGifPath(gifUrl, { serveRoot, serverOrigin } = {}) {
+  if (!gifUrl) {
+    return null;
+  }
+
+  if (gifUrl.startsWith('file://')) {
+    try {
+      return fileURLToPath(gifUrl);
+    } catch {
+      return null;
+    }
+  }
+
+  let parsedUrl;
+  try {
+    parsedUrl = new URL(gifUrl);
+  } catch {
+    return null;
+  }
+
+  if (!serveRoot || !serverOrigin) {
+    return null;
+  }
+
+  let parsedOrigin;
+  try {
+    parsedOrigin = new URL(serverOrigin);
+  } catch {
+    return null;
+  }
+
+  if (parsedUrl.origin !== parsedOrigin.origin) {
+    return null;
+  }
+
+  const decodedPath = decodeURIComponent(parsedUrl.pathname || '/');
+  const localPath = path.resolve(serveRoot, `.${decodedPath}`);
+  if (!isPathWithin(serveRoot, localPath)) {
+    return null;
+  }
+  return localPath;
+}
+
+function getPanelGifTiming(gifUrls, { serveRoot, serverOrigin } = {}) {
   let parsedGifCount = 0;
   let minDelayMs = null;
   let hasInfiniteLoop = false;
@@ -592,17 +649,21 @@ function getPanelGifTiming(gifUrls) {
   let expectedDurationMs = null;
   let primaryDelayProfile = null;
   let primaryDurationMs = -1;
+  let allParsedSingleFrame = true;
 
   for (const gifUrl of gifUrls) {
-    if (!gifUrl || !gifUrl.startsWith('file://')) {
+    const gifPath = resolveGifPath(gifUrl, { serveRoot, serverOrigin });
+    if (!gifPath) {
       continue;
     }
 
     try {
-      const gifPath = fileURLToPath(gifUrl);
       const gifInfo = extractGifInfo(gifPath);
       if (gifInfo && Number.isFinite(gifInfo.minDelayMs)) {
         parsedGifCount += 1;
+        if (!Number.isFinite(gifInfo.frameCount) || gifInfo.frameCount > 1) {
+          allParsedSingleFrame = false;
+        }
         minDelayMs = minDelayMs === null
           ? gifInfo.minDelayMs
           : Math.min(minDelayMs, gifInfo.minDelayMs);
@@ -640,18 +701,35 @@ function getPanelGifTiming(gifUrls) {
     minDelayMs,
     hasInfiniteLoop,
     hasFiniteOrUnknownLoop,
+    staticGuaranteed:
+      gifUrls.length > 0 &&
+      parsedGifCount === gifUrls.length &&
+      allParsedSingleFrame,
     oneShotLikely: hasFiniteOrUnknownLoop && !hasInfiniteLoop,
     expectedDurationMs,
     primaryDelayProfile,
   };
 }
 
-function runFfmpeg(args) {
-  const result = spawnSync('ffmpeg', args, { stdio: 'pipe', encoding: 'utf8' });
-  if (result.status !== 0) {
-    const stderr = (result.stderr || '').trim();
-    throw new Error(`ffmpeg failed (${result.status}): ${stderr}`);
-  }
+async function runFfmpeg(args) {
+  await new Promise((resolve, reject) => {
+    const child = spawn('ffmpeg', args, { stdio: ['ignore', 'ignore', 'pipe'] });
+    let stderr = '';
+
+    child.on('error', (error) => {
+      reject(new Error(`ffmpeg spawn failed: ${String(error.message || error)}`));
+    });
+    child.stderr.on('data', (chunk) => {
+      stderr += chunk.toString();
+    });
+    child.on('close', (code) => {
+      if (code !== 0) {
+        reject(new Error(`ffmpeg failed (${code}): ${stderr.trim()}`));
+        return;
+      }
+      resolve();
+    });
+  });
 }
 
 async function ensureDir(dirPath) {
@@ -883,6 +961,8 @@ async function capturePanelWebp({
   settleHoldMs,
   maxPanelCaptureMs,
   forceLoopEnable,
+  hasGifCandidate,
+  staticGuaranteed,
   oneShotLikely,
   expectedDurationMs,
   gifDelayProfile,
@@ -915,9 +995,19 @@ async function capturePanelWebp({
     Math.max(frameCount, Math.ceil(boundedDurationMs / sampleDelayMs)),
   );
 
+  const encodeSingleFrame = (singleFramePath) => {
+    return runFfmpeg([
+      '-y',
+      '-i',
+      singleFramePath,
+      ...buildWebpCodecArgs({ animated: false, lossless, quality }),
+      outputFile,
+    ]);
+  };
+
   const frameInfos = [];
-  for (let i = 0; i < totalSamples; i += 1) {
-    const pngName = `frame_${String(i).padStart(3, '0')}.png`;
+  const captureFrame = async (index) => {
+    const pngName = `frame_${String(index).padStart(3, '0')}.png`;
     const pngPath = path.join(tempDir, pngName);
     const pngBuffer = await frameElement.screenshot();
     await fs.writeFile(pngPath, pngBuffer);
@@ -926,9 +1016,71 @@ async function capturePanelWebp({
       hash: bufferHash(pngBuffer),
       capturedAt: Date.now(),
     });
-    if (i < totalSamples - 1) {
+  };
+
+  let nextSampleIndex = 0;
+
+  if (staticGuaranteed || !hasGifCandidate) {
+    await captureFrame(nextSampleIndex);
+    nextSampleIndex += 1;
+
+    if (staticGuaranteed) {
+      await encodeSingleFrame(frameInfos[0].path);
+      await removeDir(tempDir);
+      return {
+        outputFile,
+        animated: false,
+        capturedFrames: frameInfos.length,
+        encodedFrames: 1,
+        cycleLength: null,
+        sampling: {
+          targetDelayMs,
+          sampleDelayMs,
+          oversample,
+          totalSamples: frameInfos.length,
+          desiredDurationMs,
+          boundedDurationMs,
+          oneShotLikely,
+          expectedDurationMs,
+        },
+      };
+    }
+
+    await page.waitForTimeout(targetDelayMs);
+    await captureFrame(nextSampleIndex);
+    nextSampleIndex += 1;
+
+    if (
+      frameInfos.length >= 2 &&
+      frameInfos[0].hash === frameInfos[1].hash
+    ) {
+      await encodeSingleFrame(frameInfos[0].path);
+      await removeDir(tempDir);
+      return {
+        outputFile,
+        animated: false,
+        capturedFrames: frameInfos.length,
+        encodedFrames: 1,
+        cycleLength: null,
+        sampling: {
+          targetDelayMs,
+          sampleDelayMs,
+          oversample,
+          totalSamples: frameInfos.length,
+          desiredDurationMs,
+          boundedDurationMs,
+          oneShotLikely,
+          expectedDurationMs,
+        },
+      };
+    }
+  }
+
+  for (let i = nextSampleIndex; i < totalSamples; i += 1) {
+    if (frameInfos.length > 0) {
       await page.waitForTimeout(sampleDelayMs);
     }
+    await captureFrame(i);
   }
 
   for (let i = 0; i < frameInfos.length; i += 1) {
@@ -948,7 +1100,7 @@ async function capturePanelWebp({
   let encodedFrames = 1;
 
   if (uniqueHashes.size === 1) {
-    runFfmpeg([
+    await runFfmpeg([
       '-y',
       '-i',
       frameInfos[0].path,
@@ -1003,7 +1155,7 @@ async function capturePanelWebp({
 
     if (runs.length <= 1) {
       const singleFrame = runs[0] ? runs[0].path : frameInfos[0].path;
-      runFfmpeg([
+      await runFfmpeg([
         '-y',
         '-i',
         singleFrame,
@@ -1028,7 +1180,7 @@ async function capturePanelWebp({
     const sampleFps = Math.max(1, Math.round(1000 / Math.max(1, sampleDelayMs)));
 
     const animatedLoopCount = forceLoopEnable ? 0 : (oneShotLikely ? 1 : 0);
-    runFfmpeg([
+    await runFfmpeg([
       '-y',
       '-framerate',
       String(sampleFps),
@@ -1375,7 +1527,7 @@ async function processComic({
         try {
           const outputPanelName = titleToP0 && panelName === 'title' ? 'p0' : panelName;
           const panelGifUrls = await findGifUrlsInFrame(frame.element);
-          const gifTiming = getPanelGifTiming(panelGifUrls);
+          const gifTiming = getPanelGifTiming(panelGifUrls, { serveRoot, serverOrigin });
           const panelFrameDelayMs =
             Number.isFinite(gifTiming.minDelayMs) ? gifTiming.minDelayMs : frameDelayMs;
 
@@ -1398,6 +1550,8 @@ async function processComic({
             settleHoldMs,
             maxPanelCaptureMs,
             forceLoopEnable,
+            hasGifCandidate: panelGifUrls.length > 0,
+            staticGuaranteed: gifTiming.staticGuaranteed,
             oneShotLikely: gifTiming.oneShotLikely,
             expectedDurationMs: gifTiming.expectedDurationMs,
             gifDelayProfile: gifTiming.primaryDelayProfile,
@@ -1416,6 +1570,7 @@ async function processComic({
             gifCount: panelGifUrls.length,
             parsedGifCount: gifTiming.parsedGifCount,
             gifMinDelayMs: gifTiming.minDelayMs,
+            gifStaticGuaranteed: gifTiming.staticGuaranteed,
             oneShotLikely: gifTiming.oneShotLikely,
             gifExpectedDurationMs: gifTiming.expectedDurationMs,
             gifDelayProfileLength: gifTiming.primaryDelayProfile
@@ -1469,6 +1624,27 @@ async function processComic({
   return result;
 }
 
+async function runWithConcurrency(items, limit, worker) {
+  const maxWorkers = Math.max(1, Math.floor(limit));
+  const workerCount = Math.min(maxWorkers, items.length);
+  const results = new Array(items.length);
+  let cursor = 0;
+
+  const runWorker = async () => {
+    while (true) {
+      const index = cursor;
+      cursor += 1;
+      if (index >= items.length) {
+        return;
+      }
+      results[index] = await worker(items[index], index);
+    }
+  };
+
+  await Promise.all(Array.from({ length: workerCount }, () => runWorker()));
+  return results;
+}
+
 async function main() {
   const options = parseArgs(process.argv.slice(2));
   const pagesDir = path.resolve(options.pagesDir);
@@ -1495,13 +1671,18 @@ async function main() {
     staticServer = await startStaticServer(serveRoot);
     console.log(`[server] ${staticServer.origin} (root=${serveRoot})`);
 
-    browser = await chromium.launch({
+    const launchOptions = {
       headless: true,
-      executablePath: options.chromiumPath,
-    });
+    };
+    if (options.chromiumPath) {
+      launchOptions.executablePath = options.chromiumPath;
+    }
+    browser = await chromium.launch(launchOptions);
+    const comicConcurrency = Math.max(1, Math.floor(options.comicConcurrency || 1));
+    console.log(`[capture] comic-concurrency=${comicConcurrency}`);
 
-    for (const comic of comics) {
-      console.log(`[capture] ${comic.name}`);
+    summary.results = await runWithConcurrency(comics, comicConcurrency, async (comic, index) => {
+      console.log(`[capture] ${comic.name} (${index + 1}/${comics.length})`);
       const comicResult = await processComic({
         browser,
         comic,
@@ -1526,7 +1707,6 @@ async function main() {
         lossless: options.lossless,
         quality: options.quality,
       });
-      summary.results.push(comicResult);
       const i18nResolved = comicResult.i18n ? comicResult.i18n.resolved : null;
       const i18nSuffix = i18nResolved
         ? `, i18n=${i18nResolved}${comicResult.i18n.timedOut ? ' (timeout)' : ''}`
@@ -1536,7 +1716,8 @@ async function main() {
       console.log(
         `  source=${comicResult.source}, panels=${comicResult.panels.length}, failures=${comicResult.failures.length}${i18nSuffix}`,
       );
-    }
+      return comicResult;
+    });
   } finally {
     if (browser) {
       await browser.close();

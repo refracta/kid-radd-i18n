@@ -862,10 +862,10 @@
 		if(!$menuRow.length) {
 			return false;
 		}
-		return hasMenuRowMiddleText($menuRow);
+		return hasMenuRowMiddleContent($menuRow);
 	}
 
-	function hasMenuRowMiddleText($menuRow) {
+	function hasMenuRowMiddleContent($menuRow) {
 		if(!$menuRow || !$menuRow.length) {
 			return false;
 		}
@@ -873,10 +873,24 @@
 		if($cells.length < 2) {
 			return false;
 		}
-		var middleText = String($cells.eq(1).text() || '')
+		var $middleCell = $cells.eq(1);
+		var middleText = String($middleCell.text() || '')
 			.replace(/\u00a0/g, ' ')
 			.replace(/\s+/g, ' ');
-		return $.trim(middleText).length > 0;
+		if($.trim(middleText).length > 0) {
+			return true;
+		}
+
+		// Some comics use icon/button rows in the center cell instead of text.
+		// Treat these as non-empty menu rows and hide the floating language trigger.
+		if($middleCell.find('a, button, input, select, textarea, label').length > 0) {
+			return true;
+		}
+		if($middleCell.find('img, svg, canvas, video, audio, object, embed, iframe').length > 0) {
+			return true;
+		}
+
+		return false;
 	}
 
 	function findMenuRowForZoomLink($zoomLink) {
