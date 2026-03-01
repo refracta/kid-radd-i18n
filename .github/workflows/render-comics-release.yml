@@ -47,13 +47,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
 
       - name: Install dependencies
         shell: bash
         run: |
           set -euo pipefail
-          npm ci
+          npm install --no-audit --no-fund
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           node node_modules/playwright-core/cli.js install --with-deps chromium
