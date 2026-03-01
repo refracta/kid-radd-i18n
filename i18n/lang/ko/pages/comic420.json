@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic420.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"독박\"",
+    "panel.p1.bubble.right.html": "그, 음, 오늘 포털 사건 말인데...",
+    "panel.p2.bubble.right.html": "<b>......</b>",
+    "panel.p3.bubble.left.html": "이제 이유 없는 고문 모드냐?",
+    "panel.p3.bubble.right.html": "아, 고맙군. 아주 재밌겠는데!",
+    "panel.p4.bubble.left.html": "아스피린...",
+    "panel.p4.bubble.right.html": "그래, 그거 좀 필요하겠네. 아, 그리고 HP 더 많은 애도 불러. 아주 많이."
+  }
+}

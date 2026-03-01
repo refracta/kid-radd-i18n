@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic414.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"어떻게 할 건데?\"",
+    "panel.p1.bubble.center.html": "자, 다들 잘 들어. 작전은 이거야...",
+    "panel.p2.bubble.center.html": "한밤중에 모드 본부로 몰래 잠입해서 배를 훔친다. 당연히 위험하지만, 우리가 힘을 합치면 가능해.",
+    "panel.p3.bubble.center.html": "Q.B., 넌 위조 보안 허가증을 만들어 줘. I.B., 넌 전력 차단을 맡아. 그동안 난 경비 교대 시간의 틈을 타 주 경비대를 빠져나가겠다...",
+    "panel.p4.bubble.right.html": "...<b>아니면</b> 내 인벤토리에 있는 배를 그냥 쓰면 되지.",
+    "panel.p5.bubble.left.html": "어, 그래. 그게 B안이었다.",
+    "panel.p5.bubble.center.html": "배 한 척을 통째로? 엄청 불편하겠는데.",
+    "panel.p5.bubble.right.html": "운 좋은 줄 알아. 게임에선 그거 9800G였어."
+  }
+}

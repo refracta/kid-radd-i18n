@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic415.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"날아오르기\"",
+    "panel.p1.bubble.left.html": "음, 이 배는 내가 예상한 모습이 아니네. 무장은 뭐가 있지?",
+    "panel.p1.bubble.right.html": "전혀 없어.",
+    "panel.p2.bubble.left.html": "좋네, 우린... <b>뭐라고?</b> 무장이 없다고? 왜?",
+    "panel.p2.bubble.right.html": "그냥 수송용이야. 게임 진행용 장치 같은 거지.",
+    "panel.p3.bubble.center.html": "넷스페이스 포털은 절대 못 뚫어! 경비가 너무 빡세서-",
+    "panel.p4.bubble.left.html": "우린 끝장이야.",
+    "panel.p4.bubble.center.html": "아니, 우리가 딱 바라던 위치야.",
+    "panel.p4.bubble.right.html": "오, 이건 꽤 <i>재밌겠는데</i>..."
+  }
+}

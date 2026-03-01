@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic418.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"반칙 아니야?\"",
+    "panel.p1.bubble.center.html": "이 거점, 생각보다 병력이 좀 더 많군. 하, 나야 더 재밌지.",
+    "panel.p2.bubble.center.html": "얘네 너무 쉬운데.",
+    "panel.p3.bubble.center.html": "아야! 나 지금 - 아야! - 맞고 있다고! 아야!",
+    "panel.p4.bubble.left.html": "걱정 마. 나한텐 무한<br>파워업이 있잖아? <b>큐어 맥스!</b>",
+    "panel.p5.bubble.left.html": "우와! 완전 전투도 되는 화이트 메이지 같네!",
+    "panel.p5.bubble.right.html": "어... 다시는 날 \"화이트 메이지\"라고 부르지 마."
+  }
+}

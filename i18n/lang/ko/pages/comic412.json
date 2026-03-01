@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic412.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"그림자 밖으로\"",
+    "panel.p1.bubble.left.html": "근데 왜 래드가 크리스털한테 그렇게 위험한데?",
+    "panel.p1.bubble.center.html": "음, 정확히는 모르겠어...",
+    "panel.p2.bubble.left.html": "딱히 놀랍진 않네.",
+    "panel.p2.bubble.right.html": "그래도 그녀가 \"무한한 힘...\" 같은 걸 중얼거리는 건 들었어.",
+    "panel.p3.bubble.left.html": "<i>래드가?</i> 강하다고? 그게 사실이어도, 대체 걜 어떻게 찾는데?",
+    "panel.p3.bubble.right.html": "전혀 모르지!"
+  }
+}

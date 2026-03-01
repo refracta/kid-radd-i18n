@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic411.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"같은 파장\"",
+    "panel.p1.narration.1.html": "한편, 호프타운 서버에서는:",
+    "panel.p1.bubble.right.html": "휴! 해냈다!",
+    "panel.p2.bubble.left.html": "모드 본부에서 빠져나온 것뿐이야. 아직 이 시스템을 벗어난 건 아니거든.",
+    "panel.p2.bubble.right.html": "하지만 곧 벗어날 거야. 제일 어려운 건 이미 끝났어.",
+    "panel.p3.bubble.left.html": "됐다. 하, 우리가 도망쳐 봐야 뭐 해? 이제 자유로운 곳은 남아 있지도 않을걸.",
+    "panel.p3.bubble.right.html": "걱정 마, 생길 거야. 래드를 찾고 나면!",
+    "panel.p4.bubble.left.html": "아 맞다, 그 얼간이 꼬맹이가 다 해결해 주겠지...",
+    "panel.p4.bubble.right.html": "내가 하려던 말이 딱 그거야! 우리 진짜 파장이 잘 맞네!"
+  }
+}

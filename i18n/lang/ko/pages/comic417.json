@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic417.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"죽었든 살았든\"",
+    "panel.p1.bubble.center.html": "뭐야? 캡틴 QB? <i>GI 가이?</i>",
+    "panel.p2.bubble.left.html": "근데 당신들은 죽었잖아요! 적어도 그래야 하고...",
+    "panel.p2.bubble.right.html": "\"그래야 한다\"는 말이 맞지.",
+    "panel.p3.bubble.left.html": "저... 죄송합니다, 각하. 하지만 저희는 아주 구체적인 명령을 받았습니다.",
+    "panel.p3.bubble.right.html": "그래?",
+    "panel.p4.bubble.left.html": "크리스털님이 여기 오는 죽은 사람은 전부 죽이라고 했습니다.",
+    "panel.p4.bubble.right.html": "이제 시작이군..."
+  }
+}
