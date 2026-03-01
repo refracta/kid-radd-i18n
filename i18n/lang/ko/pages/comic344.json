@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic344.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"건초더미의 바늘\"",
+    "panel.p1.bubble.left.html": "<b>악!</b> 왜 때린 거야?",
+    "panel.p1.bubble.right.html": "위험을 감지할 수 있다며. 실험 결과: 실패.",
+    "panel.p2.bubble.left.html": "위험 말고! <b>래드</b>만!",
+    "panel.p2.bubble.right.html": "지금 <i>당장</i> 래드가 어디 있는지 알 수 있다는 거야?",
+    "panel.p3.bubble.left.html": "정확히는 아냐. 하지만 그와 같은 컴퓨터 안에 있으면 알아.",
+    "panel.p3.bubble.right.html": "웹에는 컴퓨터가 <i>엄청</i> 많아. 건초더미에서 바늘 찾기지.",
+    "panel.p5.bubble.center.html": "그래도 난 하루에 수십 개 서버를 건너다니면서 래드가 있는지 빠르게 \"훑어볼\" 수 있어. 시간만 충분하면 결국 운이 따라줄 거야.",
+    "panel.p6.bubble.left.html": "그 얘기 나온 김에, 언제 저녁 한 번 어때?",
+    "panel.p6.bubble.right.html": "싫어."
+  }
+}

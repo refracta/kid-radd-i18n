@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic345.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"조건\"",
+    "panel.p1.bubble.left.html": "네 말에 일리가 없는 건 아니군. 뭘 원하지?",
+    "panel.p1.bubble.right.html": "서버 사이를 오갈 배만 있으면 돼. 가능하면 빠른 걸로.",
+    "panel.p2.bubble.left.html": "좋아. 마음에 들진 않지만 네 제안을 받아들일 수도 있겠군.",
+    "panel.p2.bubble.right.html": "최고네! 후회 안 하게 해줄게.",
+    "panel.p3.bubble.center.html": "하지만 <b>먼저</b>... 네 그릇부터 시험해 봐야겠어. 게다가 허락도 없이 들이닥친 대가도 치러야지.",
+    "panel.p4.bubble.left.html": "에이, 새 사업 파트너를 진짜 다치게 하진 않겠지?",
+    "panel.p4.bubble.right.html": "그건 네 \"끝내주는 실력\"이 진짜인지에 달렸지."
+  }
+}

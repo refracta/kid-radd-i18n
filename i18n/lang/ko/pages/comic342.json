@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic342.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"거짓 운명\"",
+    "panel.p1.bubble.left.html": "너 기억난다. 너 혹시...?",
+    "panel.p1.bubble.right.html": "그날. 래드의 <i>형</i>.",
+    "panel.p2.bubble.right.html": "\"형\"이라니, 쯧. 다른 스프라이트들처럼 너도 아직 게임 제작자가 붙여준 역할을 믿고 있군. 역겨워.",
+    "panel.p3.bubble.left.html": "좋은 소식 하나 알려주지. 그건 그냥 설정일 뿐이야. 시나가 진짜 그의 \"여자친구\"가 아닌 것처럼, 너도 진짜 그의 \"형\"이 아니야.",
+    "panel.p3.bubble.right.html": "무슨 말인진 알겠어. 그래도 난 과거에 기대 사는 게 그렇게 나쁘진 않던데.",
+    "panel.p4.bubble.center.html": "난 싫어! 현실을 못 받아들이는 스프라이트들 보면 역겨워. 예전에 여기서 일하던 그 앰프 반역자처럼, 맨날 자기 \"딸\"이랑 놀아대고. 그 멍청이들은 제발 좀 둘이 <i>동갑</i>이라는 걸 머리에 넣질 못하더라고!",
+    "panel.p5.bubble.left.html": "자기 게임에서 맡은 역할이 썩 마음에 들진 않았나 보네?",
+    "panel.p5.bubble.right.html": "허접한 RPG의 랜덤 몬스터라니. 난 평생 <i>그딴</i> 역할로 살 생각 없어."
+  }
+}

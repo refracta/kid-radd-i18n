@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic349.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"공허한 약속\"",
+    "panel.p1.bubble.left.html": "좋아, 음, 몇몇 \"결함\"에도 불구하고 네가 실력은 보여줬으니 배를 주겠다.",
+    "panel.p1.bubble.right.html": "죽이는데!",
+    "panel.p2.bubble.left.html": "단, 래드를 찾으면 너는 우리에게 알리기만 해야 한다. 처리는 내가 한다.",
+    "panel.p2.bubble.right.html": "알겠어!",
+    "panel.p3.bubble.left.html": "다시 말하지만 어떤 경우에도 래드와 직접 싸우면 안 된다. 알겠나?",
+    "panel.p3.bubble.right.html": "알겠어!",
+    "panel.p4.bubble.center.html": "이런 걸 바로 의미심장한 침묵이라고 하지.",
+    "panel.p5.bubble.left.html": "마음 바뀌기 전에 그냥 가, 알겠지?",
+    "panel.p5.bubble.right.html": "기꺼이!"
+  }
+}
