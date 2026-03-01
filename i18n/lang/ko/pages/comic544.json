@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic544.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"멈출 수 없는\"",
+    "panel.p1.bubble.left.html": "와, GI 가이가 진짜 그렇게까지... 불안정했다니...",
+    "panel.p1.bubble.right.html": "믿어라. 저렇게 심각하게 망가진 방식이긴 해도, 본인은 옳은 일을 한다고 믿었어.",
+    "panel.p2.bubble.left.html": "설마 그를 동정하는 거야?",
+    "panel.p2.bubble.right.html": "절대 아니지! 그냥... 뭐, 흔한 광인들 같았어. 문제 인식은 꽤 정확했지만, 해결책은 완전히 미친 수준이었지.",
+    "panel.p3.bubble.left.html": "해결책 얘기 나온 김에, 너한테 뭐 있진 않겠지? 우리 다음엔 뭘 해야 해?",
+    "panel.p3.bubble.right.html": "간단해. 돌아가서 키메라 포인트를 파괴한다. 크리스탈이 못 찾게.",
+    "panel.p4.bubble.left.html": "내가 말했잖아, 우린 그걸 파괴하지 못했 -",
+    "panel.p4.bubble.right.html": "<b>너희</b>는 못 했지.  <b>나는</b> 할 수 있어."
+  }
+}

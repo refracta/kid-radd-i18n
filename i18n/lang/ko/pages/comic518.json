@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "page": "pages/comic518.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"점점 더 높이\"",
+    "panel.p2.bubble.left.html": "더 나은 전개군! 이 전투는 시간이 갈수록 더 훌륭해져!"
+  }
+}

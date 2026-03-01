@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic496.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"새 지평선\"",
+    "panel.p1.narration.1.html": "그럼 그날과 코바 쪽으로 다시 가보겠습니다.",
+    "panel.p2.bubble.left.html": "완벽해! 이 서버는 무인 서버 같네.",
+    "panel.p2.bubble.right.html": "그래, 사람 프로그램하고 파일 몇 개뿐이야.",
+    "panel.p3.bubble.left.html": "그럼 이제 뭐 하지?",
+    "panel.p3.bubble.right.html": "몰라, 뭐. 실력이 늘 때까지 서로 두들겨 패면 되지 않겠어?",
+    "panel.p4.bubble.left.html": "오예! 그거 재밌겠다!",
+    "panel.p4.bubble.right.html": "우리 취향이 맞아서 다행이네."
+  }
+}

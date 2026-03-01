@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "page": "pages/comic513.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아직 안 끝났어\"",
+    "panel.p2.bubble.center.html": "하지만 키메라화된 스프라이트의 프로그래밍에 생긴 글리치 때문에 그들을 원래 인격으로 다시 분리할 수 없었다. 그들은 그 상태로 고정됐고, 평화로운 NPC 측면은 거의 사라진 듯했다."
+  }
+}

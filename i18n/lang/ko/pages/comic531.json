@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic531.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"분리 불안\"",
+    "panel.p2.bubble.left.html": "좋아, 끝났다. 다 괜찮아 보이긴 하는데, 어, 부작용이 없다고는 장담 못 해.",
+    "panel.p2.bubble.right.html": "휴!",
+    "panel.p3.bubble.left.html": "그래서, 어...<br>방금 그건 정말...",
+    "panel.p3.bubble.right.html": "어색했지. 그래...",
+    "panel.p4.bubble.left.html": "시간 낭비 그만해! 래드랑 GI 찾아서 여기서 빠져나가야 해!",
+    "panel.p4.bubble.right.html": "잠깐, 래드가 여기 있다고 생각해?",
+    "panel.p5.bubble.left.html": "아니야?",
+    "panel.p5.bubble.center.html": "글쎄, 이 네트워크 안 어디에라도 있었다면 벌써 느꼈을 거야.",
+    "panel.p5.bubble.right.html": "진짜 어색하네..."
+  }
+}

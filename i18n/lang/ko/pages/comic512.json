@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic512.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"되돌아보기\"",
+    "panel.p1.bubble.center.html": "불행히도 그 수많은 ROM을 올린 인간이 액션 게임 취향이었던 모양이라, 주변에 NPC가 많지 않았다. 그래서 우리는 플랜 B를 세웠다.",
+    "panel.p3.bubble.center.html": "속성을 신중하게 설정하고 키메라화를 실행했더니, 놀랍게도 되는 듯했다. 폭력을 할 수도 없고 관심도 없는 새로운 존재들, 사실상 NPC가 탄생한 거지."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic522.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"절대 못 배우지\"",
+    "panel.p1.bubble.left.html": "편하게 있어, 래드. 한동안 여기 있어야 하니, 점잖게 이야기나 하자.",
+    "panel.p1.bubble.right.html": "너랑 할 말 없어.",
+    "panel.p2.bubble.center.html": "좋다, 그럼 내가 먼저 하지. 내가 있던 게임도 잔혹했지만, 내 플레이어는 그보다 더 잔혹했어. 몇 시간씩 날 레벨업시키고, 빌어먹을 비밀 보물과 숨겨진 능력을 하나하나 다 찾게 했지. 완전한 고문이었어...",
+    "panel.p4.bubble.left.html": "마침내 그 게임에서 빠져나왔을 때, 새로 시작한다는 기쁨은 엄청났어. 드디어 나 같은 동료들이 생겼고, 우리는 기꺼이 함께 새로운 세상, 이전의 가짜 삶보다 더 나은 세상을 만들려 했지.",
+    "panel.p5.bubble.center.html": "내가 얼마나 순진했는지. 우리는 여전히 살인자였고, 그 운명은 끝내 벗어날 수 없었다."
+  }
+}

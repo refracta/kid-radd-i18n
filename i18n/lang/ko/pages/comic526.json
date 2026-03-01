@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic526.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"모두 무너뜨려\"",
+    "panel.p1.bubble.left.html": "너 진짜 <b>미쳤</b>어! 근데 그건 안 통해 - 내 공격은 모든 걸 파괴하지 못해 - NPC도 건물도 못 부순다고, 그리고...",
+    "panel.p1.bubble.right.html": "아니, 된다. 그 게임들을 파괴하던 방식 그대로.",
+    "panel.p3.bubble.center.html": "하지만 모더레이터가 무기로 ROM에 구멍을 낼 때는 그런 식이 아니다. 그들은 코드 자체를 공격해서 손상과 삭제를 일으킨다. 게임 밖에선 제한이 없기 때문에 가능한 일이지.",
+    "panel.p5.bubble.center.html": "네 힘은 수백만 운영체제의 구조를 찢어버리고, 그 게임들처럼 붕괴시킬 거다. 그리고 그 게임들처럼, 그 안의 모든 것과 모든 존재도 함께 파괴될 거다."
+  }
+}

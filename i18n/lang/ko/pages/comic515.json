@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic515.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"배신\"",
+    "panel.p1.narration.1.html": "그래서 래드와 GI는 훔친 모드 순양함을 타고 출발합니다.",
+    "panel.p1.bubble.left.html": "와, 우리 과거가 그렇게 엉망이었는 줄은 몰랐네.",
+    "panel.p1.bubble.right.html": "철저히 숨겨진 비밀이었지.",
+    "panel.p3.bubble.left.html": "어, 여긴 걔들이 있던 서버랑 전혀 다르게 생겼는데. 여기 맞아?",
+    "panel.p3.bubble.right.html": "아, 맞는 장소야. 적어도 내가 할 일엔 딱 맞지."
+  }
+}

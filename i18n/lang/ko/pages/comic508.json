@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic508.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"가장 진심인 모방\"",
+    "panel.p1.bubble.left.html": "이 얘기 흥미롭긴 한데, 이게 \"키메라 포인트\"랑 무슨 상관이야?",
+    "panel.p1.bubble.right.html": "곧 거기로 간다.",
+    "panel.p2.bubble.center.html": "여기서 내가 이어서 말하지. 나는 게임에서 스프라이트뿐 아니라, 비지성 오브젝트도 최대한 많이 가져오자고 처음 제안한 사람이었어."
+  }
+}

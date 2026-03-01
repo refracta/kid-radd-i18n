@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "page": "pages/comic520.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"규칙을 깨면 대가를 치른다\""
+  }
+}

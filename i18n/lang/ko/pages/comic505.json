@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic505.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"이건 예상 못 했지\"",
+    "panel.p1.bubble.left.html": "앰프 박사님, 저 둘이 -",
+    "panel.p1.bubble.right.html": "키메라화됐군. 젠장.",
+    "panel.p2.bubble.left.html": "아, 이런 현상 이름도 있어요? 자주 일어나나요?",
+    "panel.p2.bubble.right.html": "거의 없어요, 그리고 앞으로도 그래야 하고요.",
+    "panel.p4.bubble.left.html": "놀랄 만도 하지. 그걸 만든 게 저 양반이니까.",
+    "panel.p4.bubble.center.html": "뭐라... 저 사람이 <i><b>저거</b></i> 만든 장본인이라고?",
+    "panel.p4.bubble.right.html": "저 양반이 어디까지 할 수 있는지 새삼 놀랄 일은 아니잖아."
+  }
+}

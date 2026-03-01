@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic524.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"엔더의 그림자\"",
+    "panel.p3.bubble.center.html": "우리는 그들의 본능 냄새를 진하게 풍긴다. 우리의 인공 영혼은 그들의 거울이기에, 우리 역시 그들처럼 폭력에서 쾌감을 느껴.",
+    "panel.p4.bubble.left.html": "그리고 <i>바로 그 점</i> 때문에 내 완벽한 세계라는 꿈은 산산조각 났다. 두 번이나.",
+    "panel.p4.bubble.right.html": "하지만..."
+  }
+}

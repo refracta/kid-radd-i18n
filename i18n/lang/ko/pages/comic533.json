@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic533.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"필요한 물건\"",
+    "panel.p1.bubble.left.html": "그래서 이제 뭐해?",
+    "panel.p1.bubble.right.html": "그러니까, 래드랑 GI가 어디 있는지 단서도 없는데 어떻게 찾아?",
+    "panel.p2.bubble.right.html": "잠깐만 - 이게 우리가 찾던 걸 수도 있어! 센서에 <b>뭔가!</b>가 잡혀!",
+    "panel.p3.bubble.left.html": "\"뭔가?\"",
+    "panel.p3.bubble.right.html": "뭔가.",
+    "panel.p4.bubble.left.html": "그걸 영어 말고 다른 말로는 설명 못 해?",
+    "panel.p4.bubble.right.html": "내가 말했잖아, 난 테크노잡담 못 해. 네가 알아서 번역해."
+  }
+}

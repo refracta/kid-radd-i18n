@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic530.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말하지 않은 말\"",
+    "panel.p1.bubble.left.html": "코바랑 그날이 모드 순양함을 키메라 포인트에 몇 시간째 두고 있다는 말이야?",
+    "panel.p1.bubble.right.html": "지금쯤 반나절은 됐을걸.",
+    "panel.p2.bubble.left.html": "그리고 지금 래드와 GI도 추적 가능한 훔친 순양함을 타고 거기로 갔다고???",
+    "panel.p2.bubble.right.html": "뭐, 아마 그 네트워크 어딘가에 있겠지. 길 잃었을 가능성이 크고.",
+    "panel.p3.bubble.left.html": "본부 모드 중 누가 좌표 스캔하다가 이 반역자 소모임을 발견하면 어떡해... 으악! 이건 진짜 <b>엄청</b> 위험해!",
+    "panel.p3.bubble.right.html": "표현은 훌륭한데, 왜?",
+    "panel.p4.bubble.left.html": "흠, 내가 \"크리스탈이 키메라를 찾으면 크리스탈이 전능해진다\"는 얘기를 깜빡한 모양이지?",
+    "panel.p4.bubble.right.html": "괜찮아, 나도 더 큰 일도 맨날 까먹어."
+  }
+}

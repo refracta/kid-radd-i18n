@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic498.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"쿵푸 파이팅\"",
+    "panel.p1.bubble.left.html": "이렇게 하자, 별 쏘는 건 일단 넘어가자. 그건 네가 연습할 필요 없을 것 같거든.",
+    "panel.p1.bubble.right.html": "그래, 뭐 그러든가.",
+    "panel.p3.bubble.left.html": "방금 그게 다 뭐야?",
+    "panel.p3.bubble.right.html": "어, 멋있고 <i>안</i> 쓸모없는 기술."
+  }
+}

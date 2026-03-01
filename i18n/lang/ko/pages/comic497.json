@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic497.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"바보와 더 바보\"",
+    "panel.p1.narration.1.html": "\"훈련\"이 시작됩니다.",
+    "panel.p1.bubble.left.html": "회피는 이미 훌륭하니까, 이제 조준 연습을 하자.",
+    "panel.p2.bubble.left.html": "난 보스 캐릭터라 HP가 넉넉해, 마음껏 쏴도 돼.",
+    "panel.p2.bubble.right.html": "라저.",
+    "panel.p3.bubble.left.html": "젠장! 저건 빗나가질 않냐?",
+    "panel.p3.bubble.right.html": "저건 목표 지점에 바로 생성되는 거라서... 아니.",
+    "panel.p4.bubble.left.html": "그럼 도대체 왜 아까는 그걸 안 쓴 거야?",
+    "panel.p4.bubble.right.html": "말했잖아, 멋있고 쓸모없는 기술부터 해야 했다고. 당연하지."
+  }
+}

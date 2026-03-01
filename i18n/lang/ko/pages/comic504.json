@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic504.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"도무지 못 이기겠네\"",
+    "panel.p1.bubble.left.html": "음? 신호야? 누가 우리한테 연락하지?",
+    "panel.p1.bubble.right.html": "확인해 보면 되죠.",
+    "panel.p2.bubble.left.html": "그날 목소리 같은데.",
+    "panel.p2.bubble.right.html": "아니, 내 귀엔 코바야시에 더 가까워.",
+    "panel.p3.bubble.left.html": "어디 보자:<br>비디오 화면 켜져라.",
+    "panel.p3.bubble.right.html": "어머나...",
+    "panel.p4.bubble.left.html": "저거 불편해 보이지 않아?",
+    "panel.p4.bubble.right.html": "내가 <i>보기만</i> 해도 불편해."
+  }
+}

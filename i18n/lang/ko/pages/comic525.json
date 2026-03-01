@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic525.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"폭탄을 떨어뜨려라\"",
+    "panel.p1.bubble.center.html": "우리의 본성을 알고 나니, 우리에게 희망은 없다는 걸 깨달았다. 악은 선을 만들 수 없다. 인간은 자신보다 나은 것을 만들 수 없고, 우리도 마찬가지다.",
+    "panel.p2.bubble.center.html": "아무리 그 위로 올라서려 해도, 우리 프로그램들 역시 그 끔찍한 인간들만큼 죽음을 받아 마땅하다. 우리 <b>모두</b>는 고통을 만들어내며, 멈춰 세워지기 전까지 계속 그럴 것이다.",
+    "panel.p3.bubble.center.html": "그래서 결론은 자명하다. 우리가 상황을 개선할 수 없다면, 고통을 끝내는 방법은 단 하나뿐이지..."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic507.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"기묘한 우연\"",
+    "panel.p1.bubble.left.html": "사, 살아남았다고? 그럼... 못 살아남은 건 누구야?",
+    "panel.p1.bubble.right.html": "다른 서버의 스프라이트 수백 명이다. 어디인지는 묻지 마, 그땐 아직 IP 기록 기술이 없었어."
+  }
+}

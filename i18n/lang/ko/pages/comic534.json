@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic534.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"악몽의 그것\"",
+    "panel.p1.bubble.left.html": "그래서 그 \"뭔가\"가 왜 특별한데?",
+    "panel.p1.bubble.right.html": "음, 물결선 같은 게 있는데 -",
+    "panel.p2.bubble.left.html": "흠흠.",
+    "panel.p2.bubble.right.html": "어, 그러니까... \"에너지 시그니처?\"",
+    "panel.p4.bubble.left.html": "그리고 엄청나게 눈에 띄어.",
+    "panel.p4.bubble.right.html": "<i>세상에 <b>비트!</b>...</i>"
+  }
+}

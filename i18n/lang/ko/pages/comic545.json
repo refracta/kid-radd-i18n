@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic545.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"모든 것의 의미\"",
+    "panel.p1.bubble.left.html": "저기 포털이다. 키메라 포인트가 정면에 있어.",
+    "panel.p1.bubble.center.html": "래드, 나 계속 생각해 봤는데...",
+    "panel.p1.bubble.right.html": "그래서?",
+    "panel.p2.bubble.center.html": "난 정말 우리가 함께하길 바라. 그런데 그게 우리 프로그래밍의 목소리일 뿐일까 봐 두려워. 프로그래머가 써둔 역할, 전형적인 남자친구와 여자친구를 그대로 연기하는 것뿐일지도 몰라. 거기에 굴복하면 위선일까?",
+    "panel.p3.bubble.center.html": "결국 우리가 맞서 싸우는 게 바로 그거 아닌가? 인공 존재로서의 본성 자체, 불필요하고 종종 폭력적인 성향을 극복해서 진정으로 자유로워지려는 거 말이야. 아닌가?",
+    "panel.p4.bubble.center.html": "아니야, 시나. 그게 아니야. 이건 각자의 본성을 극복하느냐의 문제가 아니야. 물론 어떤 이들에겐 본능을 완전히 버리는 게 맞을 수도 있지, 안 그러면 너무 폭력적이라 공존이 불가능할 테니까.",
+    "panel.p6.bubble.center.html": "하지만 대부분에게 최선의 길은 그 두 극단 사이 어딘가에 있어.  그걸로 충분해, 우리가 싸우는 이유는 그들을 억지로 바꾸기 위해서가 아니라, 각자가 원하는 삶을 마음껏 고를 <i>권리</i>를 지키기 위해서니까.",
+    "panel.p7.bubble.left.html": "그리고 크리스탈이든 GI든 다른 얼간이든, 그게 아니라고 우리에게 지시할 순 없어. 그리고... 시나?",
+    "panel.p7.bubble.right.html": "래드, 나 방금 깨달은 게 있어...",
+    "panel.p9.bubble.left.html": "둘이 감정극은 좀 덜 붐비는 배에서 해라.",
+    "panel.p9.bubble.center.html": "야, 너까지 끼어들 필요는 없거든?",
+    "panel.p9.bubble.right.html": "사실, 끼어들어야 해."
+  }
+}

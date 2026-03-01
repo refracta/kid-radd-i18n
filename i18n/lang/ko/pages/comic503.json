@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic503.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"너무 가까이 오지 마\"",
+    "panel.p1.bubble.left.html": "이 조그만 괴짜들을 누가 이렇게 많이 배에 태웠어?",
+    "panel.p1.bubble.right.html": "어... 그건 접니다.",
+    "panel.p2.bubble.left.html": "물어봐서 미안한데...<br><b>왜?</b>",
+    "panel.p2.bubble.right.html": "화력이 더 필요했고, 얘들은 희귀하거든요. 직접 공격 가능한 NPC들이라서요.",
+    "panel.p4.bubble.left.html": "우릴 단체로 두들겨 팰 수도 있는 무적 놈들을 배에 태워 왔다고?",
+    "panel.p4.bubble.center.html": "뭐, 우리가 먼저 건드리면 그렇죠.",
+    "panel.p4.bubble.right.html": "나 건들지 마, 대머리."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic541.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"그가 모르는 것\"",
+    "panel.p1.bubble.left.html": "너희가 어떻게 살아남았 -",
+    "panel.p1.bubble.right.html": "얘긴 나중에, 지금은 탈출.",
+    "panel.p4.bubble.left.html": "바깥세상이 있다! 할렐루야!",
+    "panel.p4.bubble.right.html": "네 덕분은 아니거든, 하.",
+    "panel.p5.bubble.center.html": "<b>와, 방금은 너무 아슬아슬해서 진짜 식은땀이 났다.</b>",
+    "panel.p6.bubble.center.html": "<b>원래 래드가 GI 가이를 만날 확률은 너무 낮아서, 이런 위험한 시나리오가 실제로 벌어질 거라고는 생각도 못 했지만...</b>",
+    "panel.p7.bubble.center.html": "<b>엄청난 행운 덕분에 GI는 다행히 성공하지 못했다.  그 위기가 지나간 지금, 래드는 계속 나아갈 수 있을 듯하다.</b>",
+    "panel.p8.bubble.center.html": "<b>...하지만 다음 전투가 훨씬 더 큰 대가를 건 싸움이 될 거라는 사실을 그가 모르는 편이 아마 다행일 것이다...</b>"
+  }
+}

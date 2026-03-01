@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic514.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네가 내 보디가드라면\"",
+    "panel.p1.bubble.center.html": "프로토스 참사의 실망이 컸지만, 나는 포기하지 않았다. 우리는 모더레이터라는 엄격한 통제 체계를 두고 호프타운을 시작했다.",
+    "panel.p3.bubble.left.html": "젠장, 몇 년 동안은 그게 <i>먹혔어.</i> 그런데 크리스탈이 다 망쳐 놨지, 하아. 내 꿈을 부숴버린 그 여자, 저주스럽군.",
+    "panel.p3.bubble.right.html": "저기, 이제 그날과 코바 구하는 얘기로 돌아가도 될까?",
+    "panel.p4.bubble.left.html": "맞아... 앰프, 굳이 갈 필요는 없어. 역변환은 간단하니 내가 직접 하지.",
+    "panel.p4.bubble.right.html": "그냥 통신으로 지시만 해줘도 되지 않아?",
+    "panel.p5.bubble.left.html": "저 둘이 안 망칠 거라고 믿나?",
+    "panel.p5.bubble.right.html": "그건 맞는 말이네.",
+    "panel.p6.bubble.left.html": "있지, 래드? 너도 나랑 간다.",
+    "panel.p6.bubble.right.html": "네? 저요? 왜요?",
+    "panel.p7.bubble.left.html": "저 둘도 다른 키메라들처럼 미쳐 날뛰면 추가 화력이 필요할 수 있어.",
+    "panel.p7.bubble.right.html": "아, 그래요. 지금 농담한 거라고 믿어둘게요."
+  }
+}

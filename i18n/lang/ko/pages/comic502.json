@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic502.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"남자들이 쏟아진다\"",
+    "panel.p1.bubble.center.html": "잠깐만 - 알겠다! 배로 돌아가서 애들만 부르면 돼!",
+    "panel.p2.bubble.center.html": "앰프 박사님이라면 이 미친 프로그램을 풀 수 있을 거야. 그래, 뭘 해야 할지 아실 거야.",
+    "panel.p3.bubble.left.html": "빨리 와주기만 하면 좋겠다. 뭐, <i>엄청</i> 바쁘진 않겠지. 손님 접대 같은 걸 하고 있을 리는 없잖아.",
+    "panel.p4.bubble.left.html": "<b>여기 대체 무슨 난리야???</b>",
+    "panel.p4.bubble.center.html": "\"돈 버는 게임을 하라!\"",
+    "panel.p4.bubble.right.html": "몰라도 돼, 난 방금 20달러 땄으니까."
+  }
+}

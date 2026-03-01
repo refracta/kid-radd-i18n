@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic511.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"계속 웃어라\"",
+    "panel.p1.bubble.center.html": "키메라 프로그램은 그걸 만든 인간이 미완성으로 남긴 프로젝트였던 모양이다. 개별 스프라이트를 변경하는 게임 위저드류 프로그램 말이다.",
+    "panel.p4.bubble.center.html": "무의미한 폭력이 늘어나자 나는 의문을 접고 행동에 나서기로 했다. 키메라화 과정을 이용해 모두에게 NPC의 무적성을 부여할 계획이었지.",
+    "panel.p5.bubble.left.html": "그 익살스러운 미소가 얼굴에서 안 내려오니까, 네 우울한 회고가 진지하게 안 들리네.",
+    "panel.p5.bubble.right.html": "속으로는 너 노려보고 있거든."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic536.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"몇 초 남았다\"",
+    "panel.p1.bubble.left.html": "에너지가 전부 저 포털에서 쏟아져 나와 - 래드가 있는 서버가 저기야.",
+    "panel.p1.bubble.right.html": "좋아, 래드 데리러 가자.",
+    "panel.p2.bubble.left.html": "지금 저렇게 충전돼서 우릴 순식간에 증발시킬 수 있는데? 말도 안 돼!",
+    "panel.p2.bubble.right.html": "래드는 그런 짓 안 해!",
+    "panel.p3.bubble.left.html": "래드는 안 하겠지. 근데 GI는 할 수도 있어.",
+    "panel.p3.bubble.right.html": "하지만... 네 말은... 아...",
+    "panel.p4.bubble.left.html": "왜 그런 미친 짓을 할지는 몰라도, 그냥 들이닥칠 순 없어. 먼저 계획이 필요해.",
+    "panel.p4.bubble.right.html": "어, 얘들아, 에너지 흐름이 줄어들고 있어. 그 말은 곧 -"
+  }
+}

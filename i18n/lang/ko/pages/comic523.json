@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic523.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"듣고 있나?\"",
+    "panel.p1.bubble.left.html": "불쾌한 진실이었지만, 그 깨달음은 서서히 찾아왔다. 프로토스의 실패 과정에서 소름 끼치는 패턴이 분명해졌지.",
+    "panel.p2.bubble.center.html": "인간이 만든 거의 모든 게임엔 공통 주제가 있었다. 파괴다. 노골적인 유혈 학살이든, 적을 밟아 \"처치\"하는 방식이든, 게임마다 이기려면 수백 명의 적을 죽여야 했어.",
+    "panel.p4.bubble.left.html": "하지만 너도 이쯤이면 알아챘겠지?...",
+    "panel.p4.bubble.right.html": "노코멘트. 와, 넌 청중을 붙잡아 두고 떠드는 걸 진짜 좋아하네?"
+  }
+}
