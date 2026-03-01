@@ -85,7 +85,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: render-${{ matrix.language }}-${{ matrix.shard.id }}
-          path: artifact/${{ matrix.language }}
+          path: artifact
           retention-days: 7
 
   package:
