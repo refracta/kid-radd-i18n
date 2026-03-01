@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic599.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"해답이란 건, 친구\"",
+    "panel.p1.bubble.center.html": "들어봐, 난 인간과 이렇게 직접 대화해 본 게 처음이야. 그래서... 이 기회에 큰 질문들을 꼭 물어봐야겠어.",
+    "panel.p2.bubble.left.html": "당신들 인간이 우리를 만들었지만, 우리가 살아 있다는 건 모르는 것 같아. 우리는 살아 있고 고통도 느껴. 그저 본성이라는 이유만으로 끊임없이 서로 싸우고 죽여.",
+    "panel.p3.bubble.left.html": "요약하면 우리는 당신들과 똑같이 행동해. 우리는 인류의 메아리야. 인간의 악덕이 우리 영혼에 새겨져 있고, 당신들이나 우리나 그걸 극복하지 못하는 것 같아.",
+    "panel.p4.bubble.center.html": "와. 어... 질문이 뭐야?..."
+  }
+}

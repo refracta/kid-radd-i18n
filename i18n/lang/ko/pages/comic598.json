@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic598.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"연결\"",
+    "panel.p1.bubble.left.html": "어때, 진행돼?",
+    "panel.p1.bubble.right.html": "좀 걸리긴 하는데, 벽을 깨는 중인 것 같아.",
+    "panel.p2.bubble.center.html": "맞아, 그건 확실히 네 최고 기술이었어. 젠장, 게임 밖에서도 그 덕을 몇 번이나 봤지.",
+    "panel.p3.bubble.center.html": "새벽 두 시에 맥주를 좀 과하게 마셔서 그런 걸 수도 있는데... 야, 이거 진짜 미쳤다. 나 네 말 믿는 것 같아.",
+    "panel.p5.bubble.center.html": "그래도 난 여자를 좋아해, 알겠지?"
+  }
+}

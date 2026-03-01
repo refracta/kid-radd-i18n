@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic597.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네 생각이 읽혀\"",
+    "panel.p2.bubble.center.html": "그리고 넌 당연히 그걸 <i>해야만</i> 했지.  네 예전 복사본이랑 그 폴더의 다른 ROM들까지 죄다 수상하게 실행이 안 되기 시작했잖아, 맞지?",
+    "panel.p3.bubble.center.html": "해커가 나라고? 과찬인데, 아니야. 난 그냥 네 서버 근처에 산다고 보면 돼. 바로 그 동네 말이야.",
+    "panel.p4.bubble.center.html": "난 래드야. 나랑 플레이했던 거 기억나? 시나 구하고 뭐 그런 거."
+  }
+}

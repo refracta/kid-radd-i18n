@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic594.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"GAME OVER의 메커니즘\"",
+    "panel.p1.bubble.left.html": "스프라이트 코드가 손상되면 삭제 위험에 놓인다. 하지만 보통 스프라이트 \"전투\"는 코드를 손상시키지 않고, 변수만 바꾸고 서브루틴을 트리거할 뿐이지 - \"죽음\" 서브루틴까지 포함해서.",
+    "panel.p2.bubble.center.html": "보통 스프라이트가 \"죽으면\" 여러 변수가 꺼진 일종의 스텔스 모드로 들어간다. 그래서 다른 스프라이트에게 일시적으로 보이지도, 닿지도 않게 된다.",
+    "panel.p3.bubble.left.html": "그 시점이 되면 게임은 보통 그 스프라이트를 회수해 다음에 필요할 때까지 저장한다. 하지만 물론 우리는 이제 게임 밖에 있으니, 그런 일은 일어나지 않아.",
+    "panel.p4.bubble.center.html": "유령처럼 그 스프라이트는 우리 사이를 떠돌며, 볼 수는 있어도 친구들과 상호작용하지 못한 채 남는다. 슬프고 외로운 존재일 수밖에.",
+    "panel.p5.bubble.left.html": "그... 멍청한... 운빨 좋은... 자식...",
+    "panel.p5.bubble.right.html": "어... 뭐?",
+    "panel.p6.bubble.left.html": "아, 아무것도 아니야. 그냥 상상력이 좀 풍부해서.",
+    "panel.p6.bubble.right.html": "음, 안 물어보는 게 낫겠다."
+  }
+}

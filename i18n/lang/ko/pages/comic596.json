@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic596.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"즉시 카르마\"",
+    "panel.p1.narration.1.html": "현실 세계 어딘가에서, 한 인간이 즐겨 찾는 웹사이트들을 돌아다닙니다...",
+    "panel.p4.bubble.left.html": "좋아, IM 피드에 패치해 들어가는 건 되는 것 같아.",
+    "panel.p4.bubble.right.html": "그러게. 근데 아무 인간이나 붙잡고 부탁 들어줄 거라고 왜 생각하는지는 모르겠네."
+  }
+}

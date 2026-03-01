@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic592.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"브라이언 윌슨\"",
+    "panel.p1.narration.1.html": "그날 밤, 래드는 좀처럼 잠들지 못합니다.",
+    "panel.p1.bubble.center.html": "인간은 왜 우리를 이렇게 만들었을까? 왜 자기들까지 그렇게 폭력적일까? 우리든 그들이든, 누군가가 진짜로 변할 희망이 있긴 할까?",
+    "panel.p2.bubble.center.html": "어쩌면 나는 이미 변했는지도 몰라. 아, 보기... 너 같은 녀석을 죽이는 게 내가 만들어진 목적이었는데, 이제 다시는 그런 짓을 할 수 있을 것 같지 않아.",
+    "panel.p3.bubble.center.html": "이런 폭력도 너무 쉽게 되돌릴 수 있던 우리 게임 안으로 다시 돌아갈 수만 있다면...",
+    "panel.p4.bubble.center.html": "<i>멍청이들!  이건 게임 속 죽음일 뿐이다!  난 여전히 존재하고, 세계도 여전히 파괴할 거다!</i>",
+    "panel.p5.bubble.center.html": "<i>대부분의 스프라이트 전투는 서로의 프로그래밍을 건드리며 노는 수준이야...  살아 있든 죽었든, 실제 코드가 손상되는 일은 없어.</i>",
+    "panel.p6.bubble.left.html": "<i>사람을 어떻게 \"반쯤\" 죽여?</i>",
+    "panel.p6.bubble.right.html": "<i>음, 나아졌거든.</i>",
+    "panel.p7.bubble.center.html": "아니, 설마... 다시 한 번 희망을 가져봐도 되는 걸까?..."
+  }
+}

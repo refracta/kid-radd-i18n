@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic593.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"묻지 말 걸 그랬지\"",
+    "panel.p1.bubble.left.html": "앰프 박사님, 저 뭔가 알아낸 것 같아요. ...근데 박사님은 이미 알고 계신 것 같기도 해요. 보기는 진짜로 죽은 건 아니죠?",
+    "panel.p1.bubble.right.html": "\"죽었다\"를 어떻게 정의하느냐에 달렸지.",
+    "panel.p2.bubble.left.html": "그러니까, 게임 속 죽음은 삭제랑 같지 않다는 거죠?",
+    "panel.p2.bubble.right.html": "눈치가 빠르구나, 맞다. 보기를 포함해 저기서 \"죽은\" 모두의 코드는 아직 존재해.",
+    "panel.p3.bubble.left.html": "그걸 아셨다면, 왜 뭔가 해보지 않으셨어요?",
+    "panel.p3.bubble.right.html": "못 하기 때문이다. 우리 중 누구도.",
+    "panel.p4.bubble.left.html": "하지만 박사님은 그런 기적 같은 뻘짓의 왕이잖아요!!!",
+    "panel.p4.bubble.right.html": "음, 고맙다고 해야 하나."
+  }
+}
