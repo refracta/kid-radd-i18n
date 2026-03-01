@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic553.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"병 속에 갇힘\"",
+    "panel.p1.bubble.left.html": "우리 별 도움 안 되겠지?",
+    "panel.p1.bubble.right.html": "글쎄, 꼭 그렇진 않아...",
+    "panel.p2.bubble.right.html": "앰프는 위험한 발명품들을 엘리엇이랑 내 몸에 \"걸어 다니는 창고\"처럼 넣어뒀어. 캐릭터 인벤토리가 그걸 숨기기엔 유일하게 안전한 장소라 본 거지.",
+    "panel.p3.bubble.left.html": "아. 그럼 우리도 무기 있는 거야?",
+    "panel.p3.bubble.right.html": "비슷해.",
+    "panel.p4.bubble.left.html": "놈들한테 토스터 파워 맛 좀 보여주자.",
+    "panel.p4.bubble.center.html": "오오...",
+    "panel.p4.bubble.right.html": "야, 아직도 그 편지칼 있지?"
+  }
+}

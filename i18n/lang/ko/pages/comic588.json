@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic588.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"데우스를 써\"",
+    "panel.p1.bubble.left.html": "무슨 일이야? 시어는?...",
+    "panel.p1.bubble.right.html": "무력화됐어. 아마 영구적으로.",
+    "panel.p2.bubble.left.html": "좋았어 앰프! 뭘 했는진 몰라도 고마워!",
+    "panel.p2.bubble.right.html": "별거 아니야.",
+    "panel.p3.bubble.left.html": "근데 뭘 <i>한</i> 거야?",
+    "panel.p3.bubble.right.html": "말 그대로지: 아무것도 안 했어.",
+    "panel.p4.bubble.left.html": "하지만...",
+    "panel.p4.bubble.right.html": "물론 조작 패널은 이것저것 만져봤지. 시어를 망가뜨릴 방법을 스캔하다가, 이미 크리스탈이 다 해놨다는 걸 깨달을 때까지.",
+    "panel.p6.bubble.left.html": "잠깐, 그럼 결국 세상 최대 위협을 쓰러뜨린 게 그냥 운빨이었다고?",
+    "panel.p6.bubble.right.html": "음, 완전 그렇진 않아. 너희가 먼저 걔를 몰아붙여야 했으니까.",
+    "panel.p7.bubble.left.html": "그럴 수도 있지만, 유능한 악당을 이긴 느낌이었으면 더 좋았겠다.",
+    "panel.p7.bubble.right.html": "그러게. 전지한 존재치고 시어는 그다지 똑똑하진 않았네."
+  }
+}

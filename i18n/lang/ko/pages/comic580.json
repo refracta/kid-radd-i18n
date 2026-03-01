@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic580.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"끝장이다\"",
+    "panel.p1.bubble.center.html": "\"카운트다운\"을 보여주지. 단 한 번 쓰는 공격이고, 너에게는 나를 쓰러뜨릴 60초만 준다.",
+    "panel.p2.bubble.center.html": "카운트다운이 끝나면 피할 수 없는 9999 포인트 폭발이 터져 네 한심한 목숨을 끝낼 거다. 물론 내 목숨은 살려주고.",
+    "panel.p3.bubble.left.html": "너... 이 비겁한 새끼!",
+    "panel.p3.bubble.right.html": "마음껏 쏴봐, 날 부수기엔 시간이 턱없이 부족해.  네가 할 수 있는 건 절대 없어 - <i>절대로</i>.",
+    "panel.p4.bubble.left.html": "어쩌면 그럴지 몰라도, <b>내가</b> 할 수 있는 건 있지.",
+    "panel.p4.bubble.center.html": "뭐야 - 보기? 언제?...",
+    "panel.p4.bubble.right.html": "<b>너??? 안 돼!!!!!</b>"
+  }
+}

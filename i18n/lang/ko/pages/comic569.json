@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic569.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"전력 외\"",
+    "panel.p1.bubble.center.html": "그리고... 여기 도착.",
+    "panel.p2.bubble.center.html": "와, 둘 다 엄청 치열하네. 저게 크리스탈인가?",
+    "panel.p3.bubble.left.html": "운 좋았네, 시어. 그 꼼수는 두 번 안 통해.",
+    "panel.p3.bubble.right.html": "알아. 다른 것도 있지.",
+    "panel.p4.bubble.center.html": "와, 완전 상황 파악 안 된다. 슈퍼볼 맨 앞줄에 앉았는데 누가 어느 팀인지도 모르는 느낌이야."
+  }
+}

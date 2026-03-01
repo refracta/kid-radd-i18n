@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic575.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"어설프게라도 버텨\"",
+    "panel.p1.bubble.left.html": "<b>왜 안 죽는 거야???</b>",
+    "panel.p1.bubble.right.html": "와. 전지한 존재도 예상이 빗나가면 싫은가 보네.",
+    "panel.p2.bubble.center.html": "근데 시어는 왜 행운의 페니를 못 본 거지? 엘리엇이 나한테 줄 때 시선이 이 서버에 있었잖아? 어디에나 있다며? 이상하네.",
+    "panel.p3.bubble.center.html": "근데 분노해서 완전 엉망이야. 기술은 다 던지는데 운영이 허술해. 날 이기는 법이 아니라, 내가 이기는 법을 딱 보여주고 있지.",
+    "panel.p4.bubble.left.html": "그러니까 이게 시어의 최종 폼이라면... 시간은 좀 걸려도 내가 이겨. 물론 맞다면.",
+    "panel.p4.bubble.right.html": "<b>그냥 좀 죽어라!</b>"
+  }
+}

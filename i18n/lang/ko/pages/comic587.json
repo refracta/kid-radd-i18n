@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic587.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"세 번 속이면\"",
+    "panel.p1.bubble.left.html": "<b>승리!</b>",
+    "panel.p1.bubble.center.html": "<b>락!</b>",
+    "panel.p1.bubble.right.html": "<b>크르르...</b>",
+    "panel.p2.bubble.center.html": "멍청이들! 이건 게임 속 죽음일 뿐이다! 난 여전히 존재하고, 세계도 여전히 파괴할 거다!",
+    "panel.p3.bubble.center.html": "잠깐 - 뭔가 이상해. 내가 뭘 잊고 있지?",
+    "panel.p4.bubble.center.html": "두두두둣, 두두두우...",
+    "panel.p5.bubble.center.html": "아 맞다, 컨트롤룸.  <b>젠-</b>"
+  }
+}

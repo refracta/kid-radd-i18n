@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic572.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"학살 본능\"",
+    "panel.p1.bubble.center.html": "최고가 뭔지 알아? 난 이제 임무 완수를 위해 죽을 필요도 없어 - 그리고 지구 하나로 끝낼 필요도 없지. 인간의 우주는 상상도 못 할 만큼 거대하거든.",
+    "panel.p2.bubble.center.html": "NASA에 따르면 별이 70,000,000,000,000,000,000,000개래. 행성은 뭐, 훨씬 더 셀 수도 없고. 그러니 내가 죽일 다른 생명체가 밖에 있을 확률도 아주 높지.",
+    "panel.p3.bubble.center.html": "난 계속 증식하고 기생하듯 세계에서 세계로 퍼져서, 셀 수 없는 영겁 동안 문명을 죽일 거야. 아름답고 끝없는 쾌락...",
+    "panel.p4.bubble.left.html": "야, 넌 인터넷에서 본 것 중 단연 최고로 병들었어. 이건 진짜 심한 말인데도.",
+    "panel.p4.bubble.right.html": "내 프로그래머 탓으로 돌려. 죽이기 전에 직접 고맙다고 해야겠군..."
+  }
+}

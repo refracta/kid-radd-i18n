@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic552.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"전투 시작\"",
+    "panel.p1.bubble.center.html": "젠장, 크리스탈은 벌써 키메라 프로그램에 들어갔겠어. 날 수 있는 건 나뿐이니까 내가 먼저 가서 걔한테 닿아볼게.",
+    "panel.p2.bubble.center.html": "사실 너만 그런 건 아니야. 꼬마 엘리엇도 염동력이 꽤 강해서 네 지원으로 붙을 거야.",
+    "panel.p3.bubble.center.html": "나머지 우리는 뭐, 놈들 발이나 묶어둘게. 쉽진 않겠지만 우리 힘이 얼마나 센지 걔들은 모를 거야.",
+    "panel.p4.bubble.right.html": "자 보기, 그럼 너는 나랑 줄리랑 같이 여기 함선에 남는 거네?",
+    "panel.p5.bubble.center.html": "저기, 실례?"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic581.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"가지고 갈 수는 없지\"",
+    "panel.p1.bubble.left.html": "보기, 너 여기서 뭐 해?",
+    "panel.p1.bubble.center.html": "세계를 구하려고, 아마도.",
+    "panel.p1.bubble.right.html": "<b>저 말 듣지 마!!!</b>",
+    "panel.p2.bubble.left.html": "래드, 저 폭발에서 살아남을 유일한 방법은 네 라이프미터를 지금 가득 채우는 거지?",
+    "panel.p2.bubble.right.html": "그래, 아마 그뿐이야. 설마 네가 파워업이라도 갖고 있는 건 아니지?",
+    "panel.p3.bubble.left.html": "비슷해. 우리 옛 게임 기억나지? 네가 적을 터뜨리면 가끔 파워업이 떨어졌잖아.",
+    "panel.p3.bubble.right.html": "응?...",
+    "panel.p4.bubble.left.html": "음, <b>나</b>가 그런 적 중 하나야.  날 쏘면 네가 재충전할 수 있어.",
+    "panel.p4.bubble.right.html": "진짜? 최고다!",
+    "panel.p5.bubble.center.html": "아..."
+  }
+}

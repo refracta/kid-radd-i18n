@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic574.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"머리 잃지 마\"",
+    "panel.p1.bubble.center.html": "나 멀쩡하네? 아 맞다, \"행운의 페니\"가 살려줬지. 고마워 엘리엇.",
+    "panel.p2.bubble.center.html": "그리고... 응? 시어의...",
+    "panel.p3.bubble.center.html": "불... 불가능해...  넌 분명 피격 수가 네 번뿐이라는 걸 <i>알고</i> 있었어.  난 빌어먹을 <b>시어</b>다, 모든 걸 안단 말이야!",
+    "panel.p4.bubble.left.html": "난 <b>단 한 번도!</b> 틀린 적이 없어!  대체 이게 무슨 상황이야???",
+    "panel.p4.bubble.right.html": "이런. 완전 열받았네."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic563.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"파티를 시작하지\"",
+    "panel.p1.bubble.left.html": "네가 이길 거라고 왜 그렇게 확신하지, 시어? 자랑은 아니지만, 난 널 이길 힘이 확실히 있어.",
+    "panel.p1.bubble.right.html": "뭐, 기술적으로는 가능하지...",
+    "panel.p2.bubble.center.html": "...멍청한 크리스탈이 NPC를 여기 데려오지 않았거든. 그 아름다운 무적성을 정말 손에 넣고 싶었는데. 뭐, 나중에 하지.",
+    "panel.p3.bubble.center.html": "하지만 상관없어. 걔는 여전히 엄청 강한 존재들을 데려왔고, 난 그들 각자의 최고 특성을 긁어 모았지. 이제 내 모든 공격은 9999 대미지를 준다.",
+    "panel.p4.bubble.left.html": "하, 그거 나한텐 별 의미 없는 거 알잖아.",
+    "panel.p4.bubble.right.html": "그럴지도. 하지만 나도 HP 9999로 네 위에 서 있지.",
+    "panel.p5.bubble.center.html": "그래? 근데 어쩌지, 난 지금 거의 11,000까지 충전돼 있거든. 그러니까... 잘 가!"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic585.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"두 번 속이면\"",
+    "panel.p1.bubble.center.html": "처음엔 행운의 페니를 몰랐고, 다음엔 그 초록 녀석까지 - 젠장, 내 전지 능력은 대체 어떻게 된 거지?",
+    "panel.p2.bubble.center.html": "치밀하게 계획하고 대비했는데도, 난 이 대리 육체를 단순히 빙의하는 데 실패한 모양이다. 키메라화 과정이 내 존재 전체와 이 몸을 결합시켜 오염시켰어.",
+    "panel.p3.bubble.center.html": "그럼 래드가 이 몸을 죽이면 어떻게 되지?...  젠장, 전지 능력이 없으니 나도 모르잖아!  됐다, 더는 장난칠 수 없어.  아무래도 난 정말 그를 이길 수 <i>없다</i>. 남은 선택지는 하나뿐...",
+    "panel.p4.bubble.left.html": "축하한다 래드, 네가 나보다 강하다는 건 인정하지.  하지만 별 상관없어.  <b>컨트롤룸!  나를 래드와 키메라화해라!</b>",
+    "panel.p4.bubble.right.html": "<b>!!!</b>",
+    "panel.p5.bubble.left.html": "뭐 해? 왜 지연이야, 당장 시작해!",
+    "panel.p6.bubble.center.html": "또야? 아이고 정말, 8675309잖아!",
+    "panel.p7.bubble.left.html": "잠깐, 뭔가 이상한데...",
+    "panel.p7.bubble.right.html": "아니, 드디어 아주 제대로 된 것 같은데.",
+    "panel.p8.bubble.left.html": "아니.  아니, 안 돼, <b>안 돼!!!!!  </b>내게 전지 능력이 <b>조금도</b> 안 남은 거야???",
+    "panel.p8.bubble.right.html": "아마 없겠지. 그래도 다음에 뭐가 올지는 넌 아직 또렷하게 보일 거다."
+  }
+}

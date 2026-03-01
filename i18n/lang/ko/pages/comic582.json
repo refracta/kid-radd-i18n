@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic582.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"껍데기 속에 숨어\"",
+    "panel.p1.bubble.left.html": "<b>빠져 있어, 이 초록 괴물아!!!</b>",
+    "panel.p1.bubble.center.html": "보기, 내가 널 어떻게 <i>쏴!</i>",
+    "panel.p1.bubble.right.html": "쏴야 해!  안 그러면 우리 <i>둘 다</i> 죽어 - 곧 이어 세상도.",
+    "panel.p2.bubble.left.html": "알아, 근데 이게 나한텐 쉬운 일이 아니라고! 그냥... 잠깐만 줘.",
+    "panel.p2.bubble.right.html": "우린 <i>잠깐</i>도 없어.  나도 내키진 않지만, 남은 건 몇 초뿐이야!",
+    "panel.p3.bubble.left.html": "봐, 내가 하기 전에... 넌 내가 가져본 최고의 친구였고...",
+    "panel.p3.bubble.right.html": "나도 그래, 근데 이럴 시간 없어... 래드, 이건 용서해 줘."
+  }
+}

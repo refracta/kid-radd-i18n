@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic551.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"멍청한 질문\"",
+    "panel.p2.bubble.left.html": "하지만 너희 둘은... 이건 너희 싸움이 아니야. 솔직히 실력도 부족해. 이 함선 타고 도망쳐.",
+    "panel.p2.bubble.right.html": "야, 잠깐만...",
+    "panel.p3.bubble.left.html": "이게 왜 우리 싸움이 <i>아닌데</i>?  크리스탈이 성공하면 우리 세계는 끝장이야, 그럼 우린 어디로 가?",
+    "panel.p3.bubble.right.html": "네가 죽어버리면 우리 재대결도 영영 못 하고...",
+    "panel.p4.bubble.left.html": "우린 싸울 거야. 난 조금 강해졌고, 여기 K-보이는 엄청 강해졌어! 거의 못 막아!",
+    "panel.p4.bubble.right.html": "음, 의심해서 미안하지만 그게 어떻게 가능하지?",
+    "panel.p5.bubble.left.html": "아, 그게 내가 쓰는 기술이 두 종류더라고: 그냥 보여주기용으로 절대 안 맞는 거, 그리고 절대 안 빗나가는 \"진짜\" 기술.",
+    "panel.p6.bubble.left.html": "그래서 이제 안 빗나가는 기술만 써. 똑똑하지?",
+    "panel.p7.bubble.left.html": "뭐?"
+  }
+}

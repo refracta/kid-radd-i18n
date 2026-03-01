@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic586.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"인생의 소소한 실망\"",
+    "panel.p1.bubble.center.html": "오랫동안 계획했는데도 난 모든 걸 틀렸고, 내 힘은 기대에 한참 못 미쳤고, 이제는... 이제 무슨 일이 일어날지도 모르겠군.",
+    "panel.p2.bubble.center.html": "여기 있는 이 몸이 내 영구 육체라면, 이 몸이 \"죽음\" 모드로 들어갈 때 다른 몸을 취할 수 없게 된다. 이 층으로 돌아오지 못할 수도 있어.",
+    "panel.p3.bubble.center.html": "아무리 괴로워도, 세계를 파괴하기 전에 사이버스페이스 주민들을 내 앞에 굴복시키는 건 못 하겠군. 정말 짜증 나는 수치야..."
+  }
+}

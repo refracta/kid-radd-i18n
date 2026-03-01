@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic562.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"과거 회상\"",
+    "panel.p1.bubble.left.html": "왜 크리스탈한테 날 죽여야 한다고 말했지?",
+    "panel.p1.bubble.right.html": "조금 거짓말했지.  걱정된 건 걔가 아니라 <i>나 자신</i>이었거든.",
+    "panel.p4.bubble.center.html": "그때 난 너도 크리스탈처럼 써먹을 수 있겠다고 판단했어. 날 위해 강한 개체들을 모으게 말이지. 그리고 넌 해냈지. 덧붙이자면 걔보다 훨씬 잘했어. 난 네가 중간에 죽을 줄 알았고, 그럼 내 문제도 해결됐을 텐데.",
+    "panel.p6.bubble.left.html": "하지만 결국 다 잘 풀렸어. 난 이제 사이버세계의 신이고, 곧 인간 세계의 신도 될 거다. 하지만 먼저 널 처리해야겠군...",
+    "panel.p6.bubble.right.html": "그래, 어디 해봐..."
+  }
+}

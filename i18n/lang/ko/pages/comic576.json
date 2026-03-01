@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic576.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"절박한 때\"",
+    "panel.p1.bubble.left.html": "막을 수가 없습니다, 장군님. 놈들이 이미 보스 대부분을 처리했습니다.",
+    "panel.p1.bubble.right.html": "이건 아닌데...",
+    "panel.p2.bubble.center.html": "저 늙은이랑 꼬마는 별로 강해 보이지도 않는데 거의 무적이고요. 다른 놈들은 힘이 말도 안 되게 강해서 아예 손도 못 댑니다.",
+    "panel.p3.bubble.left.html": "최악은, 놈들이 키메라까지 도착해서 지금 당장 들어가려는 중입니다.",
+    "panel.p3.bubble.right.html": "그럼 막아! 수단 방법 안 가리고!",
+    "panel.p4.bubble.left.html": "수단 방법 안 가리는 단계는 30분 전에 이미 지난 것 같습니다.",
+    "panel.p4.bubble.right.html": "빌어먹을 비트..."
+  }
+}

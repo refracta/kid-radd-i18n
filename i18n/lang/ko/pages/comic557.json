@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic557.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"기억하고 싶지 않아\"",
+    "panel.p2.bubble.center.html": "이 날을 영원히 기다린 기분이야. 그 끔찍한 게임에서 시들어 지내던 시절부터...",
+    "panel.p3.bubble.left.html": "저 자식 또 우리한테 시비 거는 거야 <i>또?</i>  30초 전에 우리 박살 냈잖아!",
+    "panel.p3.bubble.right.html": "그걸 \"레벨 업\"이라고 해. 이상하게도 인간들이 엄청 좋아하지.",
+    "panel.p4.bubble.center.html": "이름은 나도 알아, 근데 불공평하잖아! 우린 여기에 발언권이 전혀 없어! 우린 그냥 뒤틀린 인간들 장난감일 뿐이라고!",
+    "panel.p5.bubble.center.html": "이 절대적인 무력감이 날 미치게 해!  그래도 이 멍청한 게임에 지진 않을 거야!  방법이 있다면, 아주 조금이라도 있다면, 난 자유를 되찾고 <i>다시는</i> 누구의 꼭두각시도 되지 않겠어!"
+  }
+}

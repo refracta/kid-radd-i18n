@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic554.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"우리가 흔들어주지\"",
+    "panel.p2.bubble.center.html": "있잖아 친구, 우리 꽤 괜찮은 팀이야. 멍청한 보스 몬스터 따위한텐 절대 안 져!",
+    "panel.p3.bubble.center.html": "맞아, 특히 우리의 새 \"부작용\"까지 생겼으니!",
+    "panel.p4.bubble.center.html": "아이고, 줄리가 밖에서 괜찮아야 할 텐데... 대체 무슨 <i>생각이었지?</i>",
+    "panel.p5.bubble.center.html": "멍청한 시나! 멍청한 래드! 으아!"
+  }
+}

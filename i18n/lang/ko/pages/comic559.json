@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic559.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"정말로?\"",
+    "panel.p1.bubble.center.html": "그 바보는 어떻게든 모두가 공존하는 세상을 만들 수 있다고 믿었지, 모두에게 행복한 자유가 있는 세상. 하지만 내 게임에 갇혀 보낸 세월이 진실을 가르쳐줬어:",
+    "panel.p2.bubble.center.html": "이 세상엔 딱 두 부류뿐이야. 지배하는 자와 지배당하는 자. 모두를 위한 자유란 절대 존재할 수 없어.",
+    "panel.p3.bubble.center.html": "그래서 난 그 얼간이를 사정없이 두들겨 패서 RAM 창고에 가둬놨어. 그래, 알아, 죽였으면 더 똑똑했겠지.",
+    "panel.p4.bubble.center.html": "근데 왜 안 그랬을까?  나도 잘 모르겠어... 아마 어딘가에선 그가 다시 돌아와 나한테 재도전하길 <i>원했던</i> 것 같아.  내가 여전히 - 그리고 영원히 - 그보다 위라는 걸 보여주려고.",
+    "panel.p5.bubble.center.html": "결국 진짜 자유는 단 하나만 가질 수 있어. 모든 걸 지배하는 자 말이야. 그리고 오늘, 그 자리는 나다."
+  }
+}

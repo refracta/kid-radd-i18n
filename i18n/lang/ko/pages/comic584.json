@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "page": "pages/comic584.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"실망시키지 않을게\"",
+    "panel.p1.bubble.center.html": "미안해, 보기. 이런 식일 필요는 없었으면 했어.",
+    "panel.p2.bubble.center.html": "이렇게까지 오면 안 됐지만, 한 가지는 약속할게...",
+    "panel.p3.bubble.center.html": "네 희생을 헛되게 두진 않겠어."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic578.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"절대 쉽지 않지\"",
+    "panel.p1.bubble.left.html": "너희는 입구 막아. 우린 안으로 들어가서 래드 도울게.",
+    "panel.p1.bubble.right.html": "옛썰, 캡틴!",
+    "panel.p2.bubble.left.html": "키메라화 챔버가 잠겼어.",
+    "panel.p2.bubble.right.html": "그럴 줄 알았지. IB, 열 수 있어?",
+    "panel.p3.bubble.left.html": "아니. 무슨 플롯 도어 같은 건가 봐.",
+    "panel.p3.bubble.center.html": "앰프 박사님, 어떠세요?",
+    "panel.p3.bubble.right.html": "여기선 못 열어도, 컨트롤룸에서라면 가능할지도...",
+    "panel.p4.bubble.left.html": "...근데 컨트롤룸도 잠겨 있으면?",
+    "panel.p4.bubble.center.html": "컨트롤룸은 절대 안 잠겨. 영화 안 봐?",
+    "panel.p4.bubble.right.html": "물론 좌석도 문 반대쪽을 향해 있고."
+  }
+}

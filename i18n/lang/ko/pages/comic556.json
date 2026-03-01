@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic556.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"전투는 계속된다\"",
+    "panel.p1.bubble.center.html": "억! 왜 난 \"울트라\" 기술 쓰려면 꼭 먼저 두들겨 맞아야 하냐?",
+    "panel.p2.bubble.center.html": "<b>프리티 아마게돈!</b>",
+    "panel.p3.bubble.center.html": "와아, 요리 너무 재밌어!",
+    "panel.p4.bubble.center.html": "늦지 않았으면 좋겠는데... 경비가 없는 건 좋은 징조가 아니야..."
+  }
+}
