@@ -6,6 +6,13 @@
   },
   "strings": {
     "title.main.html": "\"시험\"",
-    "panel.p3.bubble.right.html": "흠, 이게 수상하다는 건 천재가 아니어도 알겠다. 저 녀석부터 시험해봐야지."
+    "panel.p1.bubble.left.html": "거기 누구야? 나 가석방되는 거야?",
+    "panel.p1.extra.1.html": "뭐, 비슷해...",
+    "panel.p2.bubble.left.html": "젠장, 무슨 일인지 말 좀 해줄래?",
+    "panel.p2.extra.1.html": "이리 나와. 얘기하자.",
+    "panel.p3.bubble.right.html": "흠, 이게 수상하다는 건 천재가 아니어도 알겠다. 저 녀석부터 시험해봐야지.",
+    "panel.p4.bubble.left.html": "너 모더레이터야?",
+    "panel.p4.extra.1.html": "아니.",
+    "panel.p5.bubble.left.html": "좋아, 그럼 충분해."
   }
 }

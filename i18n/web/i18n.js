@@ -829,6 +829,26 @@
 	}
 
 	function findReferenceMenuAnchors() {
+		var hashPanelName = getCurrentHashPanelName();
+		if(hashPanelName) {
+			var $hashPanel = $('a[name="' + hashPanelName + '"]').first();
+			if($hashPanel.length) {
+				var $hashZoom = $hashPanel.find('a').filter(isZoomLink).first();
+				if($hashZoom.length) {
+					var $hashMenuRow = findMenuRowForZoomLink($hashZoom);
+					var $hashList = findListLinkFromMenuRow($hashMenuRow);
+					if(!$hashList.length) {
+						$hashList = $hashPanel.find('a').filter(isListLink).first();
+					}
+					return {
+						zoom: $hashZoom,
+						list: $hashList,
+						hideTrigger: shouldHideTriggerByMenuRow($hashZoom)
+					};
+				}
+			}
+		}
+
 		var $visiblePanel = $('a.panel.visible').first();
 		if($visiblePanel.length) {
 			var $visibleZoom = $visiblePanel.find('a').filter(isZoomLink).first();
@@ -852,6 +872,22 @@
 			list: findListLinkFromMenuRow($menuRow),
 			hideTrigger: shouldHideTriggerByMenuRow($zoom)
 		};
+	}
+
+	function getCurrentHashPanelName() {
+		var rawHash = window.location.hash || '';
+		if(!rawHash) {
+			return '';
+		}
+		var decodedHash = safeDecodeURIComponent(rawHash);
+		var normalized = String(decodedHash).replace(/^#/, '').toLowerCase();
+		if(/^p[0-9]+$/.test(normalized)) {
+			return normalized;
+		}
+		if(normalized === 'title') {
+			return normalized;
+		}
+		return '';
 	}
 
 	function shouldHideTriggerByMenuRow($zoomLink) {
@@ -1019,6 +1055,10 @@
 			+ ' width: 100%;'
 			+ ' font-family: verdana, arial, sans-serif;'
 			+ ' font-size: 11px;'
+			+ '}'
+			+ 'html.kr-lang-ko font[face*="Comic Sans MS"] {'
+			+ ' font-family: TMoneyDungunbaram, "Noto Sans KR", "Apple SD Gothic Neo", sans-serif !important;'
+			+ ' letter-spacing: 0 !important;'
 			+ '}';
 
 		var style = document.createElement('style');
@@ -1365,6 +1405,20 @@
 				state.originalStrings[bubbleKey] = readTextIfExists(getBubbleTarget(panelName, slotName));
 				state.originalStrings[bubbleKey + '.html'] = readHtmlIfExists(getBubbleTarget(panelName, slotName));
 			}
+			var $chatTargets = getPanelChatTargets(panelName);
+			for(var chatIndex = 0; chatIndex < $chatTargets.length; chatIndex++) {
+				var chatKey = 'panel.' + panelName + '.chat.' + (chatIndex + 1);
+				var $chatTarget = $chatTargets.eq(chatIndex);
+				state.originalStrings[chatKey] = readTextIfExists($chatTarget);
+				state.originalStrings[chatKey + '.html'] = readHtmlIfExists($chatTarget);
+			}
+			var $extraTargets = getPanelExtraTargets(panelName);
+			for(var extraIndex = 0; extraIndex < $extraTargets.length; extraIndex++) {
+				var extraKey = 'panel.' + panelName + '.extra.' + (extraIndex + 1);
+				var $extraTarget = $extraTargets.eq(extraIndex);
+				state.originalStrings[extraKey] = readTextIfExists($extraTarget);
+				state.originalStrings[extraKey + '.html'] = readHtmlIfExists($extraTarget);
+			}
 		}
 	}
 
@@ -1401,6 +1455,8 @@
 					state.originalStrings[bubbleKey + '.html']
 				);
 			}
+			applyPanelChatStrings(panelName, normalizedStrings);
+			applyPanelExtraStrings(panelName, normalizedStrings);
 		}
 	}
 
@@ -1495,7 +1551,60 @@
 
 	function getNarrationTarget(panelName) {
 		var $panel = $('a[name="' + panelName + '"]');
-		return $panel.find('td[bgcolor="ffff99"] b').first();
+		var $yellowNarration = $panel.find('td[bgcolor="ffff99"] b').first();
+		if($yellowNarration.length) {
+			return $yellowNarration;
+		}
+
+		var $bubbleTable = findBubbleTable($panel);
+		if(!$bubbleTable.length) {
+			return $();
+		}
+
+		var $bubbleRow = $bubbleTable.closest('tr');
+		if(!$bubbleRow.length) {
+			return $();
+		}
+
+		var $legacyRow = $bubbleRow.prevAll('tr').filter(function() {
+			return $.trim($(this).text()).length > 0;
+		}).first();
+		if(!$legacyRow.length) {
+			return $();
+		}
+
+		var $legacyFonts = $legacyRow.find('font').filter(function() {
+			return $.trim($(this).text()).length > 0;
+		});
+		if($legacyFonts.length === 1) {
+			return $legacyFonts.first();
+		}
+		if($legacyFonts.length > 1) {
+			var $sharedCenter = $legacyFonts.first().closest('center');
+			if($sharedCenter.length && $legacyFonts.filter(function() {
+				return this === $sharedCenter[0] || $.contains($sharedCenter[0], this);
+			}).length === $legacyFonts.length) {
+				return $sharedCenter.first();
+			}
+		}
+
+		var $legacyBold = $legacyRow.find('b').filter(function() {
+			return $.trim($(this).text()).length > 0;
+		}).first();
+		if($legacyBold.length) {
+			return $legacyBold;
+		}
+
+		var $legacyCenter = $legacyRow.find('center').filter(function() {
+			return $.trim($(this).text()).length > 0;
+		}).first();
+		if($legacyCenter.length) {
+			return $legacyCenter;
+		}
+
+		return $legacyRow.find('font').filter(function() {
+			return $.trim($(this).text()).length > 0;
+		}).first();
 	}
 
 	function setNarration(panelName, value, fallbackValue, htmlValue, fallbackHtmlValue) {
@@ -1579,6 +1688,9 @@
 		if(!$table || !$table.length) {
 			return false;
 		}
+		if($table.find('a').length > 0) {
+			return false;
+		}
 		var $firstRow = $table.children('tbody').children('tr').first();
 		if(!$firstRow.length) {
 			$firstRow = $table.find('tr').first();
@@ -1590,11 +1702,13 @@
 		if($cells.length !== 3) {
 			return false;
 		}
-		var $middleCell = $cells.eq(1);
-		if(!$middleCell.length || typeof $middleCell.attr('bgcolor') !== 'string') {
+		var centerCellCount = $cells.filter(function() {
+			return $(this).find('center').length > 0;
+		}).length;
+		if(centerCellCount < 2) {
 			return false;
 		}
-		return $middleCell.find('center').length > 0;
+		return $table.find('font[face*="arial"], font[face*="tahoma"]').length > 0;
 	}
 
 	function setBubbleCenter(panelName, value, fallbackValue, htmlValue, fallbackHtmlValue) {
@@ -1603,6 +1717,129 @@
 
 	function setBubble(panelName, slotName, value, fallbackValue, htmlValue, fallbackHtmlValue) {
 		setTextOrHtmlWithFallback(getBubbleTarget(panelName, slotName), value, fallbackValue, htmlValue, fallbackHtmlValue);
+	}
+
+	function getPanelChatTargets(panelName) {
+		var $panel = $('a[name="' + panelName + '"]');
+		if(!$panel.length) {
+			return $();
+		}
+
+		var $bubbleTable = findBubbleTable($panel);
+		if(!$bubbleTable.length) {
+			return $();
+		}
+
+		var $bubbleRow = $bubbleTable.closest('tr');
+		if(!$bubbleRow.length) {
+			return $();
+		}
+
+		var targets = [];
+		$bubbleRow.nextAll('tr').each(function() {
+			var $row = $(this);
+			var $fonts = $row.find('font').filter(function() {
+				var text = $.trim($(this).text());
+				return text.length > 0 && text.indexOf(':') >= 0;
+			});
+			$fonts.each(function() {
+				targets.push(this);
+			});
+		});
+
+		if(!targets.length) {
+			return $();
+		}
+
+		return $(targets);
+	}
+
+	function applyPanelChatStrings(panelName, normalizedStrings) {
+		var $chatTargets = getPanelChatTargets(panelName);
+		for(var chatIndex = 0; chatIndex < $chatTargets.length; chatIndex++) {
+			var chatKey = 'panel.' + panelName + '.chat.' + (chatIndex + 1);
+			var $target = $chatTargets.eq(chatIndex);
+			setTextOrHtmlWithFallback(
+				$target,
+				null,
+				state.originalStrings[chatKey],
+				normalizedStrings[chatKey + '.html'],
+				state.originalStrings[chatKey + '.html']
+			);
+		}
+	}
+
+	function getPanelExtraTargets(panelName) {
+		var $panel = $('a[name="' + panelName + '"]');
+		if(!$panel.length) {
+			return $();
+		}
+
+		var $narrationTarget = getNarrationTarget(panelName);
+		var $bubbleTable = findBubbleTable($panel);
+		var $chatTargets = getPanelChatTargets(panelName);
+		var narrationNode = $narrationTarget.get(0) || null;
+		var bubbleNode = $bubbleTable.get(0) || null;
+		var bubblePrimaryRow = null;
+		if($bubbleTable.length) {
+			var $primaryRow = $bubbleTable.children('tbody').children('tr').first();
+			if(!$primaryRow.length) {
+				$primaryRow = $bubbleTable.find('tr').first();
+			}
+			bubblePrimaryRow = $primaryRow.get(0) || null;
+		}
+		var chatNodes = $chatTargets.get();
+		var targets = [];
+
+		$panel.find('font').each(function() {
+			var node = this;
+			var $node = $(node);
+			var text = $.trim(($node.text() || '').replace(/\u00a0/g, ' '));
+			if(!text.length) {
+				return;
+			}
+			if(!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
+				return;
+			}
+			if(narrationNode && (node === narrationNode || $.contains(narrationNode, node))) {
+				return;
+			}
+			if(bubblePrimaryRow && (node === bubblePrimaryRow || $.contains(bubblePrimaryRow, node))) {
+				return;
+			}
+			if(bubbleNode && (node === bubbleNode || $.contains(bubbleNode, node)) && !bubblePrimaryRow) {
+				return;
+			}
+			for(var i = 0; i < chatNodes.length; i++) {
+				if(node === chatNodes[i] || $.contains(chatNodes[i], node)) {
+					return;
+				}
+			}
+			if($node.closest('a').length > 0) {
+				return;
+			}
+			if($node.closest('#' + CONTROL_ID).length > 0) {
+				return;
+			}
+			targets.push(node);
+		});
+
+		return $(targets);
+	}
+
+	function applyPanelExtraStrings(panelName, normalizedStrings) {
+		var $extraTargets = getPanelExtraTargets(panelName);
+		for(var extraIndex = 0; extraIndex < $extraTargets.length; extraIndex++) {
+			var extraKey = 'panel.' + panelName + '.extra.' + (extraIndex + 1);
+			var $target = $extraTargets.eq(extraIndex);
+			setTextOrHtmlWithFallback(
+				$target,
+				null,
+				state.originalStrings[extraKey],
+				normalizedStrings[extraKey + '.html'],
+				state.originalStrings[extraKey + '.html']
+			);
+		}
 	}
 
 	function readTextIfExists($el) {

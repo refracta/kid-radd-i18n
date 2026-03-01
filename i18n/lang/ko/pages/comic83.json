@@ -7,8 +7,16 @@
   "strings": {
     "title.main.html": "\"말은 하긴 하는데\"",
     "panel.p1.bubble.center.html": "이번 인간들은 좀 더 명확하겠지.",
+    "panel.p1.chat.1.html": "히카루상: <i>방에 입장...</i>",
+    "panel.p1.chat.2.html": "크릴린: 곤니치와, 친구",
     "panel.p2.bubble.center.html": "여기엔 말이 없어. 진짜로.",
+    "panel.p2.chat.1.html": "히카루상: 아, 더빙판러네.",
+    "panel.p2.chat.2.html": "크릴린: 어떻게 앎?",
     "panel.p3.bubble.center.html": "여기엔 말이 없어. 진짜로.",
-    "panel.p4.bubble.center.html": "차라리 날 쏴줘. 제발."
+    "panel.p3.chat.1.html": "히카루상: 너 분명 \"허큘\" 좋아하잖아.",
+    "panel.p3.chat.2.html": "크릴린: DBZ가 내 인생작임 ㅋㅋ",
+    "panel.p4.bubble.center.html": "차라리 날 쏴줘. 제발.",
+    "panel.p4.chat.1.html": "히카루상: 집에 가서 스머프나 봐!",
+    "panel.p4.chat.2.html": "크릴린: 크르르! 마관광살포!"
   }
 }

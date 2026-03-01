@@ -6,6 +6,8 @@
   },
   "strings": {
     "title.main.html": "\"순항 중\"",
+    "panel.p1.narration.1.html": "\"탈출자들은 자신들을 Doom Platoon에서 해방시킨 원래의 글리치를 이용해, 웹의 다른 ROM에 침입할 포털 기술을 만들어냈다.\"",
+    "panel.p2.narration.1.html": "\"모든 포로 스프라이트를 해방하겠다는 맹세와 함께, 모더레이터가 창설되었다.\"",
     "panel.p3.bubble.left.html": "자, 질문 있나?",
     "panel.p3.bubble.right.html": "있지. 우리 왜 놀이기구 카트에 타고 있어? 그건 그냥 영화였잖아.",
     "panel.p4.bubble.left.html": "아, 쇼 끝에 나오는 쓸데없지만 멋진 워터슬라이드 때문이지.",

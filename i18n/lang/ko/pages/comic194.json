@@ -7,7 +7,11 @@
   "strings": {
     "title.main.html": "\"살인 기계\"",
     "panel.p1.bubble.center.html": "에헤헤...",
+    "panel.p1.narration.1.html": "네가 꽤 감명받은 것 같군, 꼬마 인간아.<br><br><br>",
     "panel.p2.bubble.center.html": "이런...",
-    "panel.p4.bubble.center.html": "걱정해야 맞는데, 근데..."
+    "panel.p2.narration.1.html": "하지만 이제 내 진정한 모습을 보고 벌벌 떨어라.<br><br><br>",
+    "panel.p3.narration.1.html": "보아라! 데스봇 4999다!<br><br><br><br><br><br><br><br><br><br>",
+    "panel.p4.bubble.center.html": "걱정해야 맞는데, 근데...",
+    "panel.p4.narration.1.html": "자, 계속 떨고 있어라.<br>"
   }
 }
