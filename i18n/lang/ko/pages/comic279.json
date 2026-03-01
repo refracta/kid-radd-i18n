@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic279.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"낯선 땅의 이방인들\"",
+    "panel.p4.bubble.left.html": "좋아, 원한다면 너희 위로 함선을 몇 번이든 착륙시켜 줄게!",
+    "panel.p4.bubble.right.html": "만세!"
+  }
+}

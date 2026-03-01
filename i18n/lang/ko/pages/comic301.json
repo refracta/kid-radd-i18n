@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic301.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네 말이 다 맞다\"",
+    "panel.p1.bubble.left.html": "돌아왔네! 아무도 영입 못 했구나?",
+    "panel.p1.bubble.right.html": "응, 그 게임엔 겁쟁이들밖에 없더라.",
+    "panel.p2.bubble.left.html": "그렇군. 퍼즐 게임이었나?",
+    "panel.p2.bubble.right.html": "아냐, 격투.",
+    "panel.p3.bubble.left.html": "아 그렇지, 양아치들 천지지. 나도 격투 스프라이트 엉덩이 꽤 걷어찼어.",
+    "panel.p3.bubble.right.html": "그러셨겠지.",
+    "panel.p4.bubble.left.html": "존중이 없어, 다들 날 전혀 존중 안 해...",
+    "panel.p4.bubble.right.html": "가끔 그 멍한 미소 좀 치우면 어떨까?"
+  }
+}

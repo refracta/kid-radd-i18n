@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic293.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"잘 들어\"",
+    "panel.p1.bubble.left.html": "내가 제대로 파악했는지 보자...",
+    "panel.p1.bubble.right.html": "어...",
+    "panel.p2.bubble.left.html": "난 맞으면 몇 초 동안 무적이 돼.",
+    "panel.p2.bubble.right.html": "와. 진짜로?",
+    "panel.p3.bubble.left.html": "근데 너희는 맞으면 잠깐 경직돼서, 상대가 <b>더</b> 때릴 수 있게 되지.",
+    "panel.p3.bubble.right.html": "어, 맞아...",
+    "panel.p4.bubble.left.html": "그럼 아이디어가 하나 떠오르네...",
+    "panel.p4.bubble.right.html": "...난 속이 울렁거리기 시작했고."
+  }
+}

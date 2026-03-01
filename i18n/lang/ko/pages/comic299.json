@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic299.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"보기의 터치\"",
+    "panel.p1.narration.1.html": "마지막 대결: 보기 vs. 히카루입니다.",
+    "panel.p1.bubble.left.html": "미리 경고하죠, 저는 죽음의 터치에 능합니다.",
+    "panel.p1.bubble.right.html": "그러시든가. 네 친구들은 심폐소생술에 능하길 빌어.",
+    "panel.p3.bubble.left.html": "이상할 만큼 속이 시원하네.",
+    "panel.p3.bubble.right.html": "모욕당한 기분이야..."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "page": "pages/comic291.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"예상했지\"",
+    "panel.p1.narration.1.html": "시나가 상황을 설명합니다.",
+    "panel.p1.bubble.left.html": "...그래서 우린 특이한 스프라이트가 필요해. 자원할 사람 있어?",
+    "panel.p1.bubble.right.html": "흠...",
+    "panel.p2.bubble.left.html": "응, 그러지 뭐.",
+    "panel.p2.bubble.center.html": "난 찬성, 재밌어 보이네.",
+    "panel.p2.bubble.right.html": "나도 할게.",
+    "panel.p3.bubble.left.html": "뭐야?  <b>끝이야?</b>",
+    "panel.p3.bubble.center.html": "응?",
+    "panel.p3.bubble.right.html": "무슨 뜻인데?",
+    "panel.p4.bubble.center.html": "그거 너무 <b>심심하잖아!</b>  난 당연히 너희 존중을 얻으려면 전투로 너희를 이겨야 하는 줄 알았다고.  시험 같은 거 <b>안 해???</b>",
+    "panel.p5.bubble.left.html": "래드...",
+    "panel.p5.bubble.center.html": "오, 그것도 재밌겠다.",
+    "panel.p5.bubble.right.html": "좋아, 싸우자!"
+  }
+}

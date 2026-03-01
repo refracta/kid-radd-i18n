@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic302.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"치명적 오류\"",
+    "panel.p1.narration.1.html": "모더레이터 본부입니다:",
+    "panel.p1.bubble.left.html": "그러니까 캡틴, 제가 요점을 제대로 파악했는지 확인해 보죠...",
+    "panel.p1.bubble.right.html": "그래?",
+    "panel.p2.bubble.left.html": "당신은 래드를 도망치게 했고, 그가 반역자 닥터 앰프와 그 미친 무기들과 합류하는 것도 막지 못했습니다.",
+    "panel.p2.bubble.right.html": "그래...",
+    "panel.p3.bubble.left.html": "그리고 지금은 그들이 웹 <i>어디에든</i> 있을 수 있는데, 우린 추적할 방법이 전혀 없다는 거지?",
+    "panel.p3.bubble.right.html": "그래, 대충 그렇지...",
+    "panel.p4.bubble.left.html": "게다가 당신은 큰 사고까지 당해서, 이제 내가 지휘를 맡게 됐고.",
+    "panel.p4.bubble.right.html": "그래, 그거 참 끔찍... 잠깐, 그게 언제 그렇게 됐지?"
+  }
+}

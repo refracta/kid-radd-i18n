@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic280.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"파티 나이트\"",
+    "panel.p1.narration.1.html": "NPC 파티 게임! 함께 즐겨 보세요!",
+    "panel.p1.bubble.center.html": "<b>\"움직이는 건 뭐든 꼬리 꽂기\"</b>",
+    "panel.p2.bubble.center.html": "<b>\"5인 배드민턴\"</b>",
+    "panel.p3.bubble.center.html": "<b>\"뮤지컬 곰덫\"</b>",
+    "panel.p4.bubble.center.html": "<b>\"노골적 방화광\"</b>"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic273.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"입이 화를 부른다\"",
+    "panel.p1.bubble.left.html": "좋아 QB, 당황하지 마.",
+    "panel.p2.bubble.center.html": "래드라는 놈 자체는 큰 문제가 아니야, 크리스털이 중요하게 여겨서 중요해진 것뿐이지.",
+    "panel.p3.bubble.left.html": "그러니까 크리스털이 래드가 살아 있다는 것만 모르면 난 괜찮아.",
+    "panel.p3.bubble.right.html": "그렇지.",
+    "panel.p4.narration.1.html": "그리고 우리는 Bob and George의 펀치라인을 노골적으로 훔쳐 옵니다.",
+    "panel.p4.bubble.left.html": "절 해치실 거죠, 그렇죠?",
+    "panel.p4.bubble.right.html": "스프라이트는 흉터가 안 남는 걸 감사히 여기게."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic296.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"킥을 날려라\"",
+    "panel.p1.narration.1.html": "2차전: 시나 vs. 나타샤입니다.",
+    "panel.p1.bubble.right.html": "어머, 상대가 여자네. 역할 고정 참 좋기도 하다.",
+    "panel.p2.bubble.left.html": "우후, 여자들 싸움이다!",
+    "panel.p2.bubble.right.html": "와, 시나! 옷부터 찢어!",
+    "panel.p3.bubble.left.html": "아, 좀 닥쳐. 빨리 끝내자.",
+    "panel.p3.bubble.right.html": "자신감이 넘치시네? 받아라!",
+    "panel.p4.bubble.right.html": "<b>플러리 킥!</b>",
+    "panel.p5.bubble.left.html": "이 게임엔 NPC가 없나 보네?",
+    "panel.p5.bubble.right.html": "여기서 네가 <br><b>쓰러지는 부분이야.</b>"
+  }
+}

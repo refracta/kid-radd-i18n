@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic284.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"댄스홀의 나날\"",
+    "panel.p1.bubble.left.html": "오, 슬로우 곡이다!",
+    "panel.p1.bubble.right.html": "끝내준다! 이거 늘 해보고 싶었어!",
+    "panel.p3.bubble.left.html": "둘 잘 어울리겠다. 쟤는 무모하고, 쟨 안 부서지니까.",
+    "panel.p3.bubble.right.html": "크르르, 저 천박한 것!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic294.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아야\"",
+    "panel.p1.narration.1.html": "전투가 재개됩니다.",
+    "panel.p1.bubble.left.html": "2라운드 간다!",
+    "panel.p1.bubble.right.html": "크윽.",
+    "panel.p3.bubble.left.html": "대전 격투는 <b>재밌어!</b>",
+    "panel.p3.bubble.right.html": "\"그래, 꼬맹이랑 싸우지 뭐. 문제없어,\"라고 내가 말했지..."
+  }
+}

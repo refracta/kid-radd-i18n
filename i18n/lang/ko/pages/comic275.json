@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic275.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"불쾌한 각성\"",
+    "panel.p1.bubble.center.html": "안 돼! 저게 수십 명이야!",
+    "panel.p2.bubble.left.html": "보기! 나 묵을 곳이 필요해!",
+    "panel.p2.bubble.center.html": "먹을 건 있어?",
+    "panel.p2.bubble.right.html": "야, 20달러만 빌려줄래?",
+    "panel.p3.bubble.center.html": "<b>안 돼에에!!!!!!</b>",
+    "panel.p4.bubble.center.html": "와. 꿈에서 대중문화 패러디가 나오는 건 대체로 좋은 징조가 아닌데..."
+  }
+}

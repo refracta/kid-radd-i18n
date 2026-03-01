@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic289.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"요점은 알겠어\"",
+    "panel.p1.bubble.left.html": "잠깐 래드, 저건 \"우리\" QB가 아니야.",
+    "panel.p1.bubble.right.html": "뭐라고?",
+    "panel.p2.bubble.left.html": "우린 QB가 나온 게임 \"Fighter Heroes\"의 복제본 안에 있어. 그러니 여기 QB 복제 개체가 있는 건 당연하지.",
+    "panel.p2.bubble.right.html": "그래?",
+    "panel.p3.bubble.left.html": "그러니까 저건 널 감옥에 넣은 놈이 <b>아니야</b>, 래드.  알겠어?",
+    "panel.p3.bubble.right.html": "알겠어.",
+    "panel.p4.bubble.left.html": "그럼 헤드록부터 풀어.",
+    "panel.p4.bubble.right.html": "언젠가는."
+  }
+}

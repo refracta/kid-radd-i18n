@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic297.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"번아웃\"",
+    "panel.p1.bubble.right.html": "방어가 뚫리질 않아! 전혀 통하질 않네!",
+    "panel.p2.bubble.right.html": "이제 선택지는 없다. 파워를 소모하는 궁극기를 써야 해!",
+    "panel.p4.bubble.left.html": "노력은 고맙지만...",
+    "panel.p4.bubble.right.html": "이럴... 수가...",
+    "panel.p5.bubble.left.html": "...THANKS FOR PLAYING",
+    "panel.p5.bubble.right.html": "이건 불공평해!"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "page": "pages/comic288.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"또 너냐?\"",
+    "panel.p1.bubble.left.html": "우리 안에 들어왔어.",
+    "panel.p1.bubble.right.html": "여기 누구 있어?",
+    "panel.p2.bubble.left.html": "뭐야 - <b>말도 안 돼!!!</b>",
+    "panel.p2.bubble.center.html": "캡틴 QB???",
+    "panel.p2.bubble.right.html": "맙소사! 낯선 자들이다!",
+    "panel.p3.bubble.left.html": "날 그 스프레드시트에 처넣은 대가를 치르게 해주지, QB!",
+    "panel.p3.bubble.center.html": "잠깐 래드, 뭔가 수상해...",
+    "panel.p3.bubble.right.html": "너희는 누구지?",
+    "panel.p4.bubble.left.html": "벌써 재밌어지는데!",
+    "panel.p4.bubble.right.html": "주먹부터, 질문은 나중에."
+  }
+}

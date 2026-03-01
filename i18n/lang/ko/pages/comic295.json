@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic295.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"콤보 모둠\"",
+    "panel.p1.narration.1.html": "2라운드가 시작됩니다.",
+    "panel.p1.bubble.left.html": "이 \"콤보\"라는 거 중독성 장난 아니네!",
+    "panel.p4.bubble.left.html": "난 형편없어.",
+    "panel.p4.bubble.right.html": "난 더 형편없어."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic286.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"도박판\"",
+    "panel.p1.bubble.left.html": "그건 <b>전혀</b> 안 웃겼어, 시나.",
+    "panel.p1.bubble.right.html": "아니, 엄청 웃겼지.",
+    "panel.p2.bubble.left.html": "자 여러분, 게임 몇 개 구경 갈 준비됐어?",
+    "panel.p2.bubble.center.html": "정지.",
+    "panel.p2.bubble.right.html": "언제든 준비됐어.",
+    "panel.p3.bubble.left.html": "좋은 소식은, 내 옛 방식과 달리 지금 텔레포트 시스템은 게임을 손상시키지 않고 너희를 어떤 게임으로든 빔 전송할 수 있다는 거야.",
+    "panel.p3.bubble.right.html": "하지만?...",
+    "panel.p4.bubble.right.html": "하지만 나쁜 소식은, 이 게임들을 식별할 데이터가 내게 없다는 거야. 안으로 들어가기 전까진 어디인지 알 수 없어.",
+    "panel.p5.bubble.left.html": "대박이네에에!!!! 보너스 스테이지 같잖아!",
+    "panel.p5.bubble.center.html": "뭐라고?",
+    "panel.p5.bubble.right.html": "바로 시작하는 게 좋겠어."
+  }
+}
