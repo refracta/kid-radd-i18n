@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic308.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"여기 뜬다\"",
+    "panel.p1.bubble.left.html": "클러빙.",
+    "panel.p1.bubble.right.html": "응.",
+    "panel.p2.bubble.right.html": "에라 모르겠다, 나 배로 돌아간다.",
+    "panel.p3.bubble.left.html": "클러빙.",
+    "panel.p4.bubble.right.html": "잠깐, 시나가 배에 있잖아!"
+  }
+}

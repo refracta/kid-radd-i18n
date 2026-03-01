@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic306.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아프게 하지 마\"",
+    "panel.p1.bubble.left.html": "안녕 줄리, 무슨 일이야?",
+    "panel.p1.bubble.right.html": "흥, <i>아무것도</i> 아니야, NPC 아가씨...",
+    "panel.p2.bubble.left.html": "그래서, 어... 애들은 어디 갔어?",
+    "panel.p2.bubble.right.html": "아, 클러빙하러 나갔어.",
+    "panel.p3.bubble.left.html": "\"클러빙?\"",
+    "panel.p3.bubble.right.html": "클러빙."
+  }
+}

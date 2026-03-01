@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic314.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"밤의 위험\"",
+    "panel.p1.bubble.left.html": "코바야시를 만났다고???",
+    "panel.p1.bubble.right.html": "응, 근데 별일은 없었어.",
+    "panel.p2.bubble.left.html": "그리고 그냥 도망치게 뒀어?",
+    "panel.p2.bubble.right.html": "뭐, 비슷해. 이 동네엔 딱히 치안 기관도 없잖아...",
+    "panel.p3.bubble.left.html": "좋지 않군. 그 녀석이 또 여기 들어오지 못하게 경계를 최고 수준으로 올려야겠어.",
+    "panel.p3.bubble.right.html": "너무 걱정하진 마. 앰프의 괴상한 무기들만 잘 잠가두면 돼.",
+    "panel.p4.bubble.left.html": "이봐, 내 최신 발명품 좀 봐! 편지칼이야!",
+    "panel.p4.bubble.center.html": "아니면 앰프를 잠가 두는 게 낫겠다.",
+    "panel.p4.bubble.right.html": "오오, 나 그거 써보고 싶어! 제발?"
+  }
+}

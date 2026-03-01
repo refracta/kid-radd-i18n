@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic312.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"굳은 맹세\"",
+    "panel.p1.bubble.left.html": "부정해 봐야 소용없다. 내가 졌다. 지금 상태로는 너를 이길 방법이 없다.",
+    "panel.p1.bubble.right.html": "당연하지.",
+    "panel.p2.bubble.right.html": "하지만 할인 닌자는 절대 포기하지 않는다! 나는 3차원의 시련을 정복하고, 언젠가 돌아와 너와 정정당당한 결투를 치르겠다. 이것이 나의 엄숙한 맹세다!",
+    "panel.p3.bubble.right.html": "뭐, 내가 지금 당장 널 죽이기로만 안 한다면야.",
+    "panel.p4.bubble.left.html": "설마 <b>그럴 리가!</b>",
+    "panel.p4.bubble.right.html": "맞아. 그래도 순간 쫄았지?"
+  }
+}

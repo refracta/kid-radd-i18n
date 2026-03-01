@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic313.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"작별\"",
+    "panel.p1.bubble.left.html": "넌 내가 생각했던 것보다 훨씬 고결한 적수였다. 우리는 다시 만날 것이다.",
+    "panel.p1.bubble.right.html": "어, 만세?",
+    "panel.p2.bubble.right.html": "그럼 이제, 친애하는 숙적이여, 작별을 고한다!",
+    "panel.p3.bubble.center.html": "이 패널 전체에 하이라이트 넣은 거야? 야, 봐봐! 코바 머리 반쪽이다!",
+    "panel.p4.bubble.left.html": "너 카운터 뒤에 있잖아.",
+    "panel.p4.bubble.right.html": "응. 출구를 노렸는데, 뭐... 알잖아..."
+  }
+}
