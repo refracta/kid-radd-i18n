@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic321.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"꽉 찬 공간\"",
+    "panel.p1.bubble.left.html": "아, 진짜 움직일 수가 없네.",
+    "panel.p2.bubble.left.html": "보이지 않는 상자 안에 갇힌 느낌이야.",
+    "panel.p3.bubble.left.html": "봐, 나 마임이다!",
+    "panel.p4.bubble.left.html": "마르셀 마르소도 이건 <b>못 따라 하지!</b>"
+  }
+}

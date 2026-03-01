@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic332.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"소통 오류\"",
+    "panel.p1.bubble.left.html": "제발! 파워업 하나만 떨궈줘, 부탁이야!",
+    "panel.p1.bubble.right.html": "뭐라고? 그건 불가능해.",
+    "panel.p2.bubble.center.html": "순진한 친구야, 파워업은 아무도 <i>들고</i> 다닐 수 없어. 그냥 그 자리에 있다가, 네가 부딪히면 사라지는 거지.",
+    "panel.p3.bubble.left.html": "멍청아! 인벤토리도 없어?",
+    "panel.p3.bubble.right.html": "인바... 뭐라고?",
+    "panel.p4.bubble.left.html": "아, <b>안 돼!</b>  쥐 떼다!  또 날 찾았어!  <b>저주한다!!!!</b>",
+    "panel.p5.bubble.left.html": "이 게임 프로그래머들은 정말 시간이 남아돌았나 봐.",
+    "panel.p5.bubble.center.html": "근데 스타일은 맘에 드네.",
+    "panel.p5.bubble.right.html": "우린 간다."
+  }
+}

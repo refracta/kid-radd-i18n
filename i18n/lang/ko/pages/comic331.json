@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "page": "pages/comic331.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"정답\"",
+    "panel.p1.bubble.left.html": "으윽...",
+    "panel.p1.bubble.center.html": "어쨌든 우리가 이기긴 했네.",
+    "panel.p1.bubble.right.html": "근데... <b>어떻게?</b>",
+    "panel.p2.bubble.left.html": "내가 몇 분 동안 충전해서 그런가?",
+    "panel.p2.bubble.center.html": "하지만 네 한계는 255잖아! 그건 네 프로그램의 일부라고!",
+    "panel.p2.bubble.right.html": "말이 안 되는데...",
+    "panel.p3.bubble.left.html": "어, 도와줘? 나 여기서 \"기절\" 상태야.",
+    "panel.p3.bubble.right.html": "아 좀 닥쳐. 다음에 누가 게임 켜면 괜찮아질 거야.",
+    "panel.p4.bubble.left.html": "음, 그거 꽤 오래 걸릴 수도 있는데.",
+    "panel.p4.bubble.center.html": "좋네. 이제 폭력은 답이 아니라는 걸 배우겠지.",
+    "panel.p4.bubble.right.html": "웃기네, 우리한텐 늘 답이었는데 <i>말이야</i>."
+  }
+}

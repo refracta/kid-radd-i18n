@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic336.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"알고 싶지 않았어\"",
+    "panel.p1.bubble.left.html": "네가 들어갔던 게임은 최대 12비트 이진 변수를 허용한 모양이야. 그래서 약 2분 30초 정도 충전하면 공격력이 최대 4095까지 올라갈 수 있었던 거지.",
+    "panel.p2.bubble.left.html": "그럼 래드 최대 파워가 예전의 10배를 넘는다는 거야?...",
+    "panel.p2.bubble.right.html": "...그 게임에서는. 평균적인 16비트 게임에선 한계가 65,535야.",
+    "panel.p3.bubble.left.html": "<b>그렇게</b>나 높아?",
+    "panel.p3.bubble.right.html": "자릿수가 늘어나면 수가 지수적으로 커져. 지금 우리가 있는 32비트 컴퓨터에선 한계가 40억이 넘어.",
+    "panel.p4.bubble.left.html": "한 덕후가 그런 힘을 감당할 수 있을까?",
+    "panel.p4.bubble.center.html": "세상은 감당할 수 있을까?",
+    "panel.p4.bubble.right.html": "그래서, 누가 그걸 래드한테 말할 건데?"
+  }
+}

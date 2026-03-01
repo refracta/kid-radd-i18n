@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic323.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"네 방식대로 해\"",
+    "panel.p1.bubble.left.html": "좋아, 멍청이들아! 내 검맛 좀 봐라!",
+    "panel.p2.bubble.left.html": "거기서 그걸 어떻게 했는진 모르겠지만, 이번엔 내가 갚아줄 차례다!",
+    "panel.p3.bubble.left.html": "음, 왜?",
+    "panel.p5.bubble.left.html": "방금 그거 공격이었어, 아니면 그냥 선언문이었어?"
+  }
+}

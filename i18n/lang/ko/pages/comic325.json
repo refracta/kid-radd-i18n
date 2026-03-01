@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic325.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"확률에 걸어\"",
+    "panel.p1.bubble.left.html": "내 차례다! 그리고 <b>난</b> 이기는 법 안다!",
+    "panel.p2.bubble.center.html": "그래, 이 얼빠진 턴제 시스템은 내가 행동할 때까지 영원히 기다려 줘. 그러니까 매 공격마다 메가 래드를 충전할 시간은 충분하다고!",
+    "panel.p3.bubble.left.html": "난 안 져! 잘 봐!",
+    "panel.p4.bubble.center.html": "다시 한번, <b>뭐라고???</b>"
+  }
+}

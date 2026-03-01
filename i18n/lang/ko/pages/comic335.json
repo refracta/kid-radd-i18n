@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic335.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"추정\"",
+    "panel.p1.bubble.left.html": "그래서, 무슨 일이었는지 알겠어?",
+    "panel.p1.bubble.right.html": "정확히는 아니야. 이걸 진짜로 \"읽을\" 순 없고, 내가 아는 약간의 내용으로 추측만 할 수 있어.",
+    "panel.p2.bubble.left.html": "그래도 가설은 있어. 255는 8비트 시스템에서 가능한 가장 큰 이진수야. 난 우리 프로그래머가 그래서 래드 한계를 그렇게 잡았다고 생각했는데, 어쩌면...",
+    "panel.p3.narration.1.html": "\"어쩌면 대충 짰을지도 몰라요. 래드 코드가 최대값을 255로 딱 지정한 게 아닐 수도 있어요. 그냥 '가능한 가장 높은 변수에 도달할 때까지 계속 충전하라'고만 되어 있을지도요.\"",
+    "panel.p4.bubble.left.html": "그 말, 별로 듣기 좋은 소린 아닌데...",
+    "panel.p4.bubble.center.html": "\"가장 높은 변수\"가 뭔지 물어보기가 무섭네?",
+    "panel.p4.bubble.right.html": "음, 255는 아무것도 아니라는 말만 해둘게."
+  }
+}

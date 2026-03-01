@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic329.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"마지막 기회\"",
+    "panel.p1.narration.1.html": "그래서 시나와 보기는 자기 차례를 진행합니다.",
+    "panel.p2.bubble.left.html": "이게 안 되면...",
+    "panel.p2.bubble.right.html": "말 안 해도 돼, 래드.",
+    "panel.p3.bubble.center.html": "사과는 필요 없어. 여기 올 때 위험은 알고 있었어. 나 같은 약골이 이런 게임에서 방해 말고 뭘 할 수 있겠나 싶긴 했지. 그러니까... 네 탓 아니야. 그냥 쏴.",
+    "panel.p4.bubble.left.html": "고마워... 나도 미친 소리 같지만, 왠지 우리 다 무사할 것 같은 느낌이 들어."
+  }
+}

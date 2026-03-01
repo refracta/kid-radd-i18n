@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "page": "pages/comic315.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"준비 완료\"",
+    "panel.p4.bubble.left.html": "오늘은 어떤 엉덩이를 걷어차게 될까?",
+    "panel.p4.bubble.right.html": "이 폴더에 연애 시뮬도 있으려나?"
+  }
+}

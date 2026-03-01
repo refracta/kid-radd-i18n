@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic337.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"그 말 하지 마\"",
+    "panel.p1.bubble.center.html": "<b>그거</b> 재밌었네!",
+    "panel.p1.bubble.right.html": "래드, 우리 얘기 좀 해야 해.",
+    "panel.p2.bubble.left.html": "응? 아, 눈치껏 빠져줄게...",
+    "panel.p2.bubble.right.html": "뭐? 아니, 그 얘기 말고 <i>다른</i> 얘기.",
+    "panel.p3.bubble.left.html": "닥터 앰프 말로는, 네 최대 파워는 네가 있는 시스템을 따른대... 그리고 게임 시스템 밖에선 사실상 무한대고.",
+    "panel.p4.bubble.left.html": "네 말은...",
+    "panel.p4.bubble.right.html": "프로그래밍 버그 하나 때문에 네가 사이버월드 최강의 파괴력이 됐을 수도 있다는 거야.",
+    "panel.p5.bubble.left.html": "왠지 너라면 그걸 꽤 멋지다고 할 줄 알았는데.",
+    "panel.p5.bubble.right.html": "이상하게도, 나도 그렇게 생각해..."
+  }
+}

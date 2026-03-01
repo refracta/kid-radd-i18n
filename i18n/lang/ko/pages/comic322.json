@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "page": "pages/comic322.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"기다릴 수밖에\"",
+    "panel.p1.bubble.left.html": "좋아, 농담이었어. 이제 \"공격\" 한번 해볼게.",
+    "panel.p2.bubble.left.html": "뭐? 우리 <i>차례</i>대로 공격해야 한다고?",
+    "panel.p3.bubble.left.html": "웃기지 마, 나 지금 간다!",
+    "panel.p4.bubble.left.html": "......",
+    "panel.p4.bubble.right.html": "진짜 멍청한 적이네."
+  }
+}
