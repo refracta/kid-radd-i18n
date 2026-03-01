@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic442.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"의사 선생님\"",
+    "panel.p1.bubble.left.html": "있잖아, 우리 팀엔 좋은 힐러가 필요하거든.",
+    "panel.p1.bubble.right.html": "아, 당신들 슬라임을 자주 상대하나요?",
+    "panel.p2.bubble.left.html": "음 아니, 그렇진 않은데...",
+    "panel.p2.bubble.right.html": "왜냐면 제가 하는 건 그거뿐이에요; 아보카도 저주만 제거해요.",
+    "panel.p3.bubble.left.html": "아. 그건 좀... 범위가 좁네.",
+    "panel.p3.bubble.right.html": "미안해요, HP 회복이나 다른 상태이상 치료는 제 일이 아니에요.",
+    "panel.p4.bubble.left.html": "그러고도 스스로 의료 전문가라 하네.",
+    "panel.p4.bubble.right.html": "전 \"전문의\"예요. 다른 진료가 필요하면 보험사(HMO)가 다른 사람으로 보내줄 거예요."
+  }
+}

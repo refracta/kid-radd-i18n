@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "page": "pages/comic444.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"특효약\"",
+    "panel.p1.bubble.right.html": "보면, 모든 모드 크루저에는 자기 위치를 계속 기록해서 다른 기체들과 공유하는 추적 시스템이 들어 있어. 그래서 우리가 하나 훔친 거지."
+  }
+}

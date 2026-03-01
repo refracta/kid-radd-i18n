@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic457.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"암시들\"",
+    "panel.p1.bubble.center.html": "흠...",
+    "panel.p2.bubble.right.html": "어이, 기괴하게 생긴 아저씨! 왜 우리 래드를 괴롭혀?",
+    "panel.p3.bubble.left.html": "뭐? 아, 아무것도 아냐.",
+    "panel.p3.bubble.right.html": "아무것도 아니긴! 한밤중에 걔 방문을 두드리잖아!",
+    "panel.p4.bubble.left.html": "정확히 뭘 암시하는 거지?",
+    "panel.p4.bubble.right.html": "왜 다들 나한테 그걸 물어봐? 나도 모르겠어..."
+  }
+}

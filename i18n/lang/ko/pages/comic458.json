@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic458.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"서두를 것 없어\"",
+    "panel.p1.bubble.left.html": "젠장, 이 좁은 배는 너무 북적거려. 몇 걸음만 걸어도 누군가랑 부딪히네.",
+    "panel.p2.bubble.left.html": "근데 다른 애들이 있으면 안 돼... 이게 성사되려면 래드를 혼자서 마주해야 해. 참 번거롭군.",
+    "panel.p3.bubble.left.html": "하아, 그냥 조금만 더 참아야겠다. 기회는 곧 올 거야.",
+    "panel.p4.bubble.left.html": "토스터다!",
+    "panel.p4.bubble.center.html": "구운 파워업?...",
+    "panel.p4.bubble.right.html": "그때까지 내가 살아남는다는 가정하에."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "page": "pages/comic440.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"아직 안 한 일\"",
+    "panel.p1.bubble.right.html": "대사 스크립트는 필요 없어, 우린 영웅이 아니니까. 우리랑 같이 가줬으면 해.",
+    "panel.p2.bubble.left.html": "떠난다고? 그러니까, 이 방 밖으로? 난 그러면 안 될 것 같은데...",
+    "panel.p2.bubble.right.html": "괜찮아. 믿어, 네 프로그래머들은 신경도 안 써.",
+    "panel.p3.bubble.left.html": "아, 그게 문제가 아니라.",
+    "panel.p3.bubble.right.html": "그럼 뭐야?",
+    "panel.p4.bubble.left.html": "의사는 왕진 안 가잖아, 바보야!  결국 지금은 <i>1986년</i>이라고!",
+    "panel.p4.bubble.center.html": "어...",
+    "panel.p4.bubble.right.html": "그럼 네가 의사가 아니라서 다행이네."
+  }
+}

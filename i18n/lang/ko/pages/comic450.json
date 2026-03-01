@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic450.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"작은 승리\"",
+    "panel.p2.bubble.left.html": "블록을 일렬로 세워뒀어. 전력질주로 지나가면서 한 번에 최대한 많이 베어.",
+    "panel.p2.bubble.right.html": "한번 해볼게.",
+    "panel.p4.bubble.left.html": "맞췄다! 나 진짜 맞췄어!",
+    "panel.p4.bubble.right.html": "네 벨트 맞힌 건 카운트 안 돼..."
+  }
+}

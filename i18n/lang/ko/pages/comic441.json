@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic441.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"가벼운 발걸음\"",
+    "panel.p1.bubble.left.html": "와. 그러니까... 이 게임 밖에도 진짜 세계가 있네.",
+    "panel.p1.bubble.right.html": "응.",
+    "panel.p2.bubble.right.html": "<font size=\"2\" face=\"arial\">이걸 감당할 수 있을지 모르겠어요.  왜냐면 전 이 <i>방</i> 밖으로 나가본 적도 없거든요.  그래도 인생은 한 번뿐이니...</font>",
+    "panel.p3.bubble.right.html": "아, 에라 모르겠다. 가자!",
+    "panel.p4.bubble.left.html": "뭐?",
+    "panel.p4.bubble.center.html": "아무것도. 진짜 아무것도.",
+    "panel.p4.bubble.right.html": "게으른 프로그래머들 같으니..."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic459.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"극비\"",
+    "panel.p2.bubble.center.html": "<b>제가 끔찍한 실수를 한 것 같습니다.  제가 예견하지 못한 위협이 당신에게 있습니다.</b>",
+    "panel.p3.bubble.center.html": "<b>잘 들으세요.  당신의 힘에 내재된 위험을 반드시 깨달아야 합니다.  당신은 반드시 이것과 거리를 둬야 해요 -</b>",
+    "panel.p4.bubble.right.html": "<b>와플!!!<b></b></b>",
+    "panel.p5.bubble.left.html": "이건 와플이 아닌데...",
+    "panel.p5.bubble.center.html": "그냥 맞장구 좀 쳐줘, 저래야 자기가 필요하다고 느끼거든.",
+    "panel.p5.bubble.right.html": "바삭해!"
+  }
+}

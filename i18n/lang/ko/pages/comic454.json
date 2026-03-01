@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic454.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"바로 지금\"",
+    "panel.p1.bubble.left.html": "얘기 심각하네. 그럼 넌 아예 공격을 못 해?",
+    "panel.p1.bubble.right.html": "할 수는 있어.",
+    "panel.p2.bubble.left.html": "근데...",
+    "panel.p2.bubble.right.html": "근데 플레이어가 날 어떻게 때려눕힐지 고민하는 동안, 난 닌자 흉내 같은 걸 잔뜩 하게 돼 있어.",
+    "panel.p4.bubble.left.html": "즉, 플레이어가 멍청할 때만 공격했다는 거네.",
+    "panel.p4.bubble.right.html": "장난해? 내가 그랬으면 그 망할 게임 한 사람은 전부 죽였어야 했지."
+  }
+}

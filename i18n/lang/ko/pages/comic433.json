@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic433.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"질질 끄네\"",
+    "panel.p1.bubble.right.html": "자, 여기 있네: \"아보카도 슬라임 크립스, 성가신 던전 거주 몬스터.\"",
+    "panel.p2.bubble.right.html": "\"이 생물들은 영웅에게 달라붙는 걸 좋아하며, 영웅은 공격을 못 하게 되고 점점 움직이지 못하게 된다.\"",
+    "panel.p3.bubble.right.html": "\"이 무방비 상태가 되면 영웅은 늦기 전에 간호사 스테이션을 찾는 수밖에 없다.\" 시나, 답 찾았어! 간호사를 찾으면 래드를 고칠 수 있어!",
+    "panel.p5.bubble.left.html": "줄리, 얘야! 이번엔 네가 들어가 볼래?",
+    "panel.p5.bubble.center.html": "와아! 제가 할래요!",
+    "panel.p5.bubble.right.html": "어, 안 돼."
+  }
+}

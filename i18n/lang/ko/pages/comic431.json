@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic431.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"말보다\"",
+    "panel.p1.bubble.left.html": "이해가 안 돼, 보기. 뭘 하려는 거야?",
+    "panel.p1.bubble.right.html": "네가 말한 그 \"쓸모없는\" 파일 코드 좀 봐.",
+    "panel.p2.bubble.left.html": "음, 어...",
+    "panel.p2.bubble.right.html": "그냥 읽어!",
+    "panel.p3.bubble.right.html": "좋아, 해볼게.  에헴.<br>\"힛-멜?  ...바디!  브르...  ...허?\"",
+    "panel.p4.bubble.left.html": "이 \"htm\" 파일은 \"txt\"보다 더 말이 안 되는데.",
+    "panel.p4.bubble.right.html": "이럴 때면 왜 예전에 절벽으로 그렇게 쉽게 걸어 떨어졌는지 새삼 떠오른다."
+  }
+}

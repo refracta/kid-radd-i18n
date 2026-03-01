@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic456.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"분노는 뒤로\"",
+    "panel.p1.narration.1.html": "새로운 동료들에 적응하는 기존 주민들 사이에서, 하이스코어의 일상은 계속됩니다.",
+    "panel.p4.bubble.left.html": "이제 좀 낫네.",
+    "panel.p4.bubble.center.html": "방금 그 말, 대체 무슨 뜻이었지?",
+    "panel.p4.bubble.right.html": "나도 몰라. 있지, 좋은 생각이 하나 있는데..."
+  }
+}

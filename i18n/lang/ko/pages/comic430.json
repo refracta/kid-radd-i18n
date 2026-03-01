@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic430.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"영웅\"",
+    "panel.p1.bubble.left.html": "다친 것 같진 않은데, 움직이질 못해. 내가 끌고 왔어.",
+    "panel.p1.bubble.center.html": "넌 왜 안 당했어?",
+    "panel.p1.bubble.right.html": "아, 래드...",
+    "panel.p2.bubble.left.html": "놈들이 달려들 때 본능적으로 NPC 모드로 돌아가서, 못 건드렸어.",
+    "panel.p2.bubble.right.html": "겁쟁이! 너도 점액 범벅됐어야지!",
+    "panel.p3.bubble.left.html": "그 말은 무시할게. 앰프 박사님, 뭐라도 못 하나요?",
+    "panel.p3.bubble.center.html": "아마 힘들어, 이건 게임 메커니즘 문제 같은데...",
+    "panel.p3.bubble.right.html": "에헴...",
+    "panel.p4.bubble.center.html": "감사 인사 할 준비해둬, 드디어 <b>내</b> 차례로 세상을 구할 시간이니까!"
+  }
+}

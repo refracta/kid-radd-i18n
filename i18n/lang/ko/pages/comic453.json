@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "page": "pages/comic453.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"수수께끼\"",
+    "panel.p1.bubble.center.html": "난 내 출신 이야기는 하고 싶지 않아. 평생 숨겨온, 창피한 비밀이거든..."
+  }
+}

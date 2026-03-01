@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "page": "pages/comic451.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"수수께끼\"",
+    "panel.p1.bubble.right.html": "블록을 만져.",
+    "panel.p2.bubble.right.html": "블록을 공격해.",
+    "panel.p3.bubble.right.html": "블록을 만져.",
+    "panel.p4.bubble.right.html": "블록을 공격해.",
+    "panel.p5.bubble.left.html": "이거 의미는 있는 거야?",
+    "panel.p5.bubble.right.html": "아마? 나도 좀 더 파악해봐야겠어."
+  }
+}

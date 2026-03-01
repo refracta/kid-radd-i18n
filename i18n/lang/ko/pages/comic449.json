@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic449.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"쟤도 어떻게 하는지 모르겠대\"",
+    "panel.p3.bubble.left.html": "준비되면 언제든.",
+    "panel.p3.bubble.right.html": "<b>...</b>",
+    "panel.p5.bubble.left.html": "대체 어떻게 <b>다른 방</b>으로 가버린 거야???",
+    "panel.p5.bubble.right.html": "몰라, 일단 내 주먹 좀 천장에서 빼내는 거 도와줘."
+  }
+}

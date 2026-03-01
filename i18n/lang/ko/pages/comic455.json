@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "page": "pages/comic455.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"또 하나의 신경쇠약\"",
+    "panel.p1.bubble.right.html": "코바, 우린 스프라이트야. 우리는 특정한 방식으로 만들어졌고, 바꿀 수 없는 것들이 있어. 네 개인 중력, 관성 같은 물리는 네 일부야.",
+    "panel.p2.bubble.right.html": "하지만 그런 변수들은 고정돼 있어도, 네 행동 방식은 다른 문제야. 네 게임 시절 루틴을 계속 따를 필요는 없어. 넌 이제 자유야.",
+    "panel.p4.bubble.left.html": "와. 진짜 잘 아는 사람처럼 말하네.",
+    "panel.p4.bubble.right.html": "대충은. 나도 이 \"개성\"이라는 걸 아직 배우는 중이거든..."
+  }
+}

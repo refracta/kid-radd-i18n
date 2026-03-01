@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "page": "pages/comic434.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"푹 빠짐\"",
+    "panel.p1.bubble.left.html": "좋아 시나, 가자!",
+    "panel.p1.bubble.right.html": "뭐, 우리? 너랑 나?",
+    "panel.p2.bubble.left.html": "응, 그 \"간호사\" 캐릭터를 여기로 데려올 거야. 래드를 살리게.",
+    "panel.p2.bubble.right.html": "근데 안전해? 너 말이야...",
+    "panel.p3.bubble.left.html": "봐, 적 스프라이트는 날 공격 안 하고, 넌 NPC 모드인 동안엔 공격 못 받아. 괜찮아.",
+    "panel.p3.bubble.right.html": "근데 영웅이 있으면, 걔가 널 공격할 수도 있잖아...",
+    "panel.p4.bubble.center.html": "...그럼 네가 모드 전환해서 걔를 두들겨 패겠지. 근데 솔직히 걘 이미 패배했을 거고, 다음 게임이 시작되기 전엔 부활 안 해. 아니었으면 벌써 만났을 거야.",
+    "panel.p5.bubble.left.html": "그래도, 음...",
+    "panel.p5.bubble.right.html": "뭐가? 망설일 이유가 대체 뭐가 있어?",
+    "panel.p7.bubble.left.html": "...딱히 이유는 없어.",
+    "panel.p7.bubble.center.html": "로맨틱한 어두운 던전에서!",
+    "panel.p7.bubble.right.html": "좋아 그럼! \"안녕하세~요 간호사님!\" 할 시간이네!"
+  }
+}

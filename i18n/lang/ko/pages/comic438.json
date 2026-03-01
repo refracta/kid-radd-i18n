@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "page": "pages/comic438.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"성장통\"",
+    "panel.p1.bubble.left.html": "근데 내 \"자매\"가 끝까지 나랑 의견이 안 맞으면 어떡해?",
+    "panel.p1.bubble.right.html": "그건 너무 걱정 안 해도 돼. 누구나 결국은 철들거든.",
+    "panel.p2.bubble.left.html": "근데 우린 아예 \"성장\"을 안 하잖아! 우린 비디오게임 캐릭터라고!",
+    "panel.p2.bubble.right.html": "비유적으로 말한 거야. 무슨 뜻인지 알잖아.",
+    "panel.p3.bubble.center.html": "보기, 앰프랑 줄리 좀 봐. 저 둘은 영원히 자기들을 노인과 어린아이로 생각해! 다른 시나도 그럴 수 있어.",
+    "panel.p4.bubble.left.html": "아. 좋은 지적이네. 그럼 넌 망했군.",
+    "panel.p4.bubble.right.html": "<b>으아!!!</b> 이런 논쟁은 이기고 싶지 않았단 말이야!!!"
+  }
+}

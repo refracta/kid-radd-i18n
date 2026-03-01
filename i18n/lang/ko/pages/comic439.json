@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "page": "pages/comic439.htm",
+    "language": "ko",
+    "fallback": "en"
+  },
+  "strings": {
+    "title.main.html": "\"꼴찌로 마침\"",
+    "panel.p1.bubble.left.html": "다른 시나랑 티격태격하는 건 짜증나도, 결국 주도권은 네가 쥐고 있잖아.",
+    "panel.p1.bubble.right.html": "그건 맞는 말이네.",
+    "panel.p2.bubble.left.html": "그러니까 그냥 네 삶을 평소처럼 살아. 그러면 걔도 결국 따라오게 돼, 선택지가 없으니까.",
+    "panel.p2.bubble.right.html": "내가 먼저 미치지만 않으면.",
+    "panel.p3.bubble.left.html": "그래서 우리 친구들이 있는 거지. 걔가 널 미치게 못 하게 우리가 막아줄게, 왜냐면 그건 <b>우리</b> 일이거든!",
+    "panel.p3.bubble.right.html": "헤.",
+    "panel.p4.bubble.left.html": "고마워 보기. 그리고 내 혼란을 이용하려 들지 않아줘서 고마워.",
+    "panel.p4.bubble.right.html": "내가 왜 그래야 해? 난 좋은 사람이야!",
+    "panel.p5.bubble.center.html": "그리고 참, 그게 엄청 구리기도 하지."
+  }
+}
