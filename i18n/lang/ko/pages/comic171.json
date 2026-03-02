@@ -9,14 +9,12 @@
     "panel.p1.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
     "panel.p2.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
     "panel.p2.chat.1.html": "<b>사용자 질문:</b><br><u>이미지 삽입?</u>",
-    "panel.p2.extra.1.html": "왜 나한테 물어봐? 내가 어떻게 알아?",
+    "panel.p2.extra.1.html": "왜 저한테 물어보세요? 제가 그걸 어떻게 알겠어요?",
     "panel.p3.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
     "panel.p3.chat.1.html": "<b>사용자 질문:</b><br><u>이미지 삽입?</u>",
     "panel.p3.extra.1.html": "알았어, 알았어. 음, Alt 누른 채로 F4를 몇 번 눌러 봐.",
     "panel.p4.bubble.right.html": "젠장, 진작 이렇게 할걸.",
     "panel.p1.extra.1.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
-    "panel.p4.extra.1.html": "젠장, 진작 이렇게 할걸.",
-    "panel.p2.extra.2.html": "왜 나한테 묻는 거야? 내가 어떻게 알겠어요?",
-    "panel.p3.extra.2.html": "알았어, 알았어. 음, Alt를 누른 채 F4를 몇 번 누르세요."
+    "panel.p4.extra.1.html": "젠장, 진작 이렇게 할걸."
   }
 }
