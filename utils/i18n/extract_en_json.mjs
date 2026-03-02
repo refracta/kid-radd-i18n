@@ -594,6 +594,9 @@ async function extractComicStrings(page, comicPath) {
         if (!text.length) {
           continue;
         }
+        if (isCopyrightFooterText(text)) {
+          continue;
+        }
         if (!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
           continue;
         }
@@ -634,6 +637,23 @@ async function extractComicStrings(page, comicPath) {
         targets.push(node);
       }
       return targets;
+    }
+
+    function isCopyrightFooterText(text) {
+      const normalized = normalizeText(text);
+      if (!normalized.length) {
+        return false;
+      }
+      if (/kid radd\s*[©\u00a9]\s*\d{4}\s*by\s*dan miller/i.test(normalized)) {
+        return true;
+      }
+      if (/[©\u00a9]\s*\d{4}.*sosumi corp/i.test(normalized)) {
+        return true;
+      }
+      if (/[©\u00a9]\s*199x.*simian software/i.test(normalized)) {
+        return true;
+      }
+      return false;
     }
 
     const strings = {};

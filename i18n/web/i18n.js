@@ -1858,6 +1858,9 @@
 			if(!text.length) {
 				return;
 			}
+			if(isCopyrightFooterText(text)) {
+				return;
+			}
 			if(!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
 				return;
 			}
@@ -1892,6 +1895,23 @@
 		});
 
 		return $(targets);
+	}
+
+	function isCopyrightFooterText(text) {
+		var normalized = $.trim(String(text || '').replace(/\s+/g, ' '));
+		if(!normalized.length) {
+			return false;
+		}
+		if(/kid radd\s*[©\u00a9]\s*\d{4}\s*by\s*dan miller/i.test(normalized)) {
+			return true;
+		}
+		if(/[©\u00a9]\s*\d{4}.*sosumi corp/i.test(normalized)) {
+			return true;
+		}
+		if(/[©\u00a9]\s*199x.*simian software/i.test(normalized)) {
+			return true;
+		}
+		return false;
 	}
 
 	function applyPanelExtraStrings(panelName, normalizedStrings) {
