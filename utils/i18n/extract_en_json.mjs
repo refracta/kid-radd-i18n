@@ -378,6 +378,10 @@ async function extractComicStrings(page, comicPath) {
       return parent === child || parent.contains(child);
     }
 
+    function isSameNodeOrEitherContains(left, right) {
+      return containsOrSame(left, right) || containsOrSame(right, left);
+    }
+
     function getNarrationTarget(panelName) {
       const panel = getPanel(panelName);
       if (!panel) {
@@ -600,12 +604,12 @@ async function extractComicStrings(page, comicPath) {
         if (!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
           continue;
         }
-        if (narrationTarget && containsOrSame(narrationTarget, node)) {
+        if (narrationTarget && isSameNodeOrEitherContains(narrationTarget, node)) {
           continue;
         }
         let inBubbleText = false;
         for (const bubbleNode of bubbleTextTargets) {
-          if (containsOrSame(bubbleNode, node)) {
+          if (isSameNodeOrEitherContains(bubbleNode, node)) {
             inBubbleText = true;
             break;
           }
@@ -619,7 +623,7 @@ async function extractComicStrings(page, comicPath) {
 
         let inChat = false;
         for (const chatNode of chatSet) {
-          if (containsOrSame(chatNode, node)) {
+          if (isSameNodeOrEitherContains(chatNode, node)) {
             inChat = true;
             break;
           }

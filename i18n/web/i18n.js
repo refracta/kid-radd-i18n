@@ -1837,6 +1837,17 @@
 		}
 	}
 
+	function isSameNodeOrContains(parent, child) {
+		if(!parent || !child) {
+			return false;
+		}
+		return parent === child || $.contains(parent, child);
+	}
+
+	function isSameNodeOrEitherContains(left, right) {
+		return isSameNodeOrContains(left, right) || isSameNodeOrContains(right, left);
+	}
+
 	function getPanelExtraTargets(panelName) {
 		var $panel = $('a[name="' + panelName + '"]');
 		if(!$panel.length) {
@@ -1871,20 +1882,20 @@
 			if(!/[A-Za-z0-9\u00C0-\u024F\uAC00-\uD7AF]/.test(text)) {
 				return;
 			}
-			if(narrationNode && (node === narrationNode || $.contains(narrationNode, node))) {
+			if(narrationNode && isSameNodeOrEitherContains(narrationNode, node)) {
 				return;
 			}
 			for(var bubbleIndex = 0; bubbleIndex < bubbleTextNodes.length; bubbleIndex++) {
 				var bubbleTextNode = bubbleTextNodes[bubbleIndex];
-				if(node === bubbleTextNode || $.contains(bubbleTextNode, node)) {
+				if(isSameNodeOrEitherContains(node, bubbleTextNode)) {
 					return;
 				}
 			}
-			if(bubbleNode && bubbleTextNodes.length === 0 && (node === bubbleNode || $.contains(bubbleNode, node))) {
+			if(bubbleNode && bubbleTextNodes.length === 0 && isSameNodeOrContains(bubbleNode, node)) {
 				return;
 			}
 			for(var i = 0; i < chatNodes.length; i++) {
-				if(node === chatNodes[i] || $.contains(chatNodes[i], node)) {
+				if(isSameNodeOrEitherContains(node, chatNodes[i])) {
 					return;
 				}
 			}
