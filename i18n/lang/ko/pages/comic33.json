@@ -12,6 +12,13 @@
     "panel.p3.bubble.center.html": "쪽팔려 죽겠네! 이런 하급 적한테 목숨을 잃게 생겼어.",
     "panel.p4.bubble.center.html": "저기, 그냥 네가 스스로 움직이면 되잖아.",
     "panel.p5.bubble.left.html": "<b>나, 움직일 수 있어!!!</b>",
-    "panel.p5.bubble.right.html": "주인공 스프라이트들은 플레이어 없으면 진짜 답이 없다니까..."
+    "panel.p5.bubble.right.html": "주인공 스프라이트들은 플레이어 없으면 진짜 답이 없다니까...",
+    "panel.p1.extra.1.html": "래드는 더 이상 조종해 줄 플레이어가 없다는 걸 깨닫습니다.",
+    "panel.p1.extra.2.html": "이게 뭐야? 왜 몸이 안 움직이지?",
+    "panel.p2.extra.1.html": "이런, 길 잃은 보기가 왔잖아! 플레이어, 빨리 좀 쏘든 점프하든 시켜줘!",
+    "panel.p3.extra.1.html": "쪽팔려 죽겠네! 이런 하급 적한테 목숨을 잃게 생겼어.",
+    "panel.p4.extra.1.html": "저기, 그냥 네가 스스로 움직이면 되잖아.",
+    "panel.p5.extra.1.html": "<b>나, 움직일 수 있어!!!</b>",
+    "panel.p5.extra.2.html": "주인공 스프라이트들은 플레이어 없으면 진짜 답이 없다니까..."
   }
 }

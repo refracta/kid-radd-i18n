@@ -13,6 +13,14 @@
     "panel.p3.narration.1.html": "래드는 스스로 아무것도 할 수 없습니다. 모든 움직임은 플레이어의 명령입니다.",
     "panel.p3.bubble.center.html": "그거 별론데.",
     "panel.p4.narration.1.html": "요컨대, 래드는 플레이어의 작은 - -",
-    "panel.p4.bubble.center.html": "<b>그 말</b>은 하지 마."
+    "panel.p4.bubble.center.html": "<b>그 말</b>은 하지 마.",
+    "panel.p1.extra.1.html": "래드는 영웅 스프라이트, 즉 플레이어 캐릭터입니다.",
+    "panel.p1.extra.2.html": "뭐라고?",
+    "panel.p2.extra.1.html": "래드의 모든 행동은 Kid Radd를 플레이하는 사람, 즉 <i>플레이어</i>가 조종합니다.",
+    "panel.p2.extra.2.html": "아.",
+    "panel.p3.extra.1.html": "래드는 스스로 아무것도 할 수 없습니다. 모든 움직임은 플레이어의 명령입니다.",
+    "panel.p3.extra.2.html": "그거 별론데.",
+    "panel.p4.extra.1.html": "요컨대, 래드는 플레이어의 작은 - -",
+    "panel.p4.extra.2.html": "<b>그 말</b>은 하지 마."
   }
 }

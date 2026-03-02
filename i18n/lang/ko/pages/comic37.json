@@ -14,6 +14,15 @@
     "panel.p3.bubble.right.html": "상관없어. 우릴 만지면 넌 반드시 피해를 입어.",
     "panel.p4.bubble.left.html": "근데... <b>왜인데?</b>",
     "panel.p4.bubble.center.html": "죽음의 접촉이야, 친구. 죽음의 접촉.",
-    "panel.p4.bubble.right.html": "우린 나쁜 놈들이거든."
+    "panel.p4.bubble.right.html": "우린 나쁜 놈들이거든.",
+    "panel.p1.extra.1.html": "그럼 내가 너희 거기서 빠져나오게 도와줄까?",
+    "panel.p1.extra.2.html": "고맙지만, 넌 못 해.",
+    "panel.p2.extra.1.html": "왜 못 해?",
+    "panel.p2.extra.2.html": "넌 이 게임의 주인공이고, 우린 적 스프라이트니까. 우리를 건드리면 네가 다쳐.",
+    "panel.p3.extra.1.html": "그래도 너희가 날 공격하는 것도 아니잖 - -",
+    "panel.p3.extra.2.html": "상관없어. 우릴 만지면 넌 반드시 피해를 입어.",
+    "panel.p4.extra.1.html": "근데... <b>왜인데?</b>",
+    "panel.p4.extra.2.html": "죽음의 접촉이야, 친구. 죽음의 접촉.",
+    "panel.p4.extra.3.html": "우린 나쁜 놈들이거든."
   }
 }

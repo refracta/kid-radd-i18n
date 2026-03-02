@@ -5,6 +5,14 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main.html": "\"살짝 미쳐가는 중\""
+    "title.main.html": "\"살짝 미쳐가는 중\"",
+    "panel.p1.bubble.left.html": "내가 그것을 그리워하는 것은 아니지만 내 사용자는 한동안 나를 이 감방에서 끌어내지 않았습니다.",
+    "panel.p1.extra.1.html": "<center>내가 그것을 그리워하는 것은 아니지만 내 사용자는 한동안 나를 이 감방에서 끌어내지 않았습니다.</center>",
+    "panel.p2.bubble.left.html": "아마 지금쯤 그녀는 소비자 서비스 라인에 전화했을 것이고 그들은 그녀가 미쳤다고 생각할 것입니다.",
+    "panel.p2.extra.1.html": "<center>아마 지금쯤 그녀는 소비자 서비스 라인에 전화했을 것이고 그들은 그녀가 미쳤다고 생각할 것입니다.</center>",
+    "panel.p3.bubble.left.html": "\"당신의 Office 길잡이는 나를 도와주지 않을 거예요! 내가 그를 클릭할 때마다 그는 나를 짜증나게 만들 뿐이에요!\"",
+    "panel.p3.extra.1.html": "<center>\"당신의 Office 길잡이는 나를 도와주지 않을 거예요! 내가 그를 클릭할 때마다 그는 나를 짜증나게 만들 뿐이에요!\"</center>",
+    "panel.p4.bubble.left.html": "감옥에도 장점이 있다고 생각합니다.",
+    "panel.p4.extra.1.html": "<center>감옥에도 장점이 있다고 생각합니다.</center>"
   }
 }

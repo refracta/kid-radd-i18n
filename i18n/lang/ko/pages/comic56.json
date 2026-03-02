@@ -14,6 +14,15 @@
     "panel.p3.bubble.right.html": "그걸 세고 있었어?...",
     "panel.p4.bubble.left.html": "그러니까 한 번 구해준 걸로 네 빚은 1,366으로 줄었어.",
     "panel.p5.bubble.left.html": "나 이거 분명 후회하겠지?",
-    "panel.p5.bubble.right.html": "내가 원한 품는 타입은 아닌데."
+    "panel.p5.bubble.right.html": "내가 원한 품는 타입은 아닌데.",
+    "panel.p1.extra.1.html": "거기서 도와줘서 고마워.",
+    "panel.p1.extra.2.html": "그래 뭐, 빚 하나 진 걸로 해.",
+    "panel.p2.extra.1.html": "아니, 정확히는 1,366번 빚진 거지.",
+    "panel.p2.extra.2.html": "뭐?",
+    "panel.p3.extra.1.html": "게임에서 넌 날 1,367번 날려버렸거든.",
+    "panel.p3.extra.2.html": "그걸 세고 있었어?...",
+    "panel.p4.extra.1.html": "그러니까 한 번 구해준 걸로 네 빚은 1,366으로 줄었어.",
+    "panel.p5.extra.1.html": "나 이거 분명 후회하겠지?",
+    "panel.p5.extra.2.html": "내가 원한 품는 타입은 아닌데."
   }
 }

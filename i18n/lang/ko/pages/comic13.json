@@ -11,6 +11,12 @@
     "panel.p3.bubble.center.html": "뭐야? 날아오는 칼에 찔려도 안 죽는다고? 다른 공격이랑 똑같이 글자 하나만 깎이네.",
     "panel.p4.bubble.center.html": "말도 안 되지만 사과든 도끼든 모든 공격이 똑같이 아프잖아!",
     "panel.p5.narration.1.html": "그리고...",
-    "panel.p5.bubble.left.html": "덤벼 봐!"
+    "panel.p5.bubble.left.html": "덤벼 봐!",
+    "panel.p1.extra.1.html": "이런, 이 녀석 위험해 보이는데.",
+    "panel.p2.extra.1.html": "<i>말도 안 돼!!!</i>",
+    "panel.p3.extra.1.html": "뭐야? 날아오는 칼에 찔려도 안 죽는다고? 다른 공격이랑 똑같이 글자 하나만 깎이네.",
+    "panel.p4.extra.1.html": "말도 안 되지만 사과든 도끼든 모든 공격이 똑같이 아프잖아!",
+    "panel.p5.extra.1.html": "그리고...",
+    "panel.p5.extra.2.html": "덤벼 봐!"
   }
 }

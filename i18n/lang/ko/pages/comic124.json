@@ -13,6 +13,14 @@
     "panel.p3.bubble.left.html": "흥미로운 선택이군. 근데 결제는 어떻게 할 건데?",
     "panel.p3.bubble.right.html": "신용 스캔으로 돼?",
     "panel.p4.bubble.left.html": "물론. 이름은?",
-    "panel.p4.bubble.right.html": "보기.  <br>\"B-O-G-E-Y.\""
+    "panel.p4.bubble.right.html": "보기.  <br>\"B-O-G-E-Y.\"",
+    "panel.p1.extra.1.html": "어떤 게임 들어가고 싶어? 슈팅? RPG?",
+    "panel.p1.extra.2.html": "횡스크롤 플랫폼 게임 있어?",
+    "panel.p2.extra.1.html": "클래식 취향이네? 내 타이틀 목록 봐.",
+    "panel.p2.extra.2.html": "흠, 저건 재밌어 보인다.",
+    "panel.p3.extra.1.html": "흥미로운 선택이군. 근데 결제는 어떻게 할 건데?",
+    "panel.p3.extra.2.html": "신용 스캔으로 돼?",
+    "panel.p4.extra.1.html": "물론. 이름은?",
+    "panel.p4.extra.2.html": "보기.  <br>\"B-O-G-E-Y.\""
   }
 }

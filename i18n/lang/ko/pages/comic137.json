@@ -7,6 +7,12 @@
   "strings": {
     "title.main.html": "\"버니맨이 온다\"",
     "panel.p3.bubble.right.html": "어, 베니?",
-    "panel.p4.bubble.right.html": "<b>말도 안 돼!!!</b>"
+    "panel.p4.bubble.right.html": "<b>말도 안 돼!!!</b>",
+    "panel.p3.extra.1.html": "어, 베니?",
+    "panel.p4.extra.1.html": "<b>말도 안 돼!!!</b>",
+    "panel.p1.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>이제 멋진 이야기가 시작됩니다!</b></font></center>",
+    "panel.p1.extra.2.html": "<b>이제 멋진 이야기가 시작됩니다!</b>",
+    "panel.p2.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>토끼와 병아리의 나라로 여행을 떠나보세요!</b></font></center>",
+    "panel.p2.extra.2.html": "<b>토끼와 병아리의 나라로 여행을 떠나보세요!</b>"
   }
 }

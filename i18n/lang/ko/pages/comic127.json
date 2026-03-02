@@ -11,6 +11,14 @@
     "panel.p2.bubble.center.html": "아야...",
     "panel.p3.bubble.left.html": "여기 대체 무슨 동네야? 우리 동네도 이상하다 싶었는데.",
     "panel.p4.bubble.left.html": "이제 어떻게 들어가더라?<br>아 맞다, 비밀 노크.",
-    "panel.p5.bubble.center.html": "(딸깍-딸깍!)"
+    "panel.p5.bubble.center.html": "(딸깍-딸깍!)",
+    "panel.p1.extra.1.html": "몇 정거장 뒤, 수송기가 112구역에 가까워집니다.",
+    "panel.p2.extra.1.html": "오 좋다, 여기 내릴 곳 맞는 것 같아.",
+    "panel.p2.extra.2.html": "아야...",
+    "panel.p3.extra.1.html": "<img width=\"10\" height=\"10\" src=\"../assets/icon.gif\"><b> 내 문서</b>",
+    "panel.p3.extra.2.html": "- 미'그로소프트 익스플로러",
+    "panel.p3.extra.3.html": "여기 대체 무슨 동네야? 우리 동네도 이상하다 싶었는데.",
+    "panel.p4.extra.1.html": "이제 어떻게 들어가더라?<br>아 맞다, 비밀 노크.",
+    "panel.p5.extra.1.html": "(딸깍-딸깍!)"
   }
 }

@@ -17,6 +17,17 @@
     "panel.p4.bubble.right.html": "아, 벽장에서 나오느라 좀 험하게 겪어서 그래.",
     "panel.p5.bubble.left.html": "와. 전혀 몰랐네...",
     "panel.p5.bubble.center.html": "<b>그 뜻이 아니거든!</b>",
-    "panel.p5.bubble.right.html": "<b>_</b>"
+    "panel.p5.bubble.right.html": "<b>_</b>",
+    "panel.p1.extra.1.html": "야, 네가 창고를 내 \"방\"으로 정했어도, 내가 하루 종일 여기 있을 순 없잖아!",
+    "panel.p1.extra.2.html": "좋아.",
+    "panel.p2.extra.1.html": "<b>딩동! 딩동!</b>",
+    "panel.p2.extra.2.html": "<b>아야!</b> 천장이 낮아서 머리 박았네.",
+    "panel.p2.extra.3.html": "조심 좀 해야겠네. 문 좀 열어줄래?",
+    "panel.p3.extra.1.html": "안녕 래드, 잘 지냈 -",
+    "panel.p3.extra.2.html": "그래 그래, 반갑다 어쩌고. 잠깐 비켜.",
+    "panel.p4.extra.1.html": "<i>쟤</i>는 왜 저렇게 퉁명스러워?",
+    "panel.p4.extra.2.html": "아, 벽장에서 나오느라 좀 험하게 겪어서 그래.",
+    "panel.p5.extra.1.html": "와. 전혀 몰랐네...",
+    "panel.p5.extra.2.html": "<b>그 뜻이 아니거든!</b>"
   }
 }

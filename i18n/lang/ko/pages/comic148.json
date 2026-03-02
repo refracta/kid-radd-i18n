@@ -13,6 +13,13 @@
     "panel.p3.bubble.right.html": "나간다고?  그래, 어디 한번 해봐.  나갈 수 있었으면 <b>내가</b> 여기 남아 있었겠냐?",
     "panel.p4.bubble.left.html": "왜?  <b>왜???</b>",
     "panel.p4.bubble.center.html": "어른 남자가 우는 건 보기 싫은데.",
-    "panel.p4.bubble.right.html": "쟤 우는 것도 마찬가지고."
+    "panel.p4.bubble.right.html": "쟤 우는 것도 마찬가지고.",
+    "panel.p1.extra.1.html": "래드, 무사해서 정말 다행이야! 내 행동을 용서해줘.",
+    "panel.p2.extra.1.html": "여기 생활을 더 편하게 해줄 방법이 있을까?",
+    "panel.p2.extra.2.html": "고맙지만 이제 나가려고.",
+    "panel.p3.extra.1.html": "나간다고?  그래, 어디 한번 해봐.  나갈 수 있었으면 <b>내가</b> 여기 남아 있었겠냐?",
+    "panel.p4.extra.1.html": "왜?  <b>왜???</b>",
+    "panel.p4.extra.2.html": "어른 남자가 우는 건 보기 싫은데.",
+    "panel.p4.extra.3.html": "쟤 우는 것도 마찬가지고."
   }
 }

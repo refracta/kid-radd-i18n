@@ -11,6 +11,11 @@
     "panel.p2.bubble.center.html": "하급 적 스프라이트는 보통 노동력으로 큰 쓸모가 없어. 기동력도 의욕도, ...손도 없는 경우가 많거든. 너희가 할 수 있는 일이 많지 않아.",
     "panel.p3.bubble.center.html": "그래서 호의로, 그리고 너희를 계속 보지 않아도 되게 너희 전용 장소를 따로 마련해뒀어. 일종의 적 스프라이트 보호구역이지.",
     "panel.p5.bubble.left.html": "당장 등록할게!",
-    "panel.p5.bubble.right.html": "기꺼이."
+    "panel.p5.bubble.right.html": "기꺼이.",
+    "panel.p1.extra.1.html": "내가 할 수 있는 일은 뭐가 있어?",
+    "panel.p1.extra.2.html": "음, 그건 좀 민감한 문제야. 나랑 같이 가자.",
+    "panel.p2.extra.1.html": "하급 적 스프라이트는 보통 노동력으로 큰 쓸모가 없어. 기동력도 의욕도, ...손도 없는 경우가 많거든. 너희가 할 수 있는 일이 많지 않아.",
+    "panel.p5.extra.1.html": "당장 등록할게!",
+    "panel.p5.extra.2.html": "기꺼이."
   }
 }

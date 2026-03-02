@@ -11,6 +11,12 @@
     "panel.p3.bubble.left.html": "아, 온다 온다. 얘들아 나 따라와! 자유를 향해!",
     "panel.p4.narration.1.html": "그렇게 시나는 첫 번째 게임 스프라이트들을 구출합니다.",
     "panel.p4.bubble.left.html": "오케이, 엄청 고마워하네.",
-    "panel.p4.bubble.right.html": "죽어! 죽어!"
+    "panel.p4.bubble.right.html": "죽어! 죽어!",
+    "panel.p1.extra.1.html": "얘들아, 어디 있어? 이 게임 스프라이트들은 다 어디 간 거야?",
+    "panel.p2.extra.1.html": "다들 나와! 이제 너희 자유야, 알겠지?",
+    "panel.p3.extra.1.html": "아, 온다 온다. 얘들아 나 따라와! 자유를 향해!",
+    "panel.p4.extra.1.html": "그렇게 시나는 첫 번째 게임 스프라이트들을 구출합니다.",
+    "panel.p4.extra.2.html": "오케이, 엄청 고마워하네.",
+    "panel.p4.extra.3.html": "죽어! 죽어!"
   }
 }

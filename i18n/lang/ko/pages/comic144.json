@@ -13,6 +13,16 @@
     "panel.p4.bubble.left.html": "여기서 나가야 해!",
     "panel.p4.bubble.center.html": "꼬마야, 출구는 베니 뒤쪽 하나뿐이야.",
     "panel.p5.bubble.left.html": "<b>우리 죽는다!!!</b>",
-    "panel.p5.bubble.center.html": "뭐, 당연하지."
+    "panel.p5.bubble.center.html": "뭐, 당연하지.",
+    "panel.p2.extra.1.html": "봤어? 플레이어 목숨이 이제 하나 남았어.",
+    "panel.p2.extra.2.html": "잘됐네. 빨리 끝났으면 좋겠다.",
+    "panel.p3.extra.1.html": "뭐야- ?",
+    "panel.p3.extra.2.html": "아, 젠장! 플레이어가 우릴 찾았어!",
+    "panel.p4.extra.1.html": "여기서 나가야 해!",
+    "panel.p4.extra.2.html": "꼬마야, 출구는 베니 뒤쪽 하나뿐이야.",
+    "panel.p5.extra.1.html": "<b>우리 죽는다!!!</b>",
+    "panel.p5.extra.2.html": "뭐, 당연하지.",
+    "panel.p1.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>남은 수명: 1</b></font></center>",
+    "panel.p1.extra.2.html": "<b>남은 수명: 1</b>"
   }
 }

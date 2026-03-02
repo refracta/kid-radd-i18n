@@ -12,6 +12,13 @@
     "panel.p2.bubble.right.html": "그렇다면 내게 남은 선택지는 하나뿐...",
     "panel.p3.bubble.center.html": "<b>널 파괴하는 것뿐이다!!!</b>",
     "panel.p4.bubble.left.html": "제 실수였네요. 예약했어요.",
-    "panel.p4.bubble.right.html": "수작 부리지 마."
+    "panel.p4.bubble.right.html": "수작 부리지 마.",
+    "panel.p1.extra.1.html": "그럼 들어가도 돼?",
+    "panel.p1.extra.2.html": "다시 묻지. 예약은 했나?",
+    "panel.p2.extra.1.html": "어, 아니.",
+    "panel.p2.extra.2.html": "그렇다면 내게 남은 선택지는 하나뿐...",
+    "panel.p3.extra.1.html": "<b>널 파괴하는 것뿐이다!!!</b>",
+    "panel.p4.extra.1.html": "제 실수였네요. 예약했어요.",
+    "panel.p4.extra.2.html": "수작 부리지 마."
   }
 }

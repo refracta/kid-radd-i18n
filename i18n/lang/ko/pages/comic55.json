@@ -11,6 +11,15 @@
     "panel.p3.bubble.left.html": "<b>여기서 어떻게 나가냐고???</b>",
     "panel.p4.bubble.center.html": "야, 그냥<br>점프해서 나가.",
     "panel.p5.bubble.left.html": "이 \"3-D\" 같은 건 도무지 적응이 안 돼.",
-    "panel.p5.bubble.right.html": "말도 마."
+    "panel.p5.bubble.right.html": "말도 마.",
+    "panel.p1.extra.2.html": "야, 나 이제 여기 있기 싫어.",
+    "panel.p2.extra.2.html": "근데... 막혀 있잖아!",
+    "panel.p3.extra.2.html": "<b>여기서 어떻게 나가냐고???</b>",
+    "panel.p4.extra.1.html": "야, 그냥<br>점프해서 나가.",
+    "panel.p5.extra.1.html": "이 \"3-D\" 같은 건 도무지 적응이 안 돼.",
+    "panel.p5.extra.2.html": "말도 마.",
+    "panel.p1.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>",
+    "panel.p2.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>",
+    "panel.p3.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>"
   }
 }

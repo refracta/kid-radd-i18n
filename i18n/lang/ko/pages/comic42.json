@@ -14,6 +14,15 @@
     "panel.p3.bubble.right.html": "뭐?",
     "panel.p4.bubble.left.html": "슈퍼 프리즈플레이 DX!",
     "panel.p5.bubble.left.html": "멋진데, 한 번 더 해줘!",
-    "panel.p5.bubble.right.html": "걱정 마, 분명 또 하게 될 거야..."
+    "panel.p5.bubble.right.html": "걱정 마, 분명 또 하게 될 거야...",
+    "panel.p1.extra.1.html": "그래서, 떠날 준비 됐어?",
+    "panel.p1.extra.2.html": "좋아, 가자.",
+    "panel.p1.extra.3.html": "자, 잠깐만...",
+    "panel.p2.extra.1.html": "난 평생을 여기서 살았어... 바깥세상이 어떤 곳인진 몰라도, 솔직히 무서울 것 같아. 좀 생각할 시간이 필요해.",
+    "panel.p3.extra.1.html": "솔직히 말하면, 넌 선택권이 없어.",
+    "panel.p3.extra.2.html": "뭐?",
+    "panel.p4.extra.1.html": "슈퍼 프리즈플레이 DX!",
+    "panel.p5.extra.1.html": "멋진데, 한 번 더 해줘!",
+    "panel.p5.extra.2.html": "걱정 마, 분명 또 하게 될 거야..."
   }
 }

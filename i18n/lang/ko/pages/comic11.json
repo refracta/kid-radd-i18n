@@ -10,6 +10,15 @@
     "panel.p1.bubble.center.html": "지난 몇 주 동안 천 번은 죽은 것 같지만, 게임은 거의 다 봤어.",
     "panel.p2.bubble.center.html": "플레이어가 엄청 늘어서 곧 게임을 깨겠네. 그러면 나도 좀 휴가 같은 거 받으려나.",
     "panel.p3.bubble.center.html": "좋았어! 다음엔 뭐가 나오려나?",
-    "panel.p4.bubble.center.html": "이건 그냥 너무하잖아..."
+    "panel.p4.bubble.center.html": "이건 그냥 너무하잖아...",
+    "panel.p1.extra.1.html": "래드는 게임이 바뀌어도 계속 나아갑니다...",
+    "panel.p1.extra.2.html": "지난 몇 주 동안 천 번은 죽은 것 같지만, 게임은 거의 다 봤어.",
+    "panel.p2.extra.1.html": "플레이어가 엄청 늘어서 곧 게임을 깨겠네. 그러면 나도 좀 휴가 같은 거 받으려나.",
+    "panel.p3.extra.2.html": "좋았어! 다음엔 뭐가 나오려나?",
+    "panel.p4.extra.1.html": "이건 그냥 너무하잖아...",
+    "panel.p3.extra.1.html": "레벨 완료!",
+    "panel.p4.extra.2.html": "<center><font class=\"rundschrift\" face=\"VAG Rundschrift D, verdana\" size=\"2\" color=\"white\">날카로운 고통스러운 물체 대지</font></center>",
+    "panel.p4.extra.3.html": "날카로운 고통스러운 물체 대지",
+    "panel.p4.extra.4.html": "X 2"
   }
 }

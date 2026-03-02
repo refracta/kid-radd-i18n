@@ -12,6 +12,15 @@
     "panel.p3.bubble.right.html": "나, 나는 내가 못 할 줄 알았어.",
     "panel.p4.bubble.center.html": "설마... 그럴 리가... 내가 플레이어 없이도 저 끝내주는 기술들을 다 쓸 수 있다는 건가?",
     "panel.p5.bubble.left.html": "드디어 눈치챘냐, 셜록.",
-    "panel.p5.bubble.right.html": "혹시 터보 컨트롤러 없이도 가능한 건가?..."
+    "panel.p5.bubble.right.html": "혹시 터보 컨트롤러 없이도 가능한 건가?...",
+    "panel.p1.extra.1.html": "GAME OVER",
+    "panel.p1.extra.2.html": "GAME OVER",
+    "panel.p2.extra.1.html": "해냈다! 게임을 끝냈어!",
+    "panel.p2.extra.2.html": "내가?",
+    "panel.p3.extra.1.html": "진짜 대단했어! 왜 그걸 진작 안 했어?",
+    "panel.p3.extra.2.html": "나, 나는 내가 못 할 줄 알았어.",
+    "panel.p4.extra.1.html": "설마... 그럴 리가... 내가 플레이어 없이도 저 끝내주는 기술들을 다 쓸 수 있다는 건가?",
+    "panel.p5.extra.1.html": "드디어 눈치챘냐, 셜록.",
+    "panel.p5.extra.2.html": "혹시 터보 컨트롤러 없이도 가능한 건가?..."
   }
 }

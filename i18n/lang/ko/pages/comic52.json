@@ -7,6 +7,10 @@
   "strings": {
     "title.main.html": "\"배드핑거\"",
     "panel.p1.narration.1.html": "보기의 적 스프라이트 보호구역 생활 2일 차입니다.",
-    "panel.p4.bubble.left.html": "이거 거의 난교인데!"
+    "panel.p4.bubble.left.html": "이거 거의 난교인데!",
+    "panel.p1.extra.1.html": "보기의 적 스프라이트 보호구역 생활 2일 차입니다.",
+    "panel.p4.extra.2.html": "이거 거의 난교인데!",
+    "panel.p3.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>",
+    "panel.p4.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>"
   }
 }

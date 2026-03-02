@@ -15,6 +15,16 @@
     "panel.p3.bubble.right.html": "<b>대박!</b>",
     "panel.p4.bubble.center.html": "인간 말이에요? <i>플레이어?!</i> 우릴 만들어낸 전능한 존재들? 최고네요! 이걸 어떻게 놓쳐요?",
     "panel.p5.bubble.left.html": "와, 넌 진짜 <i>신참</i>이구나.",
-    "panel.p5.bubble.right.html": "언제부터 시작하면 돼요?"
+    "panel.p5.bubble.right.html": "언제부터 시작하면 돼요?",
+    "panel.p1.extra.1.html": "호프타운 고용 사무소:",
+    "panel.p1.extra.2.html": "자, 래드 씨. 솔직히 말해 경력이 좀 부족하네요.",
+    "panel.p1.extra.3.html": "네.",
+    "panel.p2.extra.1.html": "하지만 당신이 충분히 할 수 있는 일자리가 하나 있습니다.",
+    "panel.p2.extra.2.html": "그래요?",
+    "panel.p3.extra.1.html": "모두가 좋아하진 않죠. 인간과 함께 일하는 건 괜찮나요?",
+    "panel.p3.extra.2.html": "<b>대박!</b>",
+    "panel.p4.extra.1.html": "인간 말이에요? <i>플레이어?!</i> 우릴 만들어낸 전능한 존재들? 최고네요! 이걸 어떻게 놓쳐요?",
+    "panel.p5.extra.1.html": "와, 넌 진짜 <i>신참</i>이구나.",
+    "panel.p5.extra.2.html": "언제부터 시작하면 돼요?"
   }
 }

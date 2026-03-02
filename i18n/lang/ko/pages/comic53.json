@@ -7,6 +7,10 @@
   "strings": {
     "title.main.html": "\"재회\"",
     "panel.p1.narration.1.html": "보기의 적 스프라이트 보호구역 생활 3일 차입니다.",
-    "panel.p4.bubble.left.html": "우리 어디서 본 적 있지?"
+    "panel.p4.bubble.left.html": "우리 어디서 본 적 있지?",
+    "panel.p1.extra.1.html": "보기의 적 스프라이트 보호구역 생활 3일 차입니다.",
+    "panel.p4.extra.2.html": "우리 어디서 본 적 있지?",
+    "panel.p3.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>",
+    "panel.p4.extra.1.html": "<b>여기에는 숨겨진 텍스트가 없습니다.</b>"
   }
 }

@@ -12,6 +12,13 @@
     "panel.p2.bubble.right.html": "나도 동의해.",
     "panel.p3.bubble.right.html": "하지만 포털이 닫히면 이 게임이 파괴된다는 걸 잊었군. ...그리고 안에 있는 모두도.",
     "panel.p4.bubble.left.html": "아, 맞다.",
-    "panel.p4.bubble.right.html": "자, 가자. 영웅답게 해보자!"
+    "panel.p4.bubble.right.html": "자, 가자. 영웅답게 해보자!",
+    "panel.p1.extra.1.html": "<i>구출</i>한다고?",
+    "panel.p1.extra.2.html": "응, 그냥 포털로 던져 넣으면 돼. 식은 죽 먹기지.",
+    "panel.p2.extra.1.html": "근데 얘들은 여기서 <i>행복</i>하잖아.",
+    "panel.p2.extra.2.html": "나도 동의해.",
+    "panel.p3.extra.1.html": "하지만 포털이 닫히면 이 게임이 파괴된다는 걸 잊었군. ...그리고 안에 있는 모두도.",
+    "panel.p4.extra.1.html": "아, 맞다.",
+    "panel.p4.extra.2.html": "자, 가자. 영웅답게 해보자!"
   }
 }

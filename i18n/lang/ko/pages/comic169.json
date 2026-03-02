@@ -13,6 +13,15 @@
     "panel.p3.bubble.right.html": "어이쿠.",
     "panel.p4.bubble.left.html": "곧 하루 노동의 가치가 뭔지 배우게 될 거야.",
     "panel.p4.bubble.right.html": "무슨 일인데?",
-    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>"
+    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
+    "panel.p1.extra.1.html": "래드는 또 다른 데이터 수송기에서 깨어납니다.",
+    "panel.p2.extra.1.html": "쯧, 너희 종족은 해동도 느리군. 한심해.",
+    "panel.p2.extra.2.html": "아야. 너희 - 종족?",
+    "panel.p3.extra.1.html": "사회에 기생하는 것들. 널 교화하기 위해 웹 바깥으로 끌고 가서 강제노역형에 처할 거다.",
+    "panel.p3.extra.2.html": "어이쿠.",
+    "panel.p4.extra.1.html": "곧 하루 노동의 가치가 뭔지 배우게 될 거야.",
+    "panel.p4.extra.2.html": "무슨 일인데?",
+    "panel.p5.extra.1.html": "<table border=\"0\" cellpadding=\"1\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"00ffff\"><table border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tbody><tr><td bgcolor=\"0066ff\" width=\"248\" valign=\"top\"><font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"../assets/icon2.gif\"><b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft 오피스 도우미</font></b></font></td></tr></tbody></table></td></tr></tbody></table>",
+    "panel.p5.extra.2.html": "<b>안 돼!!!!!</b>"
   }
 }

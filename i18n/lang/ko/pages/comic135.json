@@ -11,6 +11,12 @@
     "panel.p2.bubble.left.html": "곧 플레이어가 날 조종할 거야. 그러면 널 새 적으로 볼 거라고.",
     "panel.p2.bubble.right.html": "그래서?",
     "panel.p3.bubble.left.html": "그러면 내가 너한테 마법 달걀을 던지게 될 거야!",
-    "panel.p4.bubble.left.html": "나 살인기계야! 진짜라고!"
+    "panel.p4.bubble.left.html": "나 살인기계야! 진짜라고!",
+    "panel.p1.extra.1.html": "도망쳐, 래드! 여기서 나가!",
+    "panel.p1.extra.2.html": "난 아무것도 두렵지 않아. 나는 래드다.",
+    "panel.p2.extra.1.html": "곧 플레이어가 날 조종할 거야. 그러면 널 새 적으로 볼 거라고.",
+    "panel.p2.extra.2.html": "그래서?",
+    "panel.p3.extra.1.html": "그러면 내가 너한테 마법 달걀을 던지게 될 거야!",
+    "panel.p4.extra.1.html": "나 살인기계야! 진짜라고!"
   }
 }

@@ -16,6 +16,17 @@
     "panel.p4.bubble.left.html": "오늘 에피소드도,<br> 똑같은 거 더 나옵니다.",
     "panel.p4.bubble.right.html": "그렇긴 한데...<br><b>왜?</b>",
     "panel.p5.bubble.left.html": "이리 와서 죽어!",
-    "panel.p5.bubble.right.html": "음, 뭐. 그건 이유가 되긴 하네..."
+    "panel.p5.bubble.right.html": "음, 뭐. 그건 이유가 되긴 하네...",
+    "panel.p1.extra.1.html": "보기의 아파트로 돌아온 래드는 여전히 얹혀삽니다.",
+    "panel.p1.extra.2.html": "지난 BattleOrb Q에서...",
+    "panel.p2.extra.1.html": "...주먹질이 잔뜩 있었고, 폭발도 진짜 멋졌지.",
+    "panel.p2.extra.2.html": "이보다 더 좋을 순 없어.",
+    "panel.p2.extra.3.html": "저는 정중히 반대합니다...",
+    "panel.p3.extra.1.html": "...근데 스토리는 하나도 진전이 없었잖아.",
+    "panel.p3.extra.2.html": "네 TV로 네 나초 먹으면서 보면 되잖아. 왜 내 걸 뜯어먹고 있어.",
+    "panel.p4.extra.1.html": "오늘 에피소드도,<br> 똑같은 거 더 나옵니다.",
+    "panel.p4.extra.2.html": "그렇긴 한데...<br><b>왜?</b>",
+    "panel.p5.extra.1.html": "이리 와서 죽어!",
+    "panel.p5.extra.2.html": "음, 뭐. 그건 이유가 되긴 하네..."
   }
 }

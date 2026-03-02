@@ -12,6 +12,13 @@
     "panel.p3.bubble.left.html": "와, 보통 임무는 요원 한 명이면 되는 거 아니에요?",
     "panel.p3.bubble.right.html": "보통은 그렇지. 근데 이건 특수 케이스야. 퍼즐 게임이거든.",
     "panel.p4.bubble.left.html": "퍼즐 게임이 뭐죠?",
-    "panel.p4.bubble.right.html": "봐, 그래서 네가 도움이 필요한 거야."
+    "panel.p4.bubble.right.html": "봐, 그래서 네가 도움이 필요한 거야.",
+    "panel.p1.extra.1.html": "시나는 모더레이터 본부에 출근합니다.",
+    "panel.p2.extra.1.html": "안녕하세요, 캡틴! 또 뵈어서 반가워요.",
+    "panel.p2.extra.2.html": "딱 잘 왔어! 이번엔 우리 둘이 같이 나갈 임무가 있어.",
+    "panel.p3.extra.1.html": "와, 보통 임무는 요원 한 명이면 되는 거 아니에요?",
+    "panel.p3.extra.2.html": "보통은 그렇지. 근데 이건 특수 케이스야. 퍼즐 게임이거든.",
+    "panel.p4.extra.1.html": "퍼즐 게임이 뭐죠?",
+    "panel.p4.extra.2.html": "봐, 그래서 네가 도움이 필요한 거야."
   }
 }

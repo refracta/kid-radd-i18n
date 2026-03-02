@@ -13,6 +13,14 @@
     "panel.p3.bubble.right.html": "정답.",
     "panel.p4.bubble.left.html": "아, 이제 알 것 같아.",
     "panel.p4.bubble.center.html": "뭐?...",
-    "panel.p4.bubble.right.html": "걱정 마, 용사님. 우리가 설명해줄게."
+    "panel.p4.bubble.right.html": "걱정 마, 용사님. 우리가 설명해줄게.",
+    "panel.p1.extra.1.html": "말도 안 돼! 네가 그렇게 무적일 리가 없잖아!",
+    "panel.p1.extra.2.html": "될 수 있고, 실제로 그래.",
+    "panel.p2.extra.1.html": "넌 플레이어블 캐릭터가 아니잖아! 적 스프라이트도 아니고!",
+    "panel.p3.extra.1.html": "기술도 능력도 없고! MP도 없고! 생명 게이지조차 없잖아!",
+    "panel.p3.extra.2.html": "정답.",
+    "panel.p4.extra.1.html": "아, 이제 알 것 같아.",
+    "panel.p4.extra.2.html": "뭐?...",
+    "panel.p4.extra.3.html": "걱정 마, 용사님. 우리가 설명해줄게."
   }
 }

@@ -12,6 +12,13 @@
     "panel.p3.bubble.center.html": "반면 플레이어가 공격 버튼을 꾹 누르고 있으면, 내 유명한 메가 래드를 충전할 수 있지.",
     "panel.p4.bubble.center.html": "플레이어가 10초 동안 누르고 있으면 공격력이 최대 255까지 올라가!",
     "panel.p5.narration.1.html": "그래서... 왜 하필 255일까요?",
-    "panel.p5.bubble.center.html": "야, 내가 그런 것까지 다 설명해야 해?"
+    "panel.p5.bubble.center.html": "야, 내가 그런 것까지 다 설명해야 해?",
+    "panel.p1.extra.1.html": "지금부터 래드의 특별한 능력을 확인해 보시죠.",
+    "panel.p1.extra.2.html": "그치, 내가 좀 끝내주지!",
+    "panel.p2.extra.1.html": "다른 애들처럼 나도 래드 빔을 던져 볼품없는 적들을 지져버릴 수 있어.",
+    "panel.p3.extra.1.html": "반면 플레이어가 공격 버튼을 꾹 누르고 있으면, 내 유명한 메가 래드를 충전할 수 있지.",
+    "panel.p4.extra.1.html": "플레이어가 10초 동안 누르고 있으면 공격력이 최대 255까지 올라가!",
+    "panel.p5.extra.1.html": "그래서... 왜 하필 255일까요?",
+    "panel.p5.extra.2.html": "야, 내가 그런 것까지 다 설명해야 해?"
   }
 }

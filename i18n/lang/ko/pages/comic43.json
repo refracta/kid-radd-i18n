@@ -13,6 +13,14 @@
     "panel.p4.bubble.center.html": "게임 안으로 포털을 열면 소스 코드가 손상돼. 포털이 닫히는 순간 게임은 붕괴해서 자폭하지.",
     "panel.p5.bubble.left.html": "내 세상을 파괴했다고???",
     "panel.p5.bubble.center.html": "그래, 맞아. 하지만 넌 이제 <i>자유</i>야.",
-    "panel.p5.bubble.right.html": "좀 고마워해라."
+    "panel.p5.bubble.right.html": "좀 고마워해라.",
+    "panel.p1.extra.1.html": "으윽... 여긴 어디지?",
+    "panel.p2.extra.1.html": "미안하지만, 자발적으로 떠나지 않는 이들은 강제로 연행할 수밖에 없었어.",
+    "panel.p3.extra.1.html": "그렇게까지 할 필요 없었잖아!",
+    "panel.p3.extra.2.html": "아니, 필요했어.",
+    "panel.p4.extra.1.html": "게임 안으로 포털을 열면 소스 코드가 손상돼. 포털이 닫히는 순간 게임은 붕괴해서 자폭하지.",
+    "panel.p5.extra.1.html": "내 세상을 파괴했다고???",
+    "panel.p5.extra.2.html": "그래, 맞아. 하지만 넌 이제 <i>자유</i>야.",
+    "panel.p5.extra.3.html": "좀 고마워해라."
   }
 }

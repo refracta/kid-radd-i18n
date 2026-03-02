@@ -15,6 +15,16 @@
     "panel.p4.bubble.center.html": "<font size=\"5\" face=\"arial\"><b>안 돼에에에!!!!!</b></font>",
     "panel.p5.bubble.left.html": "어째서, 어째서야?...",
     "panel.p5.bubble.center.html": "얘, 의존성이 좀 심해.",
-    "panel.p5.bubble.right.html": "얘들 저럴 때 제일 피곤하다."
+    "panel.p5.bubble.right.html": "얘들 저럴 때 제일 피곤하다.",
+    "panel.p1.extra.1.html": "당신 누구야?",
+    "panel.p1.extra.2.html": "난 모더레이터 소속 캡틴 QB다. 널 자유롭게 해주러 왔지!",
+    "panel.p2.extra.1.html": "어... 뭘로부터 자유롭게?",
+    "panel.p2.extra.2.html": "당연히 이 게임에서.",
+    "panel.p3.extra.1.html": "플레이어가 널 보낸 거야?",
+    "panel.p3.extra.2.html": "뭐라고? 세상에, 아니지. 네 플레이어는 진작에 떠났어.",
+    "panel.p4.extra.1.html": "<font size=\"5\" face=\"arial\"><b>안 돼에에에!!!!!</b></font>",
+    "panel.p5.extra.1.html": "어째서, 어째서야?...",
+    "panel.p5.extra.2.html": "얘, 의존성이 좀 심해.",
+    "panel.p5.extra.3.html": "얘들 저럴 때 제일 피곤하다."
   }
 }

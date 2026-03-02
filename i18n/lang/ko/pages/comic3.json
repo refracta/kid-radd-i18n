@@ -13,6 +13,14 @@
     "panel.p3.narration.1.html": "또는 플레이어가 래드를 끝없는 구덩이로 뛰어들게 하기로 하면...",
     "panel.p3.bubble.center.html": "어릴 때 로드러너 만화를 많이 봤거든.",
     "panel.p4.narration.1.html": "...래드는 이런 자살 같은 명령도 따릅니다.",
-    "panel.p4.bubble.center.html": "<b>쟤한테 아이디어 주지 마!</b>"
+    "panel.p4.bubble.center.html": "<b>쟤한테 아이디어 주지 마!</b>",
+    "panel.p1.extra.1.html": "래드는 플레이어의 완전한 통제 아래에 있습니다.",
+    "panel.p1.extra.2.html": "이미 말했잖아.",
+    "panel.p2.extra.1.html": "예를 들어 플레이어가 래드에게 치명적인 적과 싸우라고 하면, 래드는 복종해야 합니다.",
+    "panel.p2.extra.2.html": "다 알아들었어.",
+    "panel.p3.extra.1.html": "또는 플레이어가 래드를 끝없는 구덩이로 뛰어들게 하기로 하면...",
+    "panel.p3.extra.2.html": "어릴 때 로드러너 만화를 많이 봤거든.",
+    "panel.p4.extra.1.html": "...래드는 이런 자살 같은 명령도 따릅니다.",
+    "panel.p4.extra.2.html": "<b>쟤한테 아이디어 주지 마!</b>"
   }
 }

@@ -13,6 +13,16 @@
     "panel.p3.bubble.left.html": "그건 입장만 속인 거야. 내 말 믿어, 여기서 죽으면 이 게임은 널 되살릴 수 없어!",
     "panel.p3.bubble.right.html": "말도 안 돼!",
     "panel.p4.bubble.left.html": "말도 돼! 그러니까 너무 늦기 전에 뛰어 -",
-    "panel.p5.bubble.center.html": "- 늦었다."
+    "panel.p5.bubble.center.html": "- 늦었다.",
+    "panel.p1.extra.1.html": "마지막으로 말한다, 래드. 뛰어! 플레이어가 날 시켜 널 죽일 거야!",
+    "panel.p1.extra.2.html": "별거 아니네. 게임 죽음은 영구적이지 않잖아.",
+    "panel.p2.extra.1.html": "그건 네 원래 게임에서만! 넌 여기 출신이 아니라고!",
+    "panel.p2.extra.2.html": "게임은 내가 여기 출신인 줄 알아. 코드 넣었잖아, 기억 안 나?",
+    "panel.p3.extra.1.html": "그건 입장만 속인 거야. 내 말 믿어, 여기서 죽으면 이 게임은 널 되살릴 수 없어!",
+    "panel.p3.extra.2.html": "말도 안 돼!",
+    "panel.p4.extra.1.html": "말도 돼! 그러니까 너무 늦기 전에 뛰어 -",
+    "panel.p5.extra.1.html": "- 늦었다.",
+    "panel.p5.extra.2.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>게임 시작!</b></font></center>",
+    "panel.p5.extra.3.html": "<b>게임 시작!</b>"
   }
 }

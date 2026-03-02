@@ -9,6 +9,8 @@
     "panel.p2.bubble.center.html": "래드...",
     "panel.p3.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">시나?</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">래드, 내 말 들려?</font>",
     "panel.p4.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">여긴 어디야?</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">넌 모더레이터와 함께 있어.</font>",
-    "panel.p5.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">젠장, 난 <b>진짜</b> 지옥에 있구나.</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">......</font>"
+    "panel.p5.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">젠장, 난 <b>진짜</b> 지옥에 있구나.</font><br><br><font size=\"2\" face=\"arial\" color=\"pink\">......</font>",
+    "panel.p2.extra.1.html": "래드...",
+    "panel.p5.extra.1.html": "<center>사진이 없는 만화. 젠장, 난 게으르다.</center>"
   }
 }

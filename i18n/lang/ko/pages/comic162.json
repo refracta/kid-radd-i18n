@@ -12,6 +12,9 @@
     "panel.p4.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"blue\">그럼 왜 너희가 안 보이지?</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">눈 감고 있으니까 그렇지, 멍청아.</font>",
     "panel.p5.bubble.left.html": "아. 참 신기하게도 그렇네.",
     "panel.p5.bubble.center.html": "네 친구들은 다 이렇게 멍청해?",
-    "panel.p5.bubble.right.html": "상상도 못 할걸..."
+    "panel.p5.bubble.right.html": "상상도 못 할걸...",
+    "panel.p5.extra.1.html": "아. 참 신기하게도 그렇네.",
+    "panel.p5.extra.2.html": "네 친구들은 다 이렇게 멍청해?",
+    "panel.p5.extra.3.html": "상상도 못 할걸..."
   }
 }

@@ -11,6 +11,13 @@
     "panel.p3.bubble.left.html": "자, 질문 있나?",
     "panel.p3.bubble.right.html": "있지. 우리 왜 놀이기구 카트에 타고 있어? 그건 그냥 영화였잖아.",
     "panel.p4.bubble.left.html": "아, 쇼 끝에 나오는 쓸데없지만 멋진 워터슬라이드 때문이지.",
-    "panel.p5.bubble.right.html": "<b>우와아아!!!<b></b></b>"
+    "panel.p5.bubble.right.html": "<b>우와아아!!!<b></b></b>",
+    "panel.p3.extra.1.html": "자, 질문 있나?",
+    "panel.p3.extra.2.html": "있지. 우리 왜 놀이기구 카트에 타고 있어? 그건 그냥 영화였잖아.",
+    "panel.p4.extra.1.html": "아, 쇼 끝에 나오는 쓸데없지만 멋진 워터슬라이드 때문이지.",
+    "panel.p5.extra.1.html": "<b>우와아아!!!<b></b></b>",
+    "panel.p1.extra.1.html": "<center><b>\"탈출자들은 그들을 Doom Platoon에서 해방시킨 원래의 결함을 사용하여 웹상의 다른 ROM에 침입할 수 있는 포털 기술을 만들었습니다.\"</b></center>",
+    "panel.p2.extra.1.html": "<center><b>\"모든 포로 요정을 해방하겠다고 다짐하면서 모더레이터가 설립되었습니다.\"</b></center>",
+    "panel.p2.extra.2.html": "<b>끝</b>"
   }
 }

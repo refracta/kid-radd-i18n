@@ -7,6 +7,12 @@
   "strings": {
     "title.main.html": "\"쿵푸 파이팅\"",
     "panel.p4.bubble.left.html": "와.",
-    "panel.p4.bubble.right.html": "잠깐만. 네 말은 그 용의자를 날아차기로 제압했다는 걸 우리가 믿으란 거야?"
+    "panel.p4.bubble.right.html": "잠깐만. 네 말은 그 용의자를 날아차기로 제압했다는 걸 우리가 믿으란 거야?",
+    "panel.p4.extra.1.html": "와.",
+    "panel.p4.extra.2.html": "잠깐만. 네 말은 그 용의자를 날아차기로 제압했다는 걸 우리가 믿으란 거야?",
+    "panel.p1.extra.1.html": "<b>\"그래서 식당에 갔을 때 래드가 어떤 이상한 사람과 거래를 마무리하는 것을 발견했습니다. 그 수상한 남자는 일이 끝난 후 래드을 따라가기 때문에 둘 다 미행하기로 결정했습니다.\"</b>",
+    "panel.p2.extra.1.html": "<b>\"내가 알기도 전에 래드는 무력화되었고 그 이상한 사람이 그를 공격하고 있습니다. 바로 그때 제가 개입했습니다.\"</b>",
+    "panel.p3.extra.1.html": "회전은 매트릭스 같은 것으로 되어 있었지만, 마치 do-si-do-ing인 것처럼 보입니다.",
+    "panel.p5.extra.1.html": "<b>\"뭐, 그런 거요.\"</b>"
   }
 }

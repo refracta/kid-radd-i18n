@@ -10,6 +10,13 @@
     "panel.p2.bubble.left.html": "근데 실제론 아니어도 줄이 맞았다고 믿기만 해도 행복해해. 그래서 거울을 보여주면...",
     "panel.p3.bubble.left.html": "짜잔! 점수 내는 줄 아는데 안 사라진다!",
     "panel.p4.bubble.left.html": "정신적으로 매우 불편한데, 솔직히 부럽기도 하네.",
-    "panel.p4.bubble.center.html": "저거 봐, 신났네!"
+    "panel.p4.bubble.center.html": "저거 봐, 신났네!",
+    "panel.p1.extra.1.html": "퍼즐 스프라이트는 줄 맞추면 행복해지도록 프로그래밍돼 있어. 근데 그러면 사라지지.",
+    "panel.p2.extra.1.html": "근데 실제론 아니어도 줄이 맞았다고 믿기만 해도 행복해해. 그래서 거울을 보여주면...",
+    "panel.p3.extra.1.html": "짜잔! 점수 내는 줄 아는데 안 사라진다!",
+    "panel.p4.extra.1.html": "정신적으로 매우 불편한데, 솔직히 부럽기도 하네.",
+    "panel.p4.extra.2.html": "저거 봐, 신났네!",
+    "panel.p4.extra.3.html": "<center><font color=\"black\">점수!</font></center>",
+    "panel.p4.extra.4.html": "점수!"
   }
 }
