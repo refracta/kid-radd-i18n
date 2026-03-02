@@ -2,6 +2,10 @@
 
 English/Korean localization and rendering pipeline for the **Kid Radd** webcomic archive.
 
+## Project URL
+
+- GitHub Pages: https://refracta.github.io/kid-radd-i18n/
+
 ## Overview
 
 This repository keeps the original comic pages/assets and adds:
