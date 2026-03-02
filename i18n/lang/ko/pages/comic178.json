@@ -7,11 +7,11 @@
   "strings": {
     "title.main.html": "\"이제 넌 사라졌어\"",
     "panel.p1.bubble.left.html": "좋아, 스프라이트 전원 대피 완료.",
-    "panel.p1.bubble.right.html": "가자. 게임이 곧 내폭할 거야.",
+    "panel.p1.bubble.right.html": "가자. 게임이 곧 내파될 거야.",
     "panel.p3.bubble.center.html": "<b>안 돼애애!!!!</b>",
     "panel.p4.bubble.center.html": "안 돼... 나...<br>제발 방금 저게 꿈이었기를...",
     "panel.p1.extra.1.html": "좋아, 스프라이트 전원 대피 완료.",
-    "panel.p1.extra.2.html": "가자. 게임이 곧 내폭할 거야.",
+    "panel.p1.extra.2.html": "가자. 게임이 곧 내파될 거야.",
     "panel.p3.extra.1.html": "<b>안 돼애애!!!!</b>",
     "panel.p4.extra.1.html": "안 돼... 나...<br>제발 방금 저게 꿈이었기를..."
   }
