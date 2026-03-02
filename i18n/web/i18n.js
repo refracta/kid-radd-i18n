@@ -1559,12 +1559,17 @@
 		var panels = getComicPanelNames();
 		var keepAll = normalizeLang(state.currentLang) === 'ko';
 
+		applyWordBreakToTarget(getTitleMainTarget(), keepAll);
+		applyWordBreakToTarget(getTitleExtraTargets(), keepAll);
+
 		for(var i = 0; i < panels.length; i++) {
 			var panelName = panels[i];
 			applyWordBreakToTarget(getNarrationTarget(panelName), keepAll);
 			for(var slotIndex = 0; slotIndex < BUBBLE_SLOTS.length; slotIndex++) {
 				applyWordBreakToTarget(getBubbleTarget(panelName, BUBBLE_SLOTS[slotIndex]), keepAll);
 			}
+			applyWordBreakToTarget(getPanelChatTargets(panelName), keepAll);
+			applyWordBreakToTarget(getPanelExtraTargets(panelName), keepAll);
 		}
 	}
 
