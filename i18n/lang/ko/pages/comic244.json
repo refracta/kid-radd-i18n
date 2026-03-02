@@ -7,6 +7,20 @@
   "strings": {
     "title.main.html": "\"손 단단히 잡아\"",
     "panel.p2.bubble.left.html": "함선 동력을 퍼즐 스프라이트로 돌린다고???",
-    "panel.p2.bubble.right.html": "물론이지. 걔들은 우리에게 영원히 충분한 무료 동력이고, 본인들도 좋아하거든."
+    "panel.p2.bubble.right.html": "물론이지. 걔들은 우리에게 영원히 충분한 무료 동력이고, 본인들도 좋아하거든.",
+    "panel.p2.extra.1.html": "함선 동력을 퍼즐 스프라이트로 돌린다고???",
+    "panel.p2.extra.2.html": "물론이지. 걔들은 우리에게 영원히 충분한 무료 동력이고, 본인들도 좋아하거든.",
+    "panel.p1.bubble.left.html": "도대체 이곳은 어떤 곳인가요?",
+    "panel.p1.bubble.right.html": "아, 안녕하세요 래드. 엔진룸에 오신 것을 환영합니다.",
+    "panel.p1.extra.1.html": "<center>도대체 이곳은 어떤 곳인가요?</center>",
+    "panel.p1.extra.2.html": "<center>아, 안녕하세요 래드. 엔진룸에 오신 것을 환영합니다.</center>",
+    "panel.p3.bubble.left.html": "그래도 좀 엉망이네요.",
+    "panel.p3.bubble.right.html": "그들은 나에게 배의 이름을 \"High Score\"로 지정하는 아이디어를 주었습니다.",
+    "panel.p3.extra.1.html": "<center>그래도 좀 엉망이네요.</center>",
+    "panel.p3.extra.2.html": "<center>그들은 나에게 배의 이름을 \"High Score\"로 지정하는 아이디어를 주었습니다.</center>",
+    "panel.p4.bubble.left.html": "보정, <b>그건</b> 엉망.",
+    "panel.p4.bubble.right.html": "그것은 아니면 \"보너스 라운드\"였습니다.",
+    "panel.p4.extra.1.html": "<center>보정, <b>그건</b> 엉망.</center>",
+    "panel.p4.extra.2.html": "<center>그것은 아니면 \"보너스 라운드\"였습니다.</center>"
   }
 }

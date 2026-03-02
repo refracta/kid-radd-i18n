@@ -8,6 +8,11 @@
     "title.main.html": "\"빛을 봤다\"",
     "panel.p1.narration.1.html": "<center><br><b>반복한다, 움직이지 마라!</b><br>\\<br><img width=\"60\" height=\"22\" src=\"../assets/spacer.gif\"><img width=\"192\" height=\"52\" src=\"../assets/ship2.gif\"></center>",
     "panel.p1.bubble.left.html": "좋네.<br>모더레이터 함선이군.",
-    "panel.p2.bubble.right.html": "아쉽네. 너희, 오늘 상대 잘못 골랐어. 난 싸우지 않고는 절대 안 항복해!"
+    "panel.p2.bubble.right.html": "아쉽네. 너희, 오늘 상대 잘못 골랐어. 난 싸우지 않고는 절대 안 항복해!",
+    "panel.p1.extra.2.html": "좋네.<br>모더레이터 함선이군.",
+    "panel.p2.extra.1.html": "아쉽네. 너희, 오늘 상대 잘못 골랐어. 난 싸우지 않고는 절대 안 항복해!",
+    "panel.p1.extra.1.html": "<br><b>반복하세요. 움직이지 마세요!</b><br>\\<br><img width=\"60\" height=\"22\" src=\"../assets/spacer.gif\"><img width=\"192\" height=\"52\" src=\"../assets/ship2.gif\">",
+    "panel.p3.extra.1.html": "<br><b>충분히 공정합니다.</b><br>\\<br><img width=\"60\" height=\"22\" src=\"../assets/spacer.gif\"><img width=\"192\" height=\"52\" src=\"../assets/ship2.gif\">",
+    "panel.p4.extra.1.html": "<br><b>그것은 극한 상황이었습니다.</b><br>\\<br><img width=\"60\" height=\"22\" src=\"../assets/spacer.gif\"><img width=\"192\" height=\"52\" src=\"../assets/ship2.gif\">"
   }
 }

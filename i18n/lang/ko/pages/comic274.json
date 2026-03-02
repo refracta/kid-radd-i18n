@@ -12,6 +12,13 @@
     "panel.p3.bubble.center.html": "나, 나, 나...",
     "panel.p4.bubble.center.html": "나도 있지, 친구!",
     "panel.p4.bubble.right.html": "좋다!",
-    "panel.p5.bubble.center.html": "<b>으아아아악!!!!!</b>"
+    "panel.p5.bubble.center.html": "<b>으아아아악!!!!!</b>",
+    "panel.p1.extra.1.html": "여긴 어디야? 무슨 일이 벌어지는 거야?",
+    "panel.p2.extra.1.html": "너잖아!",
+    "panel.p2.extra.2.html": "그래, 나다.",
+    "panel.p3.extra.1.html": "나, 나, 나...",
+    "panel.p4.extra.1.html": "나도 있지, 친구!",
+    "panel.p4.extra.2.html": "좋다!",
+    "panel.p5.extra.1.html": "<b>으아아아악!!!!!</b>"
   }
 }

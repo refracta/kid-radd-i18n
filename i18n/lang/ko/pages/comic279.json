@@ -7,6 +7,11 @@
   "strings": {
     "title.main.html": "\"낯선 땅의 이방인들\"",
     "panel.p4.bubble.left.html": "좋아, 원한다면 너희 위로 함선을 몇 번이든 착륙시켜 줄게!",
-    "panel.p4.bubble.right.html": "만세!"
+    "panel.p4.bubble.right.html": "만세!",
+    "panel.p4.extra.1.html": "좋아, 원한다면 너희 위로 함선을 몇 번이든 착륙시켜 줄게!",
+    "panel.p4.extra.2.html": "만세!",
+    "panel.p1.extra.1.html": "<b>\"시나의 로그: 이 서버의 스프라이트 커뮤니티는 Reset이라고 합니다. 주민 대부분이 RPG 출신이므로 주변에 NPC가 많은 이유가 설명됩니다.\"</b>",
+    "panel.p2.extra.1.html": "<b>\"Mods처럼 획기적인 기술이 없기 때문에 이 서버에 있는 대부분의 ROM은 그대로 유지됩니다. 바로 우리가 찾고 있는 것입니다.\"</b>",
+    "panel.p3.extra.1.html": "<b>\"내일부터 우리는 새로운 동맹을 찾기 위해 ROM에 들어가기 시작할 것입니다. 하지만 오늘 밤에는 주민들이 우리에게 환영 파티를 열어줄 것입니다.\"</b>"
   }
 }

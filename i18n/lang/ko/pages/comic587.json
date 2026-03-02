@@ -12,6 +12,13 @@
     "panel.p2.bubble.center.html": "멍청이들! 이건 게임 속 죽음일 뿐이다! 난 여전히 존재하고, 세계도 여전히 파괴할 거다!",
     "panel.p3.bubble.center.html": "잠깐 - 뭔가 이상해. 내가 뭘 잊고 있지?",
     "panel.p4.bubble.center.html": "두두두둣, 두두두우...",
-    "panel.p5.bubble.center.html": "아 맞다, 컨트롤룸.  <b>젠-</b>"
+    "panel.p5.bubble.center.html": "아 맞다, 컨트롤룸.  <b>젠-</b>",
+    "panel.p1.extra.1.html": "<b>승리!</b>",
+    "panel.p1.extra.2.html": "<b>락!</b>",
+    "panel.p1.extra.3.html": "<b>크르르...</b>",
+    "panel.p2.extra.1.html": "멍청이들! 이건 게임 속 죽음일 뿐이다! 난 여전히 존재하고, 세계도 여전히 파괴할 거다!",
+    "panel.p3.extra.1.html": "잠깐 - 뭔가 이상해. 내가 뭘 잊고 있지?",
+    "panel.p4.extra.1.html": "두두두둣, 두두두우...",
+    "panel.p5.extra.1.html": "아 맞다, 컨트롤룸.  <b>젠-</b>"
   }
 }

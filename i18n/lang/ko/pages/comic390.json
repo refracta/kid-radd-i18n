@@ -7,6 +7,14 @@
   "strings": {
     "title.main.html": "\"판도라의 상자\"",
     "panel.p1.bubble.left.html": "그래서, 또 쓸데없는 야간 경비의 지루한 밤이군.",
-    "panel.p1.bubble.right.html": "맞아."
+    "panel.p1.bubble.right.html": "맞아.",
+    "panel.p1.extra.1.html": "그래서, 또 쓸데없는 야간 경비의 지루한 밤이군.",
+    "panel.p1.extra.2.html": "맞아.",
+    "panel.p3.bubble.left.html": "아야. 창고는 더 이상 경비할 필요가 없는 것 같아요.",
+    "panel.p3.bubble.right.html": "이제부터 우리는 저 문 반대편에 있게 될 것 같아요.",
+    "panel.p3.extra.1.html": "<center>아야. 창고는 더 이상 경비할 필요가 없는 것 같아요.</center>",
+    "panel.p3.extra.2.html": "<center>이제부터 우리는 저 문 반대편에 있게 될 것 같아요.</center>",
+    "panel.p4.bubble.right.html": "운명은 나에게 새로운 손을 주었다. 이제 세상을 다시 바로잡을 때가 된 것 같습니다...",
+    "panel.p4.extra.1.html": "<center>운명은 나에게 새로운 손을 주었다. 이제 세상을 다시 바로잡을 때가 된 것 같습니다...</center>"
   }
 }

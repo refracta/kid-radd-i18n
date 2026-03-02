@@ -12,6 +12,13 @@
     "panel.p2.bubble.right.html": "음...",
     "panel.p3.bubble.left.html": "그 쫙 붙는 복장에 몸을 욱여넣는 능력 말고는 말이지, 헤헤...",
     "panel.p5.bubble.left.html": "야, 봐! 능력 하나 더!",
-    "panel.p5.bubble.right.html": "개그 담당은 능력으로 안 쳐!"
+    "panel.p5.bubble.right.html": "개그 담당은 능력으로 안 쳐!",
+    "panel.p1.extra.1.html": "하이스코어 꼭대기에서 래드와 시나는 픽셀 적들을 다시 쏟아붓듯 공격합니다.",
+    "panel.p1.extra.2.html": "이거나 <b>먹어라,</b> 찌질이들아!",
+    "panel.p2.extra.1.html": "<i>분홍색</i> 메가 래드? 그게 네 공격이야? 다른 특수 능력은 없어?",
+    "panel.p2.extra.2.html": "음...",
+    "panel.p3.extra.1.html": "그 쫙 붙는 복장에 몸을 욱여넣는 능력 말고는 말이지, 헤헤...",
+    "panel.p5.extra.1.html": "야, 봐! 능력 하나 더!",
+    "panel.p5.extra.2.html": "개그 담당은 능력으로 안 쳐!"
   }
 }

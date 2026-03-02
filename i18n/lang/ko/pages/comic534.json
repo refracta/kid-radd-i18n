@@ -11,6 +11,14 @@
     "panel.p2.bubble.left.html": "흠흠.",
     "panel.p2.bubble.right.html": "어, 그러니까... \"에너지 시그니처?\"",
     "panel.p4.bubble.left.html": "그리고 엄청나게 눈에 띄어.",
-    "panel.p4.bubble.right.html": "<i>세상에 <b>비트!</b>...</i>"
+    "panel.p4.bubble.right.html": "<i>세상에 <b>비트!</b>...</i>",
+    "panel.p1.extra.1.html": "그래서 그 \"뭔가\"가 왜 특별한데?",
+    "panel.p1.extra.2.html": "음, 물결선 같은 게 있는데 -",
+    "panel.p2.extra.1.html": "흠흠.",
+    "panel.p2.extra.2.html": "어, 그러니까... \"에너지 시그니처?\"",
+    "panel.p4.extra.1.html": "그리고 엄청나게 눈에 띄어.",
+    "panel.p4.extra.2.html": "<i>세상에 <b>비트!</b>...</i>",
+    "panel.p3.extra.1.html": "<b>\"더 나은.\"</b>",
+    "panel.p3.extra.2.html": "<b>\"어쨌든 뭐라고 부르든 래드가 충전될 때의 출력과 매우 유사합니다.\"</b>"
   }
 }

@@ -12,6 +12,13 @@
     "panel.p3.bubble.right.html": "도망자라는 게 무색하네. 진짜 수송 수단이 필요해.",
     "panel.p4.bubble.left.html": "저거처럼.",
     "panel.p5.bubble.center.html": "아니면 다른 걸로.",
-    "panel.p5.narration.1.html": "<center><b>정지, 범죄자!</b><br>|<br><img width=\"144\" height=\"88\" src=\"../assets/ship3.gif\"></center>"
+    "panel.p5.narration.1.html": "<center><b>정지, 범죄자!</b><br>|<br><img width=\"144\" height=\"88\" src=\"../assets/ship3.gif\"></center>",
+    "panel.p1.extra.1.html": "넌... 대가를... 치를 거야...",
+    "panel.p1.extra.2.html": "나중에 보자. 난 여기서 빠져나갈 길부터 찾아야 해.",
+    "panel.p2.extra.1.html": "음, 여기 데이터포트가 있긴 한데 내가 탈 이동체가 없으면 거의 쓸모없어.",
+    "panel.p3.extra.1.html": "도망자라는 게 무색하네. 진짜 수송 수단이 필요해.",
+    "panel.p4.extra.1.html": "저거처럼.",
+    "panel.p5.extra.2.html": "아니면 다른 걸로.",
+    "panel.p5.extra.1.html": "<b>멈춰라, 범죄자야!</b><br>|<br><img width=\"144\" height=\"88\" src=\"../assets/ship3.gif\">"
   }
 }

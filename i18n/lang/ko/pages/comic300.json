@@ -20,6 +20,21 @@
     "panel.p7.narration.1.html": "...단 5분 동안만요.",
     "panel.p7.bubble.left.html": "좋아, 이제 다 잊었어.",
     "panel.p7.bubble.center.html": "배틀로얄 한 판 어때?",
-    "panel.p7.bubble.right.html": "이번엔 내가 <b>무조건</b> 이긴다!"
+    "panel.p7.bubble.right.html": "이번엔 내가 <b>무조건</b> 이긴다!",
+    "panel.p1.extra.1.html": "다들 재미는 고마웠는데, 너희 중 누구도 영입할 필요는 없을 것 같아.",
+    "panel.p1.extra.2.html": "유감이지만, 저도 동의해요.",
+    "panel.p2.extra.1.html": "내 말은, 잡몹 스프라이트랑 NPC한테도 쓰러지면 대군을 상대하는 데는 절대 도움이 안 된다는 거지.",
+    "panel.p2.extra.2.html": "무례한 표현이긴 하지만 맞는 말이군요.",
+    "panel.p3.extra.1.html": "우린 이제 떠난다. 바깥세상으로 탈출하고 싶으면 같이 와도 돼.",
+    "panel.p3.extra.2.html": "NPC로 가득한 그곳을? 고맙지만 사양할게.",
+    "panel.p4.extra.1.html": "다들 안녕!",
+    "panel.p5.extra.1.html": "와, 완전 망했네.",
+    "panel.p5.extra.2.html": "난 이제 다시는 싸울 의욕이 없을 것 같아.",
+    "panel.p5.extra.3.html": "나도, 갑자기 폭력이 역겨워졌어.",
+    "panel.p6.extra.1.html": "한때 강력했던 세 전사의 기개가 빠르고 완전히 꺾여 버린 이 슬픈 이야기는 이렇게 끝납니다.",
+    "panel.p7.extra.1.html": "...단 5분 동안만요.",
+    "panel.p7.extra.2.html": "좋아, 이제 다 잊었어.",
+    "panel.p7.extra.3.html": "배틀로얄 한 판 어때?",
+    "panel.p7.extra.4.html": "이번엔 내가 <b>무조건</b> 이긴다!"
   }
 }

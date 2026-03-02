@@ -12,6 +12,15 @@
     "panel.p2.bubble.right.html": "뭐, 적어도 거기 안에서는.",
     "panel.p4.bubble.left.html": "백마도사.",
     "panel.p4.bubble.center.html": "닥쳐.",
-    "panel.p4.bubble.right.html": "아무튼, 누가 더 갈 건데?"
+    "panel.p4.bubble.right.html": "아무튼, 누가 더 갈 건데?",
+    "panel.p1.extra.1.html": "와, 우리 진짜 모드들을 이길 수 있는 거야? 분명 함정이 있겠지!",
+    "panel.p1.extra.2.html": "물론이지. 나쁜 소식은, 그를 꺼내 오는 게 쉽지 않다는 거야.",
+    "panel.p2.extra.1.html": "그 게임은 RPG고, 우리는 그런 세계에 맞게 설계된 캐릭터가 아니야. 그쪽 출신은 IB뿐이고, 게다가 전투형도 아니지.",
+    "panel.p2.extra.2.html": "뭐, 적어도 거기 안에서는.",
+    "panel.p4.extra.1.html": "백마도사.",
+    "panel.p4.extra.2.html": "닥쳐.",
+    "panel.p4.extra.3.html": "아무튼, 누가 더 갈 건데?",
+    "panel.p3.extra.1.html": "<b>\"직접 공격할 수는 없지만, 바깥 세계에서는 약간의 속임수를 쓸 수는 있습니다. 하지만 RPG 전투에서는 그럴 수 없습니다.\"</b>",
+    "panel.p3.extra.2.html": "<b>\"그래도 당신이 들어가야 합니다. 당신의 치료법이 일행을 살려줄 것입니다.\"</b>"
   }
 }

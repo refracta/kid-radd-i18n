@@ -12,6 +12,12 @@
     "panel.p3.bubble.center.html": "그래서 자격이 될 것 같고 함께하고 싶다면, 자원해 주세요!",
     "panel.p4.bubble.left.html": "어, 한 번 흔들리면 예스, 두 번이면 노?",
     "panel.p4.bubble.center.html": "이 친구는 \"좋아\"라고 한 것 같은데.",
-    "panel.p4.bubble.right.html": "<font size=\"2\" face=\"arial\"><b>그르글그르글그!</b></font><font size=\"1\" face=\"arial\"><br><b>*</b>(음!  맛있다!)</font>"
+    "panel.p4.bubble.right.html": "<font size=\"2\" face=\"arial\"><b>그르글그르글그!</b></font><font size=\"1\" face=\"arial\"><br><b>*</b>(음!  맛있다!)</font>",
+    "panel.p1.extra.1.html": "동료를 찾기 위한 무작위 수색은 계속됩니다...",
+    "panel.p1.extra.2.html": "음, 안녕하세요 여러분. 저희가 일종의 스카우트 임무로 왔어요.",
+    "panel.p2.extra.1.html": "저희가 특별한 능력을 가진 스프라이트를 찾고 있거든요. 사악한 제국을 전복하는 걸 도와줄 분을요.",
+    "panel.p3.extra.1.html": "그래서 자격이 될 것 같고 함께하고 싶다면, 자원해 주세요!",
+    "panel.p4.extra.1.html": "어, 한 번 흔들리면 예스, 두 번이면 노?",
+    "panel.p4.extra.2.html": "이 친구는 \"좋아\"라고 한 것 같은데."
   }
 }

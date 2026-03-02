@@ -9,6 +9,14 @@
     "panel.p3.bubble.left.html": "준비되면 언제든.",
     "panel.p3.bubble.right.html": "<b>...</b>",
     "panel.p5.bubble.left.html": "대체 어떻게 <b>다른 방</b>으로 가버린 거야???",
-    "panel.p5.bubble.right.html": "몰라, 일단 내 주먹 좀 천장에서 빼내는 거 도와줘."
+    "panel.p5.bubble.right.html": "몰라, 일단 내 주먹 좀 천장에서 빼내는 거 도와줘.",
+    "panel.p3.extra.1.html": "준비되면 언제든.",
+    "panel.p5.extra.1.html": "대체 어떻게 <b>다른 방</b>으로 가버린 거야???",
+    "panel.p5.extra.2.html": "몰라, 일단 내 주먹 좀 천장에서 빼내는 거 도와줘.",
+    "panel.p1.extra.1.html": "<b>\"자, 아주 기본적인 것부터 시작하겠습니다. 당신의 실력을 파악하고 싶으니 공격해 주세요.\"</b>",
+    "panel.p1.extra.2.html": "<b>\"공격?\"</b>",
+    "panel.p2.extra.1.html": "<b>\"그렇습니다. 어떤 식으로든 상관없습니다. 당신이 가진 것을 나에게 보여주세요.\"</b>",
+    "panel.p2.extra.2.html": "<b>\"괜찮은.\"</b>",
+    "panel.p4.extra.1.html": "<center>다소 두꺼운 스피드라인이 있지만 작동하는 것 같습니다.  </center>"
   }
 }

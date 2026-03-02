@@ -14,6 +14,15 @@
     "panel.p2.bubble.right.html": "<b>안 돼!</b>",
     "panel.p4.bubble.left.html": "어, 물어봐도 될까?...",
     "panel.p4.bubble.center.html": "<b>응, 안 돼!</b>",
-    "panel.p4.bubble.right.html": "..그다음엔 범퍼카도 타고, 헤헤!"
+    "panel.p4.bubble.right.html": "..그다음엔 범퍼카도 타고, 헤헤!",
+    "panel.p1.extra.1.html": "아, 다시 게임 탐험이라. 너무 오랜만이네.",
+    "panel.p1.extra.2.html": "어머, 너무 귀엽다!",
+    "panel.p1.extra.3.html": "꿈도 꾸지 마.",
+    "panel.p2.extra.1.html": "이제 관련 파일로 게임 식별도 되니까, 이런 거 더 자주 할 수 있겠네!!",
+    "panel.p2.extra.2.html": "딱 한 번만 안아볼게!",
+    "panel.p2.extra.3.html": "<b>안 돼!</b>",
+    "panel.p4.extra.1.html": "어, 물어봐도 될까?...",
+    "panel.p4.extra.2.html": "<b>응, 안 돼!</b>",
+    "panel.p4.extra.3.html": "..그다음엔 범퍼카도 타고, 헤헤!"
   }
 }

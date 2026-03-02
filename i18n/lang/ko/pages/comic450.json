@@ -9,6 +9,12 @@
     "panel.p2.bubble.left.html": "블록을 일렬로 세워뒀어. 전력질주로 지나가면서 한 번에 최대한 많이 베어.",
     "panel.p2.bubble.right.html": "한번 해볼게.",
     "panel.p4.bubble.left.html": "맞췄다! 나 진짜 맞췄어!",
-    "panel.p4.bubble.right.html": "네 벨트 맞힌 건 카운트 안 돼..."
+    "panel.p4.bubble.right.html": "네 벨트 맞힌 건 카운트 안 돼...",
+    "panel.p2.extra.1.html": "블록을 일렬로 세워뒀어. 전력질주로 지나가면서 한 번에 최대한 많이 베어.",
+    "panel.p2.extra.2.html": "한번 해볼게.",
+    "panel.p4.extra.1.html": "맞췄다! 나 진짜 맞췄어!",
+    "panel.p4.extra.2.html": "네 벨트 맞힌 건 카운트 안 돼...",
+    "panel.p1.extra.1.html": "<b>\"좋아, 다른 걸 시도해 보자.\"</b>",
+    "panel.p3.extra.1.html": "<center>스트립의 첫 번째 \"팬티샷?\"</center>"
   }
 }

@@ -12,6 +12,14 @@
     "panel.p3.bubble.left.html": "아니면 B, 스토리 관련 캐릭터라 스크립트 전투를 발동시키고, 망할 이야기를 드디어 진행시켜 주는 거지. 그럼 나도 드디어 게임을 계속할 수 있고.",
     "panel.p4.bubble.left.html": "근데 게임이 플레이되고 있지 않아서 스토리가 안 나가는 거야. 우리 중 누구도 인간이 조종하지 않아.",
     "panel.p4.bubble.right.html": "거짓말! 내가 증명해 주지!",
-    "panel.p5.bubble.center.html": "공격!!!"
+    "panel.p5.bubble.center.html": "공격!!!",
+    "panel.p1.extra.1.html": "이봐 친구, 너 지금 큰 실수하는 거야.",
+    "panel.p1.extra.2.html": "그럴 리 없다.",
+    "panel.p2.extra.1.html": "원래 괴물은 도시 경계 안엔 절대 안 나타난다. 그러니 넌 A, 엄청 희귀한 비밀 몹이라서 전투 후에 EXP랑 아이템을 잔뜩 주거나...",
+    "panel.p3.extra.1.html": "아니면 B, 스토리 관련 캐릭터라 스크립트 전투를 발동시키고, 망할 이야기를 드디어 진행시켜 주는 거지. 그럼 나도 드디어 게임을 계속할 수 있고.",
+    "panel.p4.extra.1.html": "근데 게임이 플레이되고 있지 않아서 스토리가 안 나가는 거야. 우리 중 누구도 인간이 조종하지 않아.",
+    "panel.p4.extra.2.html": "거짓말! 내가 증명해 주지!",
+    "panel.p5.extra.1.html": "공격!!!",
+    "panel.p5.extra.2.html": "<center>계속됩니다!</center>"
   }
 }

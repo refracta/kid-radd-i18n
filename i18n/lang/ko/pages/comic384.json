@@ -10,6 +10,11 @@
     "panel.p1.bubble.center.html": "으으, 알겠어...",
     "panel.p3.bubble.left.html": "다시 해보자...",
     "panel.p3.bubble.center.html": "벌써 14번째인데?",
-    "panel.p3.bubble.right.html": "다시는 <b>하지 말자!</b>"
+    "panel.p3.bubble.right.html": "다시는 <b>하지 말자!</b>",
+    "panel.p1.extra.1.html": "다시 해보자. 두 손 내밀어!",
+    "panel.p1.extra.2.html": "으으, 알겠어...",
+    "panel.p3.extra.1.html": "다시 해보자...",
+    "panel.p3.extra.2.html": "벌써 14번째인데?",
+    "panel.p3.extra.3.html": "다시는 <b>하지 말자!</b>"
   }
 }

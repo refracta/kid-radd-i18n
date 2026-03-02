@@ -13,6 +13,18 @@
     "panel.p3.bubble.right.html": "비주얼은 소박했지만 개그는 끝내줬고, 지금까지도 이어지는 수많은 트렌드를 만든 작품이죠!",
     "panel.p4.bubble.center.html": "-",
     "panel.p4.bubble.right.html": "있잖아, 가끔은 할 말 없어도 이런 만화에 숨은 텍스트를 넣어. 지금처럼.",
-    "panel.p5.narration.1.html": "<center><b>야!  그만해!</b></center>"
+    "panel.p5.narration.1.html": "<center><b>야!  그만해!</b></center>",
+    "panel.p1.extra.1.html": "오늘은 여러분께 특별한 선물을 준비했어요! 70년대까지 거슬러 올라가는 아주 초기 스프라이트 만화를 찾았거든요!",
+    "panel.p2.bubble.right.html": "<font size=\"2\" face=\"arial\">비트 버디즈는 1979년에 데뷔하여 비디오 게임 산업의 발전을 활용하고 가장 사랑받는 캐릭터를 활용했습니다.</font>",
+    "panel.p2.extra.1.html": "<center>나야, 패들!</center>",
+    "panel.p2.extra.2.html": "<center>그런 말은 그만 두세요.</center>",
+    "panel.p3.extra.1.html": "<center>나는 당신의 창조자입니다!</center>",
+    "panel.p3.extra.2.html": "<center>지옥에 가세요.<br>|</center>",
+    "panel.p4.extra.1.html": "<center>여러분, 우리가 가장 좋아하는 게임을 해보세요!</center>",
+    "panel.p4.extra.2.html": "<center>바로!</center>",
+    "panel.p4.extra.3.html": "<center>단단한!</center>",
+    "panel.p5.bubble.right.html": "나는 필요했다<br>휴식.",
+    "panel.p5.extra.1.html": "<b>여기요! 그만해!</b>",
+    "panel.p5.extra.2.html": "<center>나는 필요했다<br>휴식.</center>"
   }
 }

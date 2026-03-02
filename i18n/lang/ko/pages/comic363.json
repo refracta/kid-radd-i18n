@@ -10,6 +10,10 @@
     "panel.p1.bubble.right.html": "제발, 포기하지 마!",
     "panel.p2.bubble.right.html": "<font size=\"1\" face=\"arial\">걱정 마, 언니...</font><br><font size=\"1\" face=\"arial\"> 나 아직 두어 대는 더 버틸 수 있어...</font>",
     "panel.p4.bubble.left.html": "사라졌어...",
-    "panel.p4.bubble.right.html": "...다음은 우리야."
+    "panel.p4.bubble.right.html": "...다음은 우리야.",
+    "panel.p1.extra.1.html": "늦었어, 시나.",
+    "panel.p1.extra.2.html": "제발, 포기하지 마!",
+    "panel.p4.extra.1.html": "사라졌어...",
+    "panel.p4.extra.2.html": "...다음은 우리야."
   }
 }

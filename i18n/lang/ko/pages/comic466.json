@@ -14,6 +14,19 @@
     "panel.p3.bubble.right.html": "좋지!",
     "panel.p4.bubble.left.html": "아이고 맙소사, 래드!  <b>그만 \"좋지!\"라고 해!</b>",
     "panel.p4.bubble.center.html": "PIZZA를 먹기 전까진 못 멈춰!",
-    "panel.p4.bubble.right.html": "저 멍청함... 보는 내가 아프다..."
+    "panel.p4.bubble.right.html": "저 멍청함... 보는 내가 아프다...",
+    "panel.p1.extra.2.html": "네, 앰프 박사님...",
+    "panel.p2.extra.2.html": "거의...",
+    "panel.p2.extra.3.html": "\"좋은 아침이구나, 얘야! 이제 푹 쉬었니?\"",
+    "panel.p3.extra.2.html": "음...",
+    "panel.p3.extra.3.html": "PIZZA 먹을래?",
+    "panel.p3.extra.4.html": "좋지!",
+    "panel.p4.extra.1.html": "아이고 맙소사, 래드!  <b>그만 \"좋지!\"라고 해!</b>",
+    "panel.p4.extra.2.html": "PIZZA를 먹기 전까진 못 멈춰!",
+    "panel.p4.extra.3.html": "저 멍청함... 보는 내가 아프다...",
+    "title.extra.1.html": "<b>©199X SIMIAN 소프트웨어<br>시작을 누르세요</b>",
+    "panel.p1.extra.1.html": "<b>\"너희 거기 괜찮니?\"</b>",
+    "panel.p2.extra.1.html": "<b>\"좋아요. 그럼 이제 앞으로의 여정이 시작되었나요?\"</b>",
+    "panel.p3.extra.1.html": "<b>\"왜 안돼? 무슨 문제라도 있는 거야?\"</b>"
   }
 }

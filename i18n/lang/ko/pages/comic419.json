@@ -12,6 +12,14 @@
     "panel.p4.bubble.left.html": "잘했어, QB! 우리가 이긴 것 같네.",
     "panel.p4.bubble.right.html": "그래? 어, GI는 어디 갔지?",
     "panel.p5.bubble.left.html": "야, IB! 저것 중 하나 네 인벤토리에 넣을 수 있어?",
-    "panel.p5.bubble.right.html": "천만에, 흥. 대신 보관료는 받을 거야..."
+    "panel.p5.bubble.right.html": "천만에, 흥. 대신 보관료는 받을 거야...",
+    "panel.p1.extra.1.html": "<b>스-트라이크!</b>",
+    "panel.p2.extra.1.html": "저놈들 너무 강해! 한 명씩 몰아붙여야 이긴다!<br><b>캡틴 QB부터 잡아!</b>",
+    "panel.p3.extra.1.html": "가까이 오지 마! 안 그러면 내가 -<br><b>얼티밋 프리즈플레이 TD!</b>",
+    "panel.p4.extra.1.html": "잘했어, QB! 우리가 이긴 것 같네.",
+    "panel.p4.extra.2.html": "그래? 어, GI는 어디 갔지?",
+    "panel.p5.extra.1.html": "야, IB! 저것 중 하나 네 인벤토리에 넣을 수 있어?",
+    "panel.p5.extra.2.html": "천만에, 흥. 대신 보관료는 받을 거야...",
+    "panel.p3.extra.2.html": "확실히 50이 넘습니다."
   }
 }

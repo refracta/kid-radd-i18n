@@ -7,6 +7,12 @@
   "strings": {
     "title.main.html": "\"기적\"",
     "panel.p1.narration.1.html": "그렇게 래드의 턴이 왔습니다. 그런데도...",
-    "panel.p4.bubble.center.html": "이 정도면 됐어."
+    "panel.p4.bubble.center.html": "이 정도면 됐어.",
+    "panel.p1.extra.1.html": "그렇게 래드의 턴이 왔습니다. 그런데도...",
+    "panel.p4.extra.1.html": "이 정도면 됐어.",
+    "panel.p1.extra.2.html": "<center>어서 래드... 이제 겁내지 마세요... 당신은 이것을 하고 싶었습니다.</center>",
+    "panel.p2.extra.1.html": "<center>기적을 바라야지...</center>",
+    "panel.p3.extra.1.html": "<center>모션 블러는 카메라 움직임을 시뮬레이션합니다.<br>바랍니다.</center>",
+    "panel.p4.extra.2.html": "<center>래드? 방금 무슨 일이 일어났나요?</center>"
   }
 }

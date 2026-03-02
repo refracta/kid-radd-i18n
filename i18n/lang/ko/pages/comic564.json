@@ -10,6 +10,11 @@
     "panel.p2.bubble.center.html": "잠깐. 배틀오브 Q라면 바로 이때 연기가 걷히고 적이 걸어나와 비꼬듯 이렇게 말하지...",
     "panel.p3.bubble.center.html": "잘했다, 래드. 이제 9,998 HP 남았군.",
     "panel.p4.bubble.left.html": "<b>반칙이잖아!!!</b>  내 최애 프로그램 완전 망치네!",
-    "panel.p4.bubble.right.html": "그래, 네 최대 고민이 그거지. 2라운드 갈까?"
+    "panel.p4.bubble.right.html": "그래, 네 최대 고민이 그거지. 2라운드 갈까?",
+    "panel.p1.extra.1.html": "와, 이건 믿기지 않을 만큼 쉬웠는데.",
+    "panel.p2.extra.1.html": "잠깐. 배틀오브 Q라면 바로 이때 연기가 걷히고 적이 걸어나와 비꼬듯 이렇게 말하지...",
+    "panel.p3.extra.1.html": "잘했다, 래드. 이제 9,998 HP 남았군.",
+    "panel.p4.extra.1.html": "<b>반칙이잖아!!!</b>  내 최애 프로그램 완전 망치네!",
+    "panel.p4.extra.2.html": "그래, 네 최대 고민이 그거지. 2라운드 갈까?"
   }
 }

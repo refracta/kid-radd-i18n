@@ -13,6 +13,14 @@
     "panel.p3.bubble.left.html": "작별 인사하세요, 캡틴.",
     "panel.p3.bubble.right.html": "넌 날 해고 못 해, 내가 계급이 더 높아! 지휘 계통은 알고 있어야지!",
     "panel.p4.bubble.left.html": "으휴. 그 헬멧이 미묘한 뉘앙스는 전부 막아버리나 보네?",
-    "panel.p4.bubble.right.html": "항명죄로 내가 <i>너를</i> 해고해야겠군!"
+    "panel.p4.bubble.right.html": "항명죄로 내가 <i>너를</i> 해고해야겠군!",
+    "panel.p1.extra.1.html": "캡틴 QB, 당신은 모더레이터와 나 모두를 실망시켰어요. 당신의 복무는 더 이상 필요 없어요.",
+    "panel.p1.extra.2.html": "뭐?",
+    "panel.p2.extra.1.html": "이걸 당신의... <b>해고 통지</b>로 여기세요.",
+    "panel.p2.extra.2.html": "설마!",
+    "panel.p3.extra.1.html": "작별 인사하세요, 캡틴.",
+    "panel.p3.extra.2.html": "넌 날 해고 못 해, 내가 계급이 더 높아! 지휘 계통은 알고 있어야지!",
+    "panel.p4.extra.1.html": "으휴. 그 헬멧이 미묘한 뉘앙스는 전부 막아버리나 보네?",
+    "panel.p4.extra.2.html": "항명죄로 내가 <i>너를</i> 해고해야겠군!"
   }
 }

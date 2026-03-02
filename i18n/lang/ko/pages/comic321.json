@@ -9,6 +9,14 @@
     "panel.p1.bubble.left.html": "아, 진짜 움직일 수가 없네.",
     "panel.p2.bubble.left.html": "보이지 않는 상자 안에 갇힌 느낌이야.",
     "panel.p3.bubble.left.html": "봐, 나 마임이다!",
-    "panel.p4.bubble.left.html": "마르셀 마르소도 이건 <b>못 따라 하지!</b>"
+    "panel.p4.bubble.left.html": "마르셀 마르소도 이건 <b>못 따라 하지!</b>",
+    "panel.p1.extra.1.html": "아, 진짜 움직일 수가 없네.",
+    "panel.p2.extra.1.html": "보이지 않는 상자 안에 갇힌 느낌이야.",
+    "panel.p3.extra.1.html": "봐, 나 마임이다!",
+    "panel.p4.extra.1.html": "마르셀 마르소도 이건 <b>못 따라 하지!</b>",
+    "panel.p1.extra.2.html": "<center>저를 믿으세요. 이런 유형의 게임에서는 중요하지 않습니다.</center>",
+    "panel.p2.extra.2.html": "<center>그것에 대해 걱정하지 마십시오. 그것은 중요하지 않습니다.</center>",
+    "panel.p3.extra.2.html": "<center>지금은 때도 아니고 장소도 아닌데...</center>",
+    "panel.p4.extra.2.html": "<center>도대체 무슨 문제가 있는 걸까요?</center>"
   }
 }

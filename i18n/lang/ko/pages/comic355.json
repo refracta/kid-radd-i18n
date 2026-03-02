@@ -15,6 +15,17 @@
     "panel.p3.bubble.right.html": "간단해. 잘 봐!",
     "panel.p5.bubble.left.html": "나 좀 봐! 내가 <i>보기를 만지고 있어!</i>",
     "panel.p5.bubble.center.html": "모욕감이 밀려오네.",
-    "panel.p5.bubble.right.html": "나도 같은 기분이야."
+    "panel.p5.bubble.right.html": "나도 같은 기분이야.",
+    "panel.p1.extra.1.html": "내 개인 공간이 침해당하고 있어...",
+    "panel.p1.extra.2.html": "우린 특이한 능력을 가진 스프라이트가 필요해. 너도 나처럼 충전할 수 있어?",
+    "panel.p1.extra.3.html": "뭘 한다고?",
+    "panel.p2.extra.1.html": "그거 있잖아, 충전해서 메가 래드 쏘는 거.",
+    "panel.p2.extra.2.html": "아, 메가 래드? 맞는 파워업 먹으면 한동안은 그거 던질 수 있어.",
+    "panel.p3.extra.1.html": "근데... 그 외엔 어떻게 공격해?",
+    "panel.p3.extra.2.html": "간단해. 잘 봐!",
+    "panel.p5.extra.1.html": "나 좀 봐! 내가 <i>보기를 만지고 있어!</i>",
+    "panel.p5.extra.2.html": "모욕감이 밀려오네.",
+    "panel.p5.extra.3.html": "나도 같은 기분이야.",
+    "panel.p4.extra.1.html": "<b>\"야! 넌 할 수 있어 <i>찾다</i> 보기?\"</b>"
   }
 }

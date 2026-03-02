@@ -13,6 +13,14 @@
     "panel.p3.bubble.left.html": "모든 죄수에게 수갑과 족쇄를 채우라고 명령한 줄 알았는데.",
     "panel.p3.bubble.right.html": "그게, 음...",
     "panel.p4.bubble.left.html": "아.",
-    "panel.p4.bubble.right.html": "넌 절대 날 가둘 수 없어!"
+    "panel.p4.bubble.right.html": "넌 절대 날 가둘 수 없어!",
+    "panel.p1.extra.1.html": "그래, 새로 점령한 도시들 중 쓸 만한 신병은 있나?",
+    "panel.p1.extra.2.html": "많진 않습니다. 그리고 감옥에, 그러니까 RAM 창고에 불복종 시민이 많이 쌓여 있습니다.",
+    "panel.p2.extra.1.html": "협조하지 않으면 늘 안타깝지.",
+    "panel.p2.extra.2.html": "장군님! 수감자 #R37이 또 탈출했습니다! 엄청 빠릅니다!",
+    "panel.p3.extra.1.html": "모든 죄수에게 수갑과 족쇄를 채우라고 명령한 줄 알았는데.",
+    "panel.p3.extra.2.html": "그게, 음...",
+    "panel.p4.extra.1.html": "아.",
+    "panel.p4.extra.2.html": "넌 절대 날 가둘 수 없어!"
   }
 }

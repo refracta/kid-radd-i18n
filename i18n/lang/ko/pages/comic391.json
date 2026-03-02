@@ -12,6 +12,13 @@
     "panel.p2.bubble.right.html": "어, \"화면\"이라고?",
     "panel.p3.bubble.right.html": "그래, 게임 밖에선 범위가 좀 애매해. 게다가 들쭉날쭉하지. 잡몹 스프라이트엔 대체로 먹히는데, 영웅들한텐 드물고 보스한텐 거의 안 통해.",
     "panel.p4.bubble.left.html": "즉, 필요 없을 때만 잘 먹힌다는 거네.",
-    "panel.p4.bubble.right.html": "거의 그렇지. 그래도 RPG의 그 \"즉사\" 주문들보단 낫잖아."
+    "panel.p4.bubble.right.html": "거의 그렇지. 그래도 RPG의 그 \"즉사\" 주문들보단 낫잖아.",
+    "panel.p1.extra.1.html": "보아하니 넌 NPC 스프라이트 형태랑 영웅 스프라이트 형태를 마음대로 바꿔 쓸 수 있네.",
+    "panel.p1.extra.2.html": "고맙지만, 그건 이미 알아냈어.",
+    "panel.p2.extra.1.html": "게다가 500발쯤 쏠 때마다 궁극기를 얻는데, 그걸 쓰면 화면의 적이 싹 정리되더라.",
+    "panel.p2.extra.2.html": "어, \"화면\"이라고?",
+    "panel.p3.extra.1.html": "그래, 게임 밖에선 범위가 좀 애매해. 게다가 들쭉날쭉하지. 잡몹 스프라이트엔 대체로 먹히는데, 영웅들한텐 드물고 보스한텐 거의 안 통해.",
+    "panel.p4.extra.1.html": "즉, 필요 없을 때만 잘 먹힌다는 거네.",
+    "panel.p4.extra.2.html": "거의 그렇지. 그래도 RPG의 그 \"즉사\" 주문들보단 낫잖아."
   }
 }

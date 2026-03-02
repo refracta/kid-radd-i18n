@@ -11,6 +11,16 @@
     "panel.p2.bubble.left.html": "어...",
     "panel.p2.bubble.right.html": "뭐야-?",
     "panel.p3.bubble.center.html": "\"네가 여기 있다면, 아마 치트를 썼다는 뜻이겠지. 못됐네, 못됐어!\"",
-    "panel.p4.bubble.center.html": "\"그 사악한 게임 위저드 시스템 중 하나를 쓴 거지?  <b>사악해!</b>\""
+    "panel.p4.bubble.center.html": "\"그 사악한 게임 위저드 시스템 중 하나를 쓴 거지?  <b>사악해!</b>\"",
+    "panel.p1.extra.1.html": "우리 어디야?",
+    "panel.p1.extra.2.html": "게임이 멈춘 거야?",
+    "panel.p2.extra.1.html": "어...",
+    "panel.p2.extra.2.html": "뭐야-?",
+    "panel.p3.extra.1.html": "\"네가 여기 있다면, 아마 치트를 썼다는 뜻이겠지. 못됐네, 못됐어!\"",
+    "panel.p4.extra.1.html": "\"그 사악한 게임 위저드 시스템 중 하나를 쓴 거지?  <b>사악해!</b>\"",
+    "title.extra.1.html": "<b>©199X SIMIAN 소프트웨어<br>시작을 누르세요</b>",
+    "panel.p3.extra.2.html": "<center>귀여운. 제 생각에는 이것이 일종의 부활절 달걀인 것 같아요.</center>",
+    "panel.p4.extra.2.html": "<center>계란에는 몇 가지 문제가 있습니다.</center>",
+    "panel.p4.extra.3.html": "<center>나는 그것을 좋아하는 것 같아요.</center>"
   }
 }

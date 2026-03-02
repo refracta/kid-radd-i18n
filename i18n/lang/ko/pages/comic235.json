@@ -9,6 +9,10 @@
     "panel.p1.narration.1.html": "\"젠장, 아이러니하네! 이제 난 이 녀석을 못 때리고, 목숨 걸고 도망치기만 하잖아!\"",
     "panel.p2.bubble.center.html": "내가 할 수 있는 건 피하는 것뿐 - 아니, 그것도 못 해! 저 탄은 나를 맞출 때까지 안 멈추고, 속도도 나보다 빨라!",
     "panel.p3.bubble.center.html": "시나 말이 맞았어 - 이 <b>건 게임이 아니야!</b>  절대로 이길 수 없는 상황이 있어!",
-    "panel.p4.bubble.center.html": "나 끝났어."
+    "panel.p4.bubble.center.html": "나 끝났어.",
+    "panel.p2.extra.1.html": "내가 할 수 있는 건 피하는 것뿐 - 아니, 그것도 못 해! 저 탄은 나를 맞출 때까지 안 멈추고, 속도도 나보다 빨라!",
+    "panel.p3.extra.1.html": "시나 말이 맞았어 - 이 <b>건 게임이 아니야!</b>  절대로 이길 수 없는 상황이 있어!",
+    "panel.p4.extra.1.html": "나 끝났어.",
+    "panel.p1.extra.1.html": "<center><b>\"젠장, 아이러니하다! 이제 나는 이 놈을 때릴 수도 없고, 목숨을 걸고 달려간다!\"</b></center>"
   }
 }

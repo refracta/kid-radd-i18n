@@ -8,6 +8,14 @@
     "title.main.html": "\"네 생각이 읽혀\"",
     "panel.p2.bubble.center.html": "그리고 넌 당연히 그걸 <i>해야만</i> 했지.  네 예전 복사본이랑 그 폴더의 다른 ROM들까지 죄다 수상하게 실행이 안 되기 시작했잖아, 맞지?",
     "panel.p3.bubble.center.html": "해커가 나라고? 과찬인데, 아니야. 난 그냥 네 서버 근처에 산다고 보면 돼. 바로 그 동네 말이야.",
-    "panel.p4.bubble.center.html": "난 래드야. 나랑 플레이했던 거 기억나? 시나 구하고 뭐 그런 거."
+    "panel.p4.bubble.center.html": "난 래드야. 나랑 플레이했던 거 기억나? 시나 구하고 뭐 그런 거.",
+    "panel.p2.extra.1.html": "그리고 넌 당연히 그걸 <i>해야만</i> 했지.  네 예전 복사본이랑 그 폴더의 다른 ROM들까지 죄다 수상하게 실행이 안 되기 시작했잖아, 맞지?",
+    "panel.p3.extra.1.html": "해커가 나라고? 과찬인데, 아니야. 난 그냥 네 서버 근처에 산다고 보면 돼. 바로 그 동네 말이야.",
+    "panel.p3.extra.2.html": "대체 무슨 소릴 하는 거야?",
+    "panel.p4.extra.1.html": "난 래드야. 나랑 플레이했던 거 기억나? 시나 구하고 뭐 그런 거.",
+    "panel.p1.extra.1.html": "<br><b>래드: </b> 그래서 나는 당신이 얼마 전에 Kid 래드의 새 ROM을 찢었다는 것을 알고 있습니다.",
+    "panel.p1.extra.2.html": "<br><b>깨달음1: </b> 응?...",
+    "panel.p2.extra.2.html": "<center>귀엽네, 해커. 특히 내가 오래된 전화접속 연결을 사용하고 있을 때, 당신이 그것을 어떻게 아는지 전혀 모르겠습니다.</center>",
+    "panel.p4.extra.2.html": "<center>그럼 당신은 정신병자군요 <i>그리고</i> 견과류. 무서운 조합이군요.</center>"
   }
 }

@@ -12,6 +12,14 @@
     "panel.p2.bubble.right.html": "화력이 더 필요했고, 얘들은 희귀하거든요. 직접 공격 가능한 NPC들이라서요.",
     "panel.p4.bubble.left.html": "우릴 단체로 두들겨 팰 수도 있는 무적 놈들을 배에 태워 왔다고?",
     "panel.p4.bubble.center.html": "뭐, 우리가 먼저 건드리면 그렇죠.",
-    "panel.p4.bubble.right.html": "나 건들지 마, 대머리."
+    "panel.p4.bubble.right.html": "나 건들지 마, 대머리.",
+    "panel.p1.extra.1.html": "이 조그만 괴짜들을 누가 이렇게 많이 배에 태웠어?",
+    "panel.p1.extra.2.html": "어... 그건 접니다.",
+    "panel.p2.extra.1.html": "물어봐서 미안한데...<br><b>왜?</b>",
+    "panel.p2.extra.2.html": "화력이 더 필요했고, 얘들은 희귀하거든요. 직접 공격 가능한 NPC들이라서요.",
+    "panel.p4.extra.1.html": "우릴 단체로 두들겨 팰 수도 있는 무적 놈들을 배에 태워 왔다고?",
+    "panel.p4.extra.2.html": "뭐, 우리가 먼저 건드리면 그렇죠.",
+    "panel.p4.extra.3.html": "나 건들지 마, 대머리.",
+    "panel.p3.extra.1.html": "<b>\"저쪽 사람들이 <i>멜바 섬</i> 게임은 상점 주인, 아이템 보유자 등의 역할을 합니다. 그들은 일반적으로 수동적이지만 플레이어가 어리석게도 그들 중 하나를 공격하기로 결정하면 탄도가 됩니다.\"</b>"
   }
 }

@@ -13,6 +13,14 @@
     "panel.p3.bubble.left.html": "메가 래드는 먹혔어?",
     "panel.p3.bubble.right.html": "아니.",
     "panel.p5.bubble.left.html": "아 <b>아파!</b>",
-    "panel.p5.bubble.right.html": "에휴, 무슨 처음 아파보는 것도 아니- ...아, 맞다."
+    "panel.p5.bubble.right.html": "에휴, 무슨 처음 아파보는 것도 아니- ...아, 맞다.",
+    "panel.p1.extra.1.html": "도망쳐야 해!",
+    "panel.p1.extra.2.html": "아직 포기하지 마! 네 화면 전체 쓸어버리는 필살기 같은 거 써!",
+    "panel.p2.extra.1.html": "미안, 그거 쓰려면 먼저 수백 발은 쏴야 해.",
+    "panel.p2.extra.2.html": "<b>그럼 쏴!</b>",
+    "panel.p3.extra.1.html": "메가 래드는 먹혔어?",
+    "panel.p3.extra.2.html": "아니.",
+    "panel.p5.extra.1.html": "아 <b>아파!</b>",
+    "panel.p5.extra.2.html": "에휴, 무슨 처음 아파보는 것도 아니- ...아, 맞다."
   }
 }

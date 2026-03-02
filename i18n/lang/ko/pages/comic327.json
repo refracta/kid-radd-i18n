@@ -11,6 +11,16 @@
     "panel.p3.bubble.center.html": "말도 안 돼! 우리 여기 갇혀 버린다고!",
     "panel.p4.bubble.center.html": "영원히 갇혀서, 눈앞에 섹시한 여자가 있는데도 만지지도 못하고...",
     "panel.p5.bubble.left.html": "<b>으아아아!!!</b>",
-    "panel.p5.bubble.right.html": "<b>내 인생 끝났어!!!!!</b>"
+    "panel.p5.bubble.right.html": "<b>내 인생 끝났어!!!!!</b>",
+    "panel.p1.extra.1.html": "시나, 네 차례야. 아무것도 하지 마.",
+    "panel.p2.extra.1.html": "시나? 무슨 소리야?",
+    "panel.p3.extra.1.html": "말도 안 돼! 우리 여기 갇혀 버린다고!",
+    "panel.p4.extra.1.html": "영원히 갇혀서, 눈앞에 섹시한 여자가 있는데도 만지지도 못하고...",
+    "panel.p5.extra.1.html": "<b>으아아아!!!</b>",
+    "panel.p5.extra.2.html": "<b>내 인생 끝났어!!!!!</b>",
+    "panel.p1.extra.2.html": "<center>예... 어쩌면 \"아무것도\"가 올바른 선택일 수도 있습니다.</center>",
+    "panel.p2.extra.2.html": "<center>어쩌면 나는 절대로 움직이지 말아야 할 것입니다.</center>",
+    "panel.p3.extra.2.html": "<center>너희들이 죽는 걸 보는 것보다 낫다.</center>",
+    "panel.p5.extra.3.html": "<center>왠지 감사의 눈물은 아닌 것 같아요.</center>"
   }
 }

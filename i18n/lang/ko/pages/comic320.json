@@ -11,6 +11,15 @@
     "panel.p2.bubble.left.html": "야, 우리 어떻게 도시 밖으로 나온 거야?",
     "panel.p3.bubble.left.html": "나 여기 박힌 것 같은데. 20보나 떨어져서 대체 어떻게 싸우라는 거야?",
     "panel.p3.bubble.right.html": "그건... 설명하기 어려워. 그냥 받아들여.",
-    "panel.p4.bubble.right.html": "너희 지금 대화하는 거야? 좋아, 이게 스크립트 전투라는 걸 난 <i>진작</i> 알았어!"
+    "panel.p4.bubble.right.html": "너희 지금 대화하는 거야? 좋아, 이게 스크립트 전투라는 걸 난 <i>진작</i> 알았어!",
+    "panel.p1.extra.1.html": "보기! 괜찮아?",
+    "panel.p1.extra.2.html": "그런 것 같아...",
+    "panel.p2.extra.1.html": "야, 우리 어떻게 도시 밖으로 나온 거야?",
+    "panel.p3.extra.1.html": "나 여기 박힌 것 같은데. 20보나 떨어져서 대체 어떻게 싸우라는 거야?",
+    "panel.p3.extra.2.html": "그건... 설명하기 어려워. 그냥 받아들여.",
+    "panel.p4.extra.1.html": "너희 지금 대화하는 거야? 좋아, 이게 스크립트 전투라는 걸 난 <i>진작</i> 알았어!",
+    "panel.p1.extra.3.html": "<center>네, 영웅을 만지면 전투가 시작됩니다.</center>",
+    "panel.p2.extra.2.html": "<center>우리는 그렇지 않았습니다. 전투화면 입니다.</center>",
+    "panel.p4.extra.2.html": "<center>걱정하지 마십시오. 방법을 알아내자마자 엉덩이를 걷어차겠습니다.</center>"
   }
 }

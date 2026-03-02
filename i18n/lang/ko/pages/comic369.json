@@ -10,6 +10,12 @@
     "panel.p2.bubble.left.html": "수가 너무 많아! 한 명 상대로 삼십 명쯤이면 완전 불공평하잖아!",
     "panel.p2.bubble.right.html": "한 명 아니고 두 명. 우리 둘이야.",
     "panel.p4.bubble.left.html": "그래. 삼십 대 이, 내 말이 그거였어...",
-    "panel.p4.bubble.right.html": "아, 좀 닥쳐."
+    "panel.p4.bubble.right.html": "아, 좀 닥쳐.",
+    "panel.p1.extra.1.html": "엉망이야! 숫자도 기동도 전부 내가 밀려! 내가 더 강해도 이건 완전 쓸모가 없잖아!",
+    "panel.p2.extra.1.html": "수가 너무 많아! 한 명 상대로 삼십 명쯤이면 완전 불공평하잖아!",
+    "panel.p2.extra.2.html": "한 명 아니고 두 명. 우리 둘이야.",
+    "panel.p4.extra.1.html": "그래. 삼십 대 이, 내 말이 그거였어...",
+    "panel.p4.extra.2.html": "아, 좀 닥쳐.",
+    "panel.p1.extra.2.html": "<center>물론 그들은 빠르지만, 그들의 대형은 끔찍할 정도로 반복적입니다.</center>"
   }
 }

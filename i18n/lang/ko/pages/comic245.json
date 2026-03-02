@@ -11,6 +11,9 @@
     "panel.p2.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"DF31FF\">이쪽에 수수께끼 하나 있어!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">수수께끼 좋아해!  정말 좋아!</font>",
     "panel.p3.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"DF31FF\">걔가 꼭 우리를 찾아와야 해.  그래야 미래가 덜 지루해지거든!</font><br><font size=\"2\" face=\"arial\" color=\"A531FF\">그래, 걔가 오면 미래의 경로가 크게 바뀔 거야.</font>",
     "panel.p4.bubble.center.html": "<font size=\"2\" face=\"arial\" color=\"DF31FF\">맞아, 너무 크게 바뀌면 우리조차 예측 못 할지도 몰라!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">아, 그거 엄청 재밌겠다!</font>",
-    "panel.p5.bubble.center.html": "안 돼.  그건 <b>답이 될 수 없어</b>..."
+    "panel.p5.bubble.center.html": "안 돼.  그건 <b>답이 될 수 없어</b>...",
+    "panel.p1.extra.1.html": "그날 밤, 시나의 잠은 전혀 평온하지 않습니다.",
+    "panel.p1.extra.2.html": "가... 버려...",
+    "panel.p5.extra.1.html": "안 돼.  그건 <b>답이 될 수 없어</b>..."
   }
 }

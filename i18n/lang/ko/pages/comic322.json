@@ -10,6 +10,14 @@
     "panel.p2.bubble.left.html": "뭐? 우리 <i>차례</i>대로 공격해야 한다고?",
     "panel.p3.bubble.left.html": "웃기지 마, 나 지금 간다!",
     "panel.p4.bubble.left.html": "......",
-    "panel.p4.bubble.right.html": "진짜 멍청한 적이네."
+    "panel.p4.bubble.right.html": "진짜 멍청한 적이네.",
+    "panel.p1.extra.1.html": "좋아, 농담이었어. 이제 \"공격\" 한번 해볼게.",
+    "panel.p2.extra.1.html": "뭐? 우리 <i>차례</i>대로 공격해야 한다고?",
+    "panel.p3.extra.1.html": "웃기지 마, 나 지금 간다!",
+    "panel.p4.extra.1.html": "진짜 멍청한 적이네.",
+    "panel.p1.extra.2.html": "<center>죄송하지만 영웅의 차례가 먼저입니다.</center>",
+    "panel.p2.extra.2.html": "<center>네, 그게 작동하는 방식입니다.</center>",
+    "panel.p3.extra.2.html": "<center>래드, 멍청아...</center>",
+    "panel.p4.extra.2.html": "<center>나한테 말하는 거야?</center>"
   }
 }

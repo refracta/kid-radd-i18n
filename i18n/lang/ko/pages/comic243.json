@@ -8,6 +8,18 @@
     "title.main.html": "\"달리는 중\"",
     "panel.p1.bubble.right.html": "보기랑 어울리는 건 지루해. 앰프가 뭐 하는지 보러 가야지.",
     "panel.p4.bubble.right.html": "기관실? 생각해보니 나도 여긴 처음이네...",
-    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr><td><center><table border=\"0\" cellspacing=\"2\" cellpadding=\"2\">\n<!-- left bubble // -->\n<tbody><tr><td bgcolor=\"ffffff\"><font size=\"2\" face=\"arial\"><center><b>세상에 비트 신이시여!</b></center></font></td>\n<!-- middle bubble // -->\n<td><font size=\"1\" face=\"arial\"><center></center></font></td>\n<!-- right bubble // -->\n<td width=\"10\"><font size=\"2\" face=\"arial\"><center></center></font></td></tr>\n<!-- bubble \"stems\" // -->\n<tr><td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"><b>\\</b></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"black\"></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"></font></center></font></td></tr>\n</tbody></table></center></td></tr>\n<!-- imsert images on this line // -->\n<tr><td width=\"98\" align=\"right\"><img width=\"63\" height=\"96\" src=\"../assets/raddwow2.gif\"></td></tr>\n<!-- insert ground \"tiles\" on this line // -->\n</tbody></table>"
+    "panel.p5.bubble.center.html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr><td><center><table border=\"0\" cellspacing=\"2\" cellpadding=\"2\">\n<!-- left bubble // -->\n<tbody><tr><td bgcolor=\"ffffff\"><font size=\"2\" face=\"arial\"><center><b>세상에 비트 신이시여!</b></center></font></td>\n<!-- middle bubble // -->\n<td><font size=\"1\" face=\"arial\"><center></center></font></td>\n<!-- right bubble // -->\n<td width=\"10\"><font size=\"2\" face=\"arial\"><center></center></font></td></tr>\n<!-- bubble \"stems\" // -->\n<tr><td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"><b>\\</b></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"black\"></font></center></font></td>\n<td><font size=\"2\" face=\"tahoma\"><center><font color=\"white\"></font></center></font></td></tr>\n</tbody></table></center></td></tr>\n<!-- imsert images on this line // -->\n<tr><td width=\"98\" align=\"right\"><img width=\"63\" height=\"96\" src=\"../assets/raddwow2.gif\"></td></tr>\n<!-- insert ground \"tiles\" on this line // -->\n</tbody></table>",
+    "panel.p1.extra.1.html": "보기랑 어울리는 건 지루해. 앰프가 뭐 하는지 보러 가야지.",
+    "panel.p4.extra.1.html": "기관실? 생각해보니 나도 여긴 처음이네...",
+    "panel.p2.bubble.left.html": "Dr. Amp은 어디 있나요?",
+    "panel.p2.bubble.right.html": "내 생각엔 그 사람이 자기 연구실에서 총이나 뭔가를 더 만들고 있는 것 같아요.",
+    "panel.p2.extra.1.html": "<center>Dr. Amp은 어디 있나요?</center>",
+    "panel.p2.extra.2.html": "<center>내 생각엔 그 사람이 자기 연구실에서 총이나 뭔가를 더 만들고 있는 것 같아요.</center>",
+    "panel.p3.bubble.left.html": "다시는 안돼! 그 마지막 것은 나를 거의 죽일 뻔했습니다! 그의 연구실은 어디에 있나요?",
+    "panel.p3.bubble.right.html": "아, 복도 끝에 있는 기관실을 통과해야 해요.",
+    "panel.p3.extra.1.html": "<center>다시는 안돼! 그 마지막 것은 나를 거의 죽일 뻔했습니다! 그의 연구실은 어디에 있나요?</center>",
+    "panel.p3.extra.2.html": "<center>아, 복도 끝에 있는 기관실을 통과해야 해요.</center>",
+    "panel.p5.bubble.left.html": "<b>이런!</b>",
+    "panel.p5.extra.1.html": "<center><b>이런!</b></center>"
   }
 }

@@ -10,6 +10,13 @@
     "panel.p1.bubble.center.html": "<b>\"움직이는 건 뭐든 꼬리 꽂기\"</b>",
     "panel.p2.bubble.center.html": "<b>\"5인 배드민턴\"</b>",
     "panel.p3.bubble.center.html": "<b>\"뮤지컬 곰덫\"</b>",
-    "panel.p4.bubble.center.html": "<b>\"노골적 방화광\"</b>"
+    "panel.p4.bubble.center.html": "<b>\"노골적 방화광\"</b>",
+    "panel.p1.extra.1.html": "NPC 파티 게임! 함께 즐겨 보세요!",
+    "panel.p1.extra.2.html": "<b>\"움직이는 건 뭐든 꼬리 꽂기\"</b>",
+    "panel.p2.extra.1.html": "<b>\"5인 배드민턴\"</b>",
+    "panel.p3.extra.1.html": "<b>\"뮤지컬 곰덫\"</b>",
+    "panel.p4.extra.1.html": "<b>\"노골적 방화광\"</b>",
+    "panel.p4.extra.2.html": "<b>아아아아!!!!!</b>",
+    "panel.p4.extra.3.html": "아시죠, 이건 <br><b>~이다</b> 좀 재미있어요."
   }
 }

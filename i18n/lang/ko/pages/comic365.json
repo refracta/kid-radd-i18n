@@ -14,6 +14,15 @@
     "panel.p4.bubble.right.html": "\"아 맞다. 나도 포격당하는 중이니 짧게 갈게. 내 지시를 따라!\"",
     "panel.p6.bubble.left.html": "\"뭐 좀 일어났어?\"",
     "panel.p6.bubble.center.html": "뇌진탕도 성과로 쳐주나?",
-    "panel.p6.bubble.right.html": "우린 끝났어."
+    "panel.p6.bubble.right.html": "우린 끝났어.",
+    "panel.p1.extra.1.html": "닥터 앰프, 우리 여기서 꺼내줄 수 있어요?",
+    "panel.p1.extra.2.html": "\"내가 직접은 못 해. 하지만 너희 스스로 빠져나올 수는 있을지도 몰라.\"",
+    "panel.p2.extra.1.html": "듣고 있어.",
+    "panel.p2.extra.2.html": "\"네 코드 기록을 살펴보다가 도움이 될 만한 미사용 서브루틴을 발견했어...\"",
+    "panel.p4.extra.1.html": "끼어들긴 싫은데, 여기 시간 없다는 거 기억하지?",
+    "panel.p4.extra.2.html": "\"아 맞다. 나도 포격당하는 중이니 짧게 갈게. 내 지시를 따라!\"",
+    "panel.p6.extra.1.html": "\"뭐 좀 일어났어?\"",
+    "panel.p6.extra.2.html": "뇌진탕도 성과로 쳐주나?",
+    "panel.p6.extra.3.html": "우린 끝났어."
   }
 }

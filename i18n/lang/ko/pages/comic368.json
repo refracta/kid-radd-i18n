@@ -14,6 +14,15 @@
     "panel.p4.bubble.left.html": "\"모험 없인 얻는 것도 없어.\"",
     "panel.p4.bubble.right.html": "끝내준다! 해냈어!",
     "panel.p5.bubble.left.html": "\"불구덩이에서 빠져나와 또 불구덩이로 들어왔네.\"",
-    "panel.p5.bubble.right.html": "오늘은 클리셰 폭탄이네, 그치?"
+    "panel.p5.bubble.right.html": "오늘은 클리셰 폭탄이네, 그치?",
+    "panel.p1.extra.1.html": "뭐, 다들 그러잖아. \"타이밍이 전부다.\"",
+    "panel.p1.extra.2.html": "당연하지.",
+    "panel.p2.extra.1.html": "\"지금만 한 때는 없지.\"",
+    "panel.p2.extra.2.html": "그리고... <b>지금!</b>",
+    "panel.p3.extra.1.html": "\"정말 간신히 살았네.\"",
+    "panel.p4.extra.1.html": "\"모험 없인 얻는 것도 없어.\"",
+    "panel.p4.extra.2.html": "끝내준다! 해냈어!",
+    "panel.p5.extra.1.html": "\"불구덩이에서 빠져나와 또 불구덩이로 들어왔네.\"",
+    "panel.p5.extra.2.html": "오늘은 클리셰 폭탄이네, 그치?"
   }
 }

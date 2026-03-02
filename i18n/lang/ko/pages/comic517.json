@@ -5,6 +5,11 @@
     "fallback": "en"
   },
   "strings": {
-    "title.main.html": "\"내가 좋아하는 것\""
+    "title.main.html": "\"내가 좋아하는 것\"",
+    "panel.p1.extra.1.html": "<b>\"미안해요, 래드. 당신이 내 생각에 동의하지 않을 거라는 건 알지만, 이건 우주의 이익을 위한 일이에요.\"</b>",
+    "panel.p2.extra.1.html": "<b>\"어쨌든, 친구. 너도 '좋은' 것을 좀 갖고 있는 게 어때?\"</b>",
+    "panel.p2.extra.2.html": "Pixelly slo-mo는 정말 어렵습니다.",
+    "panel.p3.extra.1.html": "<b>\"지금 <i>그건</i> 내가 말하는 싸움의 종류! 계속 와!\"</b>",
+    "panel.p3.extra.2.html": "<b>\"이 사람이랑 무슨 상관이에요?\"</b>"
   }
 }

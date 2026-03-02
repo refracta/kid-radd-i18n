@@ -14,6 +14,15 @@
     "panel.p3.bubble.right.html": "또 모집 실패겠지. 일단 안으로 들여보내자.",
     "panel.p4.bubble.left.html": "어, 일이 잘 안 풀렸어...",
     "panel.p4.bubble.center.html": "야, 드디어 뭐라도 하나 들고 왔네!",
-    "panel.p4.bubble.right.html": "색상 테마 바뀐 건 마음에 드네."
+    "panel.p4.bubble.right.html": "색상 테마 바뀐 건 마음에 드네.",
+    "panel.p1.extra.1.html": "여기 게임이 이렇게 많은데... 우린 아직도 막무가내로 들어가고 있어.",
+    "panel.p1.extra.2.html": "뭐, 전부 <i>다</i> 게임은 아니지만, 뭐 그렇지.",
+    "panel.p2.extra.1.html": "게임이 아니라고?",
+    "panel.p2.extra.2.html": "몇 개는 인간들 이상한 언어가 적힌 수수께끼 \"txt\" 파일이야. 우리한텐 거의 쓸모없지.",
+    "panel.p3.extra.1.html": "어 봐, 벌써 하차 지점으로 돌아왔네. 이렇게 빨리 끝났어?",
+    "panel.p3.extra.2.html": "또 모집 실패겠지. 일단 안으로 들여보내자.",
+    "panel.p4.extra.1.html": "어, 일이 잘 안 풀렸어...",
+    "panel.p4.extra.2.html": "야, 드디어 뭐라도 하나 들고 왔네!",
+    "panel.p4.extra.3.html": "색상 테마 바뀐 건 마음에 드네."
   }
 }

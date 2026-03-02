@@ -8,6 +8,10 @@
     "title.main.html": "\"뜻밖의 조우\"",
     "panel.p1.bubble.right.html": "잠깐만 보기, 시나한테 작업 거는 건 아니지?",
     "panel.p3.bubble.left.html": "<b>너!!!</b>",
-    "panel.p3.bubble.right.html": "또 이걸 <i>다시</i> 해야 한다고..."
+    "panel.p3.bubble.right.html": "또 이걸 <i>다시</i> 해야 한다고...",
+    "panel.p1.extra.1.html": "잠깐만 보기, 시나한테 작업 거는 건 아니지?",
+    "panel.p3.extra.1.html": "<b>너!!!</b>",
+    "panel.p3.extra.2.html": "또 이걸 <i>다시</i> 해야 한다고...",
+    "panel.p2.extra.1.html": "<center>Itty Bitty는 바닥이 깨끗하고 매끄러운지 확인합니다.</center>"
   }
 }

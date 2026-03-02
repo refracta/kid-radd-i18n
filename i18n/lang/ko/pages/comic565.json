@@ -11,6 +11,12 @@
     "panel.p2.bubble.left.html": "그 말은...",
     "panel.p2.bubble.right.html": "...네 차지 공격은 쓸모없다는 뜻이야. 미안.",
     "panel.p3.bubble.left.html": "그럼 시작해볼까?  네가 쏴야 할 탄이 <i>엄청</i> 많거든...",
-    "panel.p3.bubble.right.html": "<b>비트!!!</b>"
+    "panel.p3.bubble.right.html": "<b>비트!!!</b>",
+    "panel.p1.extra.1.html": "네가 아직도 서 있을 리 <i>없어!</i>",
+    "panel.p1.extra.2.html": "보스 캐릭터 HP에다가 옛날 플랫포머 판정이 합쳐지면, 9999번 따로 맞아야 하지. 끝내주지?",
+    "panel.p2.extra.1.html": "그 말은...",
+    "panel.p2.extra.2.html": "...네 차지 공격은 쓸모없다는 뜻이야. 미안.",
+    "panel.p3.extra.1.html": "그럼 시작해볼까?  네가 쏴야 할 탄이 <i>엄청</i> 많거든...",
+    "panel.p3.extra.2.html": "<b>비트!!!</b>"
   }
 }

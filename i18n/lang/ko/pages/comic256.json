@@ -11,6 +11,16 @@
     "panel.p2.bubble.center.html": "<b>나를 찾아왔다 죽은 자들이 있긴 했지만, 언제나 스스로의 선택 때문이었다.  나는 그저 질문자에게 목표를 이루는 방법을 알려줄 뿐이다.</b>",
     "panel.p4.bubble.left.html": "<b>그리고 이제 마지막 질문의 시간이다.</b>",
     "panel.p4.bubble.right.html": "마지막 질문?",
-    "panel.p5.bubble.center.html": "<b>방문자당 질문 하나다.  알고 있을 줄 알았다.</b>"
+    "panel.p5.bubble.center.html": "<b>방문자당 질문 하나다.  알고 있을 줄 알았다.</b>",
+    "panel.p1.extra.1.html": "우리가 널 찾아와서 저주받는 건 아니겠지?",
+    "panel.p1.extra.2.html": "<b>정확히는 아니다, 작은 존재여.</b>",
+    "panel.p2.extra.1.html": "<b>나를 찾아왔다 죽은 자들이 있긴 했지만, 언제나 스스로의 선택 때문이었다.  나는 그저 질문자에게 목표를 이루는 방법을 알려줄 뿐이다.</b>",
+    "panel.p4.extra.1.html": "<b>그리고 이제 마지막 질문의 시간이다.</b>",
+    "panel.p4.extra.2.html": "마지막 질문?",
+    "panel.p5.extra.1.html": "<b>방문자당 질문 하나다.  알고 있을 줄 알았다.</b>",
+    "panel.p5.extra.2.html": "어이쿠.",
+    "panel.p3.extra.1.html": "<b>어떤 사람들은 목표를 달성하는 데 필요한 일을 할 수 없어 죽어가고 있습니다. 이러한 목표 중 상당수는 매우 욕심이 많으므로 결과는 거의... KARMIC입니다.</b>",
+    "panel.p5.extra.3.html": "<center>내 질문을 낭비했나요?</center>",
+    "panel.p5.extra.4.html": "<center>조금.</center>"
   }
 }

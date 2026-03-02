@@ -11,6 +11,14 @@
     "panel.p1.bubble.right.html": "...예언자의 영역?",
     "panel.p2.bubble.left.html": "<b>환영한다!</b>",
     "panel.p2.bubble.right.html": "<b>환영한다!</b>",
-    "panel.p4.bubble.center.html": "<b>나는 너희를 환영한다.</b>"
+    "panel.p4.bubble.center.html": "<b>나는 너희를 환영한다.</b>",
+    "panel.p1.extra.1.html": "<b>방금</b> 뭐가 일어난 거야?",
+    "panel.p1.extra.2.html": "아 젠장, 여기 혹시...",
+    "panel.p1.extra.3.html": "...예언자의 영역?",
+    "panel.p2.extra.1.html": "<b>환영한다!</b>",
+    "panel.p2.extra.2.html": "<b>환영한다!</b>",
+    "panel.p4.extra.1.html": "<b>나는 너희를 환영한다.</b>",
+    "panel.p4.extra.2.html": "우와...",
+    "panel.p2.extra.3.html": "<center><b>우리는 당신을 환영합니다!</b></center>"
   }
 }

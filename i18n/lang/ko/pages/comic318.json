@@ -14,6 +14,15 @@
     "panel.p3.bubble.center.html": "이 게임의 괴물은 다 봤다고 생각했는데, 넌 처음 보네. 즉 엄청 희귀하다는 뜻이고... EXP도 수천은 주겠지!",
     "panel.p4.bubble.left.html": "EXP가 대체 뭐야?",
     "panel.p4.bubble.center.html": "OMG나 BRB 같은 인간 단어 중 하나인 것 같아.",
-    "panel.p4.bubble.right.html": "흠, <i>너희</i>도 처음 보는데..."
+    "panel.p4.bubble.right.html": "흠, <i>너희</i>도 처음 보는데...",
+    "panel.p1.extra.1.html": "당신이 이 게임의 용사야?",
+    "panel.p1.extra.2.html": "물러서세요, 아름다운 아가씨! 저 괴물에게서 구해드리겠습니다!",
+    "panel.p2.extra.1.html": "<i>보기</i>를 말하는 거야?",
+    "panel.p2.extra.2.html": "나 괴물 아니거든! 뭐, 완전히 아니진 않지만...",
+    "panel.p2.extra.3.html": "닥쳐라, 짐승!",
+    "panel.p3.extra.1.html": "이 게임의 괴물은 다 봤다고 생각했는데, 넌 처음 보네. 즉 엄청 희귀하다는 뜻이고... EXP도 수천은 주겠지!",
+    "panel.p4.extra.1.html": "EXP가 대체 뭐야?",
+    "panel.p4.extra.2.html": "OMG나 BRB 같은 인간 단어 중 하나인 것 같아.",
+    "panel.p4.extra.3.html": "흠, <i>너희</i>도 처음 보는데..."
   }
 }

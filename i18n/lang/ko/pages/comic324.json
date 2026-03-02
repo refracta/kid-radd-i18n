@@ -12,6 +12,16 @@
     "panel.p4.bubble.left.html": "아, HP? 생명 게이지 같은 거지? 그럼 저 녀석 HP는 얼마나 남았어?",
     "panel.p4.bubble.right.html": "273.",
     "panel.p5.bubble.left.html": "<b>뭐라고???</b>",
-    "panel.p5.bubble.right.html": "저건 생명 게이지가 아니라 우리 사망진단서야."
+    "panel.p5.bubble.right.html": "저건 생명 게이지가 아니라 우리 사망진단서야.",
+    "panel.p1.extra.1.html": "가, 보기!",
+    "panel.p2.extra.1.html": "이상해! 나 방금 텔레포트한 거야?",
+    "panel.p3.extra.1.html": "저 작은 \"1\"은 무슨 뜻이지?",
+    "panel.p4.extra.1.html": "아, HP? 생명 게이지 같은 거지? 그럼 저 녀석 HP는 얼마나 남았어?",
+    "panel.p4.extra.2.html": "273.",
+    "panel.p5.extra.1.html": "<b>뭐라고???</b>",
+    "panel.p5.extra.2.html": "저건 생명 게이지가 아니라 우리 사망진단서야.",
+    "panel.p2.extra.2.html": "<center>정확히는 아닙니다. 다시 말하지만, 설명하기가 어렵습니다.</center>",
+    "panel.p3.extra.2.html": "<center>그만큼 HP를 제거한 셈이다.</center>",
+    "panel.p5.extra.3.html": "<center>아, 그게 진짜 가능성이군요...</center>"
   }
 }
