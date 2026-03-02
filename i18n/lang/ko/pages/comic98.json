@@ -13,7 +13,7 @@
     "panel.p3.bubble.right.html": "젠장! 순전히 운 나쁘게 저 불쌍한 스프라이트들이 죽어버렸네. 아까운 인력...",
     "panel.p4.bubble.left.html": "잠깐... 저거 같은 스프라이트 하나 또 나온 거 아냐?",
     "panel.p4.bubble.center.html": "몰라, 나한텐 다 똑같이 보여.",
-    "panel.p4.bubble.right.html": "게임해!<br><br><img width=\"24\" height=\"24\" src=\"../assets/pred1.gif\">",
+    "panel.p4.bubble.right.html": "플레이해!<br><br><img width=\"24\" height=\"24\" src=\"../assets/pred1.gif\">",
     "panel.p1.extra.1.html": "그래서 우린 뭐 하면 돼?",
     "panel.p1.extra.2.html": "음, 우선은 우리가 -",
     "panel.p2.extra.1.html": "<b>조심해!!!</b>",
@@ -21,6 +21,6 @@
     "panel.p3.extra.1.html": "젠장! 순전히 운 나쁘게 저 불쌍한 스프라이트들이 죽어버렸네. 아까운 인력...",
     "panel.p4.extra.1.html": "잠깐... 저거 같은 스프라이트 하나 또 나온 거 아냐?",
     "panel.p4.extra.2.html": "몰라, 나한텐 다 똑같이 보여.",
-    "panel.p4.extra.3.html": "게임해!<br><br><img width=\"24\" height=\"24\" src=\"../assets/pred1.gif\">"
+    "panel.p4.extra.3.html": "플레이해!<br><br><img width=\"24\" height=\"24\" src=\"../assets/pred1.gif\">"
   }
 }
