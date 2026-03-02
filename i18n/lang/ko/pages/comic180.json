@@ -8,13 +8,13 @@
     "title.main.html": "\"들려오는 목소리\"",
     "panel.p1.bubble.center.html": "끝났어. 사직서는 다 썼어.",
     "panel.p2.bubble.left.html": "이제 제출만 하면 돼. 이해해줬으면 좋겠다. 난 이걸 해야 해.",
-    "panel.p3.bubble.right.html": "<font size=\"2\" face=\"arial\" color=\"white\">...위험하긴 해도, 그래도 정말... </font><font size=\"1\" face=\"arial\" color=\"white\">이 래드라는 녀석을 <u>죽여야</u> 하나요?</font>",
+    "panel.p3.bubble.right.html": "<font size=\"2\" face=\"arial\" color=\"white\">...위험하긴 해도, 그래도 정말... </font><font size=\"1\" face=\"arial\" color=\"white\">이 래드라는 녀석을 <u>죽여야</u> 해?</font>",
     "panel.p4.bubble.left.html": "저 말을 들은 걸 <b>진심으로</b> 후회하게 생겼네.",
-    "panel.p4.bubble.right.html": "속삭일 필요 없습니다, 각하. 이 방은 방음입니다.",
+    "panel.p4.bubble.right.html": "속삭일 필요 없어요, 캡틴. 이 방은 방음이에요.",
     "panel.p1.extra.1.html": "끝났어. 사직서는 다 썼어.",
     "panel.p2.extra.1.html": "이제 제출만 하면 돼. 이해해줬으면 좋겠다. 난 이걸 해야 해.",
     "panel.p4.extra.1.html": "저 말을 들은 걸 <b>진심으로</b> 후회하게 생겼네.",
-    "panel.p4.extra.2.html": "속삭일 필요 없습니다, 각하. 이 방은 방음입니다.",
+    "panel.p4.extra.2.html": "속삭일 필요 없어요, 캡틴. 이 방은 방음이에요.",
     "panel.p2.extra.2.html": "순환 애니메이션의 기적."
   }
 }

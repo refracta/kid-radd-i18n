@@ -22,7 +22,7 @@
     "panel.p4.extra.2.html": "꼬마야, 출구는 베니 뒤쪽 하나뿐이야.",
     "panel.p5.extra.1.html": "<b>우리 죽는다!!!</b>",
     "panel.p5.extra.2.html": "뭐, 당연하지.",
-    "panel.p1.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>남은 수명: 1</b></font></center>",
-    "panel.p1.extra.2.html": "<b>남은 수명: 1</b>"
+    "panel.p1.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>남은 목숨: 1</b></font></center>",
+    "panel.p1.extra.2.html": "<b>남은 목숨: 1</b>"
   }
 }
