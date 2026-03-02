@@ -7,7 +7,7 @@
   "strings": {
     "title.main.html": "\"말은 하긴 하는데\"",
     "panel.p1.bubble.center.html": "이번 인간들은 좀 더 명확하겠지.",
-    "panel.p1.chat.1.html": "시스템: <i>hikarusan님이 입장했습니다...</i>",
+    "panel.p1.chat.1.html": "<i>hikarusan님이 입장했습니다...</i>",
     "panel.p1.chat.2.html": "크릴린: 곤니치와, 친구",
     "panel.p2.bubble.center.html": "여기엔 말이 없어. 진짜로.",
     "panel.p2.chat.1.html": "히카루상: 아, 더빙판러네.",
