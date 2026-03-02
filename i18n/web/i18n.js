@@ -13,6 +13,7 @@
 	var TRIGGER_ID = 'kr-i18n-trigger';
 	var TRANSLATED_ATTR = 'data-kr-i18n-translated';
 	var FONT_APPLIED_ATTR = 'data-kr-i18n-font-applied';
+	var CHAT_TARGET_ATTR = 'data-kr-i18n-chat-target';
 	var BUBBLE_SLOTS = ['left', 'center', 'right'];
 	var DEDICATED_KO_PAGES = {
 		'index.htm': true,
@@ -1786,6 +1787,11 @@
 			return $();
 		}
 
+		var $markedTargets = $panel.find('font[' + CHAT_TARGET_ATTR + '="1"]');
+		if($markedTargets.length) {
+			return $markedTargets;
+		}
+
 		var $bubbleTable = findBubbleTable($panel);
 		if(!$bubbleTable.length) {
 			return $();
@@ -1817,6 +1823,7 @@
 
 	function applyPanelChatStrings(panelName, normalizedStrings) {
 		var $chatTargets = getPanelChatTargets(panelName);
+		$chatTargets.attr(CHAT_TARGET_ATTR, '1');
 		for(var chatIndex = 0; chatIndex < $chatTargets.length; chatIndex++) {
 			var chatKey = 'panel.' + panelName + '.chat.' + (chatIndex + 1);
 			var $target = $chatTargets.eq(chatIndex);
