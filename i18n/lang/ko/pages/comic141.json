@@ -15,7 +15,7 @@
     "panel.p3.extra.1.html": "<b>좋았어!</b> 보스가 플레이어를 죽였어! 드디어 끝났어!",
     "panel.p5.extra.1.html": "<b>젠장!!!</b>",
     "panel.p2.extra.1.html": " <b>보스: 둠 치카</b>",
-    "panel.p4.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>남은 수명: 2</b></font></center>",
-    "panel.p4.extra.2.html": "<b>남은 수명: 2</b>"
+    "panel.p4.extra.1.html": "<center><font face=\"Comic Sans MS, verdana\" size=\"2\" color=\"white\"><b>남은 목숨: 2</b></font></center>",
+    "panel.p4.extra.2.html": "<b>남은 목숨: 2</b>"
   }
 }
